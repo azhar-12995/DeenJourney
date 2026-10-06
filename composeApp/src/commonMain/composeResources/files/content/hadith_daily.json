@@ -1,0 +1,1922 @@
+[
+ {
+  "id": "bukhari-1",
+  "collection": "bukhari",
+  "number": 1,
+  "book": {
+   "en": "Sahih al-Bukhari 1",
+   "ur": "صحیح بخاری 1",
+   "ar": "صحيح البخاري 1"
+  },
+  "arabic": "…سَمِعْتُ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ، يَقُولُ : \" إِنَّمَا الْأَعْمَالُ بِالنِّيَّاتِ، وَإِنَّمَا لِكُلِّ امْرِئٍ مَا نَوَى، فَمَنْ كَانَتْ هِجْرَتُهُ إِلَى دُنْيَا يُصِيبُهَا أَوْ إِلَى امْرَأَةٍ يَنْكِحُهَا، فَهِجْرَتُهُ إِلَى مَا هَاجَرَ إِلَيْهِ \"",
+  "en": "Narrated 'Umar bin Al-Khattab: I heard Allah's Messenger (ﷺ) saying, \"The reward of deeds depends upon the intentions and every person will get the reward according to what he has intended. So whoever emigrated for worldly benefits or for a woman to marry, his emigration was for what he emigrated for.\"",
+  "ur": "…میں نے جناب رسول اللہ صلی اللہ علیہ وسلم سے سنا آپ صلی اللہ علیہ وسلم فرما رہے تھے کہ تمام اعمال کا دارومدار نیت پر ہے اور ہر عمل کا نتیجہ ہر انسان کو اس کی نیت کے مطابق ہی ملے گا۔ پس جس کی ہجرت ( ترک وطن ) دولت دنیا حاصل کرنے کے لیے ہو یا کسی عورت سے شادی کی غرض ہو۔ پس اس کی ہجرت ان ہی چیزوں کے لیے ہو گی جن کے حاصل کرنے کی نیت سے اس نے ہجرت کی ہے۔",
+  "narrator": {
+   "en": "Umar ibn al-Khattab (RA)",
+   "ur": "حضرت عمر بن خطاب رضی اللہ عنہ",
+   "ar": "عمر بن الخطاب رضي الله عنه"
+  },
+  "grade": "Sahih",
+  "short": {
+   "en": "Deeds are judged by intentions",
+   "ur": "اعمال کا دارومدار نیتوں پر ہے",
+   "ar": "إنما الأعمال بالنيات"
+  },
+  "explanation": {
+   "en": "Scholars count this hadith among the foundations of the religion, because every act is weighed by the intention behind it. Even ordinary acts such as eating, working or studying can become worship when done to please Allah. Before starting something today, pause for a moment and renew your intention.",
+   "ur": "علماء اس حدیث کو دین کی بنیادی احادیث میں شمار کرتے ہیں، کیونکہ ہر عمل کو اس کے پیچھے موجود نیت سے تولا جاتا ہے۔ کھانا، کام اور پڑھائی جیسے عام کام بھی اللہ کی رضا کی نیت سے عبادت بن جاتے ہیں۔ آج کوئی کام شروع کرنے سے پہلے ایک لمحہ رک کر اپنی نیت درست کر لیجیے۔",
+   "ar": "يعدّ العلماء هذا الحديث من أصول الدين، فكل عمل يوزن بالنية التي وراءه. وحتى الأعمال العادية كالأكل والعمل والدراسة تصير عبادة إذا قُصد بها وجه الله. قبل أن تبدأ عملك اليوم توقف لحظة وجدّد نيتك."
+  },
+  "topic": "intention",
+  "review": true,
+  "notes": "hadith-api edition number bukhari/1 (arabicnumber 1); sunnah.com reference Sahih al-Bukhari 1. Grade source: Sahih (in Sahih al-Bukhari/Sahih Muslim). urd-bukhari/1 is missing its first word in the isnad; the Urdu here starts at the matn so it is unaffected."
+ },
+ {
+  "id": "tirmidhi-1924",
+  "collection": "tirmidhi",
+  "number": 1924,
+  "book": {
+   "en": "Jami` at-Tirmidhi 1924",
+   "ur": "جامع ترمذی 1924",
+   "ar": "جامع الترمذي 1924"
+  },
+  "arabic": "…عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم \" الرَّاحِمُونَ يَرْحَمُهُمُ الرَّحْمَنُ ارْحَمُوا مَنْ فِي الأَرْضِ يَرْحَمْكُمْ مَنْ فِي السَّمَاءِ الرَّحِمُ شُجْنَةٌ مِنَ الرَّحْمَنِ فَمَنْ وَصَلَهَا وَصَلَهُ اللَّهُ وَمَنْ قَطَعَهَا قَطَعَهُ اللَّهُ \"",
+  "en": "Abdullah bin 'Amr narrated that the Messenger of Allah said:\"The merciful are shown mercy by Ar-Rahman. Be merciful on the earth, and you will be shown mercy from Who is above the heavens. The womb is named after Ar-Rahman, so whoever connects it, Allah connects him, and whoever severs it, Allah severs him.\"",
+  "ur": "عبداللہ بن عمرو رضی الله عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”رحم کرنے والوں پر رحمن رحم کرتا ہے، تم لوگ زمین والوں پر رحم کرو تم پر آسمان والا رحم کرے گا، رحم رحمن سے مشتق ( نکلا ) ہے، جس نے اس کو جوڑا اللہ اس کو ( اپنی رحمت سے ) جوڑے گا اور جس نے اس کو توڑا اللہ اس کو اپنی رحمت سے کاٹ دے گا“",
+  "narrator": {
+   "en": "Abdullah ibn Amr (RA)",
+   "ur": "حضرت عبداللہ بن عمرو رضی اللہ عنہما",
+   "ar": "عبد الله بن عمرو رضي الله عنهما"
+  },
+  "grade": "Sahih",
+  "short": {
+   "en": "Show mercy and you will be shown mercy",
+   "ur": "رحم کرو، تم پر رحم کیا جائے گا",
+   "ar": "ارحموا من في الأرض يرحمكم من في السماء"
+  },
+  "explanation": {
+   "en": "Mercy is a quality Allah loves, and He promises mercy to those who show it to others. The hadith also links mercy to keeping family ties, since the word for kinship (rahim) is connected to Allah's name Ar-Rahman. Be gentle with people, animals and relatives, and hope for Allah's mercy in return.",
+   "ur": "رحم وہ صفت ہے جو اللہ تعالیٰ کو پسند ہے، اور وہ رحم کرنے والوں پر رحم فرماتا ہے۔ اس حدیث میں صلہ رحمی کا بھی ذکر ہے، کیونکہ لفظ 'رحم' اللہ کے نام 'الرحمٰن' سے جڑا ہوا ہے۔ لوگوں، جانوروں اور رشتہ داروں کے ساتھ نرمی کیجیے اور بدلے میں اللہ کی رحمت کی امید رکھیے۔",
+   "ar": "الرحمة صفة يحبها الله، وقد وعد بها من يرحم غيره. ويربط الحديث بين الرحمة وصلة الرحم، إذ إن الرحم مشتقة من اسم الله الرحمن. فكن رحيمًا بالناس والحيوان والأقارب، وارجُ رحمة الله."
+  },
+  "topic": "mercy",
+  "review": true,
+  "notes": "hadith-api edition number tirmidhi/1924 (arabicnumber 1924); sunnah.com reference Jami` at-Tirmidhi 1924. Grade source: Ahmad Muhammad Shakir: Sahih; Al-Albani: Sahih; Bashar Awad Maarouf: Hasan Sahih; Zubair Ali Zai: Isnaad Hasan."
+ },
+ {
+  "id": "tirmidhi-1956",
+  "collection": "tirmidhi",
+  "number": 1956,
+  "book": {
+   "en": "Jami` at-Tirmidhi 1956",
+   "ur": "جامع ترمذی 1956",
+   "ar": "جامع الترمذي 1956"
+  },
+  "arabic": "…عَنْ أَبِي ذَرٍّ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم \" تَبَسُّمُكَ فِي وَجْهِ أَخِيكَ لَكَ صَدَقَةٌ وَأَمْرُكَ بِالْمَعْرُوفِ وَنَهْيُكَ عَنِ الْمُنْكَرِ صَدَقَةٌ وَإِرْشَادُكَ الرَّجُلَ فِي أَرْضِ الضَّلاَلِ لَكَ صَدَقَةٌ وَبَصَرُكَ لِلرَّجُلِ الرَّدِيءِ الْبَصَرِ لَكَ صَدَقَةٌ وَإِمَاطَتُكَ الْحَجَرَ وَالشَّوْكَةَ وَالْعَظْمَ عَنِ الطَّرِيقِ لَكَ صَدَقَةٌ وَإِفْرَاغُكَ مِنْ دَلْوِكَ فِي دَلْوِ أَخِيكَ لَكَ صَدَقَةٌ \"",
+  "en": "Abu Dharr narrated that the Messenger of Allah said :\"Your smiling in the face of your brother is charity, commanding good and forbidding evil is charity, your giving directions to a man lost in the land is charity for you. Your seeing for a man with bad sight is a charity for you, your removal of a rock, a thorn or a bone from the road is charity for you. Your pouring what remains from your bucket into the bucket of your brother is charity for you.\"",
+  "ur": "ابوذر رضی الله عنہ کہتے ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”اپنے بھائی کے سامنے تمہارا مسکرانا تمہارے لیے صدقہ ہے، تمہارا بھلائی کا حکم دینا اور برائی سے روکنا صدقہ ہے، بھٹک جانے والی جگہ میں کسی آدمی کو تمہارا راستہ دکھانا تمہارے لیے صدقہ ہے، نابینا اور کم دیکھنے والے آدمی کو راستہ دکھانا تمہارے لیے صدقہ ہے، پتھر، کانٹا اور ہڈی کو راستے سے ہٹانا تمہارے لیے صدقہ ہے، اپنے ڈول سے اپنے بھائی کے ڈول میں تمہارا پانی ڈالنا تمہارے لیے صدقہ ہے“",
+  "narrator": {
+   "en": "Abu Dharr (RA)",
+   "ur": "حضرت ابوذر رضی اللہ عنہ",
+   "ar": "أبو ذر رضي الله عنه"
+  },
+  "grade": "Sahih",
+  "short": {
+   "en": "Your smile for your brother is charity",
+   "ur": "بھائی کے سامنے مسکرانا صدقہ ہے",
+   "ar": "تبسمك في وجه أخيك لك صدقة"
+  },
+  "explanation": {
+   "en": "Charity is not only money: a smile, good advice, guiding someone who is lost and helping a person with weak sight all count. Removing a stone or a thorn from the road is rewarded too. These small acts are within everyone's reach, every day.",
+   "ur": "صدقہ صرف مال کا نام نہیں: مسکراہٹ، بھلائی کی تلقین، بھٹکے ہوئے کو راستہ دکھانا اور کمزور نظر والے کی مدد کرنا بھی صدقہ ہے۔ راستے سے پتھر یا کانٹا ہٹانا بھی اجر کا کام ہے۔ یہ چھوٹی نیکیاں ہر شخص ہر روز کر سکتا ہے۔",
+   "ar": "الصدقة ليست بالمال وحده؛ فالابتسامة والأمر بالمعروف وإرشاد الضال ومساعدة ضعيف البصر كلها صدقة. وإماطة الحجر والشوك عن الطريق صدقة كذلك. وهذه أعمال صغيرة يقدر عليها كل أحد في كل يوم."
+  },
+  "topic": "smiling",
+  "review": true,
+  "notes": "hadith-api edition number tirmidhi/1956 (arabicnumber 1956); sunnah.com reference Jami` at-Tirmidhi 1956. Grade source: Ahmad Muhammad Shakir: Sahih; Al-Albani: Sahih; Zubair Ali Zai: Isnaad Hasan."
+ },
+ {
+  "id": "bukhari-6035",
+  "collection": "bukhari",
+  "number": 6035,
+  "book": {
+   "en": "Sahih al-Bukhari 6035",
+   "ur": "صحیح بخاری 6035",
+   "ar": "صحيح البخاري 6035"
+  },
+  "arabic": "…لَمْ يَكُنْ رَسُولُ اللَّهِ صلى الله عليه وسلم فَاحِشًا وَلاَ مُتَفَحِّشًا، وَإِنَّهُ كَانَ يَقُولُ \" إِنَّ خِيَارَكُمْ أَحَاسِنُكُمْ أَخْلاَقًا \"",
+  "en": "Narrated Masruq:We were sitting with `Abdullah bin `Amr who was narrating to us (Hadith): He said, \"Allah's Messenger (ﷺ) was neither a Fahish nor a Mutafahhish, and he used to say, 'The best among you are the best in character (having good manners).\"",
+  "ur": "…رسول اللہ صلی اللہ علیہ وسلم نہ بدگو تھے نہ بد زبانی کرتے تھے ( کہ منہ سے گالیاں نکالیں ) بلکہ آپ صلی اللہ علیہ وسلم فرمایا کرتے تھے کہ تم میں سب سے زیادہ بہتر وہ ہے جس کے اخلاق سب سے اچھے ہوں۔",
+  "narrator": {
+   "en": "Abdullah ibn Amr (RA)",
+   "ur": "حضرت عبداللہ بن عمرو رضی اللہ عنہما",
+   "ar": "عبد الله بن عمرو رضي الله عنهما"
+  },
+  "grade": "Sahih",
+  "short": {
+   "en": "The best of you have the best character",
+   "ur": "تم میں بہترین وہ ہے جس کے اخلاق سب سے اچھے ہوں",
+   "ar": "إن خياركم أحاسنكم أخلاقًا"
+  },
+  "explanation": {
+   "en": "The Prophet ﷺ never used foul or hurtful language, and he measured people's excellence by their character. Good character means honesty, patience, kindness and gentle speech in daily life. It can be grown one habit at a time.",
+   "ur": "نبی کریم ﷺ کبھی بدزبانی یا سخت کلامی نہیں فرماتے تھے، اور آپ ﷺ نے لوگوں کی بہتری کا معیار اخلاق کو قرار دیا۔ اچھے اخلاق کا مطلب ہے روزمرہ زندگی میں سچائی، صبر، مہربانی اور نرم گفتگو۔ یہ خوبی ایک ایک عادت کے ذریعے بڑھائی جا سکتی ہے۔",
+   "ar": "لم يكن النبي ﷺ فاحشًا ولا متفحشًا، وجعل حسن الخلق مقياس الخيرية بين الناس. وحسن الخلق يعني الصدق والصبر واللطف ولين الكلام في الحياة اليومية. وهو أمر يمكن أن ننمّيه عادةً بعد عادة."
+  },
+  "topic": "character",
+  "review": true,
+  "notes": "hadith-api edition number bukhari/6035 (arabicnumber 6035); sunnah.com reference Sahih al-Bukhari 6035. Grade source: Sahih (in Sahih al-Bukhari/Sahih Muslim)."
+ },
+ {
+  "id": "bukhari-5971",
+  "collection": "bukhari",
+  "number": 5971,
+  "book": {
+   "en": "Sahih al-Bukhari 5971",
+   "ur": "صحیح بخاری 5971",
+   "ar": "صحيح البخاري 5971"
+  },
+  "arabic": "…عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ قَالَ جَاءَ رَجُلٌ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَ يَا رَسُولَ اللَّهِ مَنْ أَحَقُّ بِحُسْنِ صَحَابَتِي قَالَ \" أُمُّكَ \". قَالَ ثُمَّ مَنْ قَالَ \" أُمُّكَ \". قَالَ ثُمَّ مَنْ قَالَ \" أُمُّكَ \". قَالَ ثُمَّ مَنْ قَالَ \" ثُمَّ أَبُوكَ \"",
+  "en": "Narrated Abu Huraira:A man came to Allah's Messenger (ﷺ) and said, \"O Allah's Messenger (ﷺ)! Who is more entitled to be treated with the best companionship by me?\" The Prophet (ﷺ) said, \"Your mother.\" The man said. \"Who is next?\" The Prophet said, \"Your mother.\" The man further said, \"Who is next?\" The Prophet (ﷺ) said, \"Your mother.\" The man asked for the fourth time, \"Who is next?\" The Prophet (ﷺ) said, \"Your father.\"",
+  "ur": "…ابوہریرہ رضی اللہ عنہ نے بیان کیا کہ ایک صحابی رسول اللہ صلی اللہ علیہ وسلم کی خدمت میں حاضر ہوئے اور عرض کیا کہ یا رسول اللہ! میرے اچھے سلوک کا سب سے زیادہ حقدار کون ہے؟ فرمایا کہ تمہاری ماں ہے۔ پوچھا اس کے بعد کون ہے؟ فرمایا کہ تمہاری ماں ہے۔ انہوں نے پھر پوچھا اس کے بعد کون؟ نبی کریم صلی اللہ علیہ وسلم نے فرمایا کہ تمہاری ماں ہے۔ انہوں نے پوچھا اس کے بعد کون ہے؟ نبی کریم صلی اللہ علیہ وسلم نے فرمایا کہ پھر تمہارا باپ ہے۔…",
+  "narrator": {
+   "en": "Abu Hurairah (RA)",
+   "ur": "حضرت ابوہریرہ رضی اللہ عنہ",
+   "ar": "أبو هريرة رضي الله عنه"
+  },
+  "grade": "Sahih",
+  "short": {
+   "en": "Your mother, then your mother, then your mother",
+   "ur": "تمہاری ماں، پھر تمہاری ماں، پھر تمہاری ماں",
+   "ar": "أمك ثم أمك ثم أمك ثم أبوك"
+  },
+  "explanation": {
+   "en": "The Prophet ﷺ said 'your mother' three times before mentioning the father, showing the special right of the mother who carries, nurses and raises her children. Both parents deserve our best companionship, kindness and respect. Call or visit your mother today, or make dua for her if she has passed away.",
+   "ur": "نبی کریم ﷺ نے والد کا ذکر کرنے سے پہلے تین بار 'تمہاری ماں' فرمایا، جس سے ماں کا خاص حق ظاہر ہوتا ہے جو اولاد کو پیٹ میں رکھتی، دودھ پلاتی اور پالتی ہے۔ ماں باپ دونوں ہمارے بہترین سلوک، مہربانی اور احترام کے حقدار ہیں۔ آج اپنی والدہ سے بات کیجیے یا ملیے، اور اگر وہ وفات پا چکی ہوں تو ان کے لیے دعا کیجیے۔",
+   "ar": "كرر النبي ﷺ «أمك» ثلاث مرات قبل ذكر الأب، مبيّنًا حق الأم الخاص في الحمل والإرضاع والتربية. وكلا الوالدين يستحق منا حسن الصحبة واللطف والاحترام. اتصل بأمك أو زرها اليوم، أو ادعُ لها إن كانت قد توفيت."
+  },
+  "topic": "parents",
+  "review": true,
+  "notes": "hadith-api edition number bukhari/5971 (arabicnumber 5971); sunnah.com reference Sahih al-Bukhari 5971. Grade source: Sahih (in Sahih al-Bukhari/Sahih Muslim)."
+ },
+ {
+  "id": "bukhari-6014",
+  "collection": "bukhari",
+  "number": 6014,
+  "book": {
+   "en": "Sahih al-Bukhari 6014",
+   "ur": "صحیح بخاری 6014",
+   "ar": "صحيح البخاري 6014"
+  },
+  "arabic": "…عَنْ عَائِشَةَ ـ رضى الله عنها ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ \" مَا زَالَ يُوصِينِي جِبْرِيلُ بِالْجَارِ حَتَّى ظَنَنْتُ أَنَّهُ سَيُوَرِّثُهُ \"",
+  "en": "Narrated `Aisha:The Prophet (ﷺ) said \"Gabriel continued to recommend me about treating the neighbors Kindly and politely so much so that I thought he would order me to make them as my heirs.\"",
+  "ur": "…عائشہ رضی اللہ عنہا نے کہ نبی کریم صلی اللہ علیہ وسلم نے فرمایا ”جبرائیل علیہ السلام مجھے پڑوسی کے بارے میں باربار اس طرح وصیت کرتے رہے کہ مجھے خیال گزرا کہ شاید پڑوسی کو وراثت میں شریک نہ کر دیں۔“",
+  "narrator": {
+   "en": "Aishah (RA)",
+   "ur": "حضرت عائشہ رضی اللہ عنہا",
+   "ar": "عائشة رضي الله عنها"
+  },
+  "grade": "Sahih",
+  "short": {
+   "en": "Jibril (AS) kept urging kindness to neighbours",
+   "ur": "جبریل علیہ السلام پڑوسی کے بارے میں مسلسل تاکید کرتے رہے",
+   "ar": "ما زال جبريل يوصيني بالجار"
+  },
+  "explanation": {
+   "en": "Jibril (AS) stressed the rights of the neighbour so often that the Prophet ﷺ thought neighbours might be made heirs. This shows how much Islam values the people who live around us. Greet your neighbours, share food with them, and avoid anything that disturbs them.",
+   "ur": "جبریل علیہ السلام نے پڑوسی کے حقوق پر اتنا زور دیا کہ نبی کریم ﷺ کو گمان ہوا کہ شاید پڑوسی کو وراثت میں شریک کر دیا جائے گا۔ اس سے معلوم ہوتا ہے کہ اسلام ہمارے آس پاس رہنے والوں کو کتنی اہمیت دیتا ہے۔ پڑوسیوں کو سلام کیجیے، ان کے ساتھ کھانا بانٹیے، اور ہر اس بات سے بچیے جو انہیں تکلیف دے۔",
+   "ar": "أكثر جبريل عليه السلام من الوصية بالجار حتى ظن النبي ﷺ أنه سيجعله وارثًا. وهذا يبيّن مكانة من يسكن حولنا في الإسلام. فسلّم على جيرانك، وأهدهم من طعامك، وتجنّب كل ما يؤذيهم."
+  },
+  "topic": "neighbours",
+  "review": true,
+  "notes": "hadith-api edition number bukhari/6014 (arabicnumber 6014); sunnah.com reference Sahih al-Bukhari 6014. Grade source: Sahih (in Sahih al-Bukhari/Sahih Muslim)."
+ },
+ {
+  "id": "bukhari-6094",
+  "collection": "bukhari",
+  "number": 6094,
+  "book": {
+   "en": "Sahih al-Bukhari 6094",
+   "ur": "صحیح بخاری 6094",
+   "ar": "صحيح البخاري 6094"
+  },
+  "arabic": "…عَنْ عَبْدِ اللَّهِ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ \" إِنَّ الصِّدْقَ يَهْدِي إِلَى الْبِرِّ، وَإِنَّ الْبِرَّ يَهْدِي إِلَى الْجَنَّةِ، وَإِنَّ الرَّجُلَ لَيَصْدُقُ حَتَّى يَكُونَ صِدِّيقًا، وَإِنَّ الْكَذِبَ يَهْدِي إِلَى الْفُجُورِ، وَإِنَّ الْفُجُورَ يَهْدِي إِلَى النَّارِ، وَإِنَّ الرَّجُلَ لَيَكْذِبُ، حَتَّى يُكْتَبَ عِنْدَ اللَّهِ كَذَّابًا \"",
+  "en": "Narrated `Abdullah:The Prophet (ﷺ) said, \"Truthfulness leads to righteousness, and righteousness leads to Paradise. And a man keeps on telling the truth until he becomes a truthful person. Falsehood leads to Al-Fajur (i.e. wickedness, evil-doing), and Al-Fajur (wickedness) leads to the (Hell) Fire, and a man may keep on telling lies till he is written before Allah, a liar.\"",
+  "ur": "…عبداللہ بن مسعود رضی اللہ عنہ نے بیان کیا کہ نبی کریم صلی اللہ علیہ وسلم نے فرمایا ”بلاشبہ سچ آدمی کو نیکی کی طرف بلاتا ہے اور نیکی جنت کی طرف لے جاتی ہے اور ایک شخص سچ بولتا رہتا ہے یہاں تک کہ وہ صدیق کا لقب اور مرتبہ حاصل کر لیتا ہے اور بلاشبہ جھوٹ برائی کی طرف لے جاتا ہے اور برائی جہنم کی طرف اور ایک شخص جھوٹ بولتا رہتا ہے، یہاں تک کہ وہ اللہ کے یہاں بہت جھوٹا لکھ دیا جاتا ہے۔“",
+  "narrator": {
+   "en": "Abdullah ibn Mas'ud (RA)",
+   "ur": "حضرت عبداللہ بن مسعود رضی اللہ عنہ",
+   "ar": "عبد الله بن مسعود رضي الله عنه"
+  },
+  "grade": "Sahih",
+  "short": {
+   "en": "Truthfulness leads to righteousness",
+   "ur": "سچائی نیکی کی طرف لے جاتی ہے",
+   "ar": "إن الصدق يهدي إلى البر"
+  },
+  "explanation": {
+   "en": "Honesty is not a single act but a path: each truthful word leads to more good until a person is recorded with Allah as truthful. Lying works the same way in the opposite direction. Choosing the truth in small matters trains us for the big ones.",
+   "ur": "سچائی ایک عمل نہیں بلکہ ایک راستہ ہے: ہر سچی بات مزید نیکی کی طرف لے جاتی ہے یہاں تک کہ انسان اللہ کے ہاں سچا لکھ دیا جاتا ہے۔ جھوٹ بھی اسی طرح الٹی سمت میں لے جاتا ہے۔ چھوٹی باتوں میں سچ کا انتخاب ہمیں بڑی باتوں کے لیے تیار کرتا ہے۔",
+   "ar": "الصدق ليس فعلًا واحدًا بل طريق؛ فكل كلمة صادقة تقود إلى خير أكثر حتى يُكتب المرء عند الله صدّيقًا. والكذب يسير بالطريقة نفسها في الاتجاه المعاكس. واختيار الصدق في الأمور الصغيرة يدرّبنا على الكبيرة."
+  },
+  "topic": "honesty",
+  "review": true,
+  "notes": "hadith-api edition number bukhari/6094 (arabicnumber 6094); sunnah.com reference Sahih al-Bukhari 6094. Grade source: Sahih (in Sahih al-Bukhari/Sahih Muslim)."
+ },
+ {
+  "id": "muslim-2999",
+  "collection": "muslim",
+  "number": 7500,
+  "book": {
+   "en": "Sahih Muslim 2999",
+   "ur": "صحیح مسلم 2999",
+   "ar": "صحيح مسلم 2999"
+  },
+  "arabic": "…عَنْ صُهَيْبٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم \" عَجَبًا لأَمْرِ الْمُؤْمِنِ إِنَّ أَمْرَهُ كُلَّهُ خَيْرٌ وَلَيْسَ ذَاكَ لأَحَدٍ إِلاَّ لِلْمُؤْمِنِ إِنْ أَصَابَتْهُ سَرَّاءُ شَكَرَ فَكَانَ خَيْرًا لَهُ وَإِنْ أَصَابَتْهُ ضَرَّاءُ صَبَرَ فَكَانَ خَيْرًا لَهُ \"",
+  "en": "Suhaib reported that Allah's Messenger (ﷺ) said:Strange are the ways of a believer for there is good in every affair of his and this is not the case with anyone else except in the case of a believer for if he has an occasion to feel delight, he thanks (God), thus there is a good for him in it, and if he gets into trouble and shows resignation (and endures it patiently), there is a good for him in it.",
+  "ur": "حضرت صہیب رضی اللہ تعالیٰ عنہ سے روایت ہے، کہا : رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" مومن کا معاملہ عجیب ہے ۔ اس کا ہرمعاملہ اس کے لیے بھلائی کا ہے ۔ اور یہ بات مومن کے سوا کسی اور کومیسر نہیں ۔ اسے خوشی اور خوشحالی ملے توشکر کرتا ہے ۔ اور یہ اس کے لیے اچھا ہوتا ہے اور اگر اسے کوئی نقصان پہنچے تو ( اللہ کی رضا کے لیے ) صبر کر تا ہے، یہ ( ابھی ) اس کے لیے بھلائی ہوتی ہے ۔ \"",
+  "narrator": {
+   "en": "Suhayb (RA)",
+   "ur": "حضرت صہیب رضی اللہ عنہ",
+   "ar": "صهيب رضي الله عنه"
+  },
+  "grade": "Sahih",
+  "short": {
+   "en": "Every affair of the believer is good for him",
+   "ur": "مومن کا ہر معاملہ اس کے لیے بھلائی ہے",
+   "ar": "عجبًا لأمر المؤمن إن أمره كله خير"
+  },
+  "explanation": {
+   "en": "A believer gains in every situation: in good times he is grateful, in hard times he is patient, and both bring reward. This changes how we see the ups and downs of life. Today, thank Allah for one blessing and meet one difficulty with patience.",
+   "ur": "مومن ہر حال میں فائدے میں رہتا ہے: خوشی میں شکر کرتا ہے اور تکلیف میں صبر کرتا ہے، اور دونوں پر اجر ملتا ہے۔ یہ سوچ زندگی کے اتار چڑھاؤ کو دیکھنے کا انداز بدل دیتی ہے۔ آج کسی ایک نعمت پر اللہ کا شکر ادا کیجیے اور کسی ایک مشکل پر صبر کیجیے۔",
+   "ar": "المؤمن رابح في كل حال: يشكر في السراء ويصبر في الضراء، وفي كليهما أجر. وهذا يغيّر نظرتنا إلى تقلّبات الحياة. اشكر الله اليوم على نعمة واحدة، واصبر على صعوبة واحدة."
+  },
+  "topic": "patience",
+  "review": true,
+  "notes": "hadith-api edition number muslim/7500 (arabicnumber 2999); sunnah.com reference Sahih Muslim 2999. Grade source: Sahih (in Sahih al-Bukhari/Sahih Muslim). number = hadith-api hadithnumber; book label carries the sunnah.com number."
+ },
+ {
+  "id": "abudawud-4811",
+  "collection": "abudawud",
+  "number": 4811,
+  "book": {
+   "en": "Sunan Abi Dawud 4811",
+   "ur": "سنن ابی داؤد 4811",
+   "ar": "سنن أبي داود 4811"
+  },
+  "arabic": "…عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ \" لاَ يَشْكُرُ اللَّهَ مَنْ لاَ يَشْكُرُ النَّاسَ \"",
+  "en": "Narrated Abu Hurayrah: The Prophet (ﷺ) said: He who does not thank the people is not thankful to Allah.",
+  "ur": "ابوہریرہ رضی اللہ عنہ کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: جو لوگوں کا شکر ادا نہیں کرتا اللہ کا ( بھی ) شکر ادا نہیں کرتا ۔",
+  "narrator": {
+   "en": "Abu Hurairah (RA)",
+   "ur": "حضرت ابوہریرہ رضی اللہ عنہ",
+   "ar": "أبو هريرة رضي الله عنه"
+  },
+  "grade": "Sahih",
+  "short": {
+   "en": "Thank people to truly thank Allah",
+   "ur": "جو لوگوں کا شکر ادا نہیں کرتا وہ اللہ کا شکر ادا نہیں کرتا",
+   "ar": "لا يشكر الله من لا يشكر الناس"
+  },
+  "explanation": {
+   "en": "Gratitude to Allah shows in how we treat the people through whom His blessings reach us. Saying 'thank you' or 'JazakAllahu khayran' to parents, teachers and helpers is part of faith. Make a point of thanking three people today.",
+   "ur": "اللہ کا شکر اس بات میں بھی ظاہر ہوتا ہے کہ ہم ان لوگوں کے ساتھ کیسا سلوک کرتے ہیں جن کے ذریعے اس کی نعمتیں ہم تک پہنچتی ہیں۔ والدین، اساتذہ اور مدد کرنے والوں کو 'شکریہ' یا 'جزاک اللہ خیراً' کہنا ایمان کا حصہ ہے۔ آج کم از کم تین لوگوں کا شکریہ ادا کیجیے۔",
+   "ar": "يظهر شكر الله في معاملتنا لمن تصل إلينا نعمه على أيديهم. وقول «شكرًا» أو «جزاك الله خيرًا» للوالدين والمعلمين ومن يساعدنا من الإيمان. احرص اليوم على شكر ثلاثة أشخاص."
+  },
+  "topic": "gratitude",
+  "review": true,
+  "notes": "hadith-api edition number abudawud/4811 (arabicnumber 4811); sunnah.com reference Sunan Abi Dawud 4811. Grade source: Al-Albani: Sahih; Muhammad Muhyi Al-Din Abdul Hamid: Sahih; Shuaib Al Arnaut: Sahih; Zubair Ali Zai: Isnaad Sahih."
+ },
+ {
+  "id": "muslim-223",
+  "collection": "muslim",
+  "number": 534,
+  "book": {
+   "en": "Sahih Muslim 223",
+   "ur": "صحیح مسلم 223",
+   "ar": "صحيح مسلم 223"
+  },
+  "arabic": "…عَنْ أَبِي مَالِكٍ الأَشْعَرِيِّ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم \" الطُّهُورُ شَطْرُ الإِيمَانِ وَالْحَمْدُ لِلَّهِ تَمْلأُ الْمِيزَانَ. وَسُبْحَانَ اللَّهِ وَالْحَمْدُ لِلَّهِ تَمْلآنِ - أَوْ تَمْلأُ - مَا بَيْنَ السَّمَوَاتِ وَالأَرْضِ وَالصَّلاَةُ نُورٌ وَالصَّدَقَةُ بُرْهَانٌ وَالصَّبْرُ ضِيَاءٌ وَالْقُرْآنُ حُجَّةٌ لَكَ أَوْ عَلَيْكَ… \"",
+  "en": "Abu Malik at-Ash'ari reported:The Messenger of Allah (ﷺ) said: Cleanliness is half of faith and al-Hamdu Lillah (all praise and gratitude is for Allah alone) fills the scale, and Subhan Allah (Glory be to Allah) and al-Hamdu Lillah fill up what is between the heavens and the earth, and prayer is a light, and charity is proof (of one's faith) and endurance is a brightness and the Holy Qur'an is a proof on your behalf or against you…",
+  "ur": "حضرت ابو مالک اشعری رضی اللہ عنہ سے روایت ہے کہ رسول اللہ ﷺ نے فرمایا : ’’پاکیزگی نصف ایمان ہے ۔ الحمد لله ترازو کو بھر دیتا ہے ۔ سبحان الله اور الحمد لله آسمانوں سے زمین تک کی وسعت کو بھر دیتے ہیں ۔ نماز نور ہے ۔ صدقہ دلیل ہے ۔ صبر روشنی ہے ۔ قرآن تمہارے حق میں یا تمہارے خلاف حجت ہے…",
+  "narrator": {
+   "en": "Abu Malik al-Ash'ari (RA)",
+   "ur": "حضرت ابو مالک اشعری رضی اللہ عنہ",
+   "ar": "أبو مالك الأشعري رضي الله عنه"
+  },
+  "grade": "Sahih",
+  "short": {
+   "en": "Purity is half of faith",
+   "ur": "پاکیزگی نصف ایمان ہے",
+   "ar": "الطهور شطر الإيمان"
+  },
+  "explanation": {
+   "en": "Purity of body, clothes and place is so important that it is called half of faith. The same hadith praises remembering Allah, prayer, charity, patience and the Quran. Keeping clean is an act of worship, not just a habit.",
+   "ur": "جسم، لباس اور جگہ کی پاکیزگی اتنی اہم ہے کہ اسے نصف ایمان کہا گیا۔ اسی حدیث میں اللہ کے ذکر، نماز، صدقہ، صبر اور قرآن کی فضیلت بھی بیان ہوئی ہے۔ صفائی رکھنا صرف عادت نہیں بلکہ عبادت ہے۔",
+   "ar": "طهارة البدن والثوب والمكان عظيمة الشأن حتى سُمّيت شطر الإيمان. ويمدح الحديث نفسه ذكر الله والصلاة والصدقة والصبر والقرآن. فالنظافة عبادة وليست عادة فحسب."
+  },
+  "topic": "cleanliness",
+  "review": true,
+  "notes": "hadith-api edition number muslim/534 (arabicnumber 223); sunnah.com reference Sahih Muslim 223. Grade source: Sahih (in Sahih al-Bukhari/Sahih Muslim). number = hadith-api hadithnumber; book label carries the sunnah.com number."
+ },
+ {
+  "id": "bukhari-528",
+  "collection": "bukhari",
+  "number": 528,
+  "book": {
+   "en": "Sahih al-Bukhari 528",
+   "ur": "صحیح بخاری 528",
+   "ar": "صحيح البخاري 528"
+  },
+  "arabic": "…عَنْ أَبِي هُرَيْرَةَ، أَنَّهُ سَمِعَ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ \" أَرَأَيْتُمْ لَوْ أَنَّ نَهَرًا بِبَابِ أَحَدِكُمْ، يَغْتَسِلُ فِيهِ كُلَّ يَوْمٍ خَمْسًا، مَا تَقُولُ ذَلِكَ يُبْقِي مِنْ دَرَنِهِ \". قَالُوا لاَ يُبْقِي مِنْ دَرَنِهِ شَيْئًا. قَالَ \" فَذَلِكَ مِثْلُ الصَّلَوَاتِ الْخَمْسِ، يَمْحُو اللَّهُ بِهَا الْخَطَايَا \"",
+  "en": "Narrated Abu Huraira:I heard Allah's Messenger (ﷺ) saying, \"If there was a river at the door of anyone of you and he took a bath in it five times a day would you notice any dirt on him?\" They said, \"Not a trace of dirt would be left.\" The Prophet (ﷺ) added, \"That is the example of the five prayers with which Allah blots out (annuls) evil deeds.\"",
+  "ur": "…ابوہریرہ رضی اللہ عنہ سے کہ انہوں نے رسول اللہ صلی اللہ علیہ وسلم سے سنا آپ صلی اللہ علیہ وسلم فرماتے تھے کہ اگر کسی شخص کے دروازے پر نہر جاری ہو اور وہ روزانہ اس میں پانچ پانچ دفعہ نہائے تو تمہارا کیا گمان ہے۔ کیا اس کے بدن پر کچھ بھی میل باقی رہ سکتا ہے؟ صحابہ نے عرض کی کہ نہیں یا رسول اللہ! ہرگز نہیں۔ آپ صلی اللہ علیہ وسلم نے فرمایا کہ یہی حال پانچوں وقت کی نمازوں کا ہے کہ اللہ پاک ان کے ذریعہ سے گناہوں کو مٹا دیتا ہے۔",
+  "narrator": {
+   "en": "Abu Hurairah (RA)",
+   "ur": "حضرت ابوہریرہ رضی اللہ عنہ",
+   "ar": "أبو هريرة رضي الله عنه"
+  },
+  "grade": "Sahih",
+  "short": {
+   "en": "The five prayers wash away sins like a river",
+   "ur": "پانچ نمازیں نہر کی طرح گناہ دھو دیتی ہیں",
+   "ar": "مثل الصلوات الخمس يمحو الله بها الخطايا"
+  },
+  "explanation": {
+   "en": "The Prophet ﷺ compared the five daily prayers to bathing in a river five times a day, after which no dirt would remain. In the same way Allah wipes away (minor) sins through the regular prayers. Each prayer is a fresh start.",
+   "ur": "نبی کریم ﷺ نے پانچ نمازوں کو دن میں پانچ بار نہر میں نہانے سے تشبیہ دی، جس کے بعد کوئی میل باقی نہیں رہتا۔ اسی طرح اللہ تعالیٰ پابندی سے نماز پڑھنے والے کے (صغیرہ) گناہ مٹا دیتا ہے۔ ہر نماز ایک نیا آغاز ہے۔",
+   "ar": "شبّه النبي ﷺ الصلوات الخمس بالاغتسال في نهر خمس مرات في اليوم، فلا يبقى من الدرن شيء. وكذلك يمحو الله الخطايا (الصغائر) بالمحافظة على الصلاة. فكل صلاة بداية جديدة."
+  },
+  "topic": "prayer",
+  "review": true,
+  "notes": "hadith-api edition number bukhari/528 (arabicnumber 528); sunnah.com reference Sahih al-Bukhari 528. Grade source: Sahih (in Sahih al-Bukhari/Sahih Muslim)."
+ },
+ {
+  "id": "muslim-2588",
+  "collection": "muslim",
+  "number": 6592,
+  "book": {
+   "en": "Sahih Muslim 2588",
+   "ur": "صحیح مسلم 2588",
+   "ar": "صحيح مسلم 2588"
+  },
+  "arabic": "…عَنْ أَبِي هُرَيْرَةَ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ \" مَا نَقَصَتْ صَدَقَةٌ مِنْ مَالٍ وَمَا زَادَ اللَّهُ عَبْدًا بِعَفْوٍ إِلاَّ عِزًّا وَمَا تَوَاضَعَ أَحَدٌ لِلَّهِ إِلاَّ رَفَعَهُ اللَّهُ \"",
+  "en": "Abu Huraira reported Allah's Messenger (ﷺ) as saying:Charity does not decrease wealth, no one forgives another except that Allah increases his honor, and no one humbles himself for the sake of Allah except that Allah raises his status.",
+  "ur": "حضرت ابوہریرہ رضی اللہ عنہ نے رسول اللہ صلی اللہ علیہ وسلم سے روایت کی کہ آپ صلی اللہ علیہ وسلم نے فرمایا : \" صدقے نے مال میں کبھی کوئی کمی نہیں کی اور معاف کرنے سے اللہ تعالیٰ بندے کو عزت ہی میں بڑھاتا ہے اور کوئی شخص ( صرف اور صرف ) اللہ کی خاطر تواضع ( انکسار ) اختیار نہیں کرتا مگر اللہ تعالیٰ اس کا مقام بلند کر دیتا ہے ۔ \"",
+  "narrator": {
+   "en": "Abu Hurairah (RA)",
+   "ur": "حضرت ابوہریرہ رضی اللہ عنہ",
+   "ar": "أبو هريرة رضي الله عنه"
+  },
+  "grade": "Sahih",
+  "short": {
+   "en": "Charity never decreases wealth",
+   "ur": "صدقہ مال کم نہیں کرتا",
+   "ar": "ما نقصت صدقة من مال"
+  },
+  "explanation": {
+   "en": "Giving in charity does not truly reduce what we have; Allah blesses it and replaces it. Forgiving others brings honour, not humiliation, and humility for Allah's sake raises a person's rank. These three promises turn our usual calculations upside down.",
+   "ur": "صدقہ دینے سے مال حقیقت میں کم نہیں ہوتا، اللہ اس میں برکت دیتا ہے اور اس کا بدلہ عطا کرتا ہے۔ معاف کرنے سے عزت بڑھتی ہے، ذلت نہیں، اور اللہ کے لیے عاجزی انسان کا درجہ بلند کرتی ہے۔ یہ تین وعدے ہمارے عام حساب کتاب کو بدل دیتے ہیں۔",
+   "ar": "الصدقة لا تنقص المال حقيقةً، بل يبارك الله فيه ويخلفه. والعفو يزيد صاحبه عزًّا لا ذلًّا، والتواضع لله يرفع المرء. وهذه الوعود الثلاثة تقلب حساباتنا المعتادة."
+  },
+  "topic": "charity",
+  "review": true,
+  "notes": "hadith-api edition number muslim/6592 (arabicnumber 2588); sunnah.com reference Sahih Muslim 2588. Grade source: Sahih (in Sahih al-Bukhari/Sahih Muslim). number = hadith-api hadithnumber; book label carries the sunnah.com number."
+ },
+ {
+  "id": "muslim-2699a",
+  "collection": "muslim",
+  "number": 6853,
+  "book": {
+   "en": "Sahih Muslim 2699a",
+   "ur": "صحیح مسلم 2699a",
+   "ar": "صحيح مسلم 2699a"
+  },
+  "arabic": "…وَمَنْ سَلَكَ طَرِيقًا يَلْتَمِسُ فِيهِ عِلْمًا سَهَّلَ اللَّهُ لَهُ بِهِ طَرِيقًا إِلَى الْجَنَّةِ وَمَا اجْتَمَعَ قَوْمٌ فِي بَيْتٍ مِنْ بُيُوتِ اللَّهِ يَتْلُونَ كِتَابَ اللَّهِ وَيَتَدَارَسُونَهُ بَيْنَهُمْ إِلاَّ نَزَلَتْ عَلَيْهِمُ السَّكِينَةُ وَغَشِيَتْهُمُ الرَّحْمَةُ وَحَفَّتْهُمُ الْمَلاَئِكَةُ وَذَكَرَهُمُ اللَّهُ فِيمَنْ عِنْدَهُ…",
+  "en": "…he who treads the path in search of knowledge, Allah would make that path easy, leading to Paradise for him and those persons who assemble in the house among the houses of Allah (mosques) and recite the Book of Allah and they learn and teach the Qur'an (among themselves) there would descend upon them tranquility and mercy would cover them and the angels would surround them and Allah mentions them in the presence of those near Him…",
+  "ur": "…جو شخص اس راستے پر چلتا ہے جس میں وہ علم حاصل کرنا چاہتا ہے تو اللہ تعالیٰ اس کے ذریعے سے اس کے لیے جنت کا راستہ آسان کر دیتا ہے، اللہ کے گھروں میں سے کسی گھر میں لوگوں کا کوئی گروہ اکٹھا نہیں ہوتا، وہ قرآن کی تلاوت کرتے ہیں اور اس کا درس و تدریس کرتے ہیں مگر ان پر سکینت ( اطمینان و سکون قلب ) کا نزول ہوتا ہے اور ( اللہ کی ) رحمت ان کو ڈھانپ لیتی ہے اور فرشتے ان کو اپنے گھیرے میں لے لیتے ہیں اور اللہ تعالیٰ اپنے مقربین میں جو اس کے پاس ہوتے ہیں ان کا ذکر کرتا ہے…",
+  "narrator": {
+   "en": "Abu Hurairah (RA)",
+   "ur": "حضرت ابوہریرہ رضی اللہ عنہ",
+   "ar": "أبو هريرة رضي الله عنه"
+  },
+  "grade": "Sahih",
+  "short": {
+   "en": "Seeking knowledge is a road to Paradise",
+   "ur": "علم کا راستہ جنت کا راستہ ہے",
+   "ar": "من سلك طريقًا يلتمس فيه علمًا سهّل الله له طريقًا إلى الجنة"
+  },
+  "explanation": {
+   "en": "Every step taken to learn beneficial knowledge, such as attending a class, reading or asking a question, is a step towards Paradise. Gathering to recite and study the Quran brings tranquillity, mercy and the company of angels. Learn one new thing about your deen today.",
+   "ur": "مفید علم سیکھنے کے لیے اٹھایا گیا ہر قدم، جیسے کلاس میں جانا، پڑھنا یا سوال پوچھنا، جنت کی طرف ایک قدم ہے۔ قرآن پڑھنے اور سمجھنے کے لیے جمع ہونے سے سکون، رحمت اور فرشتوں کی صحبت نصیب ہوتی ہے۔ آج اپنے دین کے بارے میں کوئی نئی بات سیکھیے۔",
+   "ar": "كل خطوة لطلب العلم النافع، كحضور درس أو قراءة أو سؤال، خطوة نحو الجنة. والاجتماع لتلاوة القرآن ومدارسته يجلب السكينة والرحمة وحفّ الملائكة. تعلّم اليوم شيئًا جديدًا عن دينك."
+  },
+  "topic": "knowledge",
+  "review": true,
+  "notes": "hadith-api edition number muslim/6853 (arabicnumber 2699.01); sunnah.com reference Sahih Muslim 2699a. Grade source: Sahih (in Sahih al-Bukhari/Sahih Muslim). number = hadith-api hadithnumber; book label carries the sunnah.com number. Trimmed to the knowledge / study-circle part of a longer hadith (Muslim 2699a)."
+ },
+ {
+  "id": "bukhari-2466",
+  "collection": "bukhari",
+  "number": 2466,
+  "book": {
+   "en": "Sahih al-Bukhari 2466",
+   "ur": "صحیح بخاری 2466",
+   "ar": "صحيح البخاري 2466"
+  },
+  "arabic": "…أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ \" بَيْنَا رَجُلٌ بِطَرِيقٍ، اشْتَدَّ عَلَيْهِ الْعَطَشُ فَوَجَدَ بِئْرًا فَنَزَلَ فِيهَا فَشَرِبَ، ثُمَّ خَرَجَ، فَإِذَا كَلْبٌ يَلْهَثُ يَأْكُلُ الثَّرَى مِنَ الْعَطَشِ، فَقَالَ الرَّجُلُ لَقَدْ بَلَغَ هَذَا الْكَلْبَ مِنَ الْعَطَشِ مِثْلُ الَّذِي كَانَ بَلَغَ مِنِّي، فَنَزَلَ الْبِئْرَ، فَمَلأَ خُفَّهُ مَاءً، فَسَقَى الْكَلْبَ، فَشَكَرَ اللَّهُ لَهُ، فَغَفَرَ لَهُ \". قَالُوا يَا رَسُولَ اللَّهِ وَإِنَّ لَنَا فِي الْبَهَائِمِ لأَجْرًا فَقَالَ \" فِي كُلِّ ذَاتِ كَبِدٍ رَطْبَةٍ أَجْرٌ \"",
+  "en": "Narrated Abu Huraira:The Prophet (ﷺ) said, \"A man felt very thirsty while he was on the way, there he came across a well. He went down the well, quenched his thirst and came out. Meanwhile he saw a dog panting and licking mud because of excessive thirst. He said to himself, \"This dog is suffering from thirst as I did.\" So, he went down the well again and filled his shoe with water and watered it. Allah thanked him for that deed and forgave him. The people said, \"O Allah's Messenger (ﷺ)! Is there a reward for us in serving the animals?\" He replied: \"Yes, there is a reward for serving any animate (living being).\"",
+  "ur": "…ابوہریرہ رضی اللہ عنہ نے کہ نبی کریم صلی اللہ علیہ وسلم نے فرمایا، ایک شخص راستے میں سفر کر رہا تھا کہ اسے پیاس لگی۔ پھر اسے راستے میں ایک کنواں ملا اور وہ اس کے اندر اتر گیا اور پانی پیا۔ جب باہر آیا تو اس کی نظر ایک کتے پر پڑی جو ہانپ رہا تھا اور پیاس کی سختی سے کیچڑ چاٹ رہا تھا۔ اس شخص نے سوچا کہ اس وقت یہ کتا بھی پیاس کی اتنی ہی شدت میں مبتلا ہے جس میں میں تھا۔ چنانچہ وہ پھر کنویں میں اترا اور اپنے جوتے میں پانی بھر کر اس نے کتے کو پلایا۔ اللہ تعالیٰ کے ہاں اس کا یہ عمل مقبول ہوا۔ اور اس کی مغفرت کر دی گئی۔ صحابہ نے پوچھا، یا رسول اللہ کیا جانوروں کے سلسلہ میں بھی ہمیں اجر ملتا ہے؟ تو آپ صلی اللہ علیہ وسلم نے فرمایا کہ ہاں، ہر جاندار مخلوق کے سلسلے میں اجر ملتا ہے۔",
+  "narrator": {
+   "en": "Abu Hurairah (RA)",
+   "ur": "حضرت ابوہریرہ رضی اللہ عنہ",
+   "ar": "أبو هريرة رضي الله عنه"
+  },
+  "grade": "Sahih",
+  "short": {
+   "en": "Water for a thirsty dog earned forgiveness",
+   "ur": "پیاسے کتے کو پانی پلانے پر مغفرت",
+   "ar": "في كل كبد رطبة أجر"
+  },
+  "explanation": {
+   "en": "A man gave water to a thirsty dog using his own shoe, and Allah appreciated his deed and forgave him. The Prophet ﷺ taught that there is reward in kindness to every living creature. Put out water for birds or care gently for an animal.",
+   "ur": "ایک شخص نے اپنے جوتے میں پانی بھر کر پیاسے کتے کو پلایا تو اللہ نے اس کا یہ عمل قبول فرمایا اور اسے بخش دیا۔ نبی کریم ﷺ نے سکھایا کہ ہر جاندار کے ساتھ بھلائی پر اجر ہے۔ پرندوں کے لیے پانی رکھیے یا کسی جانور کا نرمی سے خیال رکھیے۔",
+   "ar": "سقى رجل كلبًا عطشان بخفّه فشكر الله له وغفر له. وعلّم النبي ﷺ أن في الإحسان إلى كل كائن حي أجرًا. ضع ماءً للطيور أو اعتنِ بحيوان برفق."
+  },
+  "topic": "animals",
+  "review": true,
+  "notes": "hadith-api edition number bukhari/2466 (arabicnumber 2466); sunnah.com reference Sahih al-Bukhari 2466. Grade source: Sahih (in Sahih al-Bukhari/Sahih Muslim)."
+ },
+ {
+  "id": "bukhari-6114",
+  "collection": "bukhari",
+  "number": 6114,
+  "book": {
+   "en": "Sahih al-Bukhari 6114",
+   "ur": "صحیح بخاری 6114",
+   "ar": "صحيح البخاري 6114"
+  },
+  "arabic": "…عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ \" لَيْسَ الشَّدِيدُ بِالصُّرَعَةِ، إِنَّمَا الشَّدِيدُ الَّذِي يَمْلِكُ نَفْسَهُ عِنْدَ الْغَضَبِ \"",
+  "en": "Narrated Abu Huraira:Allah's Messenger (ﷺ) said, \"The strong is not the one who overcomes the people by his strength, but the strong is the one who controls himself while in anger.\"",
+  "ur": "…ابوہریرہ رضی اللہ عنہ نے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا ”پہلوان وہ نہیں ہے جو کشتی لڑنے میں غالب ہو جائے بلکہ اصلی پہلوان تو وہ ہے جو غصہ کی حالت میں اپنے آپ پر قابو پائے بے قابو نہ ہو جائے۔“",
+  "narrator": {
+   "en": "Abu Hurairah (RA)",
+   "ur": "حضرت ابوہریرہ رضی اللہ عنہ",
+   "ar": "أبو هريرة رضي الله عنه"
+  },
+  "grade": "Sahih",
+  "short": {
+   "en": "True strength is controlling yourself in anger",
+   "ur": "اصل طاقتور وہ ہے جو غصے میں خود پر قابو رکھے",
+   "ar": "إنما الشديد الذي يملك نفسه عند الغضب"
+  },
+  "explanation": {
+   "en": "Physical strength is not the real measure of a person; the truly strong one masters himself when angry. Controlling anger protects families and friendships from words we later regret. When angry, pause, stay quiet and seek refuge in Allah.",
+   "ur": "جسمانی طاقت اصل پیمانہ نہیں؛ حقیقی طاقتور وہ ہے جو غصے کے وقت خود پر قابو رکھے۔ غصے پر قابو گھروں اور دوستیوں کو ایسے الفاظ سے بچاتا ہے جن پر بعد میں پچھتاوا ہوتا ہے۔ غصہ آئے تو رک جائیے، خاموش رہیے اور اعوذ باللہ پڑھیے۔",
+   "ar": "ليست القوة البدنية هي المقياس الحقيقي، بل القوي من يملك نفسه عند الغضب. وضبط الغضب يحمي الأسر والصداقات من كلمات نندم عليها. فإذا غضبت فتوقف واسكت واستعذ بالله."
+  },
+  "topic": "anger",
+  "review": true,
+  "notes": "hadith-api edition number bukhari/6114 (arabicnumber 6114); sunnah.com reference Sahih al-Bukhari 6114. Grade source: Sahih (in Sahih al-Bukhari/Sahih Muslim)."
+ },
+ {
+  "id": "muslim-54a",
+  "collection": "muslim",
+  "number": 194,
+  "book": {
+   "en": "Sahih Muslim 54a",
+   "ur": "صحیح مسلم 54a",
+   "ar": "صحيح مسلم 54a"
+  },
+  "arabic": "…عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم \" لاَ تَدْخُلُونَ الْجَنَّةَ حَتَّى تُؤْمِنُوا وَلاَ تُؤْمِنُوا حَتَّى تَحَابُّوا. أَوَلاَ أَدُلُّكُمْ عَلَى شَىْءٍ إِذَا فَعَلْتُمُوهُ تَحَابَبْتُمْ أَفْشُوا السَّلاَمَ بَيْنَكُمْ \"",
+  "en": "Abu Huraira reported:The Messenger of Allah (may peace and blessing be upon him) observed: You shall not enter Paradise so long as you do not affirm belief (in all those things which are the articles of faith) and you will not believe as long as you do not love one another. Should I not direct you to a thing which, if you do, will foster love amongst you: (i. e.) give currency to (the practice of paying salutation to one another by saying) as-salamu alaikum.",
+  "ur": "…حضرت ابو ہریرہ رضی اللہ عنہ سے روایت کی، انہوں نے کہا کہ رسول اللہ ﷺ نے فرمایا : ’’ تم جنت میں داخل نہیں ہو گے یہاں تک کہ تم مومن ہو جاؤ، اور تم مو من نہیں ہو سکتے یہاں تک کہ ایک دوسرے سے محبت کرو ۔ کیا تمہیں ایسی چیز نہ بتاؤں کہ جب تم اس پر عمل کرو تو ایک دوسرے کے ساتھ محبت کرنے لگو، آپس میں سلام عام کرو ۔ ‘ ‘",
+  "narrator": {
+   "en": "Abu Hurairah (RA)",
+   "ur": "حضرت ابوہریرہ رضی اللہ عنہ",
+   "ar": "أبو هريرة رضي الله عنه"
+  },
+  "grade": "Sahih",
+  "short": {
+   "en": "Spread salam and love will grow",
+   "ur": "سلام کو عام کرو، محبت بڑھے گی",
+   "ar": "أفشوا السلام بينكم"
+  },
+  "explanation": {
+   "en": "The Prophet ﷺ linked Paradise to faith, faith to mutual love, and love to a simple act: spreading the greeting of peace. Saying 'Assalamu alaikum' to family, friends and people we do not know builds warmth between hearts. Be the first to greet today.",
+   "ur": "نبی کریم ﷺ نے جنت کو ایمان سے، ایمان کو باہمی محبت سے، اور محبت کو ایک سادہ عمل سے جوڑا: سلام کو عام کرنا۔ گھر والوں، دوستوں اور اجنبیوں کو 'السلام علیکم' کہنا دلوں میں محبت پیدا کرتا ہے۔ آج سلام میں پہل کیجیے۔",
+   "ar": "ربط النبي ﷺ دخول الجنة بالإيمان، والإيمان بالتحابّ، والتحابّ بعمل يسير هو إفشاء السلام. فإلقاء السلام على الأهل والأصدقاء ومن لا نعرف يؤلّف بين القلوب. كن البادئ بالسلام اليوم."
+  },
+  "topic": "salam",
+  "review": true,
+  "notes": "hadith-api edition number muslim/194 (arabicnumber 54.01); sunnah.com reference Sahih Muslim 54a. Grade source: Sahih (in Sahih al-Bukhari/Sahih Muslim). number = hadith-api hadithnumber; book label carries the sunnah.com number."
+ },
+ {
+  "id": "bukhari-13",
+  "collection": "bukhari",
+  "number": 13,
+  "book": {
+   "en": "Sahih al-Bukhari 13",
+   "ur": "صحیح بخاری 13",
+   "ar": "صحيح البخاري 13"
+  },
+  "arabic": "…عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ \" لا يُؤْمِنُ أَحَدُكُمْ حَتَّى يُحِبَّ لأَخِيهِ مَا يُحِبُّ لِنَفْسِهِ \"",
+  "en": "Narrated Anas: The Prophet (ﷺ) said, \"None of you will have faith till he wishes for his (Muslim) brother what he likes for himself.\"",
+  "ur": "…نبی کریم صلی اللہ علیہ وسلم نے فرمایا تم میں سے کوئی شخص ایماندار نہ ہو گا جب تک اپنے بھائی کے لیے وہ نہ چاہے جو اپنے نفس کے لیے چاہتا ہے۔",
+  "narrator": {
+   "en": "Anas ibn Malik (RA)",
+   "ur": "حضرت انس بن مالک رضی اللہ عنہ",
+   "ar": "أنس بن مالك رضي الله عنه"
+  },
+  "grade": "Sahih",
+  "short": {
+   "en": "Love for your brother what you love for yourself",
+   "ur": "اپنے بھائی کے لیے وہی پسند کرو جو اپنے لیے کرتے ہو",
+   "ar": "لا يؤمن أحدكم حتى يحب لأخيه ما يحب لنفسه"
+  },
+  "explanation": {
+   "en": "Complete faith includes wishing good for others as sincerely as we wish it for ourselves. This removes envy and lets us be happy at other people's success. Make dua today for a friend by name, asking for what you would want for yourself.",
+   "ur": "کامل ایمان میں یہ بات شامل ہے کہ ہم دوسروں کے لیے بھی اسی خلوص سے بھلائی چاہیں جیسے اپنے لیے چاہتے ہیں۔ یہ حسد کو ختم کرتا ہے اور دوسروں کی کامیابی پر خوش ہونا سکھاتا ہے۔ آج کسی دوست کا نام لے کر اس کے لیے وہی دعا کیجیے جو اپنے لیے چاہتے ہیں۔",
+   "ar": "من كمال الإيمان أن نحب الخير للآخرين كما نحبه لأنفسنا. وهذا يزيل الحسد ويجعلنا نفرح بنجاح غيرنا. ادعُ اليوم لصديق باسمه بما تحب لنفسك."
+  },
+  "topic": "brotherhood",
+  "review": true,
+  "notes": "hadith-api edition number bukhari/13 (arabicnumber 13); sunnah.com reference Sahih al-Bukhari 13. Grade source: Sahih (in Sahih al-Bukhari/Sahih Muslim)."
+ },
+ {
+  "id": "bukhari-6018",
+  "collection": "bukhari",
+  "number": 6018,
+  "book": {
+   "en": "Sahih al-Bukhari 6018",
+   "ur": "صحیح بخاری 6018",
+   "ar": "صحيح البخاري 6018"
+  },
+  "arabic": "…عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم \" مَنْ كَانَ يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الآخِرِ فَلاَ يُؤْذِ جَارَهُ، وَمَنْ كَانَ يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الآخِرِ فَلْيُكْرِمْ ضَيْفَهُ، وَمَنْ كَانَ يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الآخِرِ فَلْيَقُلْ خَيْرًا أَوْ لِيَصْمُتْ \"",
+  "en": "Narrated Abu Huraira:Allah's Messenger (ﷺ) said, \"Anybody who believes in Allah and the Last Day should not harm his neighbor, and anybody who believes in Allah and the Last Day should entertain his guest generously and anybody who believes in Allah and the Last Day should talk what is good or keep quiet. (i.e. abstain from all kinds of evil and dirty talk).\"",
+  "ur": "…ابوہریرہ رضی اللہ عنہ نے بیان کیا کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا ”جو کوئی اللہ اور آخرت کے دن پر ایمان رکھتا ہو وہ اپنے پڑوسی کو تکلیف نہ پہنچائے اور جو کوئی اللہ اور آخرت کے دن پر ایمان رکھتا ہو وہ اپنے مہمان کی عزت کرے اور جو کوئی اللہ اور آخرت کے دن پر ایمان رکھتا ہو وہ اچھی بات زبان سے نکالے ورنہ خاموش رہے۔“",
+  "narrator": {
+   "en": "Abu Hurairah (RA)",
+   "ur": "حضرت ابوہریرہ رضی اللہ عنہ",
+   "ar": "أبو هريرة رضي الله عنه"
+  },
+  "grade": "Sahih",
+  "short": {
+   "en": "Speak good or stay silent",
+   "ur": "اچھی بات کہو یا خاموش رہو",
+   "ar": "فليقل خيرًا أو ليصمت"
+  },
+  "explanation": {
+   "en": "Faith in Allah and the Last Day shows in three daily habits: not harming neighbours, honouring guests, and guarding the tongue. Before speaking, ask whether the words are true, kind and useful. If not, silence is better.",
+   "ur": "اللہ اور آخرت پر ایمان تین روزمرہ عادتوں میں نظر آتا ہے: پڑوسی کو تکلیف نہ دینا، مہمان کی عزت کرنا اور زبان کی حفاظت کرنا۔ بولنے سے پہلے سوچیے کہ کیا بات سچی، نرم اور مفید ہے۔ اگر نہیں تو خاموشی بہتر ہے۔",
+   "ar": "يظهر الإيمان بالله واليوم الآخر في ثلاث عادات يومية: ترك أذى الجار، وإكرام الضيف، وحفظ اللسان. قبل أن تتكلم اسأل نفسك: هل الكلام صادق ولطيف ونافع؟ فإن لم يكن فالصمت خير."
+  },
+  "topic": "speech",
+  "review": true,
+  "notes": "hadith-api edition number bukhari/6018 (arabicnumber 6018); sunnah.com reference Sahih al-Bukhari 6018. Grade source: Sahih (in Sahih al-Bukhari/Sahih Muslim)."
+ },
+ {
+  "id": "bukhari-69",
+  "collection": "bukhari",
+  "number": 69,
+  "book": {
+   "en": "Sahih al-Bukhari 69",
+   "ur": "صحیح بخاری 69",
+   "ar": "صحيح البخاري 69"
+  },
+  "arabic": "…عَنْ أَنَسٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ \" يَسِّرُوا وَلاَ تُعَسِّرُوا، وَبَشِّرُوا وَلاَ تُنَفِّرُوا \"",
+  "en": "Narrated Anas bin Malik:The Prophet (ﷺ) said, \"Facilitate things to people (concerning religious matters), and do not make it hard for them and give them good tidings and do not make them run away (from Islam).\"",
+  "ur": "…انس بن مالک رضی اللہ عنہ سے نقل کیا، وہ رسول اللہ صلی اللہ علیہ وسلم سے روایت کرتے ہیں کہ آپ صلی اللہ علیہ وسلم نے فرمایا، آسانی کرو اور سختی نہ کرو اور خوش کرو اور نفرت نہ دلاؤ۔",
+  "narrator": {
+   "en": "Anas ibn Malik (RA)",
+   "ur": "حضرت انس بن مالک رضی اللہ عنہ",
+   "ar": "أنس بن مالك رضي الله عنه"
+  },
+  "grade": "Sahih",
+  "short": {
+   "en": "Make things easy, not difficult",
+   "ur": "آسانی پیدا کرو، سختی نہیں",
+   "ar": "يسّروا ولا تعسّروا"
+  },
+  "explanation": {
+   "en": "The Prophet ﷺ told his companions to make things easy for people and to bring good news rather than drive people away. This applies to teaching children, guiding new Muslims and advising friends. Gentle encouragement opens hearts more than harshness.",
+   "ur": "نبی کریم ﷺ نے صحابہ کو ہدایت دی کہ لوگوں کے لیے آسانی پیدا کریں اور خوشخبری دیں، نفرت نہ دلائیں۔ یہ بچوں کو سکھانے، نئے مسلمانوں کی رہنمائی اور دوستوں کو نصیحت کرنے سب پر لاگو ہوتا ہے۔ نرم حوصلہ افزائی سختی سے زیادہ دل کھولتی ہے۔",
+   "ar": "أمر النبي ﷺ أصحابه أن ييسّروا على الناس ويبشّروهم ولا ينفّروهم. وهذا يشمل تعليم الأطفال وإرشاد المسلمين الجدد ونصح الأصدقاء. فالتشجيع اللطيف يفتح القلوب أكثر من الشدة."
+  },
+  "topic": "ease",
+  "review": true,
+  "notes": "hadith-api edition number bukhari/69 (arabicnumber 69); sunnah.com reference Sahih al-Bukhari 69. Grade source: Sahih (in Sahih al-Bukhari/Sahih Muslim)."
+ },
+ {
+  "id": "muslim-2594a",
+  "collection": "muslim",
+  "number": 6602,
+  "book": {
+   "en": "Sahih Muslim 2594a",
+   "ur": "صحیح مسلم 2594a",
+   "ar": "صحيح مسلم 2594a"
+  },
+  "arabic": "…عَنْ عَائِشَةَ، زَوْجِ النَّبِيِّ صلى الله عليه وسلم عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ \" إِنَّ الرِّفْقَ لاَ يَكُونُ فِي شَىْءٍ إِلاَّ زَانَهُ وَلاَ يُنْزَعُ مِنْ شَىْءٍ إِلاَّ شَانَهُ \"",
+  "en": "A'isha, the wife of Allah's Apostle (ﷺ), reported Allah's Apostle (ﷺ) as saying:Kindness is not to be found in anything but that it adds to its beauty and it is not withdrawn from anything but it makes it defective.",
+  "ur": "…حضرت عائشہ صدیقہ رضی اللہ عنہا سے، انہوں نے نبی صلی اللہ علیہ وسلم سے روایت کی کہ آپ نے فرمایا : \" نرمی جس چیز میں بھی ہوتی ہے اس کو زینت بخش دیتی ہے اور جس چیز سے بھی نرمی نکال دی جاتی ہے اسے بدصورت کر دیتی ہے ۔ \"",
+  "narrator": {
+   "en": "Aishah (RA)",
+   "ur": "حضرت عائشہ رضی اللہ عنہا",
+   "ar": "عائشة رضي الله عنها"
+  },
+  "grade": "Sahih",
+  "short": {
+   "en": "Gentleness beautifies everything",
+   "ur": "نرمی ہر چیز کو خوبصورت بنا دیتی ہے",
+   "ar": "إن الرفق لا يكون في شيء إلا زانه"
+  },
+  "explanation": {
+   "en": "Gentleness adds beauty to any word or action, while harshness spoils even good intentions. Correcting a child, answering a question or disagreeing with someone all go better in a soft manner. Try to lower your voice and soften your words today.",
+   "ur": "نرمی ہر بات اور ہر کام کو خوبصورت بنا دیتی ہے، جبکہ سختی اچھی نیت کو بھی بگاڑ دیتی ہے۔ بچے کی اصلاح، کسی سوال کا جواب یا اختلاف، سب نرم انداز سے بہتر ہوتے ہیں۔ آج اپنی آواز دھیمی اور الفاظ نرم رکھنے کی کوشش کیجیے۔",
+   "ar": "الرفق يزيّن كل قول وفعل، والعنف يفسد حتى النوايا الحسنة. فتقويم الطفل والإجابة عن سؤال والاختلاف مع أحد كلها أحسن بالرفق. حاول اليوم أن تخفض صوتك وتليّن كلامك."
+  },
+  "topic": "gentleness",
+  "review": true,
+  "notes": "hadith-api edition number muslim/6602 (arabicnumber 2594.01); sunnah.com reference Sahih Muslim 2594a. Grade source: Sahih (in Sahih al-Bukhari/Sahih Muslim). number = hadith-api hadithnumber; book label carries the sunnah.com number."
+ },
+ {
+  "id": "bukhari-10",
+  "collection": "bukhari",
+  "number": 10,
+  "book": {
+   "en": "Sahih al-Bukhari 10",
+   "ur": "صحیح بخاری 10",
+   "ar": "صحيح البخاري 10"
+  },
+  "arabic": "…عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو ـ رضى الله عنهما ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ \" الْمُسْلِمُ مَنْ سَلِمَ الْمُسْلِمُونَ مِنْ لِسَانِهِ وَيَدِهِ، وَالْمُهَاجِرُ مَنْ هَجَرَ مَا نَهَى اللَّهُ عَنْهُ \"",
+  "en": "Narrated 'Abdullah bin 'Amr: The Prophet (ﷺ) said, \"A Muslim is the one who avoids harming Muslims with his tongue and hands. And a Muhajir (emigrant) is the one who gives up (abandons) all what Allah has forbidden.\"",
+  "ur": "…عبداللہ بن عمرو بن عاص رضی اللہ عنہما سے، وہ نبی کریم صلی اللہ علیہ وسلم سے روایت کرتے ہیں کہ آپ صلی اللہ علیہ وسلم نے فرمایا مسلمان وہ ہے جس کی زبان اور ہاتھ سے مسلمان بچے رہیں اور مہاجر وہ ہے جو ان کاموں کو چھوڑ دے جن سے اللہ نے منع فرمایا۔…",
+  "narrator": {
+   "en": "Abdullah ibn Amr (RA)",
+   "ur": "حضرت عبداللہ بن عمرو رضی اللہ عنہما",
+   "ar": "عبد الله بن عمرو رضي الله عنهما"
+  },
+  "grade": "Sahih",
+  "short": {
+   "en": "A Muslim keeps others safe from his tongue and hand",
+   "ur": "مسلمان وہ ہے جس کی زبان اور ہاتھ سے دوسرے محفوظ رہیں",
+   "ar": "المسلم من سلم المسلمون من لسانه ويده"
+  },
+  "explanation": {
+   "en": "Being a Muslim is not only about rituals; it shows in whether people feel safe around us. Hurtful words, mockery and online insults cause real harm, just as hands can. True hijrah is leaving what Allah has forbidden.",
+   "ur": "مسلمان ہونا صرف عبادات کا نام نہیں؛ یہ اس بات سے ظاہر ہوتا ہے کہ لوگ ہمارے ساتھ خود کو محفوظ محسوس کرتے ہیں یا نہیں۔ تکلیف دہ الفاظ، مذاق اڑانا اور آن لائن طعنے بھی ہاتھ کی طرح حقیقی تکلیف دیتے ہیں۔ اصل ہجرت ان کاموں کو چھوڑنا ہے جن سے اللہ نے منع کیا۔",
+   "ar": "ليس الإسلام شعائر فقط، بل يظهر في شعور الناس بالأمان معنا. فالكلمات الجارحة والسخرية والإساءة عبر الإنترنت أذى حقيقي كأذى اليد. والهجرة الحقيقية هجر ما نهى الله عنه."
+  },
+  "topic": "speech",
+  "review": true,
+  "notes": "hadith-api edition number bukhari/10 (arabicnumber 10); sunnah.com reference Sahih al-Bukhari 10. Grade source: Sahih (in Sahih al-Bukhari/Sahih Muslim)."
+ },
+ {
+  "id": "muslim-2626",
+  "collection": "muslim",
+  "number": 6690,
+  "book": {
+   "en": "Sahih Muslim 2626",
+   "ur": "صحیح مسلم 2626",
+   "ar": "صحيح مسلم 2626"
+  },
+  "arabic": "…عَنْ أَبِي ذَرٍّ، قَالَ قَالَ لِيَ النَّبِيُّ صلى الله عليه وسلم \" لاَ تَحْقِرَنَّ مِنَ الْمَعْرُوفِ شَيْئًا وَلَوْ أَنْ تَلْقَى أَخَاكَ بِوَجْهٍ طَلْقٍ \"",
+  "en": "Abu Dharr reported:Allah's Apostle (ﷺ) said to me: Don't consider anything insignificant out of good things even if it is that you meet your brother with a cheerful countenance.",
+  "ur": "حضرت ابوذر رضی اللہ عنہ سے روایت ہے، کہا : رسول اللہ صلی اللہ علیہ وسلم نے مجھ سے فرمایا : \" نیکی میں کسی چیز کو حقیر نہ سمجھو، چاہے یہی ہو کہ تم اپنے ( مسلمان ) بھائی کو کھلتے ہوئے چہرے سے ملو ۔ \"",
+  "narrator": {
+   "en": "Abu Dharr (RA)",
+   "ur": "حضرت ابوذر رضی اللہ عنہ",
+   "ar": "أبو ذر رضي الله عنه"
+  },
+  "grade": "Sahih",
+  "short": {
+   "en": "No good deed is too small, even a cheerful face",
+   "ur": "کوئی نیکی چھوٹی نہیں، خندہ پیشانی سے ملنا بھی",
+   "ar": "لا تحقرن من المعروف شيئًا"
+  },
+  "explanation": {
+   "en": "We sometimes skip small good deeds because they seem unimportant. The Prophet ﷺ taught that even meeting someone with a bright face has value. A warm greeting can lift someone's whole day.",
+   "ur": "ہم بعض اوقات چھوٹی نیکیوں کو معمولی سمجھ کر چھوڑ دیتے ہیں۔ نبی کریم ﷺ نے سکھایا کہ کسی سے کھلے چہرے کے ساتھ ملنا بھی قیمتی نیکی ہے۔ ایک گرم جوش سلام کسی کا پورا دن بہتر بنا سکتا ہے۔",
+   "ar": "قد نترك المعروف الصغير لظننا أنه غير مهم. وقد علّم النبي ﷺ أن لقاء الناس بوجه طلق معروف له قيمته. فتحية دافئة قد تغيّر يوم إنسان بأكمله."
+  },
+  "topic": "smiling",
+  "review": true,
+  "notes": "hadith-api edition number muslim/6690 (arabicnumber 2626); sunnah.com reference Sahih Muslim 2626. Grade source: Sahih (in Sahih al-Bukhari/Sahih Muslim). number = hadith-api hadithnumber; book label carries the sunnah.com number."
+ },
+ {
+  "id": "tirmidhi-2002",
+  "collection": "tirmidhi",
+  "number": 2002,
+  "book": {
+   "en": "Jami` at-Tirmidhi 2002",
+   "ur": "جامع ترمذی 2002",
+   "ar": "جامع الترمذي 2002"
+  },
+  "arabic": "…عَنْ أَبِي الدَّرْدَاءِ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ \" مَا شَيْءٌ أَثْقَلُ فِي مِيزَانِ الْمُؤْمِنِ يَوْمَ الْقِيَامَةِ مِنْ خُلُقٍ حَسَنٍ وَإِنَّ اللَّهَ لَيَبْغَضُ الْفَاحِشَ الْبَذِيءَ \"",
+  "en": "Abu Ad-Dardh narrated that the Messenger of Allah said:\"Nothing is heavier on the believer's Scale on the Day of Judgment than good character. For indeed Allah, Most High, is angered by the shameless obscene person.\"",
+  "ur": "ابو الدرداء رضی الله عنہ سے روایت ہے کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: ”قیامت کے دن مومن کے میزان میں اخلاق حسنہ سے بھاری کوئی چیز نہیں ہو گی اور اللہ تعالیٰ بےحیاء، بدزبان سے نفرت کرتا ہے“",
+  "narrator": {
+   "en": "Abu ad-Darda' (RA)",
+   "ur": "حضرت ابو الدرداء رضی اللہ عنہ",
+   "ar": "أبو الدرداء رضي الله عنه"
+  },
+  "grade": "Sahih",
+  "short": {
+   "en": "Nothing weighs heavier than good character",
+   "ur": "میزان میں اچھے اخلاق سے بھاری کچھ نہیں",
+   "ar": "ما شيء أثقل في ميزان المؤمن من خلق حسن"
+  },
+  "explanation": {
+   "en": "On the Day of Judgement, good character will be among the heaviest deeds on the scale. Allah dislikes obscene and abusive speech. Kindness, patience and clean language are investments that never lose value.",
+   "ur": "قیامت کے دن میزان میں اچھے اخلاق سب سے بھاری اعمال میں ہوں گے۔ اللہ تعالیٰ بے حیائی اور بدزبانی کو ناپسند کرتا ہے۔ مہربانی، صبر اور پاکیزہ زبان ایسی سرمایہ کاری ہے جس کی قدر کبھی کم نہیں ہوتی۔",
+   "ar": "يوم القيامة يكون حسن الخلق من أثقل ما في الميزان. والله يبغض الفاحش البذيء. فاللطف والصبر ونظافة اللسان استثمار لا تنقص قيمته."
+  },
+  "topic": "character",
+  "review": true,
+  "notes": "hadith-api edition number tirmidhi/2002 (arabicnumber 2002); sunnah.com reference Jami` at-Tirmidhi 2002. Grade source: Ahmad Muhammad Shakir: Sahih; Al-Albani: Sahih; Bashar Awad Maarouf: Hasan Sahih; Zubair Ali Zai: Sahih."
+ },
+ {
+  "id": "bukhari-3004",
+  "collection": "bukhari",
+  "number": 3004,
+  "book": {
+   "en": "Sahih al-Bukhari 3004",
+   "ur": "صحیح بخاری 3004",
+   "ar": "صحيح البخاري 3004"
+  },
+  "arabic": "…سَمِعْتُ عَبْدَ اللَّهِ بْنَ عَمْرٍو ـ رضى الله عنهما ـ يَقُولُ جَاءَ رَجُلٌ إِلَى النَّبِيِّ صلى الله عليه وسلم فَاسْتَأْذَنَهُ فِي الْجِهَادِ فَقَالَ \" أَحَىٌّ وَالِدَاكَ \". قَالَ نَعَمْ. قَالَ \" فَفِيهِمَا فَجَاهِدْ \"",
+  "en": "Narrated `Abdullah bin `Amr:A man came to the Prophet (ﷺ) asking his permission to take part in Jihad. The Prophet (ﷺ) asked him, \"Are your parents alive?\" He replied in the affirmative. The Prophet (ﷺ) said to him, \"Then exert yourself in their service.\"",
+  "ur": "…عبداللہ بن عمرو رضی اللہ عنہما سے سنا، آپ بیان کرتے تھے کہ ایک صحابی نبی کریم صلی اللہ علیہ وسلم کی خدمت میں حاضر ہوئے اور آپ صلی اللہ علیہ وسلم سے جہاد میں شرکت کی اجازت چاہی۔ آپ صلی اللہ علیہ وسلم نے ان سے دریافت فرمایا ”کیا تمہارے ماں باپ زندہ ہیں؟“ انہوں نے کہا کہ جی ہاں! آپ صلی اللہ علیہ وسلم نے فرمایا ”پھر انہیں میں جہاد کرو۔ ( یعنی ان کو خوش رکھنے کی کوشش کرو ) ۔“",
+  "narrator": {
+   "en": "Abdullah ibn Amr (RA)",
+   "ur": "حضرت عبداللہ بن عمرو رضی اللہ عنہما",
+   "ar": "عبد الله بن عمرو رضي الله عنهما"
+  },
+  "grade": "Sahih",
+  "short": {
+   "en": "Serving your parents is your striving",
+   "ur": "والدین کی خدمت میں محنت کرو",
+   "ar": "ففيهما فجاهد"
+  },
+  "explanation": {
+   "en": "A man asked permission to join an expedition, but the Prophet ﷺ first asked whether his parents were alive and then told him to exert himself in serving them. Caring for parents is a great act of devotion in its own right. Ask your parents today if there is anything they need.",
+   "ur": "ایک صحابی نے جہاد میں شرکت کی اجازت مانگی تو نبی کریم ﷺ نے پہلے پوچھا کہ کیا تمہارے والدین زندہ ہیں، پھر فرمایا کہ انہی کی خدمت میں محنت کرو۔ والدین کی خدمت بذات خود ایک بڑی عبادت ہے۔ آج اپنے والدین سے پوچھیے کہ کیا انہیں کسی چیز کی ضرورت ہے۔",
+   "ar": "استأذن رجل في الجهاد فسأله النبي ﷺ أولًا عن والديه، ثم قال له: ففيهما فجاهد. فبرّ الوالدين وخدمتهما عبادة عظيمة في ذاتها. اسأل والديك اليوم إن كانا يحتاجان شيئًا."
+  },
+  "topic": "parents",
+  "review": true,
+  "notes": "hadith-api edition number bukhari/3004 (arabicnumber 3004); sunnah.com reference Sahih al-Bukhari 3004. Grade source: Sahih (in Sahih al-Bukhari/Sahih Muslim)."
+ },
+ {
+  "id": "bukhari-6117",
+  "collection": "bukhari",
+  "number": 6117,
+  "book": {
+   "en": "Sahih al-Bukhari 6117",
+   "ur": "صحیح بخاری 6117",
+   "ar": "صحيح البخاري 6117"
+  },
+  "arabic": "…قَالَ النَّبِيُّ صلى الله عليه وسلم \" الْحَيَاءُ لاَ يَأْتِي إِلاَّ بِخَيْرٍ \"",
+  "en": "Narrated Abu As-Sawar Al-Adawi:`Imran bin Husain said: The Prophet (ﷺ) said, \"Haya' (pious shyness from committing religeous indiscretions) does not bring anything except good.\"",
+  "ur": "…نبی کریم صلی اللہ علیہ وسلم نے فرمایا ”حیاء سے ہمیشہ بھلائی پیدا ہوتی ہے۔“",
+  "narrator": {
+   "en": "Imran ibn Husayn (RA)",
+   "ur": "حضرت عمران بن حصین رضی اللہ عنہ",
+   "ar": "عمران بن حصين رضي الله عنه"
+  },
+  "grade": "Sahih",
+  "short": {
+   "en": "Haya brings nothing but good",
+   "ur": "حیا صرف بھلائی لاتی ہے",
+   "ar": "الحياء لا يأتي إلا بخير"
+  },
+  "explanation": {
+   "en": "Haya is a sense of dignity and shyness before Allah and people that keeps a person away from what is shameful. It never leads to harm; it protects faith, relationships and self-respect. Notice how haya can guide your words, dress and online behaviour.",
+   "ur": "حیا اللہ اور لوگوں کے سامنے وقار اور شرم کا وہ احساس ہے جو انسان کو برے کاموں سے روکتا ہے۔ یہ کبھی نقصان کی طرف نہیں لے جاتی بلکہ ایمان، رشتوں اور عزت نفس کی حفاظت کرتی ہے۔ دیکھیے کہ حیا آپ کی گفتگو، لباس اور آن لائن رویے کی کیسے رہنمائی کر سکتی ہے۔",
+   "ar": "الحياء شعور بالوقار والاستحياء من الله والناس يمنع المرء مما يشين. ولا يأتي إلا بخير، فهو يحفظ الإيمان والعلاقات وكرامة النفس. تأمّل كيف يوجّه الحياء كلامك ولباسك وسلوكك على الإنترنت."
+  },
+  "topic": "modesty",
+  "review": true,
+  "notes": "hadith-api edition number bukhari/6117 (arabicnumber 6117); sunnah.com reference Sahih al-Bukhari 6117. Grade source: Sahih (in Sahih al-Bukhari/Sahih Muslim)."
+ },
+ {
+  "id": "bukhari-6464",
+  "collection": "bukhari",
+  "number": 6464,
+  "book": {
+   "en": "Sahih al-Bukhari 6464",
+   "ur": "صحیح بخاری 6464",
+   "ar": "صحيح البخاري 6464"
+  },
+  "arabic": "…عَنْ عَائِشَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ \" سَدِّدُوا وَقَارِبُوا، وَاعْلَمُوا أَنْ لَنْ يُدْخِلَ أَحَدَكُمْ عَمَلُهُ الْجَنَّةَ، وَأَنَّ أَحَبَّ الأَعْمَالِ أَدْوَمُهَا إِلَى اللَّهِ، وَإِنْ قَلَّ \"",
+  "en": "Narrated `Aisha:Allah's Messenger (ﷺ) said, \"Do good deeds properly, sincerely and moderately and know that your deeds will not make you enter Paradise, and that the most beloved deed to Allah is the most regular and constant even if it were little.\"",
+  "ur": "…عائشہ رضی اللہ عنہا نے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا ”درمیانی چال اختیار کرو اور بلند پروازی نہ کرو اور عمل کرتے رہو، تم میں سے کسی کا عمل اسے جنت میں نہیں داخل کر سکے گا، میرے نزدیک سب سے پسندیدہ عمل وہ ہے جس پر ہمیشگی کی جائے خواہ کم ہی کیوں نہ ہو۔“",
+  "narrator": {
+   "en": "Aishah (RA)",
+   "ur": "حضرت عائشہ رضی اللہ عنہا",
+   "ar": "عائشة رضي الله عنها"
+  },
+  "grade": "Sahih",
+  "short": {
+   "en": "The most beloved deeds are the consistent ones",
+   "ur": "اللہ کو سب سے محبوب وہ عمل ہے جو ہمیشہ کیا جائے",
+   "ar": "أحب الأعمال إلى الله أدومها وإن قل"
+  },
+  "explanation": {
+   "en": "Allah loves small deeds done regularly more than big efforts that soon stop. A few verses daily, two rak'ahs at night or a little charity each week can last a lifetime. The hadith also reminds us that we enter Paradise by Allah's mercy, not by counting our deeds.",
+   "ur": "اللہ تعالیٰ کو وہ چھوٹے عمل زیادہ پسند ہیں جو پابندی سے کیے جائیں، بجائے ان بڑی کوششوں کے جو جلد چھوٹ جائیں۔ روزانہ چند آیات، رات کو دو رکعتیں یا ہر ہفتے تھوڑا صدقہ عمر بھر چل سکتا ہے۔ یہ حدیث یاد دلاتی ہے کہ جنت میں داخلہ اللہ کی رحمت سے ہے، صرف اعمال گننے سے نہیں۔",
+   "ar": "يحب الله العمل القليل الدائم أكثر من الجهد الكبير المنقطع. فآيات يسيرة كل يوم، أو ركعتان في الليل، أو صدقة قليلة كل أسبوع قد تدوم العمر كله. ويذكّرنا الحديث بأن دخول الجنة برحمة الله لا بعدّ الأعمال."
+  },
+  "topic": "consistency",
+  "review": true,
+  "notes": "hadith-api edition number bukhari/6464 (arabicnumber 6464); sunnah.com reference Sahih al-Bukhari 6464. Grade source: Sahih (in Sahih al-Bukhari/Sahih Muslim)."
+ },
+ {
+  "id": "bukhari-6406",
+  "collection": "bukhari",
+  "number": 6406,
+  "book": {
+   "en": "Sahih al-Bukhari 6406",
+   "ur": "صحیح بخاری 6406",
+   "ar": "صحيح البخاري 6406"
+  },
+  "arabic": "…عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ \" كَلِمَتَانِ خَفِيفَتَانِ عَلَى اللِّسَانِ، ثَقِيلَتَانِ فِي الْمِيزَانِ، حَبِيبَتَانِ إِلَى الرَّحْمَنِ، سُبْحَانَ اللَّهِ الْعَظِيمِ، سُبْحَانَ اللَّهِ وَبِحَمْدِهِ \"",
+  "en": "Narrated Abu Huraira:The Prophet (ﷺ) said, \"There are two expressions which are very easy for the tongue to say, but they are very heavy in the balance and are very dear to The Beneficent (Allah), and they are, 'Subhan Allah Al- `Azim and 'Subhan Allah wa bihamdihi.\"",
+  "ur": "…ابوہریرہ رضی اللہ عنہ نے بیان کیا کہ نبی کریم صلی اللہ علیہ وسلم نے فرمایا ”دو کلمے جو زبان پر ہلکے ہیں ترازو میں بہت بھاری اور رحمان کو عزیز ہیں «سبحان الله العظيم، سبحان الله وبحمده» ۔“",
+  "narrator": {
+   "en": "Abu Hurairah (RA)",
+   "ur": "حضرت ابوہریرہ رضی اللہ عنہ",
+   "ar": "أبو هريرة رضي الله عنه"
+  },
+  "grade": "Sahih",
+  "short": {
+   "en": "Two phrases: light on the tongue, heavy on the scale",
+   "ur": "دو کلمے: زبان پر ہلکے، میزان میں بھاری",
+   "ar": "كلمتان خفيفتان على اللسان ثقيلتان في الميزان"
+  },
+  "explanation": {
+   "en": "'SubhanAllahil-'Azim, SubhanAllahi wa bihamdihi' takes only seconds to say, yet it is heavy on the scale and beloved to the Most Merciful. Moments of waiting, walking or travelling can be filled with remembrance. Say these two phrases a few times now.",
+   "ur": "'سبحان اللہ العظیم، سبحان اللہ وبحمدہ' کہنے میں چند لمحے لگتے ہیں مگر یہ میزان میں بھاری اور رحمٰن کو محبوب ہیں۔ انتظار، چلنے پھرنے اور سفر کے لمحے ذکر سے بھرے جا سکتے ہیں۔ ابھی یہ دونوں کلمے چند بار پڑھ لیجیے۔",
+   "ar": "«سبحان الله العظيم، سبحان الله وبحمده» تُقال في ثوانٍ لكنها ثقيلة في الميزان حبيبة إلى الرحمن. ويمكن أن نملأ بالذكر أوقات الانتظار والمشي والسفر. قلهما الآن بضع مرات."
+  },
+  "topic": "dhikr",
+  "review": true,
+  "notes": "hadith-api edition number bukhari/6406 (arabicnumber 6406); sunnah.com reference Sahih al-Bukhari 6406. Grade source: Sahih (in Sahih al-Bukhari/Sahih Muslim)."
+ },
+ {
+  "id": "bukhari-5649",
+  "collection": "bukhari",
+  "number": 5649,
+  "book": {
+   "en": "Sahih al-Bukhari 5649",
+   "ur": "صحیح بخاری 5649",
+   "ar": "صحيح البخاري 5649"
+  },
+  "arabic": "…عَنْ أَبِي مُوسَى الأَشْعَرِيِّ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم \" أَطْعِمُوا الْجَائِعَ، وَعُودُوا الْمَرِيضَ، وَفُكُّوا الْعَانِيَ \"",
+  "en": "…The Prophet (ﷺ) said, \"Feed the hungry, visit the sick, and set free the captives.\"",
+  "ur": "…ابوموسیٰ اشعری رضی اللہ عنہ نے بیان کیا کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا کہ بھوکے کو کھانا کھلاؤ اور مریض کی عیادت یعنی مزاج پرسی کرو اور قیدی کو چھڑاؤ۔",
+  "narrator": {
+   "en": "Abu Musa al-Ash'ari (RA)",
+   "ur": "حضرت ابو موسیٰ اشعری رضی اللہ عنہ",
+   "ar": "أبو موسى الأشعري رضي الله عنه"
+  },
+  "grade": "Sahih",
+  "short": {
+   "en": "Feed the hungry, visit the sick",
+   "ur": "بھوکے کو کھلاؤ، بیمار کی عیادت کرو",
+   "ar": "أطعموا الجائع وعودوا المريض"
+  },
+  "explanation": {
+   "en": "These three short commands, to feed the hungry, visit the sick and free captives, show that faith is lived through care for people in need. A visit, a meal or a call to someone unwell brings comfort to them and reward to you. Think of someone who is ill and check on them.",
+   "ur": "یہ تین مختصر احکام، بھوکے کو کھانا کھلانا، بیمار کی عیادت کرنا اور قیدی کو چھڑانا، بتاتے ہیں کہ ایمان ضرورت مندوں کی خدمت سے ظاہر ہوتا ہے۔ کسی بیمار سے ملنا، اسے کھانا پہنچانا یا فون کرنا اس کے لیے تسلی اور آپ کے لیے اجر ہے۔ کسی بیمار کو یاد کیجیے اور اس کی خیریت پوچھیے۔",
+   "ar": "هذه الأوامر الثلاثة القصيرة، إطعام الجائع وعيادة المريض وفكّ الأسير، تبيّن أن الإيمان يُعاش برعاية المحتاجين. فزيارة المريض أو إيصال طعام إليه أو الاتصال به تسلية له وأجر لك. تذكّر مريضًا واسأل عن حاله."
+  },
+  "topic": "sick",
+  "review": true,
+  "notes": "hadith-api edition number bukhari/5649 (arabicnumber 5649); sunnah.com reference Sahih al-Bukhari 5649. Grade source: Sahih (in Sahih al-Bukhari/Sahih Muslim)."
+ },
+ {
+  "id": "bukhari-6005",
+  "collection": "bukhari",
+  "number": 6005,
+  "book": {
+   "en": "Sahih al-Bukhari 6005",
+   "ur": "صحیح بخاری 6005",
+   "ar": "صحيح البخاري 6005"
+  },
+  "arabic": "…سَمِعْتُ سَهْلَ بْنَ سَعْدٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ \" أَنَا وَكَافِلُ الْيَتِيمِ، فِي الْجَنَّةِ هَكَذَا \". وَقَالَ بِإِصْبَعَيْهِ السَّبَّابَةِ وَالْوُسْطَى.",
+  "en": "Narrated Sahl bin Sa`d:The Prophet (ﷺ) said, \"I and the person who looks after an orphan and provides for him, will be in Paradise like this,\" putting his index and middle fingers together.",
+  "ur": "…میں نے سہل بن سعد رضی اللہ عنہ سے سنا، ان سے نبی کریم صلی اللہ علیہ وسلم نے فرمایا کہ میں اور یتیم کی پرورش کرنے والا جنت میں اس طرح ہوں گے اور آپ نے شہادت اور درمیانی انگلیوں کے اشارہ سے ( قرب کو ) بتایا۔",
+  "narrator": {
+   "en": "Sahl ibn Sa'd (RA)",
+   "ur": "حضرت سہل بن سعد رضی اللہ عنہ",
+   "ar": "سهل بن سعد رضي الله عنه"
+  },
+  "grade": "Sahih",
+  "short": {
+   "en": "The one who cares for an orphan will be near the Prophet ﷺ in Paradise",
+   "ur": "یتیم کی کفالت کرنے والا جنت میں نبی ﷺ کے قریب ہوگا",
+   "ar": "أنا وكافل اليتيم في الجنة هكذا"
+  },
+  "explanation": {
+   "en": "The Prophet ﷺ held two fingers together to show how close the one who cares for an orphan will be to him in Paradise. Sponsoring, teaching or simply being kind to an orphan is a path to this honour. Support an orphan's education or needs if you can.",
+   "ur": "نبی کریم ﷺ نے دو انگلیاں ملا کر بتایا کہ یتیم کی کفالت کرنے والا جنت میں آپ ﷺ کے کتنا قریب ہوگا۔ یتیم کی کفالت، تعلیم یا اس کے ساتھ محبت بھرا برتاؤ اس اعزاز کا راستہ ہے۔ اگر ممکن ہو تو کسی یتیم کی تعلیم یا ضروریات میں مدد کیجیے۔",
+   "ar": "ضمّ النبي ﷺ إصبعيه ليبيّن قرب كافل اليتيم منه في الجنة. فكفالة اليتيم أو تعليمه أو الإحسان إليه طريق إلى هذا الشرف. ساهم إن استطعت في تعليم يتيم أو قضاء حاجاته."
+  },
+  "topic": "orphans",
+  "review": true,
+  "notes": "hadith-api edition number bukhari/6005 (arabicnumber 6005); sunnah.com reference Sahih al-Bukhari 6005. Grade source: Sahih (in Sahih al-Bukhari/Sahih Muslim)."
+ },
+ {
+  "id": "bukhari-38",
+  "collection": "bukhari",
+  "number": 38,
+  "book": {
+   "en": "Sahih al-Bukhari 38",
+   "ur": "صحیح بخاری 38",
+   "ar": "صحيح البخاري 38"
+  },
+  "arabic": "…عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم \" مَنْ صَامَ رَمَضَانَ إِيمَانًا وَاحْتِسَابًا غُفِرَ لَهُ مَا تَقَدَّمَ مِنْ ذَنْبِهِ \"",
+  "en": "Narrated Abu Huraira: Allah's Messenger (ﷺ) said, \"Whoever observes fasts during the month of Ramadan out of sincere faith, and hoping to attain Allah's rewards, then all his past sins will be forgiven.\"",
+  "ur": "…ابوہریرہ رضی اللہ عنہ سے نقل کرتے ہیں کہ نبی کریم صلی اللہ علیہ وسلم نے فرمایا جس نے رمضان کے روزے ایمان اور خالص نیت کے ساتھ رکھے اس کے پچھلے گناہ بخش دیئے گئے۔",
+  "narrator": {
+   "en": "Abu Hurairah (RA)",
+   "ur": "حضرت ابوہریرہ رضی اللہ عنہ",
+   "ar": "أبو هريرة رضي الله عنه"
+  },
+  "grade": "Sahih",
+  "short": {
+   "en": "Fasting Ramadan with faith brings forgiveness",
+   "ur": "ایمان اور ثواب کی نیت سے رمضان کے روزے",
+   "ar": "من صام رمضان إيمانًا واحتسابًا غفر له"
+  },
+  "explanation": {
+   "en": "Fasting Ramadan out of faith and seeking reward from Allah leads to forgiveness of past sins. The key is sincerity: fasting because Allah commanded it and hoping for His reward, not out of habit alone. Renew this intention whenever Ramadan approaches.",
+   "ur": "ایمان کے ساتھ اور اللہ سے ثواب کی امید رکھتے ہوئے رمضان کے روزے رکھنے پر پچھلے گناہ معاف ہو جاتے ہیں۔ اصل بات اخلاص ہے: روزہ اس لیے کہ اللہ نے حکم دیا اور اس کے اجر کی امید ہے، صرف عادت کی وجہ سے نہیں۔ جب بھی رمضان قریب آئے، یہ نیت تازہ کیجیے۔",
+   "ar": "صيام رمضان إيمانًا واحتسابًا سبب لمغفرة ما تقدم من الذنوب. والأساس هو الإخلاص: أن نصوم لأن الله أمر بذلك ورجاء ثوابه، لا عادةً فحسب. جدّد هذه النية كلما اقترب رمضان."
+  },
+  "topic": "fasting",
+  "review": true,
+  "notes": "hadith-api edition number bukhari/38 (arabicnumber 38); sunnah.com reference Sahih al-Bukhari 38. Grade source: Sahih (in Sahih al-Bukhari/Sahih Muslim)."
+ },
+ {
+  "id": "muslim-804a",
+  "collection": "muslim",
+  "number": 1874,
+  "book": {
+   "en": "Sahih Muslim 804a",
+   "ur": "صحیح مسلم 804a",
+   "ar": "صحيح مسلم 804a"
+  },
+  "arabic": "…سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ \" اقْرَءُوا الْقُرْآنَ فَإِنَّهُ يَأْتِي يَوْمَ الْقِيَامَةِ شَفِيعًا لأَصْحَابِهِ… \"",
+  "en": "Abu Umama said he heard Allah's Messenger (ﷺ) say:Recite the Qur'an, for on the Day of Resurrection it will come as an intercessor for those who recite It…",
+  "ur": "…میں نے رسول اللہ صلی اللہ علیہ وسلم کویہ فرماتے ہوئے سنا : \" قرآن پڑھا کرو کیونکہ وہ قیامت کے دن اصحاب قرآن ( حفظ وقراءت اور عمل کرنے والوں ) کا سفارشی بن کر آئےگا… \"",
+  "narrator": {
+   "en": "Abu Umamah al-Bahili (RA)",
+   "ur": "حضرت ابو امامہ باہلی رضی اللہ عنہ",
+   "ar": "أبو أمامة الباهلي رضي الله عنه"
+  },
+  "grade": "Sahih",
+  "short": {
+   "en": "The Quran will intercede for its companions",
+   "ur": "قرآن اپنے پڑھنے والوں کا سفارشی ہوگا",
+   "ar": "اقرؤوا القرآن فإنه يأتي يوم القيامة شفيعًا لأصحابه"
+  },
+  "explanation": {
+   "en": "Those who keep company with the Quran, reading it, learning it and living by it, will find it interceding for them on the Day of Resurrection. Even a little daily recitation builds this companionship. Set yourself a small, steady daily portion.",
+   "ur": "جو لوگ قرآن کے ساتھ تعلق رکھتے ہیں، اسے پڑھتے، سیکھتے اور اس پر عمل کرتے ہیں، قیامت کے دن قرآن ان کی سفارش کرے گا۔ روزانہ تھوڑی تلاوت بھی یہ تعلق مضبوط کرتی ہے۔ روزانہ کا ایک چھوٹا مگر مستقل حصہ مقرر کیجیے۔",
+   "ar": "من صحب القرآن تلاوةً وتعلّمًا وعملًا وجده شفيعًا له يوم القيامة. وحتى القليل من التلاوة اليومية يبني هذه الصحبة. حدّد لنفسك وِردًا يوميًا صغيرًا ثابتًا."
+  },
+  "topic": "quran",
+  "review": true,
+  "notes": "hadith-api edition number muslim/1874 (arabicnumber 804.01); sunnah.com reference Sahih Muslim 804a. Grade source: Sahih (in Sahih al-Bukhari/Sahih Muslim). number = hadith-api hadithnumber; book label carries the sunnah.com number."
+ },
+ {
+  "id": "abudawud-1479",
+  "collection": "abudawud",
+  "number": 1479,
+  "book": {
+   "en": "Sunan Abi Dawud 1479",
+   "ur": "سنن ابی داؤد 1479",
+   "ar": "سنن أبي داود 1479"
+  },
+  "arabic": "…عَنِ النُّعْمَانِ بْنِ بَشِيرٍ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ \" الدُّعَاءُ هُوَ الْعِبَادَةُ { قَالَ رَبُّكُمُ ادْعُونِي أَسْتَجِبْ لَكُمْ } \"",
+  "en": "Narrated An-Nu'man ibn Bashir: The Prophet (ﷺ) said: Supplication (du'a') is itself the worship. (He then recited:) \"And your Lord said: Call on Me, I will answer you\"",
+  "ur": "نعمان بن بشیر رضی اللہ عنہما کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: دعا عبادت ہے، تمہارا رب فرماتا ہے: مجھ سے دعا کرو، میں تمہاری دعا قبول کروں گا ( سورۃ غافر: ۶۰ ) ۔",
+  "narrator": {
+   "en": "an-Nu'man ibn Bashir (RA)",
+   "ur": "حضرت نعمان بن بشیر رضی اللہ عنہما",
+   "ar": "النعمان بن بشير رضي الله عنهما"
+  },
+  "grade": "Sahih",
+  "short": {
+   "en": "Dua is worship",
+   "ur": "دعا ہی عبادت ہے",
+   "ar": "الدعاء هو العبادة"
+  },
+  "explanation": {
+   "en": "Calling upon Allah is itself worship, because it shows our need for Him and our trust in Him. The Prophet ﷺ then recited Allah's promise to answer those who call on Him (Ghafir 40:60). Bring every need, big or small, to Allah.",
+   "ur": "اللہ کو پکارنا خود عبادت ہے، کیونکہ اس میں اس کی محتاجی اور اس پر بھروسے کا اظہار ہے۔ پھر نبی کریم ﷺ نے اللہ کا وہ وعدہ تلاوت فرمایا کہ وہ پکارنے والوں کی دعا قبول کرتا ہے (سورۃ غافر 40:60)۔ ہر چھوٹی بڑی ضرورت اللہ کے سامنے رکھیے۔",
+   "ar": "دعاء الله عبادة في ذاته، لأنه إظهار للافتقار إليه والتوكل عليه. ثم تلا النبي ﷺ وعد الله بإجابة من يدعوه (سورة غافر 40:60). فارفع كل حاجة صغيرة أو كبيرة إلى الله."
+  },
+  "topic": "dua",
+  "review": true,
+  "notes": "hadith-api edition number abudawud/1479 (arabicnumber 1479); sunnah.com reference Sunan Abi Dawud 1479. Grade source: Al-Albani: Sahih; Muhammad Muhyi Al-Din Abdul Hamid: Sahih; Shuaib Al Arnaut: Sahih; Zubair Ali Zai: Isnaad Sahih."
+ },
+ {
+  "id": "tirmidhi-1987",
+  "collection": "tirmidhi",
+  "number": 1987,
+  "book": {
+   "en": "Jami` at-Tirmidhi 1987",
+   "ur": "جامع ترمذی 1987",
+   "ar": "جامع الترمذي 1987"
+  },
+  "arabic": "…عَنْ أَبِي ذَرٍّ، قَالَ قَالَ لِي رَسُولُ اللَّهِ صلى الله عليه وسلم \" اتَّقِ اللَّهَ حَيْثُمَا كُنْتَ وَأَتْبِعِ السَّيِّئَةَ الْحَسَنَةَ تَمْحُهَا وَخَالِقِ النَّاسَ بِخُلُقٍ حَسَنٍ \"",
+  "en": "Abu Dharr said:\"The Messenger of Allah said to me: 'Have Taqwa of Allah wherever you are, and follow an evil deed with a good one to wipe it out, and treat the people with good behavior.\"",
+  "ur": "ابوذر رضی الله عنہ کہتے ہیں کہ کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”جہاں بھی رہو اللہ سے ڈرو، برائی کے بعد ( جو تم سے ہو جائے ) بھلائی کرو جو برائی کو مٹا دے اور لوگوں کے ساتھ حسن اخلاق سے پیش آؤ“",
+  "narrator": {
+   "en": "Abu Dharr (RA)",
+   "ur": "حضرت ابوذر رضی اللہ عنہ",
+   "ar": "أبو ذر رضي الله عنه"
+  },
+  "grade": "Hasan",
+  "short": {
+   "en": "Be mindful of Allah wherever you are",
+   "ur": "جہاں بھی رہو اللہ سے ڈرو",
+   "ar": "اتق الله حيثما كنت"
+  },
+  "explanation": {
+   "en": "This short advice holds three keys: being mindful of Allah in private and in public, following a mistake with a good deed, and treating people well. No one is perfect, but a good deed wipes out a bad one. Today, answer one slip with a deliberate good deed.",
+   "ur": "اس مختصر نصیحت میں تین کنجیاں ہیں: ظاہر اور تنہائی میں اللہ کا لحاظ، غلطی کے بعد نیکی کرنا، اور لوگوں سے اچھے اخلاق سے پیش آنا۔ کوئی بھی کامل نہیں، مگر نیکی برائی کو مٹا دیتی ہے۔ آج کسی کوتاہی کے بعد سوچ سمجھ کر ایک نیکی کیجیے۔",
+   "ar": "في هذه الوصية القصيرة ثلاثة مفاتيح: مراقبة الله في السر والعلن، وإتباع السيئة بالحسنة، ومخالقة الناس بخلق حسن. لا أحد كامل، لكن الحسنة تمحو السيئة. أتبِع اليوم زلّة بحسنة مقصودة."
+  },
+  "topic": "taqwa",
+  "review": true,
+  "notes": "hadith-api edition number tirmidhi/1987 (arabicnumber 1987); sunnah.com reference Jami` at-Tirmidhi 1987. Grade source: Ahmad Muhammad Shakir: Hasan; Al-Albani: Hasan; Bashar Awad Maarouf: Hasan Sahih; Zubair Ali Zai: Hasan."
+ },
+ {
+  "id": "muslim-2564c",
+  "collection": "muslim",
+  "number": 6543,
+  "book": {
+   "en": "Sahih Muslim 2564c",
+   "ur": "صحیح مسلم 2564c",
+   "ar": "صحيح مسلم 2564c"
+  },
+  "arabic": "…عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم \" إِنَّ اللَّهَ لاَ يَنْظُرُ إِلَى صُوَرِكُمْ وَأَمْوَالِكُمْ وَلَكِنْ يَنْظُرُ إِلَى قُلُوبِكُمْ وَأَعْمَالِكُمْ \"",
+  "en": "Abu Huraira reported Allah's Messenger (ﷺ) as saying:Verily Allah does not look to your faces and your wealth but He looks to your heart and to your deeds.",
+  "ur": "…حضرت ابوہریرہ رضی اللہ عنہ سے روایت کی، کہا : رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" اللہ تعالیٰ تمہاری صورتوں اور تمہارے اموال کی طرف نہیں دیکھتا، لیکن وہ تمہارے دلوں اور اعمال کی طرف دیکھتا ہے ۔ \"",
+  "narrator": {
+   "en": "Abu Hurairah (RA)",
+   "ur": "حضرت ابوہریرہ رضی اللہ عنہ",
+   "ar": "أبو هريرة رضي الله عنه"
+  },
+  "grade": "Sahih",
+  "short": {
+   "en": "Allah looks at your hearts and your deeds",
+   "ur": "اللہ دلوں اور اعمال کو دیکھتا ہے",
+   "ar": "إن الله ينظر إلى قلوبكم وأعمالكم"
+  },
+  "explanation": {
+   "en": "Allah does not judge us by our appearance or our wealth, but by what is in our hearts and what we do. This frees us from competing over looks and possessions. Put today's effort into purifying your intention and improving one action.",
+   "ur": "اللہ تعالیٰ ہمیں صورت یا مال سے نہیں بلکہ دل کی کیفیت اور اعمال سے پرکھتا ہے۔ یہ بات ہمیں شکل و صورت اور دولت کے مقابلے سے آزاد کر دیتی ہے۔ آج اپنی نیت صاف کرنے اور کسی ایک عمل کو بہتر بنانے پر توجہ دیجیے۔",
+   "ar": "لا يحكم الله علينا بصورنا ولا بأموالنا، بل بما في قلوبنا وما نعمل. وهذا يحرّرنا من التنافس في المظاهر والممتلكات. اجعل جهدك اليوم في تصفية نيتك وتحسين عمل واحد."
+  },
+  "topic": "sincerity",
+  "review": true,
+  "notes": "hadith-api edition number muslim/6543 (arabicnumber 2564.03); sunnah.com reference Sahih Muslim 2564c. Grade source: Sahih (in Sahih al-Bukhari/Sahih Muslim). number = hadith-api hadithnumber; book label carries the sunnah.com number."
+ },
+ {
+  "id": "bukhari-6011",
+  "collection": "bukhari",
+  "number": 6011,
+  "book": {
+   "en": "Sahih al-Bukhari 6011",
+   "ur": "صحیح بخاری 6011",
+   "ar": "صحيح البخاري 6011"
+  },
+  "arabic": "…سَمِعْتُ النُّعْمَانَ بْنَ بَشِيرٍ، يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم \" تَرَى الْمُؤْمِنِينَ فِي تَرَاحُمِهِمْ وَتَوَادِّهِمْ وَتَعَاطُفِهِمْ كَمَثَلِ الْجَسَدِ إِذَا اشْتَكَى عُضْوًا تَدَاعَى لَهُ سَائِرُ جَسَدِهِ بِالسَّهَرِ وَالْحُمَّى \"",
+  "en": "Narrated An-Nu`man bin Bashir:Allah's Messenger (ﷺ) said, \"You see the believers as regards their being merciful among themselves and showing love among themselves and being kind, resembling one body, so that, if any part of the body is not well then the whole body shares the sleeplessness (insomnia) and fever with it.\"",
+  "ur": "…میں نے نعمان بن بشیر سے سنا، وہ بیان کرتے تھے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا ”تم مومنوں کو آپس میں ایک دوسرے کے ساتھ رحمت و محبت کا معاملہ کرنے اور ایک دوسرے کے ساتھ لطف و نرم خوئی میں ایک جسم جیسا پاؤ گے کہ جب اس کا کوئی ٹکڑا بھی تکلیف میں ہوتا ہے، تو سارا جسم تکلیف میں ہوتا ہے ایسا کہ نیند اڑ جاتی ہے اور جسم بخار میں مبتلا ہو جاتا ہے۔“",
+  "narrator": {
+   "en": "an-Nu'man ibn Bashir (RA)",
+   "ur": "حضرت نعمان بن بشیر رضی اللہ عنہما",
+   "ar": "النعمان بن بشير رضي الله عنهما"
+  },
+  "grade": "Sahih",
+  "short": {
+   "en": "Believers are like one body",
+   "ur": "مومن ایک جسم کی طرح ہیں",
+   "ar": "مثل المؤمنين كمثل الجسد"
+  },
+  "explanation": {
+   "en": "When one part of the body hurts, the whole body shares in it with fever and sleeplessness. Believers should feel each other's pain in the same way, with mercy, love and support. Remember suffering Muslims in your dua and help where you can.",
+   "ur": "جب جسم کے کسی حصے کو تکلیف ہو تو پورا جسم بخار اور بے خوابی میں اس کا ساتھ دیتا ہے۔ مومنوں کو بھی ایک دوسرے کا دکھ اسی طرح محسوس کرنا چاہیے، رحمت، محبت اور مدد کے ساتھ۔ تکلیف میں مبتلا مسلمانوں کو اپنی دعاؤں میں یاد رکھیے اور جہاں ممکن ہو مدد کیجیے۔",
+   "ar": "إذا اشتكى عضو من الجسد تداعى له سائره بالسهر والحمّى. وكذلك ينبغي أن يشعر المؤمنون بآلام بعضهم بالرحمة والمودة والعون. اذكر المسلمين المتألمين في دعائك وساعد بما تستطيع."
+  },
+  "topic": "brotherhood",
+  "review": true,
+  "notes": "hadith-api edition number bukhari/6011 (arabicnumber 6011); sunnah.com reference Sahih al-Bukhari 6011. Grade source: Sahih (in Sahih al-Bukhari/Sahih Muslim)."
+ },
+ {
+  "id": "tirmidhi-3895",
+  "collection": "tirmidhi",
+  "number": 3895,
+  "book": {
+   "en": "Jami` at-Tirmidhi 3895",
+   "ur": "جامع ترمذی 3895",
+   "ar": "جامع الترمذي 3895"
+  },
+  "arabic": "…عَنْ عَائِشَةَ، قَالَتْ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم \" خَيْرُكُمْ خَيْرُكُمْ لأَهْلِهِ وَأَنَا خَيْرُكُمْ لأَهْلِي… \"",
+  "en": "Narrated 'Aishah:that the Messenger of Allah (ﷺ) said: \"The best of you is the best to his wives, and I am the best of you to my wives…\"",
+  "ur": "ام المؤمنین عائشہ رضی الله عنہا کہتی ہیں کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا: ”تم میں سے بہتر وہ ہے جو اپنے گھر والوں کے لیے بہتر ہو اور میں اپنے گھر والوں کے لیے سب سے بہتر ہوں…“",
+  "narrator": {
+   "en": "Aishah (RA)",
+   "ur": "حضرت عائشہ رضی اللہ عنہا",
+   "ar": "عائشة رضي الله عنها"
+  },
+  "grade": "Sahih",
+  "short": {
+   "en": "The best of you are the best to their families",
+   "ur": "تم میں بہتر وہ ہے جو اپنے گھر والوں کے لیے بہتر ہو",
+   "ar": "خيركم خيركم لأهله"
+  },
+  "explanation": {
+   "en": "Kindness at home is a true test of character, because our family sees us when no one else does. The Prophet ﷺ, the best of people, was also the best to his own family. Help with a chore or speak gently at home today.",
+   "ur": "گھر میں حسن سلوک اخلاق کا اصل امتحان ہے، کیونکہ گھر والے ہمیں اس وقت بھی دیکھتے ہیں جب کوئی اور نہیں دیکھتا۔ نبی کریم ﷺ سب انسانوں سے بہتر تھے اور اپنے گھر والوں کے لیے بھی سب سے بہتر تھے۔ آج گھر کے کسی کام میں ہاتھ بٹائیے یا نرمی سے بات کیجیے۔",
+   "ar": "حسن المعاملة في البيت هو الاختبار الحقيقي للخلق، لأن الأهل يروننا حين لا يرانا أحد. وكان النبي ﷺ خير الناس، وخيرهم لأهله. ساعد اليوم في عمل منزلي أو تكلّم برفق في البيت."
+  },
+  "topic": "family",
+  "review": true,
+  "notes": "hadith-api edition number tirmidhi/3895 (arabicnumber 3895); sunnah.com reference Jami` at-Tirmidhi 3895. Grade source: Ahmad Muhammad Shakir: Sahih; Al-Albani: Sahih; Bashar Awad Maarouf: Hasan Sahih; Zubair Ali Zai: Hasan."
+ },
+ {
+  "id": "abudawud-4943",
+  "collection": "abudawud",
+  "number": 4943,
+  "book": {
+   "en": "Sunan Abi Dawud 4943",
+   "ur": "سنن ابی داؤد 4943",
+   "ar": "سنن أبي داود 4943"
+  },
+  "arabic": "…عَنْ عَبْدِ اللَّهِ بْنِ عَمْرٍو، يَرْوِيهِ - قَالَ ابْنُ السَّرْحِ - عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ \" مَنْ لَمْ يَرْحَمْ صَغِيرَنَا وَيَعْرِفْ حَقَّ كَبِيرِنَا فَلَيْسَ مِنَّا \"",
+  "en": "Narrated Abdullah ibn Amr ibn al-'As: The Prophet (ﷺ) said: Those who do not show mercy to our young ones and do not realise the right of our elders are not from us.",
+  "ur": "عبداللہ بن عمرو رضی اللہ عنہما کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: جو ہمارے چھوٹے پر رحم نہ کھائے اور ہمارے بڑے کا حق نہ پہنچانے ( اس کا ادب و احترام نہ کرے ) تو وہ ہم میں سے نہیں ۔",
+  "narrator": {
+   "en": "Abdullah ibn Amr (RA)",
+   "ur": "حضرت عبداللہ بن عمرو رضی اللہ عنہما",
+   "ar": "عبد الله بن عمرو رضي الله عنهما"
+  },
+  "grade": "Sahih",
+  "short": {
+   "en": "Mercy to the young, respect for the elders",
+   "ur": "چھوٹوں پر رحم، بڑوں کا احترام",
+   "ar": "من لم يرحم صغيرنا ويعرف حق كبيرنا فليس منا"
+  },
+  "explanation": {
+   "en": "A healthy community shows mercy to its children and knows the rights of its elders. This balance holds families together across generations. Play kindly with a child and serve an elder today.",
+   "ur": "ایک اچھا معاشرہ بچوں پر رحم کرتا ہے اور بزرگوں کا حق پہچانتا ہے۔ یہ توازن نسلوں کو آپس میں جوڑے رکھتا ہے۔ آج کسی بچے کے ساتھ پیار سے کھیلیے اور کسی بزرگ کی خدمت کیجیے۔",
+   "ar": "المجتمع الصالح يرحم صغاره ويعرف حق كباره. وهذا التوازن يربط الأجيال بعضها ببعض. لاعب اليوم طفلًا برفق، واخدم كبيرًا في السن."
+  },
+  "topic": "children",
+  "review": true,
+  "notes": "hadith-api edition number abudawud/4943 (arabicnumber 4943); sunnah.com reference Sunan Abi Dawud 4943. Grade source: Al-Albani: Sahih; Muhammad Muhyi Al-Din Abdul Hamid: Sahih; Shuaib Al Arnaut: Sahih; Zubair Ali Zai: Hasan."
+ },
+ {
+  "id": "bukhari-33",
+  "collection": "bukhari",
+  "number": 33,
+  "book": {
+   "en": "Sahih al-Bukhari 33",
+   "ur": "صحیح بخاری 33",
+   "ar": "صحيح البخاري 33"
+  },
+  "arabic": "…عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ \" آيَةُ الْمُنَافِقِ ثَلاَثٌ إِذَا حَدَّثَ كَذَبَ، وَإِذَا وَعَدَ أَخْلَفَ، وَإِذَا اؤْتُمِنَ خَانَ \"",
+  "en": "Narrated Abu Huraira: The Prophet (ﷺ) said, \"The signs of a hypocrite are three: 1. Whenever he speaks, he tells a lie. 2. Whenever he promises, he always breaks it (his promise ). 3. If you trust him, he proves to be dishonest. (If you keep something as a trust with him, he will not return it).\"",
+  "ur": "…ابوہریرہ رضی اللہ عنہ سے روایت کرتے ہیں، وہ رسول اللہ صلی اللہ علیہ وسلم سے نقل کرتے ہیں کہ آپ صلی اللہ علیہ وسلم نے فرمایا، منافق کی علامتیں تین ہیں۔ جب بات کرے جھوٹ بولے، جب وعدہ کرے اس کے خلاف کرے اور جب اس کو امین بنایا جائے تو خیانت کرے۔",
+  "narrator": {
+   "en": "Abu Hurairah (RA)",
+   "ur": "حضرت ابوہریرہ رضی اللہ عنہ",
+   "ar": "أبو هريرة رضي الله عنه"
+  },
+  "grade": "Sahih",
+  "short": {
+   "en": "Keep your word: breaking promises is a sign of hypocrisy",
+   "ur": "وعدہ پورا کرو: وعدہ خلافی منافق کی نشانی ہے",
+   "ar": "آية المنافق ثلاث"
+  },
+  "explanation": {
+   "en": "The Prophet ﷺ warned that lying, breaking promises and betraying trust are signs of hypocrisy. A believer's word should be reliable, whether given to a child, a friend or a customer. Only promise what you intend to keep.",
+   "ur": "نبی کریم ﷺ نے خبردار کیا کہ جھوٹ، وعدہ خلافی اور امانت میں خیانت منافق کی نشانیاں ہیں۔ مومن کی بات پر بھروسہ کیا جا سکے، چاہے وہ بچے سے ہو، دوست سے یا گاہک سے۔ صرف وہی وعدہ کیجیے جسے پورا کرنے کا ارادہ ہو۔",
+   "ar": "حذّر النبي ﷺ من أن الكذب وإخلاف الوعد وخيانة الأمانة من علامات النفاق. فينبغي أن تكون كلمة المؤمن موثوقة، مع الطفل أو الصديق أو الزبون. لا تعد إلا بما تنوي الوفاء به."
+  },
+  "topic": "promises",
+  "review": true,
+  "notes": "hadith-api edition number bukhari/33 (arabicnumber 33); sunnah.com reference Sahih al-Bukhari 33. Grade source: Sahih (in Sahih al-Bukhari/Sahih Muslim)."
+ },
+ {
+  "id": "muslim-2589",
+  "collection": "muslim",
+  "number": 6593,
+  "book": {
+   "en": "Sahih Muslim 2589",
+   "ur": "صحیح مسلم 2589",
+   "ar": "صحيح مسلم 2589"
+  },
+  "arabic": "…عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ \" أَتَدْرُونَ مَا الْغِيبَةُ \". قَالُوا اللَّهُ وَرَسُولُهُ أَعْلَمُ. قَالَ \" ذِكْرُكَ أَخَاكَ بِمَا يَكْرَهُ \". قِيلَ أَفَرَأَيْتَ إِنْ كَانَ فِي أَخِي مَا أَقُولُ قَالَ \" إِنْ كَانَ فِيهِ مَا تَقُولُ فَقَدِ اغْتَبْتَهُ وَإِنْ لَمْ يَكُنْ فِيهِ فَقَدْ بَهَتَّهُ \"",
+  "en": "Abu Huraira reported Allah's Messenger (ﷺ) as saying:Do you know what is backbiting? They (the Companions) said: Allah and His Messenger know best. Thereupon he (the Holy Prophet) said: Backbiting implies your talking about your brother in a manner which he does not like. It was said to him: What is your opinion about this that if I actually find (that failing) in my brother which I made a mention of? He said: If (that failing) is actually found (in him) what you assert, you in fact backbited him, and if that is not in him it is a slander.",
+  "ur": "حضرت ابوہریرہ رضی اللہ عنہ سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" کیا تم جانتے ہو کہ غیبت کیا ہے؟ \" انہوں ( صحابہ ) نے عرض کی : اللہ اور اس کا رسول خوب جاننے والے ہیں ۔ آپ نے فرمایا : \" اپنے بھائی کا اس طرح تذکرہ کرنا جو اسے ناپسند ہو ۔ \" عرض کی گئی : آپ یہ دیکھئے کہ اگر میرے بھائی میں وہ بات واقعی موجود ہو جو میں کہتا ہوں ( تو؟ ) آپ نے فرمایا : \" جو کچھ تم کہتے ہو، اگر اس میں موجود ہے تو تم نے اس کی غیبت کی، اگر اس میں وہ ( عیب ) موجود نہیں تو تم نے اس پر بہتان لگایا ہے ۔ \"",
+  "narrator": {
+   "en": "Abu Hurairah (RA)",
+   "ur": "حضرت ابوہریرہ رضی اللہ عنہ",
+   "ar": "أبو هريرة رضي الله عنه"
+  },
+  "grade": "Sahih",
+  "short": {
+   "en": "Backbiting is mentioning your brother in a way he dislikes",
+   "ur": "غیبت: بھائی کا ایسا ذکر جو اسے ناپسند ہو",
+   "ar": "الغيبة ذكرك أخاك بما يكره"
+  },
+  "explanation": {
+   "en": "Backbiting is speaking about someone in their absence in a way they would dislike, even if it is true; if it is false, it is slander. This includes jokes, group chats and social media. When a conversation turns to backbiting, change the subject or say something good.",
+   "ur": "غیبت یہ ہے کہ کسی کی غیر موجودگی میں اس کا ایسا ذکر کیا جائے جو اسے ناپسند ہو، چاہے بات سچی ہو؛ اور اگر جھوٹی ہو تو یہ بہتان ہے۔ اس میں مذاق، گروپ چیٹ اور سوشل میڈیا سب شامل ہیں۔ جب گفتگو غیبت کی طرف جائے تو موضوع بدل دیجیے یا کوئی اچھی بات کہیے۔",
+   "ar": "الغيبة ذكرك أخاك في غيبته بما يكره ولو كان صدقًا، فإن كان كذبًا فهو بهتان. ويشمل ذلك المزاح ومجموعات المحادثة ووسائل التواصل. إذا اتجه الحديث إلى الغيبة فغيّر الموضوع أو قل خيرًا."
+  },
+  "topic": "backbiting",
+  "review": true,
+  "notes": "hadith-api edition number muslim/6593 (arabicnumber 2589); sunnah.com reference Sahih Muslim 2589. Grade source: Sahih (in Sahih al-Bukhari/Sahih Muslim). number = hadith-api hadithnumber; book label carries the sunnah.com number."
+ },
+ {
+  "id": "bukhari-5376",
+  "collection": "bukhari",
+  "number": 5376,
+  "book": {
+   "en": "Sahih al-Bukhari 5376",
+   "ur": "صحیح بخاری 5376",
+   "ar": "صحيح البخاري 5376"
+  },
+  "arabic": "…كُنْتُ غُلاَمًا فِي حَجْرِ رَسُولِ اللَّهِ صلى الله عليه وسلم وَكَانَتْ يَدِي تَطِيشُ فِي الصَّحْفَةِ فَقَالَ لِي رَسُولُ اللَّهِ صلى الله عليه وسلم \" يَا غُلاَمُ سَمِّ اللَّهَ، وَكُلْ بِيَمِينِكَ وَكُلْ مِمَّا يَلِيكَ \". فَمَا زَالَتْ تِلْكَ طِعْمَتِي بَعْدُ.",
+  "en": "Narrated `Umar bin Abi Salama:I was a boy under the care of Allah's Messenger (ﷺ) and my hand used to go around the dish while I was eating. So Allah's Messenger (ﷺ) said to me, 'O boy! Mention the Name of Allah and eat with your right hand, and eat of the dish what is nearer to you.\" Since then I have applied those instructions when eating.\"",
+  "ur": "…میں بچہ تھا اور رسول اللہ صلی اللہ علیہ وسلم کی پرورش میں تھا اور ( کھاتے وقت ) میرا ہاتھ برتن میں چاروں طرف گھوما کرتا۔ اس لیے آپ صلی اللہ علیہ وسلم نے مجھ سے فرمایا کہ بیٹے! بسم اللہ پڑھ لیا کرو، داہنے ہاتھ سے کھایا کرو اور برتن میں وہاں سے کھایا کرو جو جگہ تجھ سے نزدیک ہو۔ چنانچہ اس کے بعد میں ہمیشہ اسی ہدایت کے مطابق کھاتا رہا۔",
+  "narrator": {
+   "en": "Umar ibn Abi Salamah (RA)",
+   "ur": "حضرت عمر بن ابی سلمہ رضی اللہ عنہ",
+   "ar": "عمر بن أبي سلمة رضي الله عنه"
+  },
+  "grade": "Sahih",
+  "short": {
+   "en": "Say Bismillah and eat with your right hand",
+   "ur": "بسم اللہ پڑھو اور دائیں ہاتھ سے کھاؤ",
+   "ar": "يا غلام سمّ الله وكل بيمينك"
+  },
+  "explanation": {
+   "en": "The Prophet ﷺ gently taught a young boy three table manners: say Bismillah, eat with the right hand, and eat from what is in front of you. The boy kept these habits for the rest of his life. Lessons taught to children with kindness last.",
+   "ur": "نبی کریم ﷺ نے ایک بچے کو نرمی سے کھانے کے تین آداب سکھائے: بسم اللہ پڑھنا، دائیں ہاتھ سے کھانا اور اپنے سامنے سے کھانا۔ اس بچے نے یہ عادتیں عمر بھر اپنائے رکھیں۔ بچوں کو محبت سے سکھایا گیا سبق دیرپا ہوتا ہے۔",
+   "ar": "علّم النبي ﷺ غلامًا برفق ثلاثة آداب للطعام: التسمية، والأكل باليمين، والأكل مما يليه. فلزم الغلام هذه الآداب طوال حياته. وتعليم الأطفال بلطف يجعل الدرس يدوم."
+  },
+  "topic": "manners",
+  "review": true,
+  "notes": "hadith-api edition number bukhari/5376 (arabicnumber 5376); sunnah.com reference Sahih al-Bukhari 5376. Grade source: Sahih (in Sahih al-Bukhari/Sahih Muslim)."
+ },
+ {
+  "id": "bukhari-6224",
+  "collection": "bukhari",
+  "number": 6224,
+  "book": {
+   "en": "Sahih al-Bukhari 6224",
+   "ur": "صحیح بخاری 6224",
+   "ar": "صحيح البخاري 6224"
+  },
+  "arabic": "…عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ \" إِذَا عَطَسَ أَحَدُكُمْ فَلْيَقُلِ الْحَمْدُ لِلَّهِ. وَلْيَقُلْ لَهُ أَخُوهُ أَوْ صَاحِبُهُ يَرْحَمُكَ اللَّهُ. فَإِذَا قَالَ لَهُ يَرْحَمُكَ اللَّهُ. فَلْيَقُلْ يَهْدِيكُمُ اللَّهُ وَيُصْلِحُ بَالَكُمْ \"",
+  "en": "Narrated Abu Huraira:The Prophet (ﷺ) said, \" If anyone of you sneezes, he should say 'Al-Hamduli l-lah' (Praise be to Allah), and his (Muslim) brother or companion should say to him, 'Yar-hamuka-l-lah' (May Allah bestow his Mercy on you). When the latter says 'Yar-hamuka-llah\", the former should say, 'Yahdikumul-lah wa Yuslih balakum' (May Allah give you guidance and improve your condition).",
+  "ur": "…ابوہریرہ رضی اللہ عنہ سے روایت کرتے ہیں کہ نبی کریم صلی اللہ علیہ وسلم نے فرمایا ”جب تم میں سے کوئی چھینکے تو «الحمد الله» کہے اور اس کا بھائی یا اس کا ساتھی ( راوی کو شبہ تھا ) «يرحمك الله» کہے۔ جب ساتھی «يرحمك الله» کہے تو اس کے جواب میں چھینکنے والا «يهديكم الله ويصلح بالكم» ۔“",
+  "narrator": {
+   "en": "Abu Hurairah (RA)",
+   "ur": "حضرت ابوہریرہ رضی اللہ عنہ",
+   "ar": "أبو هريرة رضي الله عنه"
+  },
+  "grade": "Sahih",
+  "short": {
+   "en": "When you sneeze, say Alhamdulillah",
+   "ur": "چھینک آئے تو الحمدللہ کہو",
+   "ar": "إذا عطس أحدكم فليقل الحمد لله"
+  },
+  "explanation": {
+   "en": "Even a sneeze becomes a moment of remembrance and mutual prayer. The one who sneezes praises Allah, the listener prays for mercy for him, and he replies with a prayer for guidance. These small exchanges build love between people.",
+   "ur": "چھینک بھی ذکر اور ایک دوسرے کے لیے دعا کا موقع بن جاتی ہے۔ چھینکنے والا اللہ کی حمد کرتا ہے، سننے والا اس کے لیے رحمت کی دعا کرتا ہے، اور وہ جواب میں ہدایت کی دعا دیتا ہے۔ یہ چھوٹی باتیں لوگوں میں محبت بڑھاتی ہیں۔",
+   "ar": "حتى العطاس يصير لحظة ذكر ودعاء متبادل. فالعاطس يحمد الله، والسامع يدعو له بالرحمة، وهو يرد بالدعاء بالهداية. وهذه التبادلات الصغيرة تبني المحبة بين الناس."
+  },
+  "topic": "manners",
+  "review": true,
+  "notes": "hadith-api edition number bukhari/6224 (arabicnumber 6224); sunnah.com reference Sahih al-Bukhari 6224. Grade source: Sahih (in Sahih al-Bukhari/Sahih Muslim)."
+ },
+ {
+  "id": "bukhari-6307",
+  "collection": "bukhari",
+  "number": 6307,
+  "book": {
+   "en": "Sahih al-Bukhari 6307",
+   "ur": "صحیح بخاری 6307",
+   "ar": "صحيح البخاري 6307"
+  },
+  "arabic": "…سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ \" وَاللَّهِ إِنِّي لأَسْتَغْفِرُ اللَّهَ وَأَتُوبُ إِلَيْهِ فِي الْيَوْمِ أَكْثَرَ مِنْ سَبْعِينَ مَرَّةً \"",
+  "en": "Narrated Abu Huraira:I heard Allah's Messenger (ﷺ) saying.\" By Allah! I ask for forgiveness from Allah and turn to Him in repentance more than seventy times a day.\"",
+  "ur": "…میں نے رسول اللہ صلی اللہ علیہ وسلم سے سنا، نبی کریم صلی اللہ علیہ وسلم نے فرمایا کہ اللہ کی قسم میں دن میں ستر مرتبہ سے زیادہ اللہ سے استغفار اور اس سے توبہ کرتا ہوں۔",
+  "narrator": {
+   "en": "Abu Hurairah (RA)",
+   "ur": "حضرت ابوہریرہ رضی اللہ عنہ",
+   "ar": "أبو هريرة رضي الله عنه"
+  },
+  "grade": "Sahih",
+  "short": {
+   "en": "The Prophet ﷺ sought forgiveness more than seventy times a day",
+   "ur": "نبی ﷺ دن میں ستر سے زیادہ بار استغفار فرماتے",
+   "ar": "إني لأستغفر الله وأتوب إليه في اليوم أكثر من سبعين مرة"
+  },
+  "explanation": {
+   "en": "If the Prophet ﷺ asked Allah for forgiveness more than seventy times a day, we have even more reason to do so. Istighfar keeps the heart soft and humble. Repeat 'Astaghfirullaha wa atubu ilayh' through the day.",
+   "ur": "اگر نبی کریم ﷺ دن میں ستر سے زیادہ بار استغفار فرماتے تھے تو ہمیں اس کی کہیں زیادہ ضرورت ہے۔ استغفار دل کو نرم اور عاجز رکھتا ہے۔ دن بھر 'استغفر اللہ واتوب الیہ' پڑھتے رہیے۔",
+   "ar": "إذا كان النبي ﷺ يستغفر الله في اليوم أكثر من سبعين مرة، فنحن أحوج إلى ذلك. والاستغفار يُبقي القلب ليّنًا متواضعًا. ردّد «أستغفر الله وأتوب إليه» طوال يومك."
+  },
+  "topic": "repentance",
+  "review": true,
+  "notes": "hadith-api edition number bukhari/6307 (arabicnumber 6307); sunnah.com reference Sahih al-Bukhari 6307. Grade source: Sahih (in Sahih al-Bukhari/Sahih Muslim)."
+ },
+ {
+  "id": "bukhari-7405",
+  "collection": "bukhari",
+  "number": 7405,
+  "book": {
+   "en": "Sahih al-Bukhari 7405",
+   "ur": "صحیح بخاری 7405",
+   "ar": "صحيح البخاري 7405"
+  },
+  "arabic": "…عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم \" يَقُولُ اللَّهُ تَعَالَى أَنَا عِنْدَ ظَنِّ عَبْدِي بِي، وَأَنَا مَعَهُ إِذَا ذَكَرَنِي، فَإِنْ ذَكَرَنِي فِي نَفْسِهِ ذَكَرْتُهُ فِي نَفْسِي، وَإِنْ ذَكَرَنِي فِي مَلأٍ ذَكَرْتُهُ فِي مَلأٍ خَيْرٍ مِنْهُمْ، وَإِنْ تَقَرَّبَ إِلَىَّ بِشِبْرٍ تَقَرَّبْتُ إِلَيْهِ ذِرَاعًا، وَإِنْ تَقَرَّبَ إِلَىَّ ذِرَاعًا تَقَرَّبْتُ إِلَيْهِ بَاعًا، وَإِنْ أَتَانِي يَمْشِي أَتَيْتُهُ هَرْوَلَةً \"",
+  "en": "Narrated Abu Huraira:The Prophet (ﷺ) said, \"Allah says: 'I am just as My slave thinks I am, (i.e. I am able to do for him what he thinks I can do for him) and I am with him if He remembers Me. If he remembers Me in himself, I too, remember him in Myself; and if he remembers Me in a group of people, I remember him in a group that is better than they; and if he comes one span nearer to Me, I go one cubit nearer to him; and if he comes one cubit nearer to Me, I go a distance of two outstretched arms nearer to him; and if he comes to Me walking, I go to him running.\"",
+  "ur": "…ابوہریرہ رضی اللہ عنہ نے بیان کیا کہ نبی کریم صلی اللہ علیہ وسلم نے فرمایا ”اللہ تعالیٰ فرماتا ہے کہ میں اپنے بندے کے گمان کے ساتھ ہوں اور جب وہ مجھے اپنے دل میں یاد کرتا ہے تو میں بھی اسے اپنے دل میں یاد کرتا ہوں اور جب وہ مجھے مجلس میں یاد کرتا ہے تو میں اسے اس سے بہتر فرشتوں کی مجلس میں اسے یاد کرتا ہوں اور اگر وہ مجھ سے ایک بالشت قریب آتا ہے تو میں اس سے ایک ہاتھ قریب ہو جاتا ہوں اور اگر وہ مجھ سے ایک ہاتھ قریب آتا ہے تو میں اس سے دو ہاتھ قریب ہو جاتا ہوں اور اگر وہ میری طرف چل کر آتا ہے تو میں اس کے پاس دوڑ کر آ جاتا ہوں۔“",
+  "narrator": {
+   "en": "Abu Hurairah (RA)",
+   "ur": "حضرت ابوہریرہ رضی اللہ عنہ",
+   "ar": "أبو هريرة رضي الله عنه"
+  },
+  "grade": "Sahih",
+  "short": {
+   "en": "Allah is as His servant thinks of Him",
+   "ur": "اللہ اپنے بندے کے گمان کے ساتھ ہے",
+   "ar": "أنا عند ظن عبدي بي"
+  },
+  "explanation": {
+   "en": "In this hadith qudsi, Allah says He is as His servant expects Him to be, and that He comes closer to whoever comes towards Him. Thinking well of Allah fills the heart with hope and encourages good deeds. Take one step towards Allah today, trusting that He is nearer still.",
+   "ur": "اس حدیث قدسی میں اللہ تعالیٰ فرماتا ہے کہ وہ اپنے بندے کے گمان کے مطابق ہے، اور جو اس کی طرف بڑھتا ہے وہ اس سے بڑھ کر اس کے قریب ہوتا ہے۔ اللہ کے بارے میں اچھا گمان دل کو امید سے بھر دیتا ہے اور نیکی پر ابھارتا ہے۔ آج اللہ کی طرف ایک قدم بڑھائیے اور یقین رکھیے کہ وہ اس سے بھی زیادہ قریب ہے۔",
+   "ar": "في هذا الحديث القدسي يخبر الله أنه عند ظن عبده به، وأنه يتقرّب إلى من تقرّب إليه أكثر. وحسن الظن بالله يملأ القلب رجاءً ويبعث على العمل الصالح. تقرّب إلى الله اليوم خطوة، وثق أنه أقرب إليك."
+  },
+  "topic": "hope",
+  "review": true,
+  "notes": "hadith-api edition number bukhari/7405 (arabicnumber 7405); sunnah.com reference Sahih al-Bukhari 7405. Grade source: Sahih (in Sahih al-Bukhari/Sahih Muslim)."
+ },
+ {
+  "id": "bukhari-6000",
+  "collection": "bukhari",
+  "number": 6000,
+  "book": {
+   "en": "Sahih al-Bukhari 6000",
+   "ur": "صحیح بخاری 6000",
+   "ar": "صحيح البخاري 6000"
+  },
+  "arabic": "…سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ \" جَعَلَ اللَّهُ الرَّحْمَةَ مِائَةَ جُزْءٍ، فَأَمْسَكَ عِنْدَهُ تِسْعَةً وَتِسْعِينَ جُزْءًا، وَأَنْزَلَ فِي الأَرْضِ جُزْءًا وَاحِدًا، فَمِنْ ذَلِكَ الْجُزْءِ يَتَرَاحَمُ الْخَلْقُ، حَتَّى تَرْفَعَ الْفَرَسُ حَافِرَهَا عَنْ وَلَدِهَا خَشْيَةَ أَنْ تُصِيبَهُ \"",
+  "en": "Narrated Abu Huraira:I heard Allah's Messenger (ﷺ) saying, Allah divided Mercy into one hundred parts. He kept ninety nine parts with Him and sent down one part to the earth, and because of that, its one single part, His Creations are merciful to each other, so that even the mare lifts up its hoofs away from its baby animal, lest it should trample on it.",
+  "ur": "…میں نے رسول اللہ صلی اللہ علیہ وسلم سے سنا، نبی کریم صلی اللہ علیہ وسلم نے فرمایا کہ اللہ نے رحمت کے سو حصے بنائے اور اپنے پاس ان میں سے ننانوے حصے رکھے صرف ایک حصہ زمین پر اتارا اور اسی کی وجہ سے تم دیکھتے ہو کہ مخلوق ایک دوسرے پر رحم کرتی ہے، یہاں تک کہ گھوڑی بھی اپنے بچہ کو اپنے سم نہیں لگنے دیتی بلکہ سموں کو اٹھا لیتی ہے کہ کہیں اس سے اس کے بچہ کو تکلیف نہ پہنچے۔",
+  "narrator": {
+   "en": "Abu Hurairah (RA)",
+   "ur": "حضرت ابوہریرہ رضی اللہ عنہ",
+   "ar": "أبو هريرة رضي الله عنه"
+  },
+  "grade": "Sahih",
+  "short": {
+   "en": "Allah divided mercy into one hundred parts",
+   "ur": "اللہ نے رحمت کے سو حصے بنائے",
+   "ar": "جعل الله الرحمة مائة جزء"
+  },
+  "explanation": {
+   "en": "All the mercy we see in the world, from a mother's care to a mare lifting her hoof away from her foal, comes from just one part of Allah's mercy. He has kept ninety-nine parts with Him. This should fill us with hope and make us merciful to others.",
+   "ur": "دنیا میں نظر آنے والی ساری رحمت، ماں کی شفقت سے لے کر گھوڑی کے اپنے بچے سے کھر اٹھا لینے تک، اللہ کی رحمت کے صرف ایک حصے سے ہے، اور ننانوے حصے اس نے اپنے پاس رکھے ہیں۔ یہ بات ہمیں امید سے بھر دے اور دوسروں پر رحم کرنے والا بنائے۔",
+   "ar": "كل الرحمة التي نراها في الدنيا، من حنان الأم إلى رفع الفرس حافرها عن ولدها، من جزء واحد من رحمة الله، وقد أمسك عنده تسعة وتسعين جزءًا. وهذا يملؤنا رجاءً ويجعلنا رحماء بغيرنا."
+  },
+  "topic": "mercy",
+  "review": true,
+  "notes": "hadith-api edition number bukhari/6000 (arabicnumber 6000); sunnah.com reference Sahih al-Bukhari 6000. Grade source: Sahih (in Sahih al-Bukhari/Sahih Muslim)."
+ },
+ {
+  "id": "muslim-1631",
+  "collection": "muslim",
+  "number": 4223,
+  "book": {
+   "en": "Sahih Muslim 1631",
+   "ur": "صحیح مسلم 1631",
+   "ar": "صحيح مسلم 1631"
+  },
+  "arabic": "…عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ \" إِذَا مَاتَ الإِنْسَانُ انْقَطَعَ عَنْهُ عَمَلُهُ إِلاَّ مِنْ ثَلاَثَةٍ إِلاَّ مِنْ صَدَقَةٍ جَارِيَةٍ أَوْ عِلْمٍ يُنْتَفَعُ بِهِ أَوْ وَلَدٍ صَالِحٍ يَدْعُو لَهُ \"",
+  "en": "Abu Huraira (Allah be pleased with him) reported Allah's Messenger (ﷺ) as saying:When a man dies, his acts come to an end, but three, recurring charity, or knowledge (by which people) benefit, or a pious son, who prays for him (for the deceased).",
+  "ur": "حضرت ابوہریرہ رضی اللہ عنہ سے روایت ہے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" جب انسان فوت ہو جائے تو اس کا عمل منقطع ہو جاتا ہے سوائے تین اعمال کے ( وہ منقطع نہیں ہوتے ) : صدقہ جاریہ یا ایسا علم جس سے فائدہ اٹھایا جائے یا نیک بیٹا جو اس کے لیے دعا کرے \"",
+  "narrator": {
+   "en": "Abu Hurairah (RA)",
+   "ur": "حضرت ابوہریرہ رضی اللہ عنہ",
+   "ar": "أبو هريرة رضي الله عنه"
+  },
+  "grade": "Sahih",
+  "short": {
+   "en": "Three deeds that continue after death",
+   "ur": "تین عمل جو موت کے بعد بھی جاری رہتے ہیں",
+   "ar": "إذا مات الإنسان انقطع عنه عمله إلا من ثلاثة"
+  },
+  "explanation": {
+   "en": "Most deeds end with death, but three keep bringing reward: ongoing charity, beneficial knowledge, and a righteous child who prays for the parent. Planting a tree, teaching a skill or raising children well are investments for the hereafter. Think of one lasting good you could start.",
+   "ur": "موت کے ساتھ اکثر اعمال ختم ہو جاتے ہیں مگر تین کا اجر جاری رہتا ہے: صدقہ جاریہ، نفع بخش علم، اور نیک اولاد جو والدین کے لیے دعا کرے۔ درخت لگانا، کوئی ہنر سکھانا یا بچوں کی اچھی تربیت آخرت کی سرمایہ کاری ہے۔ کوئی ایک دیرپا نیکی سوچیے جو آپ شروع کر سکیں۔",
+   "ar": "تنقطع أكثر الأعمال بالموت، إلا ثلاثة يبقى أجرها: الصدقة الجارية، والعلم النافع، والولد الصالح الذي يدعو لوالده. فغرس شجرة أو تعليم مهارة أو حسن تربية الأولاد استثمار للآخرة. فكّر في خير باقٍ يمكنك أن تبدأه."
+  },
+  "topic": "legacy",
+  "review": true,
+  "notes": "hadith-api edition number muslim/4223 (arabicnumber 1631); sunnah.com reference Sahih Muslim 1631. Grade source: Sahih (in Sahih al-Bukhari/Sahih Muslim). number = hadith-api hadithnumber; book label carries the sunnah.com number."
+ },
+ {
+  "id": "bukhari-2072",
+  "collection": "bukhari",
+  "number": 2072,
+  "book": {
+   "en": "Sahih al-Bukhari 2072",
+   "ur": "صحیح بخاری 2072",
+   "ar": "صحيح البخاري 2072"
+  },
+  "arabic": "…عَنِ الْمِقْدَامِ ـ رضى الله عنه ـ عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ \" مَا أَكَلَ أَحَدٌ طَعَامًا قَطُّ خَيْرًا مِنْ أَنْ يَأْكُلَ مِنْ عَمَلِ يَدِهِ، وَإِنَّ نَبِيَّ اللَّهِ دَاوُدَ ـ عَلَيْهِ السَّلاَمُ ـ كَانَ يَأْكُلُ مِنْ عَمَلِ يَدِهِ \"",
+  "en": "Narrated Al-Miqdam:The Prophet (ﷺ) said, \"Nobody has ever eaten a better meal than that which one has earned by working with one's own hands. The Prophet of Allah, David (AS) used to eat from the earnings of his manual labor.\"",
+  "ur": "…مقدام رضی اللہ عنہ نے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا کسی انسان نے اس شخص سے بہتر روزی نہیں کھائی، جو خود اپنے ہاتھوں سے کما کر کھاتا ہے اللہ کے نبی داؤد علیہ السلام بھی اپنے ہاتھ سے کام کر کے روزی کھایا کرتے تھے۔",
+  "narrator": {
+   "en": "al-Miqdam ibn Ma'dikarib (RA)",
+   "ur": "حضرت مقدام بن معدیکرب رضی اللہ عنہ",
+   "ar": "المقدام بن معديكرب رضي الله عنه"
+  },
+  "grade": "Sahih",
+  "short": {
+   "en": "The best food is what you earn with your own hands",
+   "ur": "بہترین کھانا اپنے ہاتھ کی کمائی ہے",
+   "ar": "ما أكل أحد طعامًا قط خيرًا من أن يأكل من عمل يده"
+  },
+  "explanation": {
+   "en": "Honest work is honoured in Islam; even the Prophet Dawud (AS), who was a king, ate from the work of his own hands. Earning a halal living through effort brings dignity and blessing. Do your work today with excellence and the intention of pleasing Allah.",
+   "ur": "اسلام میں حلال محنت باعث عزت ہے؛ اللہ کے نبی داؤد علیہ السلام بادشاہ ہونے کے باوجود اپنے ہاتھ کی کمائی سے کھاتے تھے۔ محنت سے حلال روزی کمانا وقار اور برکت کا ذریعہ ہے۔ آج اپنا کام اچھی طرح اور اللہ کی رضا کی نیت سے کیجیے۔",
+   "ar": "العمل الشريف مكرّم في الإسلام، فقد كان نبي الله داود عليه السلام وهو ملك يأكل من عمل يده. وكسب الرزق الحلال بالجهد عزّ وبركة. أتقن عملك اليوم وانوِ به رضا الله."
+  },
+  "topic": "work",
+  "review": true,
+  "notes": "hadith-api edition number bukhari/2072 (arabicnumber 2072); sunnah.com reference Sahih al-Bukhari 2072. Grade source: Sahih (in Sahih al-Bukhari/Sahih Muslim). English: translator's '(ﷺ)' after David replaced with '(AS)' per app honorific rules."
+ },
+ {
+  "id": "bukhari-6446",
+  "collection": "bukhari",
+  "number": 6446,
+  "book": {
+   "en": "Sahih al-Bukhari 6446",
+   "ur": "صحیح بخاری 6446",
+   "ar": "صحيح البخاري 6446"
+  },
+  "arabic": "…عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ \" لَيْسَ الْغِنَى عَنْ كَثْرَةِ الْعَرَضِ، وَلَكِنَّ الْغِنَى غِنَى النَّفْسِ \"",
+  "en": "Narrated Abu Huraira:The Prophet (ﷺ) said, \"Wealth is not in having many possessions, but rather (true) wealth is feeling sufficiency in the soul.\"",
+  "ur": "…ابوہریرہ رضی اللہ عنہ نے بیان کیا کہ نبی کریم صلی اللہ علیہ وسلم نے فرمایا ”تونگری یہ نہیں ہے کہ سامان زیادہ ہو، بلکہ امیری یہ ہے کہ دل غنی ہو۔“",
+  "narrator": {
+   "en": "Abu Hurairah (RA)",
+   "ur": "حضرت ابوہریرہ رضی اللہ عنہ",
+   "ar": "أبو هريرة رضي الله عنه"
+  },
+  "grade": "Sahih",
+  "short": {
+   "en": "True richness is contentment of the soul",
+   "ur": "اصل امیری دل کا غنی ہونا ہے",
+   "ar": "ليس الغنى عن كثرة العرض ولكن الغنى غنى النفس"
+  },
+  "explanation": {
+   "en": "Real wealth is not owning many things but having a heart that feels it has enough. A content person is at peace even with little, while a greedy person stays needy even with much. Count what you already have before wishing for more.",
+   "ur": "حقیقی دولت زیادہ سامان کا نام نہیں بلکہ اس دل کا نام ہے جو سمجھے کہ اس کے پاس کافی ہے۔ قناعت والا تھوڑے میں بھی سکون سے رہتا ہے، جبکہ لالچی بہت کچھ ہونے کے باوجود محتاج رہتا ہے۔ مزید کی خواہش سے پہلے جو کچھ ہے اسے گن لیجیے۔",
+   "ar": "الغنى الحقيقي ليس كثرة المتاع بل قلب يشعر بالكفاية. فالقانع مطمئن ولو قلّ ما عنده، والحريص فقير ولو كثر ماله. عُدّ ما عندك قبل أن تتمنى المزيد."
+  },
+  "topic": "contentment",
+  "review": true,
+  "notes": "hadith-api edition number bukhari/6446 (arabicnumber 6446); sunnah.com reference Sahih al-Bukhari 6446. Grade source: Sahih (in Sahih al-Bukhari/Sahih Muslim)."
+ },
+ {
+  "id": "bukhari-2320",
+  "collection": "bukhari",
+  "number": 2320,
+  "book": {
+   "en": "Sahih al-Bukhari 2320",
+   "ur": "صحیح بخاری 2320",
+   "ar": "صحيح البخاري 2320"
+  },
+  "arabic": "…عَنْ أَنَسٍ ـ رضى الله عنه ـ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم \" مَا مِنْ مُسْلِمٍ يَغْرِسُ غَرْسًا، أَوْ يَزْرَعُ زَرْعًا، فَيَأْكُلُ مِنْهُ طَيْرٌ أَوْ إِنْسَانٌ أَوْ بَهِيمَةٌ، إِلاَّ كَانَ لَهُ بِهِ صَدَقَةٌ \"",
+  "en": "Narrated Anas bin Malik:Allah's Messenger (ﷺ) said, \"There is none amongst the Muslims who plants a tree or sows seeds, and then a bird, or a person or an animal eats from it, but is regarded as a charitable gift for him.\"",
+  "ur": "…انس بن مالک رضی اللہ عنہ نے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا، کوئی بھی مسلمان جو ایک درخت کا پودا لگائے یا کھیتی میں بیج بوئے، پھر اس میں سے پرند یا انسان یا جانور جو بھی کھاتے ہیں وہ اس کی طرف سے صدقہ ہے…",
+  "narrator": {
+   "en": "Anas ibn Malik (RA)",
+   "ur": "حضرت انس بن مالک رضی اللہ عنہ",
+   "ar": "أنس بن مالك رضي الله عنه"
+  },
+  "grade": "Sahih",
+  "short": {
+   "en": "Plant a tree: whatever is eaten from it is charity",
+   "ur": "درخت لگاؤ: اس سے جو کھائے وہ صدقہ ہے",
+   "ar": "ما من مسلم يغرس غرسًا إلا كان له به صدقة"
+  },
+  "explanation": {
+   "en": "Whenever a bird, a person or an animal eats from something a Muslim planted, it counts as charity for him. Caring for the earth is part of worship and can earn reward for years. Plant something, water a plant or protect a green space.",
+   "ur": "جب کوئی پرندہ، انسان یا جانور کسی مسلمان کے لگائے ہوئے پودے سے کھاتا ہے تو وہ اس کے لیے صدقہ بن جاتا ہے۔ زمین کی دیکھ بھال عبادت کا حصہ ہے اور برسوں تک اجر کا ذریعہ بن سکتی ہے۔ کوئی پودا لگائیے، کسی پودے کو پانی دیجیے یا سبزے کی حفاظت کیجیے۔",
+   "ar": "كلما أكل طير أو إنسان أو بهيمة مما غرسه المسلم كان له صدقة. فالعناية بالأرض من العبادة وقد يدوم أجرها سنين. اغرس شيئًا، أو اسقِ نبتة، أو احمِ مساحة خضراء."
+  },
+  "topic": "environment",
+  "review": true,
+  "notes": "hadith-api edition number bukhari/2320 (arabicnumber 2320); sunnah.com reference Sahih al-Bukhari 2320. Grade source: Sahih (in Sahih al-Bukhari/Sahih Muslim)."
+ },
+ {
+  "id": "bukhari-39",
+  "collection": "bukhari",
+  "number": 39,
+  "book": {
+   "en": "Sahih al-Bukhari 39",
+   "ur": "صحیح بخاری 39",
+   "ar": "صحيح البخاري 39"
+  },
+  "arabic": "…عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ \" إِنَّ الدِّينَ يُسْرٌ، وَلَنْ يُشَادَّ الدِّينَ أَحَدٌ إِلاَّ غَلَبَهُ، فَسَدِّدُوا وَقَارِبُوا وَأَبْشِرُوا، وَاسْتَعِينُوا بِالْغَدْوَةِ وَالرَّوْحَةِ وَشَىْءٍ مِنَ الدُّلْجَةِ \"",
+  "en": "Narrated Abu Huraira: The Prophet (ﷺ) said, \"Religion is very easy and whoever overburdens himself in his religion will not be able to continue in that way. So you should not be extremists, but try to be near to perfection and receive the good tidings that you will be rewarded; and gain strength by worshipping in the mornings, the afternoons, and during the last hours of the nights.\"",
+  "ur": "…ابوہریرہ سے کہ نبی کریم صلی اللہ علیہ وسلم نے فرمایا بیشک دین آسان ہے اور جو شخص دین میں سختی اختیار کرے گا تو دین اس پر غالب آ جائے گا ( اور اس کی سختی نہ چل سکے گی ) پس ( اس لیے ) اپنے عمل میں پختگی اختیار کرو۔ اور جہاں تک ممکن ہو میانہ روی برتو اور خوش ہو جاؤ ( کہ اس طرز عمل سے تم کو دارین کے فوائد حاصل ہوں گے ) اور صبح اور دوپہر اور شام اور کسی قدر رات میں ( عبادت سے ) مدد حاصل کرو۔…",
+  "narrator": {
+   "en": "Abu Hurairah (RA)",
+   "ur": "حضرت ابوہریرہ رضی اللہ عنہ",
+   "ar": "أبو هريرة رضي الله عنه"
+  },
+  "grade": "Sahih",
+  "short": {
+   "en": "The religion is easy",
+   "ur": "دین آسان ہے",
+   "ar": "إن الدين يسر"
+  },
+  "explanation": {
+   "en": "Islam is easy, and whoever overburdens himself in religion will eventually be overcome. The Prophet ﷺ advised doing what is right, staying close to the ideal, and spreading worship across the day. Steady, balanced worship lasts longer than bursts of extremes.",
+   "ur": "دین آسان ہے، اور جو دین میں حد سے زیادہ سختی کرے گا وہ آخرکار تھک کر رہ جائے گا۔ نبی کریم ﷺ نے درست عمل کرنے، میانہ روی اختیار کرنے اور عبادت کو دن کے مختلف اوقات میں تقسیم کرنے کی نصیحت فرمائی۔ متوازن اور مستقل عبادت وقتی جوش سے زیادہ دیر چلتی ہے۔",
+   "ar": "الدين يسر، ومن شدّد على نفسه فيه غُلب في النهاية. وأوصى النبي ﷺ بالسداد والمقاربة وتوزيع العبادة على أوقات اليوم. فالعبادة المتوازنة الدائمة أبقى من الحماس المنقطع."
+  },
+  "topic": "moderation",
+  "review": true,
+  "notes": "hadith-api edition number bukhari/39 (arabicnumber 39); sunnah.com reference Sahih al-Bukhari 39. Grade source: Sahih (in Sahih al-Bukhari/Sahih Muslim)."
+ },
+ {
+  "id": "muslim-408",
+  "collection": "muslim",
+  "number": 912,
+  "book": {
+   "en": "Sahih Muslim 408",
+   "ur": "صحیح مسلم 408",
+   "ar": "صحيح مسلم 408"
+  },
+  "arabic": "…عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ \" مَنْ صَلَّى عَلَىَّ وَاحِدَةً صَلَّى اللَّهُ عَلَيْهِ عَشْرًا \"",
+  "en": "Abu Huraira reported:The Messenger of Allah (ﷺ) said: He who blesses me once, Allah would bless him ten times.",
+  "ur": "…حضرت ابو ہریرہ رضی اللہ عنہ سے روایت ہے کہ رسول اللہﷺ نےفرمایا : جس نے مجھ پر ایک بار درود بھیجا اللہ تعالیٰ اس پر دس بار رحمت نازل فرمائے گا ۔",
+  "narrator": {
+   "en": "Abu Hurairah (RA)",
+   "ur": "حضرت ابوہریرہ رضی اللہ عنہ",
+   "ar": "أبو هريرة رضي الله عنه"
+  },
+  "grade": "Sahih",
+  "short": {
+   "en": "Send one blessing on the Prophet ﷺ, receive ten from Allah",
+   "ur": "نبی ﷺ پر ایک درود، اللہ کی دس رحمتیں",
+   "ar": "من صلى علي واحدة صلى الله عليه عشرًا"
+  },
+  "explanation": {
+   "en": "Whoever sends blessings (salah) upon the Prophet ﷺ once, Allah sends blessings upon him ten times. It is a simple way to show love for the Prophet ﷺ and to receive great reward. Send salawat often throughout the day.",
+   "ur": "جو نبی کریم ﷺ پر ایک بار درود بھیجتا ہے اللہ تعالیٰ اس پر دس رحمتیں نازل فرماتا ہے۔ یہ نبی ﷺ سے محبت کے اظہار اور بڑے اجر کا آسان ذریعہ ہے۔ دن بھر کثرت سے درود پڑھیے۔",
+   "ar": "من صلّى على النبي ﷺ مرة صلّى الله عليه بها عشرًا. وهي وسيلة يسيرة للتعبير عن محبته ﷺ ونيل الأجر العظيم. أكثِر من الصلاة عليه طوال يومك."
+  },
+  "topic": "salawat",
+  "review": true,
+  "notes": "hadith-api edition number muslim/912 (arabicnumber 408); sunnah.com reference Sahih Muslim 408. Grade source: Sahih (in Sahih al-Bukhari/Sahih Muslim). number = hadith-api hadithnumber; book label carries the sunnah.com number."
+ },
+ {
+  "id": "bukhari-6412",
+  "collection": "bukhari",
+  "number": 6412,
+  "book": {
+   "en": "Sahih al-Bukhari 6412",
+   "ur": "صحیح بخاری 6412",
+   "ar": "صحيح البخاري 6412"
+  },
+  "arabic": "…عَنِ ابْنِ عَبَّاسٍ ـ رضى الله عنهما ـ قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم \" نِعْمَتَانِ مَغْبُونٌ فِيهِمَا كَثِيرٌ مِنَ النَّاسِ، الصِّحَّةُ وَالْفَرَاغُ \"",
+  "en": "Narrated Ibn `Abbas:The Prophet (ﷺ) said: \"There are two blessings that many people are deceived into losing: health and free time.\"",
+  "ur": "…عبداللہ بن عباس رضی اللہ عنہما نے بیان کیا کہ نبی کریم صلی اللہ علیہ وسلم نے فرمایا ”دو نعمتیں ایسی ہیں کہ اکثر لوگ ان کی قدر نہیں کرتے، صحت اور فراغت۔“",
+  "narrator": {
+   "en": "Abdullah ibn Abbas (RA)",
+   "ur": "حضرت عبداللہ بن عباس رضی اللہ عنہما",
+   "ar": "عبد الله بن عباس رضي الله عنهما"
+  },
+  "grade": "Sahih",
+  "short": {
+   "en": "Health and free time: two blessings many people waste",
+   "ur": "صحت اور فراغت: دو نعمتیں جن کی اکثر لوگ قدر نہیں کرتے",
+   "ar": "نعمتان مغبون فيهما كثير من الناس: الصحة والفراغ"
+  },
+  "explanation": {
+   "en": "Many people lose out on two great blessings, good health and free time, by not using them well. Both pass quickly and are often valued only when they are gone. Use one free hour today for something beneficial.",
+   "ur": "بہت سے لوگ دو بڑی نعمتوں، صحت اور فارغ وقت، کو صحیح استعمال نہ کر کے نقصان اٹھاتے ہیں۔ دونوں جلد گزر جاتی ہیں اور اکثر ان کی قدر ان کے جانے کے بعد ہوتی ہے۔ آج ایک فارغ گھنٹہ کسی مفید کام میں لگائیے۔",
+   "ar": "يُغبن كثير من الناس في نعمتين عظيمتين، الصحة والفراغ، فلا يحسنون استعمالهما. وكلاهما يمضي سريعًا، وكثيرًا ما لا يُعرف قدرهما إلا بعد زوالهما. اجعل ساعة فراغ اليوم في شيء نافع."
+  },
+  "topic": "time",
+  "review": true,
+  "notes": "hadith-api edition number bukhari/6412 (arabicnumber 6412); sunnah.com reference Sahih al-Bukhari 6412. Grade source: Sahih (in Sahih al-Bukhari/Sahih Muslim)."
+ },
+ {
+  "id": "bukhari-1417",
+  "collection": "bukhari",
+  "number": 1417,
+  "book": {
+   "en": "Sahih al-Bukhari 1417",
+   "ur": "صحیح بخاری 1417",
+   "ar": "صحيح البخاري 1417"
+  },
+  "arabic": "…سَمِعْتُ عَدِيَّ بْنَ حَاتِمٍ ـ رضى الله عنه ـ قَالَ سَمِعْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَقُولُ \" اتَّقُوا النَّارَ وَلَوْ بِشِقِّ تَمْرَةٍ \"",
+  "en": "Narrated `Adi bin Hatim heard the Prophet (ﷺ) saying:\"Save yourself from Hell-fire even by giving half a date-fruit in charity.\"",
+  "ur": "…میں نے عدی بن حاتم رضی اللہ عنہ سے سنا ‘ انہوں نے کہا کہ میں نے رسول اللہ صلی اللہ علیہ وسلم کو یہ کہتے سنا کہ جہنم سے بچو اگرچہ کھجور کا ایک ٹکڑا دے کر ہی سہی ( مگر ضرور صدقہ کر کے دوزخ کی آگ سے بچنے کی کوشش کرو ) ۔",
+  "narrator": {
+   "en": "Adi ibn Hatim (RA)",
+   "ur": "حضرت عدی بن حاتم رضی اللہ عنہ",
+   "ar": "عدي بن حاتم رضي الله عنه"
+  },
+  "grade": "Sahih",
+  "short": {
+   "en": "Protect yourself from the Fire, even with half a date",
+   "ur": "آگ سے بچو، چاہے آدھی کھجور دے کر",
+   "ar": "اتقوا النار ولو بشق تمرة"
+  },
+  "explanation": {
+   "en": "No charity is too small: even half a date, given sincerely, can be a shield from the Fire. What matters is giving what we can with a good heart. Give something today, however small.",
+   "ur": "کوئی صدقہ چھوٹا نہیں: خلوص سے دی گئی آدھی کھجور بھی آگ سے بچاؤ بن سکتی ہے۔ اصل بات یہ ہے کہ اچھے دل سے جو ممکن ہو دیا جائے۔ آج کچھ نہ کچھ ضرور دیجیے، چاہے تھوڑا ہی ہو۔",
+   "ar": "لا صدقة صغيرة؛ فشقّ تمرة بإخلاص قد يقي صاحبه النار. والمهم أن نعطي ما نستطيع بقلب طيب. تصدّق اليوم بشيء ولو قليلًا."
+  },
+  "topic": "charity",
+  "review": true,
+  "notes": "hadith-api edition number bukhari/1417 (arabicnumber 1417); sunnah.com reference Sahih al-Bukhari 1417. Grade source: Sahih (in Sahih al-Bukhari/Sahih Muslim)."
+ },
+ {
+  "id": "bukhari-2989",
+  "collection": "bukhari",
+  "number": 2989,
+  "book": {
+   "en": "Sahih al-Bukhari 2989",
+   "ur": "صحیح بخاری 2989",
+   "ar": "صحيح البخاري 2989"
+  },
+  "arabic": "…عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم \" كُلُّ سُلاَمَى مِنَ النَّاسِ عَلَيْهِ صَدَقَةٌ كُلَّ يَوْمٍ تَطْلُعُ فِيهِ الشَّمْسُ، يَعْدِلُ بَيْنَ الاِثْنَيْنِ صَدَقَةٌ، وَيُعِينُ الرَّجُلَ عَلَى دَابَّتِهِ، فَيَحْمِلُ عَلَيْهَا، أَوْ يَرْفَعُ عَلَيْهَا مَتَاعَهُ صَدَقَةٌ، وَالْكَلِمَةُ الطَّيِّبَةُ صَدَقَةٌ، وَكُلُّ خَطْوَةٍ يَخْطُوهَا إِلَى الصَّلاَةِ صَدَقَةٌ، وَيُمِيطُ الأَذَى عَنِ الطَّرِيقِ صَدَقَةٌ \"",
+  "en": "Narrated Abu Huraira:Allah's Messenger (ﷺ) said, \"There is a (compulsory) Sadaqa (charity) to be given for every joint of the human body (as a sign of gratitude to Allah) everyday the sun rises. To judge justly between two persons is regarded as Sadaqa, and to help a man concerning his riding animal by helping him to ride it or by lifting his luggage on to it, is also regarded as Sadaqa, and (saying) a good word is also Sadaqa, and every step taken on one's way to offer the compulsory prayer (in the mosque) is also Sadaqa and to remove a harmful thing from the way is also Sadaqa.\"",
+  "ur": "…ابوہریرہ رضی اللہ عنہ نے بیان کیا کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا ”انسان کے ہر ایک جوڑ پر صدقہ لازم ہوتا ہے۔ ہر دن جس میں سورج طلوع ہوتا ہے۔ پھر اگر وہ انسانوں کے درمیان انصاف کرے تو یہ بھی ایک صدقہ ہے اور کسی کو سواری کے معاملے میں اگر مدد پہنچائے، اس طرح پر کہ اسے اس پر سوار کرائے یا اس کا سامان اٹھا کر رکھ دے تو یہ بھی ایک صدقہ ہے اور اچھی بات منہ سے نکالنا بھی ایک صدقہ ہے اور ہر قدم جو نماز کے لیے اٹھتا ہے وہ بھی صدقہ ہے اور اگر کوئی راستے سے کسی تکلیف دینے والی چیز کو ہٹا دے تو وہ بھی ایک صدقہ ہے۔“",
+  "narrator": {
+   "en": "Abu Hurairah (RA)",
+   "ur": "حضرت ابوہریرہ رضی اللہ عنہ",
+   "ar": "أبو هريرة رضي الله عنه"
+  },
+  "grade": "Sahih",
+  "short": {
+   "en": "A good word is charity",
+   "ur": "اچھی بات صدقہ ہے",
+   "ar": "الكلمة الطيبة صدقة"
+  },
+  "explanation": {
+   "en": "Every joint of the body owes a charity each day, and the Prophet ﷺ showed how easily it can be paid: judging fairly, helping someone with their mount or luggage, a good word, each step to prayer, and removing harm from the road. Our bodies are blessings we thank Allah for through good deeds. Choose two of these today.",
+   "ur": "ہمارے جسم کے ہر جوڑ پر روزانہ صدقہ لازم ہے، اور نبی کریم ﷺ نے بتایا کہ یہ کتنی آسانی سے ادا ہو سکتا ہے: انصاف کرنا، کسی کو سواری یا سامان میں مدد دینا، اچھی بات، نماز کی طرف ہر قدم، اور راستے سے تکلیف دہ چیز ہٹانا۔ ہمارا جسم نعمت ہے جس کا شکر نیک اعمال سے ادا ہوتا ہے۔ آج ان میں سے دو کام کیجیے۔",
+   "ar": "على كل مفصل من أجسامنا صدقة كل يوم، وبيّن النبي ﷺ كيف تؤدّى بسهولة: العدل بين اثنين، وإعانة الرجل على دابته أو متاعه، والكلمة الطيبة، وكل خطوة إلى الصلاة، وإماطة الأذى عن الطريق. فأجسامنا نعمة نشكر الله عليها بالعمل الصالح. اختر اثنين منها اليوم."
+  },
+  "topic": "charity",
+  "review": true,
+  "notes": "hadith-api edition number bukhari/2989 (arabicnumber 2989); sunnah.com reference Sahih al-Bukhari 2989. Grade source: Sahih (in Sahih al-Bukhari/Sahih Muslim)."
+ },
+ {
+  "id": "muslim-2963a",
+  "collection": "muslim",
+  "number": 7428,
+  "book": {
+   "en": "Sahih Muslim 2963a",
+   "ur": "صحیح مسلم 2963a",
+   "ar": "صحيح مسلم 2963a"
+  },
+  "arabic": "…عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ \" إِذَا نَظَرَ أَحَدُكُمْ إِلَى مَنْ فُضِّلَ عَلَيْهِ فِي الْمَالِ وَالْخَلْقِ فَلْيَنْظُرْ إِلَى مَنْ هُوَ أَسْفَلَ مِنْهُ مِمَّنْ فُضِّلَ عَلَيْهِ \"",
+  "en": "Abu Huraira reported that Allah's Messenger (ﷺ) said:When one of you looks at one who stands at a higher level than you in regard to wealth and physical structure he should also see one who stands at a lower level than you in regard to these things (in which he stands) at a higher level (as compared to him).",
+  "ur": "…حضرت ابو ہریرۃ رضی اللہ تعالیٰ عنہ سے روایت کی کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" جب تم میں سے کوئی شخص اس کی طرف دیکھے جسے مال اور جمال میں فضیلت حاصل ہے تو اس کو بھی دیکھے جو اس سے کمتر ہے، جس پر ( خود ) اسے فضیلت حاصل ہے ۔ \"",
+  "narrator": {
+   "en": "Abu Hurairah (RA)",
+   "ur": "حضرت ابوہریرہ رضی اللہ عنہ",
+   "ar": "أبو هريرة رضي الله عنه"
+  },
+  "grade": "Sahih",
+  "short": {
+   "en": "Look at those who have less than you",
+   "ur": "اپنے سے کم والوں کو دیکھو",
+   "ar": "فلينظر إلى من هو أسفل منه"
+  },
+  "explanation": {
+   "en": "When we only compare ourselves with people who have more wealth or better looks, we forget our own blessings. The Prophet ﷺ taught us to also look at those who have less. This simple habit protects the heart from envy and builds gratitude.",
+   "ur": "جب ہم صرف ان لوگوں سے اپنا موازنہ کرتے ہیں جن کے پاس زیادہ مال یا بہتر صورت ہے تو اپنی نعمتیں بھول جاتے ہیں۔ نبی کریم ﷺ نے سکھایا کہ ان کو بھی دیکھو جن کے پاس کم ہے۔ یہ سادہ عادت دل کو حسد سے بچاتی ہے اور شکر پیدا کرتی ہے۔",
+   "ar": "حين نقارن أنفسنا بمن هو أكثر مالًا أو أحسن خلقة ننسى نعم الله علينا. وقد علّمنا النبي ﷺ أن ننظر إلى من هو دوننا. وهذه العادة البسيطة تحمي القلب من الحسد وتزرع الشكر."
+  },
+  "topic": "gratitude",
+  "review": true,
+  "notes": "hadith-api edition number muslim/7428 (arabicnumber 2963.01); sunnah.com reference Sahih Muslim 2963a. Grade source: Sahih (in Sahih al-Bukhari/Sahih Muslim). number = hadith-api hadithnumber; book label carries the sunnah.com number."
+ },
+ {
+  "id": "bukhari-527",
+  "collection": "bukhari",
+  "number": 527,
+  "book": {
+   "en": "Sahih al-Bukhari 527",
+   "ur": "صحیح بخاری 527",
+   "ar": "صحيح البخاري 527"
+  },
+  "arabic": "…سَأَلْتُ النَّبِيَّ صلى الله عليه وسلم أَىُّ الْعَمَلِ أَحَبُّ إِلَى اللَّهِ قَالَ \" الصَّلاَةُ عَلَى وَقْتِهَا \". قَالَ ثُمَّ أَىُّ قَالَ \" ثُمَّ بِرُّ الْوَالِدَيْنِ \". قَالَ ثُمَّ أَىُّ قَالَ \" الْجِهَادُ فِي سَبِيلِ اللَّهِ \"",
+  "en": "Narrated `Abdullah:I asked the Prophet (ﷺ) \"Which deed is the dearest to Allah?\" He replied, \"To offer the prayers at their early stated fixed times.\" I asked, \"What is the next (in goodness)?\" He replied, \"To be good and dutiful to your parents\" I again asked, \"What is the next (in goodness)?\" He replied, 'To participate in Jihad (religious fighting) in Allah's cause.\"",
+  "ur": "…میں نے نبی کریم صلی اللہ علیہ وسلم سے پوچھا کہ اللہ تعالیٰ کی بارگاہ میں کون سا عمل زیادہ محبوب ہے؟ آپ صلی اللہ علیہ وسلم نے فرمایا کہ اپنے وقت پر نماز پڑھنا، پھر پوچھا، اس کے بعد، فرمایا والدین کے ساتھ نیک معاملہ رکھنا۔ پوچھا اس کے بعد، آپ صلی اللہ علیہ وسلم نے فرمایا کہ اللہ کی راہ میں جہاد کرنا۔…",
+  "narrator": {
+   "en": "Abdullah ibn Mas'ud (RA)",
+   "ur": "حضرت عبداللہ بن مسعود رضی اللہ عنہ",
+   "ar": "عبد الله بن مسعود رضي الله عنه"
+  },
+  "grade": "Sahih",
+  "short": {
+   "en": "Prayer on time: the deed most beloved to Allah",
+   "ur": "وقت پر نماز: اللہ کو سب سے محبوب عمل",
+   "ar": "الصلاة على وقتها"
+  },
+  "explanation": {
+   "en": "Asked which deed Allah loves most, the Prophet ﷺ named prayer at its proper time, then kindness to parents. Praying on time shows that Allah comes first in our day. Plan your day around the prayer times rather than squeezing prayer into the gaps.",
+   "ur": "جب پوچھا گیا کہ اللہ کو کون سا عمل سب سے زیادہ محبوب ہے تو نبی کریم ﷺ نے وقت پر نماز، پھر والدین کے ساتھ حسن سلوک کا ذکر فرمایا۔ وقت پر نماز بتاتی ہے کہ ہمارے دن میں اللہ سب سے پہلے ہے۔ نماز کو فرصت کے لمحوں میں ٹھونسنے کے بجائے اپنا دن نماز کے اوقات کے گرد ترتیب دیجیے۔",
+   "ar": "سُئل النبي ﷺ عن أحب الأعمال إلى الله فذكر الصلاة على وقتها ثم برّ الوالدين. والصلاة في وقتها تعني أن الله مقدَّم في يومنا. رتّب يومك حول أوقات الصلاة بدل أن تحشر الصلاة في الفراغات."
+  },
+  "topic": "prayer",
+  "review": true,
+  "notes": "hadith-api edition number bukhari/527 (arabicnumber 527); sunnah.com reference Sahih al-Bukhari 527. Grade source: Sahih (in Sahih al-Bukhari/Sahih Muslim)."
+ },
+ {
+  "id": "muslim-244",
+  "collection": "muslim",
+  "number": 577,
+  "book": {
+   "en": "Sahih Muslim 244",
+   "ur": "صحیح مسلم 244",
+   "ar": "صحيح مسلم 244"
+  },
+  "arabic": "…عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ \" إِذَا تَوَضَّأَ الْعَبْدُ الْمُسْلِمُ - أَوِ الْمُؤْمِنُ - فَغَسَلَ وَجْهَهُ خَرَجَ مِنْ وَجْهِهِ كُلُّ خَطِيئَةٍ نَظَرَ إِلَيْهَا بِعَيْنَيْهِ مَعَ الْمَاءِ - أَوْ مَعَ آخِرِ قَطْرِ الْمَاءِ - فَإِذَا غَسَلَ يَدَيْهِ خَرَجَ مِنْ يَدَيْهِ كُلُّ خَطِيئَةٍ كَانَ بَطَشَتْهَا يَدَاهُ مَعَ الْمَاءِ - أَوْ مَعَ آخِرِ قَطْرِ الْمَاءِ - فَإِذَا غَسَلَ رِجْلَيْهِ خَرَجَتْ كُلُّ خَطِيئَةٍ مَشَتْهَا رِجْلاَهُ مَعَ الْمَاءِ - أَوْ مَعَ آخِرِ قَطْرِ الْمَاءِ - حَتَّى يَخْرُجَ نَقِيًّا مِنَ الذُّنُوبِ \"",
+  "en": "Abu Huraira reported:Allah's Messenger (ﷺ) said: When a bondsman-a Muslim or a believer-washes his face (in course of ablution), every sin he contemplated with his eyes, will be washed away from his face along with water, or with the last drop of water; when he washes his hands, every sin they wrought will be effaced from his hands with the water, or with the last drop of water; and when he washes his feet, every sin towards which his feet have walked will be washed away with the water or with the last drop of water with the result that he comes out pure from all sins.",
+  "ur": "حضرت ابو ہریرہ رضی اللہ عنہ سے روایت ہے کہ رسول اللہ ﷺ نے فرمایا : ’’جب ایک مسلم ( یامومن ) بندہ وضو کرتا ہے اور اپنا چہرہ دھوتا ہے تو پانی ( یاپانی کے آخری قطرے ) کے ساتھ اس کے چہرے سے وہ سارے گناہ، جنہیں اس نے اپنی آنکھوں سے دیکھتے ہوئے کیا تھا، خارج ہو جاتے ہیں اور جب وہ اپنے ہاتھ دھوتا ہے تو پانی ( یا پانی کے آخری قطرے ) کے ساتھ وہ سارے گناہ، جو اس کے ہاتھوں نے پکڑ کر کیے تھے، خارج ہو جاتے ہیں اور جب وہ اپنے دونوں پاؤں دھوتا ہے تو پانی ( یا پانی کے آخری قطرے ) کے ساتھ وہ تمام گناہ، جو اس کے پیروں نے چل کر کیے تھے، خارج ہو جاتے ہیں حتی کہ وہ گناہون سے پاک ہو کر نکلتا ہے ۔ ‘ ‘",
+  "narrator": {
+   "en": "Abu Hurairah (RA)",
+   "ur": "حضرت ابوہریرہ رضی اللہ عنہ",
+   "ar": "أبو هريرة رضي الله عنه"
+  },
+  "grade": "Sahih",
+  "short": {
+   "en": "Wudu washes away sins with the water",
+   "ur": "وضو کے پانی کے ساتھ گناہ دھل جاتے ہیں",
+   "ar": "إذا توضأ العبد المسلم خرجت خطاياه مع الماء"
+  },
+  "explanation": {
+   "en": "Wudu cleans more than the body: as the face, hands and feet are washed, the sins committed with them leave with the water. Every wudu is a chance to begin again, pure. Make wudu calmly and attentively today.",
+   "ur": "وضو صرف جسم کو صاف نہیں کرتا: جب چہرہ، ہاتھ اور پاؤں دھوئے جاتے ہیں تو ان سے ہونے والے گناہ پانی کے ساتھ نکل جاتے ہیں۔ ہر وضو پاک ہو کر نئے سرے سے شروع کرنے کا موقع ہے۔ آج اطمینان اور توجہ سے وضو کیجیے۔",
+   "ar": "الوضوء يطهّر أكثر من البدن؛ فإذا غُسل الوجه واليدان والرجلان خرجت الخطايا التي اقتُرفت بها مع الماء. وكل وضوء فرصة لبداية جديدة طاهرة. توضّأ اليوم بطمأنينة وحضور قلب."
+  },
+  "topic": "cleanliness",
+  "review": true,
+  "notes": "hadith-api edition number muslim/577 (arabicnumber 244); sunnah.com reference Sahih Muslim 244. Grade source: Sahih (in Sahih al-Bukhari/Sahih Muslim). number = hadith-api hadithnumber; book label carries the sunnah.com number."
+ },
+ {
+  "id": "bukhari-5027",
+  "collection": "bukhari",
+  "number": 5027,
+  "book": {
+   "en": "Sahih al-Bukhari 5027",
+   "ur": "صحیح بخاری 5027",
+   "ar": "صحيح البخاري 5027"
+  },
+  "arabic": "…عَنْ عُثْمَانَ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ \" خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ \"",
+  "en": "Narrated `Uthman:The Prophet (ﷺ) said, \"The best among you (Muslims) are those who learn the Qur'an and teach it.\"",
+  "ur": "…عثمان بن عفان رضی اللہ عنہ سے، انہوں نے بیان کیا کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا کہ تم میں سب سے بہتر وہ ہے جو قرآن مجید پڑھے اور پڑھائے۔…",
+  "narrator": {
+   "en": "Uthman ibn Affan (RA)",
+   "ur": "حضرت عثمان بن عفان رضی اللہ عنہ",
+   "ar": "عثمان بن عفان رضي الله عنه"
+  },
+  "grade": "Sahih",
+  "short": {
+   "en": "The best of you learn the Quran and teach it",
+   "ur": "تم میں بہترین وہ ہے جو قرآن سیکھے اور سکھائے",
+   "ar": "خيركم من تعلم القرآن وعلمه"
+  },
+  "explanation": {
+   "en": "Learning the Quran and passing it on is among the best of deeds. One of the narrators, Abu Abdur-Rahman as-Sulami, spent decades teaching the Quran because of this hadith. Teach a child a short surah or share a verse you have learned.",
+   "ur": "قرآن سیکھنا اور آگے سکھانا بہترین اعمال میں سے ہے۔ اس حدیث کے ایک راوی ابو عبدالرحمٰن سلمی رحمہ اللہ نے اسی حدیث کی وجہ سے کئی دہائیاں قرآن پڑھانے میں گزاریں۔ کسی بچے کو کوئی چھوٹی سورت سکھائیے یا سیکھی ہوئی کوئی آیت دوسروں تک پہنچائیے۔",
+   "ar": "تعلّم القرآن وتعليمه من أفضل الأعمال. وقد قضى أحد رواة الحديث، أبو عبد الرحمن السلمي رحمه الله، عقودًا يُقرئ القرآن بسبب هذا الحديث. علّم طفلًا سورة قصيرة أو شارك آية تعلّمتها."
+  },
+  "topic": "quran",
+  "review": true,
+  "notes": "hadith-api edition number bukhari/5027 (arabicnumber 5027); sunnah.com reference Sahih al-Bukhari 5027. Grade source: Sahih (in Sahih al-Bukhari/Sahih Muslim)."
+ },
+ {
+  "id": "muslim-35b",
+  "collection": "muslim",
+  "number": 153,
+  "book": {
+   "en": "Sahih Muslim 35b",
+   "ur": "صحیح مسلم 35b",
+   "ar": "صحيح مسلم 35b"
+  },
+  "arabic": "…عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم \" الإِيمَانُ بِضْعٌ وَسَبْعُونَ أَوْ بِضْعٌ وَسِتُّونَ شُعْبَةً فَأَفْضَلُهَا قَوْلُ لاَ إِلَهَ إِلاَّ اللَّهُ وَأَدْنَاهَا إِمَاطَةُ الأَذَى عَنِ الطَّرِيقِ وَالْحَيَاءُ شُعْبَةٌ مِنَ الإِيمَانِ \"",
+  "en": "It is narrated on the authority of Abu Huraira that the Messenger of Allah (may peace and blessings be upon him) said:Faith has over seventy branches or over sixty branches, the most excellent of which is the declaration that there is no god but Allah, and the humblest of which is the, removal of what is injurious from the path: and modesty is the branch of faith.",
+  "ur": "…حضرت ابو ہریرہ رضی اللہ عنہ سے روایت کی کہ رسول اللہ ﷺ نے فرمایا : ’’ایمان کے ستر سے اوپر ( یا ساٹھ سے اوپر ) شعبے ( اجزاء ) ہیں ۔ سب سے افضل جز لااله الا الله کا اقرار ہے اور سب سے چھوٹا کسی اذیت ( دینے والی چیز ) کو راستے سے ہٹانا ہے اور حیابھی ایمان کی شاخوں میں سے ایک ہے ۔ ‘ ‘",
+  "narrator": {
+   "en": "Abu Hurairah (RA)",
+   "ur": "حضرت ابوہریرہ رضی اللہ عنہ",
+   "ar": "أبو هريرة رضي الله عنه"
+  },
+  "grade": "Sahih",
+  "short": {
+   "en": "Faith has many branches, even removing harm from the road",
+   "ur": "ایمان کے بہت سے شعبے ہیں، راستے سے تکلیف دہ چیز ہٹانا بھی",
+   "ar": "الإيمان بضع وسبعون أو بضع وستون شعبة"
+  },
+  "explanation": {
+   "en": "Faith is not one act but many branches: the highest is declaring that there is no god but Allah, and the lowest is removing something harmful from the path. Haya (modesty) is also a branch of faith. Every good deed, big or small, is part of our iman.",
+   "ur": "ایمان ایک عمل نہیں بلکہ بہت سے شعبے ہیں: سب سے اعلیٰ لا الٰہ الا اللہ کا اقرار ہے اور سب سے ادنیٰ راستے سے تکلیف دہ چیز ہٹانا ہے۔ حیا بھی ایمان کا ایک شعبہ ہے۔ ہر نیکی، چھوٹی ہو یا بڑی، ایمان کا حصہ ہے۔",
+   "ar": "الإيمان ليس عملًا واحدًا بل شعب كثيرة: أعلاها قول لا إله إلا الله، وأدناها إماطة الأذى عن الطريق، والحياء شعبة من الإيمان. فكل عمل صالح، صغيرًا كان أو كبيرًا، جزء من إيماننا."
+  },
+  "topic": "faith",
+  "review": true,
+  "notes": "hadith-api edition number muslim/153 (arabicnumber 35.02); sunnah.com reference Sahih Muslim 35b. Grade source: Sahih (in Sahih al-Bukhari/Sahih Muslim). number = hadith-api hadithnumber; book label carries the sunnah.com number."
+ },
+ {
+  "id": "muslim-2318a",
+  "collection": "muslim",
+  "number": 6028,
+  "book": {
+   "en": "Sahih Muslim 2318a",
+   "ur": "صحیح مسلم 2318a",
+   "ar": "صحيح مسلم 2318a"
+  },
+  "arabic": "…عَنْ أَبِي هُرَيْرَةَ، أَنَّ الأَقْرَعَ بْنَ حَابِسٍ، أَبْصَرَ النَّبِيَّ صلى الله عليه وسلم يُقَبِّلُ الْحَسَنَ فَقَالَ إِنَّ لِي عَشَرَةً مِنَ الْوَلَدِ مَا قَبَّلْتُ وَاحِدًا مِنْهُمْ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم \" إِنَّهُ مَنْ لاَ يَرْحَمْ لاَ يُرْحَمْ \"",
+  "en": "Abu Huraira reported that al-Aqra' b. Habis saw Allah's Apostle (ﷺ) kissing Hasan. He said:I have ten children, but I have never kissed any one of them, whereupon Allah's Messenger (ﷺ) said: He who does not show mercy (towards his children), no mercy would be shown to him.",
+  "ur": "…حضرت ابو ہریرہ رضی اللہ تعالیٰ عنہ سے رویت کی کہ اقرع بن حابس رضی اللہ تعالیٰ عنہ نے نبی کریم صلی اللہ علیہ وسلم کو دیکھا، آپ حضرت حسن رضی اللہ تعالیٰ عنہ کو بوسہ دے رہے تھے، انھوں نے کہا : میرے دس بچے ہیں اور میں نے ان میں سے کسی کو کبھی بوسہ نہیں دیا، تو رسول اللہ صلی اللہ علیہ وسلم نے فرمایا؛ \" جو شخص رحم نہیں کرتا اس پر رحم نہیں کیا جائے گا ۔ \"",
+  "narrator": {
+   "en": "Abu Hurairah (RA)",
+   "ur": "حضرت ابوہریرہ رضی اللہ عنہ",
+   "ar": "أبو هريرة رضي الله عنه"
+  },
+  "grade": "Sahih",
+  "short": {
+   "en": "Whoever shows no mercy will not be shown mercy",
+   "ur": "جو رحم نہیں کرتا اس پر رحم نہیں کیا جاتا",
+   "ar": "من لا يرحم لا يرحم"
+  },
+  "explanation": {
+   "en": "When a man was surprised to see the Prophet ﷺ kiss his grandson al-Hasan (RA), the Prophet ﷺ taught that showing mercy brings Allah's mercy. Affection, hugs and kind words are part of good parenting in Islam. Show your children warmth openly today.",
+   "ur": "جب ایک شخص نے نبی کریم ﷺ کو اپنے نواسے حضرت حسن رضی اللہ عنہ کو بوسہ دیتے دیکھ کر تعجب کیا تو آپ ﷺ نے سکھایا کہ رحم کرنا اللہ کی رحمت کا ذریعہ ہے۔ پیار، گلے لگانا اور نرم الفاظ اسلام میں اچھی تربیت کا حصہ ہیں۔ آج اپنے بچوں سے کھل کر محبت کا اظہار کیجیے۔",
+   "ar": "لما تعجّب رجل من تقبيل النبي ﷺ سبطه الحسن رضي الله عنه، علّم ﷺ أن الرحمة سبب لرحمة الله. فالحنان والاحتضان والكلمة الطيبة من حسن التربية في الإسلام. أظهر لأولادك مودّتك اليوم."
+  },
+  "topic": "children",
+  "review": true,
+  "notes": "hadith-api edition number muslim/6028 (arabicnumber 2318.01); sunnah.com reference Sahih Muslim 2318a. Grade source: Sahih (in Sahih al-Bukhari/Sahih Muslim). number = hadith-api hadithnumber; book label carries the sunnah.com number."
+ },
+ {
+  "id": "abudawud-4833",
+  "collection": "abudawud",
+  "number": 4833,
+  "book": {
+   "en": "Sunan Abi Dawud 4833",
+   "ur": "سنن ابی داؤد 4833",
+   "ar": "سنن أبي داود 4833"
+  },
+  "arabic": "…عَنْ أَبِي هُرَيْرَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ \" الرَّجُلُ عَلَى دِينِ خَلِيلِهِ فَلْيَنْظُرْ أَحَدُكُمْ مَنْ يُخَالِلُ \"",
+  "en": "Narrated AbuHurayrah: The Prophet (ﷺ) said: A man follows the religion of his friend; so each one should consider whom he makes his friend.",
+  "ur": "ابوہریرہ رضی اللہ عنہ کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: آدمی اپنے دوست کے دین پر ہوتا ہے، لہٰذا تم میں سے ہر شخص کو یہ دیکھنا چاہیئے کہ وہ کس سے دوستی کر رہا ہے ۔",
+  "narrator": {
+   "en": "Abu Hurairah (RA)",
+   "ur": "حضرت ابوہریرہ رضی اللہ عنہ",
+   "ar": "أبو هريرة رضي الله عنه"
+  },
+  "grade": "Hasan",
+  "short": {
+   "en": "A person follows the way of his close friend",
+   "ur": "آدمی اپنے دوست کے دین پر ہوتا ہے",
+   "ar": "الرجل على دين خليله"
+  },
+  "explanation": {
+   "en": "Close friends shape our habits, beliefs and choices, often without our noticing. The Prophet ﷺ advised us to think carefully about whom we take as close friends. Spend time with people who remind you of Allah and bring out your best.",
+   "ur": "قریبی دوست ہماری عادتوں، سوچ اور فیصلوں پر اثر ڈالتے ہیں، اکثر ہمیں پتا بھی نہیں چلتا۔ نبی کریم ﷺ نے نصیحت فرمائی کہ سوچ سمجھ کر دوست بنائیں۔ ان لوگوں کے ساتھ وقت گزاریے جو اللہ کی یاد دلائیں اور آپ کی بہترین خوبیاں ابھاریں۔",
+   "ar": "الأصدقاء المقرّبون يشكّلون عاداتنا وأفكارنا واختياراتنا من غير أن نشعر. وقد نصح النبي ﷺ أن ينظر المرء من يخالل. صاحِب من يذكّرك بالله ويُخرج أفضل ما فيك."
+  },
+  "topic": "friendship",
+  "review": true,
+  "notes": "hadith-api edition number abudawud/4833 (arabicnumber 4833); sunnah.com reference Sunan Abi Dawud 4833. Grade source: Al-Albani: Hasan; Muhammad Muhyi Al-Din Abdul Hamid: Hasan; Shuaib Al Arnaut: Hasan; Zubair Ali Zai: Isnaad Hasan."
+ }
+]

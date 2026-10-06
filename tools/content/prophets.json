@@ -1,0 +1,125 @@
+[
+  {
+    "id": "adam",
+    "name": {
+      "en": "Adam (AS)",
+      "ur": "آدم علیہ السلام",
+      "ar": "آدم عليه السلام"
+    },
+    "vignette": "adam",
+    "summary": {
+      "en": "Read the Quran passages about this Messenger and reflect with your family.",
+      "ur": "ان قرآنی آیات کا مطالعہ کریں اور خاندان کے ساتھ سبق پر غور کریں۔",
+      "ar": "اقرأ الآيات القرآنية وتدبّرها مع أسرتك."
+    },
+    "quran": [
+      "2:30-39"
+    ]
+  },
+  {
+    "id": "nuh",
+    "name": {
+      "en": "Nuh (AS)",
+      "ur": "نوح علیہ السلام",
+      "ar": "نوح عليه السلام"
+    },
+    "vignette": "nuh",
+    "summary": {
+      "en": "Read the Quran passages about this Messenger and reflect with your family.",
+      "ur": "ان قرآنی آیات کا مطالعہ کریں اور خاندان کے ساتھ سبق پر غور کریں۔",
+      "ar": "اقرأ الآيات القرآنية وتدبّرها مع أسرتك."
+    },
+    "quran": [
+      "11:25-49"
+    ]
+  },
+  {
+    "id": "ibrahim",
+    "name": {
+      "en": "Ibrahim (AS)",
+      "ur": "ابراہیم علیہ السلام",
+      "ar": "إبراهيم عليه السلام"
+    },
+    "vignette": "ibrahim",
+    "summary": {
+      "en": "Read the Quran passages about this Messenger and reflect with your family.",
+      "ur": "ان قرآنی آیات کا مطالعہ کریں اور خاندان کے ساتھ سبق پر غور کریں۔",
+      "ar": "اقرأ الآيات القرآنية وتدبّرها مع أسرتك."
+    },
+    "quran": [
+      "21:51-70"
+    ]
+  },
+  {
+    "id": "musa",
+    "name": {
+      "en": "Musa (AS)",
+      "ur": "موسیٰ علیہ السلام",
+      "ar": "موسى عليه السلام"
+    },
+    "vignette": "musa",
+    "summary": {
+      "en": "Read the Quran passages about this Messenger and reflect with your family.",
+      "ur": "ان قرآنی آیات کا مطالعہ کریں اور خاندان کے ساتھ سبق پر غور کریں۔",
+      "ar": "اقرأ الآيات القرآنية وتدبّرها مع أسرتك."
+    },
+    "quran": [
+      "20:9-36"
+    ]
+  },
+  {
+    "id": "yusuf",
+    "name": {
+      "en": "Yusuf (AS)",
+      "ur": "یوسف علیہ السلام",
+      "ar": "يوسف عليه السلام"
+    },
+    "vignette": "yusuf",
+    "summary": {
+      "en": "Read the Quran passages about this Messenger and reflect with your family.",
+      "ur": "ان قرآنی آیات کا مطالعہ کریں اور خاندان کے ساتھ سبق پر غور کریں۔",
+      "ar": "اقرأ الآيات القرآنية وتدبّرها مع أسرتك."
+    },
+    "quran": [
+      "12:4-18",
+      "12:90-101"
+    ]
+  },
+  {
+    "id": "yunus",
+    "name": {
+      "en": "Yunus (AS)",
+      "ur": "یونس علیہ السلام",
+      "ar": "يونس عليه السلام"
+    },
+    "vignette": "yunus",
+    "summary": {
+      "en": "Read the Quran passages about this Messenger and reflect with your family.",
+      "ur": "ان قرآنی آیات کا مطالعہ کریں اور خاندان کے ساتھ سبق پر غور کریں۔",
+      "ar": "اقرأ الآيات القرآنية وتدبّرها مع أسرتك."
+    },
+    "quran": [
+      "21:87-88",
+      "37:139-148"
+    ]
+  },
+  {
+    "id": "muhammad",
+    "name": {
+      "en": "Muhammad ﷺ",
+      "ur": "محمد ﷺ",
+      "ar": "محمد ﷺ"
+    },
+    "vignette": "muhammad",
+    "summary": {
+      "en": "Read the Quran passages about this Messenger and reflect with your family.",
+      "ur": "ان قرآنی آیات کا مطالعہ کریں اور خاندان کے ساتھ سبق پر غور کریں۔",
+      "ar": "اقرأ الآيات القرآنية وتدبّرها مع أسرتك."
+    },
+    "quran": [
+      "33:21",
+      "21:107",
+      "48:29"
+    ]
+  }
+]

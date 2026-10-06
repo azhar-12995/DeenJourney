@@ -1,0 +1,261 @@
+{
+  "morning": [
+    {
+      "id": "surah-112",
+      "arabic": "قُلْ هُوَ ٱللَّهُ أَحَدٌ\nٱللَّهُ ٱلصَّمَدُ\nلَمْ يَلِدْ وَلَمْ يُولَدْ\nوَلَمْ يَكُن لَّهُۥ كُفُوًا أَحَدٌۢ",
+      "meaning": {
+        "en": "Say, \"He is Allāh, [who is] One,[2011]\nAllāh, the Eternal Refuge.[2012]\nHe neither begets nor is born,\nNor is there to Him any equivalent.\"",
+        "ur": "کہو کہ وہ (ذات پاک جس کا نام) الله (ہے) ایک ہے\nمعبود برحق جو بےنیاز ہے\nنہ کسی کا باپ ہے اور نہ کسی کا بیٹا\nاور کوئی اس کا ہمسر نہیں"
+      },
+      "count": 3,
+      "refs": [
+        {
+          "type": "hadith",
+          "key": "abudawud:5082",
+          "label": "Sunan Abi Dawud 5082"
+        },
+        {
+          "type": "quran",
+          "key": "112:1-4",
+          "label": "Quran 112:1-4"
+        }
+      ]
+    },
+    {
+      "id": "surah-113",
+      "arabic": "قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ\nمِن شَرِّ مَا خَلَقَ\nوَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ\nوَمِن شَرِّ ٱلنَّفَّٰثَٰتِ فِى ٱلْعُقَدِ\nوَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+      "meaning": {
+        "en": "Say, \"I seek refuge in the Lord of daybreak\nFrom the evil of that which He created\nAnd from the evil of darkness when it settles\nAnd from the evil of the blowers in knots[2014]\nAnd from the evil of an envier when he envies.\"",
+        "ur": "کہو کہ میں صبح کے پروردگار کی پناہ مانگتا ہوں\nہر چیز کی بدی سے جو اس نے پیدا کی\nاور شب تاریکی کی برائی سے جب اس کااندھیرا چھا جائے\nاور گنڈوں پر (پڑھ پڑھ کر) پھونکنے والیوں کی برائی سے\nاور حسد کرنے والے کی برائی سے جب حسد کرنے لگے"
+      },
+      "count": 3,
+      "refs": [
+        {
+          "type": "hadith",
+          "key": "abudawud:5082",
+          "label": "Sunan Abi Dawud 5082"
+        },
+        {
+          "type": "quran",
+          "key": "113:1-5",
+          "label": "Quran 113:1-5"
+        }
+      ]
+    },
+    {
+      "id": "surah-114",
+      "arabic": "قُلْ أَعُوذُ بِرَبِّ ٱلنَّاسِ\nمَلِكِ ٱلنَّاسِ\nإِلَٰهِ ٱلنَّاسِ\nمِن شَرِّ ٱلْوَسْوَاسِ ٱلْخَنَّاسِ\nٱلَّذِى يُوَسْوِسُ فِى صُدُورِ ٱلنَّاسِ\nمِنَ ٱلْجِنَّةِ وَٱلنَّاسِ",
+      "meaning": {
+        "en": "Say, \"I seek refuge in the Lord of mankind,\nThe Sovereign of mankind,\nThe God of mankind,\nFrom the evil of the retreating whisperer[2016] -\nWho whispers [evil] into the breasts of mankind -\nFrom among the jinn and mankind.\"[2017]",
+        "ur": "کہو کہ میں لوگوں کے پروردگار کی پناہ مانگتا ہوں\n(یعنی) لوگوں کے حقیقی بادشاہ کی\nلوگوں کے معبود برحق کی\n(شیطان) وسوسہ انداز کی برائی سے جو (خدا کا نام سن کر) پیچھے ہٹ جاتا ہے\nجو لوگوں کے دلوں میں وسوسے ڈالتا ہے\nوہ جنّات میں سے (ہو) یا انسانوں میں سے"
+      },
+      "count": 3,
+      "refs": [
+        {
+          "type": "hadith",
+          "key": "abudawud:5082",
+          "label": "Sunan Abi Dawud 5082"
+        },
+        {
+          "type": "quran",
+          "key": "114:1-6",
+          "label": "Quran 114:1-6"
+        }
+      ]
+    }
+  ],
+  "evening": [
+    {
+      "id": "surah-112",
+      "arabic": "قُلْ هُوَ ٱللَّهُ أَحَدٌ\nٱللَّهُ ٱلصَّمَدُ\nلَمْ يَلِدْ وَلَمْ يُولَدْ\nوَلَمْ يَكُن لَّهُۥ كُفُوًا أَحَدٌۢ",
+      "meaning": {
+        "en": "Say, \"He is Allāh, [who is] One,[2011]\nAllāh, the Eternal Refuge.[2012]\nHe neither begets nor is born,\nNor is there to Him any equivalent.\"",
+        "ur": "کہو کہ وہ (ذات پاک جس کا نام) الله (ہے) ایک ہے\nمعبود برحق جو بےنیاز ہے\nنہ کسی کا باپ ہے اور نہ کسی کا بیٹا\nاور کوئی اس کا ہمسر نہیں"
+      },
+      "count": 3,
+      "refs": [
+        {
+          "type": "hadith",
+          "key": "abudawud:5082",
+          "label": "Sunan Abi Dawud 5082"
+        },
+        {
+          "type": "quran",
+          "key": "112:1-4",
+          "label": "Quran 112:1-4"
+        }
+      ]
+    },
+    {
+      "id": "surah-113",
+      "arabic": "قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ\nمِن شَرِّ مَا خَلَقَ\nوَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ\nوَمِن شَرِّ ٱلنَّفَّٰثَٰتِ فِى ٱلْعُقَدِ\nوَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+      "meaning": {
+        "en": "Say, \"I seek refuge in the Lord of daybreak\nFrom the evil of that which He created\nAnd from the evil of darkness when it settles\nAnd from the evil of the blowers in knots[2014]\nAnd from the evil of an envier when he envies.\"",
+        "ur": "کہو کہ میں صبح کے پروردگار کی پناہ مانگتا ہوں\nہر چیز کی بدی سے جو اس نے پیدا کی\nاور شب تاریکی کی برائی سے جب اس کااندھیرا چھا جائے\nاور گنڈوں پر (پڑھ پڑھ کر) پھونکنے والیوں کی برائی سے\nاور حسد کرنے والے کی برائی سے جب حسد کرنے لگے"
+      },
+      "count": 3,
+      "refs": [
+        {
+          "type": "hadith",
+          "key": "abudawud:5082",
+          "label": "Sunan Abi Dawud 5082"
+        },
+        {
+          "type": "quran",
+          "key": "113:1-5",
+          "label": "Quran 113:1-5"
+        }
+      ]
+    },
+    {
+      "id": "surah-114",
+      "arabic": "قُلْ أَعُوذُ بِرَبِّ ٱلنَّاسِ\nمَلِكِ ٱلنَّاسِ\nإِلَٰهِ ٱلنَّاسِ\nمِن شَرِّ ٱلْوَسْوَاسِ ٱلْخَنَّاسِ\nٱلَّذِى يُوَسْوِسُ فِى صُدُورِ ٱلنَّاسِ\nمِنَ ٱلْجِنَّةِ وَٱلنَّاسِ",
+      "meaning": {
+        "en": "Say, \"I seek refuge in the Lord of mankind,\nThe Sovereign of mankind,\nThe God of mankind,\nFrom the evil of the retreating whisperer[2016] -\nWho whispers [evil] into the breasts of mankind -\nFrom among the jinn and mankind.\"[2017]",
+        "ur": "کہو کہ میں لوگوں کے پروردگار کی پناہ مانگتا ہوں\n(یعنی) لوگوں کے حقیقی بادشاہ کی\nلوگوں کے معبود برحق کی\n(شیطان) وسوسہ انداز کی برائی سے جو (خدا کا نام سن کر) پیچھے ہٹ جاتا ہے\nجو لوگوں کے دلوں میں وسوسے ڈالتا ہے\nوہ جنّات میں سے (ہو) یا انسانوں میں سے"
+      },
+      "count": 3,
+      "refs": [
+        {
+          "type": "hadith",
+          "key": "abudawud:5082",
+          "label": "Sunan Abi Dawud 5082"
+        },
+        {
+          "type": "quran",
+          "key": "114:1-6",
+          "label": "Quran 114:1-6"
+        }
+      ]
+    }
+  ],
+  "after_salah": [
+    {
+      "id": "subhanallah",
+      "arabic": "سُبْحَانَ اللَّهِ",
+      "translit": "SubhanAllah",
+      "meaning": {
+        "en": "Glory be to Allah",
+        "ur": "اللہ پاک ہے",
+        "ar": "تنزيه الله"
+      },
+      "count": 33,
+      "refs": [
+        {
+          "type": "hadith",
+          "key": "muslim:597a",
+          "label": "Sahih Muslim 597a"
+        }
+      ]
+    },
+    {
+      "id": "alhamdulillah",
+      "arabic": "الْحَمْدُ لِلَّهِ",
+      "translit": "Alhamdulillah",
+      "meaning": {
+        "en": "All praise belongs to Allah",
+        "ur": "تمام تعریف اللہ کے لیے ہے",
+        "ar": "الثناء على الله"
+      },
+      "count": 33,
+      "refs": [
+        {
+          "type": "hadith",
+          "key": "muslim:597a",
+          "label": "Sahih Muslim 597a"
+        }
+      ]
+    },
+    {
+      "id": "allahuakbar",
+      "arabic": "اللَّهُ أَكْبَرُ",
+      "translit": "Allahu Akbar",
+      "meaning": {
+        "en": "Allah is the Greatest",
+        "ur": "اللہ سب سے بڑا ہے",
+        "ar": "الله أكبر"
+      },
+      "count": 33,
+      "refs": [
+        {
+          "type": "hadith",
+          "key": "muslim:597a",
+          "label": "Sahih Muslim 597a"
+        }
+      ]
+    },
+    {
+      "id": "tahlil",
+      "arabic": "لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ",
+      "translit": "La ilaha illallah wahdahu la sharika lah",
+      "meaning": {
+        "en": "Allah alone deserves worship. Sovereignty and praise are His, and His power encompasses everything.",
+        "ur": "عبادت صرف اللہ کے لیے ہے۔ بادشاہی اور حمد اسی کی ہے اور وہ ہر چیز پر قادر ہے۔"
+      },
+      "count": 1,
+      "refs": [
+        {
+          "type": "hadith",
+          "key": "muslim:597a",
+          "label": "Sahih Muslim 597a"
+        }
+      ]
+    }
+  ],
+  "sleep": [
+    {
+      "id": "subhanallah",
+      "arabic": "سُبْحَانَ اللَّهِ",
+      "translit": "SubhanAllah",
+      "meaning": {
+        "en": "Glory be to Allah",
+        "ur": "اللہ پاک ہے",
+        "ar": "تنزيه الله"
+      },
+      "count": 33,
+      "refs": [
+        {
+          "type": "hadith",
+          "key": "bukhari:6318",
+          "label": "Sahih al-Bukhari 6318"
+        }
+      ]
+    },
+    {
+      "id": "alhamdulillah",
+      "arabic": "الْحَمْدُ لِلَّهِ",
+      "translit": "Alhamdulillah",
+      "meaning": {
+        "en": "All praise belongs to Allah",
+        "ur": "تمام تعریف اللہ کے لیے ہے",
+        "ar": "الثناء على الله"
+      },
+      "count": 33,
+      "refs": [
+        {
+          "type": "hadith",
+          "key": "bukhari:6318",
+          "label": "Sahih al-Bukhari 6318"
+        }
+      ]
+    },
+    {
+      "id": "allahuakbar",
+      "arabic": "اللَّهُ أَكْبَرُ",
+      "translit": "Allahu Akbar",
+      "meaning": {
+        "en": "Allah is the Greatest",
+        "ur": "اللہ سب سے بڑا ہے",
+        "ar": "الله أكبر"
+      },
+      "count": 34,
+      "refs": [
+        {
+          "type": "hadith",
+          "key": "bukhari:6318",
+          "label": "Sahih al-Bukhari 6318"
+        }
+      ]
+    }
+  ]
+}

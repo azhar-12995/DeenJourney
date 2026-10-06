@@ -1,0 +1,497 @@
+{
+ "abudawud": {
+  "name": "Sunan Abu Dawud",
+  "collection": [
+   {
+    "name": "ara-abudawud",
+    "language": "Arabic",
+    "author": "Unknown",
+    "has_sections": true
+   },
+   {
+    "name": "ara-abudawud1",
+    "language": "Arabic",
+    "author": "Unknown",
+    "has_sections": true
+   },
+   {
+    "name": "ben-abudawud",
+    "language": "Bengali",
+    "author": "Unknown",
+    "has_sections": true
+   },
+   {
+    "name": "eng-abudawud",
+    "language": "English",
+    "author": "Unknown",
+    "has_sections": true
+   },
+   {
+    "name": "fra-abudawud",
+    "language": "French",
+    "author": "Unknown",
+    "has_sections": true
+   },
+   {
+    "name": "ind-abudawud",
+    "language": "Indonesian",
+    "author": "Unknown",
+    "has_sections": true
+   },
+   {
+    "name": "rus-abudawud",
+    "language": "Russian",
+    "author": "Unknown",
+    "has_sections": true
+   },
+   {
+    "name": "tur-abudawud",
+    "language": "Turkish",
+    "author": "Unknown",
+    "has_sections": true
+   },
+   {
+    "name": "urd-abudawud",
+    "language": "Urdu",
+    "author": "Unknown",
+    "has_sections": true
+   }
+  ]
+ },
+ "bukhari": {
+  "name": "Sahih al Bukhari",
+  "collection": [
+   {
+    "name": "ara-bukhari",
+    "language": "Arabic",
+    "author": "Unknown",
+    "has_sections": true
+   },
+   {
+    "name": "ara-bukhari1",
+    "language": "Arabic",
+    "author": "Unknown",
+    "has_sections": true
+   },
+   {
+    "name": "ben-bukhari",
+    "language": "Bengali",
+    "author": "Unknown",
+    "has_sections": true
+   },
+   {
+    "name": "eng-bukhari",
+    "language": "English",
+    "author": "Muhsin Khan",
+    "has_sections": true
+   },
+   {
+    "name": "fra-bukhari",
+    "language": "French",
+    "author": "Unknown",
+    "has_sections": true
+   },
+   {
+    "name": "ind-bukhari",
+    "language": "Indonesian",
+    "author": "Unknown",
+    "has_sections": true
+   },
+   {
+    "name": "rus-bukhari",
+    "language": "Russian",
+    "author": "Abdullah Nirsha And Editors Of Daura.com",
+    "has_sections": true
+   },
+   {
+    "name": "tam-bukhari",
+    "language": "Tamil",
+    "author": "Unknown",
+    "has_sections": true
+   },
+   {
+    "name": "tur-bukhari",
+    "language": "Turkish",
+    "author": "Unknown",
+    "has_sections": true
+   },
+   {
+    "name": "urd-bukhari",
+    "language": "Urdu",
+    "author": "Unknown",
+    "has_sections": true
+   }
+  ]
+ },
+ "dehlawi": {
+  "name": "Forty Hadith of Shah Waliullah Dehlawi",
+  "collection": [
+   {
+    "name": "ara-dehlawi",
+    "language": "Arabic",
+    "author": "Shah Waliullah Dehlawi",
+    "has_sections": true
+   },
+   {
+    "name": "ara-dehlawi1",
+    "language": "Arabic",
+    "author": "Shah Waliullah Dehlawi",
+    "has_sections": true
+   },
+   {
+    "name": "eng-dehlawi",
+    "language": "English",
+    "author": "Shah Waliullah Dehlawi",
+    "has_sections": true
+   },
+   {
+    "name": "fra-dehlawi",
+    "language": "French",
+    "author": "Unknown",
+    "has_sections": true
+   }
+  ]
+ },
+ "ibnmajah": {
+  "name": "Sunan Ibn Majah",
+  "collection": [
+   {
+    "name": "ara-ibnmajah",
+    "language": "Arabic",
+    "author": "Unknown",
+    "has_sections": true
+   },
+   {
+    "name": "ara-ibnmajah1",
+    "language": "Arabic",
+    "author": "Unknown",
+    "has_sections": true
+   },
+   {
+    "name": "ben-ibnmajah",
+    "language": "Bengali",
+    "author": "Unknown",
+    "has_sections": true
+   },
+   {
+    "name": "eng-ibnmajah",
+    "language": "English",
+    "author": "Unknown",
+    "has_sections": true
+   },
+   {
+    "name": "fra-ibnmajah",
+    "language": "French",
+    "author": "Unknown",
+    "has_sections": true
+   },
+   {
+    "name": "ind-ibnmajah",
+    "language": "Indonesian",
+    "author": "Unknown",
+    "has_sections": true
+   },
+   {
+    "name": "tur-ibnmajah",
+    "language": "Turkish",
+    "author": "Unknown",
+    "has_sections": true
+   },
+   {
+    "name": "urd-ibnmajah",
+    "language": "Urdu",
+    "author": "Unknown",
+    "has_sections": true
+   }
+  ]
+ },
+ "malik": {
+  "name": "Muwatta Malik",
+  "collection": [
+   {
+    "name": "ara-malik",
+    "language": "Arabic",
+    "author": "Unknown",
+    "has_sections": true
+   },
+   {
+    "name": "ara-malik1",
+    "language": "Arabic",
+    "author": "Unknown",
+    "has_sections": true
+   },
+   {
+    "name": "ben-malik",
+    "language": "Bengali",
+    "author": "Unknown",
+    "has_sections": true
+   },
+   {
+    "name": "eng-malik",
+    "language": "English",
+    "author": "Unknown",
+    "has_sections": true
+   },
+   {
+    "name": "fra-malik",
+    "language": "French",
+    "author": "Unknown",
+    "has_sections": true
+   },
+   {
+    "name": "ind-malik",
+    "language": "Indonesian",
+    "author": "Unknown",
+    "has_sections": true
+   },
+   {
+    "name": "tur-malik",
+    "language": "Turkish",
+    "author": "Unknown",
+    "has_sections": true
+   },
+   {
+    "name": "urd-malik",
+    "language": "Urdu",
+    "author": "Unknown",
+    "has_sections": true
+   }
+  ]
+ },
+ "muslim": {
+  "name": "Sahih Muslim",
+  "collection": [
+   {
+    "name": "ara-muslim",
+    "language": "Arabic",
+    "author": "Unknown",
+    "has_sections": true
+   },
+   {
+    "name": "ara-muslim1",
+    "language": "Arabic",
+    "author": "Unknown",
+    "has_sections": true
+   },
+   {
+    "name": "ben-muslim",
+    "language": "Bengali",
+    "author": "Unknown",
+    "has_sections": true
+   },
+   {
+    "name": "eng-muslim",
+    "language": "English",
+    "author": "Abdul Hamid Siddiqui",
+    "has_sections": true
+   },
+   {
+    "name": "fra-muslim",
+    "language": "French",
+    "author": "Unknown",
+    "has_sections": true
+   },
+   {
+    "name": "ind-muslim",
+    "language": "Indonesian",
+    "author": "Unknown",
+    "has_sections": true
+   },
+   {
+    "name": "rus-muslim",
+    "language": "Russian",
+    "author": "Unknown",
+    "has_sections": true
+   },
+   {
+    "name": "tam-muslim",
+    "language": "Tamil",
+    "author": "Unknown",
+    "has_sections": true
+   },
+   {
+    "name": "tur-muslim",
+    "language": "Turkish",
+    "author": "Unknown",
+    "has_sections": true
+   },
+   {
+    "name": "urd-muslim",
+    "language": "Urdu",
+    "author": "Unknown",
+    "has_sections": true
+   }
+  ]
+ },
+ "nasai": {
+  "name": "Sunan an Nasai",
+  "collection": [
+   {
+    "name": "ara-nasai",
+    "language": "Arabic",
+    "author": "Unknown",
+    "has_sections": true
+   },
+   {
+    "name": "ara-nasai1",
+    "language": "Arabic",
+    "author": "Unknown",
+    "has_sections": true
+   },
+   {
+    "name": "ben-nasai",
+    "language": "Bengali",
+    "author": "Unknown",
+    "has_sections": true
+   },
+   {
+    "name": "eng-nasai",
+    "language": "English",
+    "author": "Unknown",
+    "has_sections": true
+   },
+   {
+    "name": "fra-nasai",
+    "language": "French",
+    "author": "Unknown",
+    "has_sections": true
+   },
+   {
+    "name": "ind-nasai",
+    "language": "Indonesian",
+    "author": "Unknown",
+    "has_sections": true
+   },
+   {
+    "name": "tur-nasai",
+    "language": "Turkish",
+    "author": "Unknown",
+    "has_sections": true
+   },
+   {
+    "name": "urd-nasai",
+    "language": "Urdu",
+    "author": "Unknown",
+    "has_sections": true
+   }
+  ]
+ },
+ "nawawi": {
+  "name": "Forty Hadith of an-Nawawi",
+  "collection": [
+   {
+    "name": "ara-nawawi",
+    "language": "Arabic",
+    "author": "Imam Nawawi",
+    "has_sections": true
+   },
+   {
+    "name": "ara-nawawi1",
+    "language": "Arabic",
+    "author": "Imam Nawawi",
+    "has_sections": true
+   },
+   {
+    "name": "ben-nawawi",
+    "language": "Bengali",
+    "author": "Imam Nawawi",
+    "has_sections": true
+   },
+   {
+    "name": "eng-nawawi",
+    "language": "English",
+    "author": "Imam Nawawi",
+    "has_sections": true
+   },
+   {
+    "name": "fra-nawawi",
+    "language": "French",
+    "author": "Unknown",
+    "has_sections": true
+   },
+   {
+    "name": "tur-nawawi",
+    "language": "Turkish",
+    "author": "Imam Nawawi",
+    "has_sections": true
+   }
+  ]
+ },
+ "qudsi": {
+  "name": "Forty Hadith Qudsi",
+  "collection": [
+   {
+    "name": "ara-qudsi",
+    "language": "Arabic",
+    "author": "Unknown",
+    "has_sections": true
+   },
+   {
+    "name": "ara-qudsi1",
+    "language": "Arabic",
+    "author": "Unknown",
+    "has_sections": true
+   },
+   {
+    "name": "eng-qudsi",
+    "language": "English",
+    "author": "Unknown",
+    "has_sections": true
+   },
+   {
+    "name": "fra-qudsi",
+    "language": "French",
+    "author": "Unknown",
+    "has_sections": true
+   }
+  ]
+ },
+ "tirmidhi": {
+  "name": "Jami At Tirmidhi",
+  "collection": [
+   {
+    "name": "ara-tirmidhi",
+    "language": "Arabic",
+    "author": "Unknown",
+    "has_sections": true
+   },
+   {
+    "name": "ara-tirmidhi1",
+    "language": "Arabic",
+    "author": "Unknown",
+    "has_sections": true
+   },
+   {
+    "name": "ben-tirmidhi",
+    "language": "Bengali",
+    "author": "Unknown",
+    "has_sections": true
+   },
+   {
+    "name": "eng-tirmidhi",
+    "language": "English",
+    "author": "Unknown",
+    "has_sections": true
+   },
+   {
+    "name": "ind-tirmidhi",
+    "language": "Indonesian",
+    "author": "Unknown",
+    "has_sections": true
+   },
+   {
+    "name": "tur-tirmidhi",
+    "language": "Turkish",
+    "author": "Unknown",
+    "has_sections": true
+   },
+   {
+    "name": "urd-tirmidhi",
+    "language": "Urdu",
+    "author": "Unknown",
+    "has_sections": true
+   }
+  ]
+ },
+ "_note": "compacted (links removed); source https://cdn.jsdelivr.net/gh/fawazahmed0/hadith-api@1/editions.json"
+}

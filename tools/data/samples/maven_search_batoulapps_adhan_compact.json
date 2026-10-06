@@ -1,0 +1,132 @@
+{
+ "_note": "compacted; source https://search.maven.org/solrsearch/select?q=g:com.batoulapps.adhan&rows=50&wt=json (2026-10-03). NOTE: search index is stale (shows 0.0.5); repo1 maven-metadata.xml shows 0.0.7",
+ "numFound": 18,
+ "docs": [
+  {
+   "id": "com.batoulapps.adhan:adhan2-watchosx64",
+   "latestVersion": "0.0.5",
+   "p": "klib",
+   "timestamp": 1709497648763,
+   "versionCount": 2
+  },
+  {
+   "id": "com.batoulapps.adhan:adhan2-watchossimulatorarm64",
+   "latestVersion": "0.0.5",
+   "p": "klib",
+   "timestamp": 1709497630719,
+   "versionCount": 2
+  },
+  {
+   "id": "com.batoulapps.adhan:adhan2-watchosarm64",
+   "latestVersion": "0.0.5",
+   "p": "klib",
+   "timestamp": 1709497613133,
+   "versionCount": 2
+  },
+  {
+   "id": "com.batoulapps.adhan:adhan2-watchosarm32",
+   "latestVersion": "0.0.5",
+   "p": "klib",
+   "timestamp": 1709497596044,
+   "versionCount": 2
+  },
+  {
+   "id": "com.batoulapps.adhan:adhan2-mingwx64",
+   "latestVersion": "0.0.5",
+   "p": "klib",
+   "timestamp": 1709497581194,
+   "versionCount": 2
+  },
+  {
+   "id": "com.batoulapps.adhan:adhan2-macosx64",
+   "latestVersion": "0.0.5",
+   "p": "klib",
+   "timestamp": 1709497563770,
+   "versionCount": 2
+  },
+  {
+   "id": "com.batoulapps.adhan:adhan2-macosarm64",
+   "latestVersion": "0.0.5",
+   "p": "klib",
+   "timestamp": 1709497546225,
+   "versionCount": 2
+  },
+  {
+   "id": "com.batoulapps.adhan:adhan2-linuxx64",
+   "latestVersion": "0.0.5",
+   "p": "klib",
+   "timestamp": 1709497531345,
+   "versionCount": 2
+  },
+  {
+   "id": "com.batoulapps.adhan:adhan2-linuxarm64",
+   "latestVersion": "0.0.5",
+   "p": "klib",
+   "timestamp": 1709497516298,
+   "versionCount": 1
+  },
+  {
+   "id": "com.batoulapps.adhan:adhan2",
+   "latestVersion": "0.0.5",
+   "p": "jar",
+   "timestamp": 1709497498813,
+   "versionCount": 5
+  },
+  {
+   "id": "com.batoulapps.adhan:adhan2-jvm",
+   "latestVersion": "0.0.5",
+   "p": "jar",
+   "timestamp": 1709497484014,
+   "versionCount": 5
+  },
+  {
+   "id": "com.batoulapps.adhan:adhan2-js",
+   "latestVersion": "0.0.5",
+   "p": "klib",
+   "timestamp": 1709497469464,
+   "versionCount": 2
+  },
+  {
+   "id": "com.batoulapps.adhan:adhan2-iosx64",
+   "latestVersion": "0.0.5",
+   "p": "klib",
+   "timestamp": 1709497451897,
+   "versionCount": 3
+  },
+  {
+   "id": "com.batoulapps.adhan:adhan2-iossimulatorarm64",
+   "latestVersion": "0.0.5",
+   "p": "klib",
+   "timestamp": 1709497433804,
+   "versionCount": 3
+  },
+  {
+   "id": "com.batoulapps.adhan:adhan2-iosarm64",
+   "latestVersion": "0.0.5",
+   "p": "klib",
+   "timestamp": 1709497403638,
+   "versionCount": 3
+  },
+  {
+   "id": "com.batoulapps.adhan:adhan2-macos",
+   "latestVersion": "0.0.3",
+   "p": "klib",
+   "timestamp": 1642974904000,
+   "versionCount": 3
+  },
+  {
+   "id": "com.batoulapps.adhan:adhan2-ios",
+   "latestVersion": "0.0.2",
+   "p": "klib",
+   "timestamp": 1630190302000,
+   "versionCount": 2
+  },
+  {
+   "id": "com.batoulapps.adhan:adhan",
+   "latestVersion": "1.2.1",
+   "p": "jar",
+   "timestamp": 1615064351000,
+   "versionCount": 2
+  }
+ ]
+}

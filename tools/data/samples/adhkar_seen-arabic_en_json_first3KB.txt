@@ -1,0 +1,20 @@
+[
+  {
+    "order": 1,
+    "content": "الْحَمْدُ لِلَّهِ وَحْدَهُ، وَالصَّلاَةُ وَالسَّلاَمُ عَلَى مَنْ لاَ نَبِيَّ بَعْدَهُ",
+    "translation": "All praise is due to Allah alone, and peace and blessings be upon him after whom there is no other Prophet.",
+    "transliteration": "Alḥamdulillahi waḥdah waṣ-ṣalatu was-salam `alā man lā nabiyya ba`dah.",
+    "count": 1,
+    "count_description": "Once",
+    "fadl": "The recommendation to begin supplication with praise to Allah the Exalted and extolling Him, followed by prayers upon the Messenger of Allah ﷺ.",
+    "source": "Anas (RA) said that he heard the Prophet (ﷺ) say: \"That I sit with people remembering Almighty Allah from the morning (Fajr) prayer until sunrise is more beloved to me than freeing four slaves from among the Children of Isma'il. That I sit with people remembering Allah from the afternoon ('Asr) prayer, until the sun sets, is more beloved to me than freeing four slaves from among the Children of Isma'il.\"This was reported by Abu Dawud (No. 3667). Al-Albani graded it good in Sahih Abu Dawud 2/698.",
+    "type": 0,
+    "audio": "",
+    "hadith_text": "",
+    "explanation_of_hadith_vocabulary": ""
+  },
+  {
+    "order": 2,
+    "content": "أَعُوذُ بِاللَّهِ مِنَ الشَّيطَانِ الرَّجِيمِ ﴿اللَّهُ لاَ إِلَهَ إِلاَّ هُوَ الْحَيُّ الْقَيُّومُ لاَ تَأْخُذُهُ سِنَةٌ وَلاَ نَوْمٌ لَّهُ مَا فِي السَّمَوَاتِ وَمَا فِي الأَرْضِ مَن ذَا الَّذِي يَشْفَعُ عِنْدَهُ إِلاَّ بِإِذْنِهِ يَعْلَمُ مَا بَيْنَ أَيْدِيهِمْ وَمَا خَلْفَهُمْ وَلاَ يُحِيطُونَ بِشَيْءٍ مِّنْ عِلْمِهِ إِلاَّ بِمَا شَاء وَسِعَ كُرْسِيُّهُ السَّمَوَاتِ وَالْأَرْضَ وَلاَ يَؤُودُهُ حِفْظُهُمَا وَهُوَ الْعَلِيُّ الْعَظِيمُ﴾",
+    "translation": "Allah! There is none worthy of worship but He, the Ever-Living, the One Who sustains and protects all that exists. Neither slumber nor sleep overtakes Him. To Him belongs whatever is in the heavens and whatever is on the earth. Who is he that can intercede with Him except with His Permission? He knows what happens to them in this world, and what will happen to them in the Hereafter. And they will never encompass anything of His Knowledge except that which He wills. His Throne extends over the heavens and the earth, and He feels no fatigue in guarding and preserving them. And He is the Most High, the Most Great.",
+    "transliteration": "(A`ūdhu billāhi min ash-shaytāni 'r-rajīm)\nAllāhu lā ilāha illā huwa ‘l-Ḥayyul-Qayyūm,\nlā ta'khudhuhu sinatun wa lā nawm,\nlahu mā fis-samāwāti wa māfil-arḍ,\nman dhal-l

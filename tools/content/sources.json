@@ -1,0 +1,195 @@
+[
+  {
+    "area": {
+      "en": "Quran Arabic text",
+      "ur": "قرآن کا عربی متن",
+      "ar": "نص القرآن الكريم"
+    },
+    "source": "Tanzil Project — Quran text (Uthmani), version 1.1, Copyright (C) 2007-2021 Tanzil Project",
+    "license": "Creative Commons Attribution 3.0 — verbatim copies only; the text must not be changed; source and link to tanzil.net required",
+    "url": "https://tanzil.net"
+  },
+  {
+    "area": {
+      "en": "English translation",
+      "ur": "انگریزی ترجمہ",
+      "ar": "الترجمة الإنجليزية"
+    },
+    "source": "Saheeh International (Umm Muhammad, Mary Kennedy, Amatullah Bantley), QuranEnc.com edition",
+    "license": "© Abul-Qasim Publishing House / Al-Muntada Al-Islami; republished unmodified with attribution and version under QuranEnc terms",
+    "url": "https://quranenc.com/en/browse/english_saheeh",
+    "notes": "Commercial use: confirm permission route (DATA_SOURCES §2)."
+  },
+  {
+    "area": {
+      "en": "Urdu translation",
+      "ur": "اردو ترجمہ",
+      "ar": "الترجمة الأردية"
+    },
+    "source": "Fateh Muhammad Jalandhry — Tanzil.net digital edition (via fawazahmed0/quran-api)",
+    "license": "Tanzil translation terms: non-commercial use; other use needs permission from the rights holder",
+    "url": "https://tanzil.net/trans/",
+    "notes": "Public-domain status of the translation itself not legally confirmed (DATA_SOURCES §2)."
+  },
+  {
+    "area": {
+      "en": "Hadith (Arabic, English, Urdu)",
+      "ur": "احادیث (عربی، انگریزی، اردو)",
+      "ar": "الأحاديث (العربية والإنجليزية والأردية)"
+    },
+    "source": "fawazahmed0/hadith-api (Bukhari, Muslim, Abu Dawud, Tirmidhi, Nasa'i, Ibn Majah, Malik and others)",
+    "license": "The Unlicense (repository); the translations remain under their translators' and publishers' own rights",
+    "url": "https://github.com/fawazahmed0/hadith-api"
+  },
+  {
+    "area": {
+      "en": "Tafsir and word-by-word meanings",
+      "ur": "تفسیر اور لفظ بہ لفظ معانی",
+      "ar": "التفسير ومعاني الكلمات"
+    },
+    "source": "Quran Foundation Content API (Quran.com) — \"Quran data provided by Quran Foundation\"; each tafsir credited by name",
+    "license": "Quran Foundation Developer Terms — displayed at runtime only, not bundled; each tafsir has its own rights holder",
+    "url": "https://api-docs.quran.foundation"
+  },
+  {
+    "area": {
+      "en": "Quran recitation audio",
+      "ur": "قرآن کی تلاوت (آڈیو)",
+      "ar": "تلاوات القرآن الصوتية"
+    },
+    "source": "Quran Foundation recitations (streamed, or downloaded by the user); each reciter credited by name",
+    "license": "Quran Foundation Developer Terms; reciters or their estates retain rights in the recordings",
+    "url": "https://api-docs.quran.foundation",
+    "notes": "Not in the coordinator's list but implied by the Downloads feature (DATA_SOURCES §4); remove if another audio source is used."
+  },
+  {
+    "area": {
+      "en": "Prayer times",
+      "ur": "نماز کے اوقات",
+      "ar": "مواقيت الصلاة"
+    },
+    "source": "Adhan by Batoul Apps — adhan2 Kotlin Multiplatform library (offline calculation)",
+    "license": "MIT License",
+    "url": "https://github.com/batoulapps/adhan-kotlin"
+  },
+  {
+    "area": {
+      "en": "Hijri calendar",
+      "ur": "ہجری کیلنڈر",
+      "ar": "التقويم الهجري"
+    },
+    "source": "Umm al-Qura calendar, as implemented in the platform calendars (Android ICU, iOS Foundation), with a user adjustment of ±2 days",
+    "license": "Built into the operating system (ICU: Unicode License)",
+    "url": "https://unicode-org.github.io/icu/userguide/datetime/calendar/"
+  },
+  {
+    "area": {
+      "en": "Gold and silver prices",
+      "ur": "سونے اور چاندی کی قیمتیں",
+      "ar": "أسعار الذهب والفضة"
+    },
+    "source": "gold-api.com — international spot prices (USD per troy ounce)",
+    "license": "Free API; its terms permit commercial use, including in mobile apps",
+    "url": "https://gold-api.com"
+  },
+  {
+    "area": {
+      "en": "Currency exchange rates",
+      "ur": "کرنسی کی شرحِ تبادلہ",
+      "ar": "أسعار صرف العملات"
+    },
+    "source": "Rates By Exchange Rate API (ExchangeRate-API Open Access)",
+    "license": "Attribution required (\"Rates By Exchange Rate API\" with link); caching allowed; redistribution of the data not allowed",
+    "url": "https://www.exchangerate-api.com"
+  },
+  {
+    "area": {
+      "en": "City search",
+      "ur": "شہروں کی تلاش",
+      "ar": "البحث عن المدن"
+    },
+    "source": "GeoNames — cities15000 gazetteer",
+    "license": "Creative Commons Attribution 4.0 (CC BY 4.0)",
+    "url": "https://www.geonames.org"
+  },
+  {
+    "area": {
+      "en": "Offline Qibla map",
+      "ur": "آف لائن قبلہ نقشہ",
+      "ar": "خريطة القبلة دون اتصال"
+    },
+    "source": "Natural Earth — public domain map data",
+    "license": "Public domain",
+    "url": "https://www.naturalearthdata.com"
+  },
+  {
+    "area": {
+      "en": "Fonts",
+      "ur": "فونٹس",
+      "ar": "الخطوط"
+    },
+    "source": "Amiri (Khaled Hosny / aliftype)",
+    "license": "SIL Open Font License 1.1",
+    "url": "https://github.com/aliftype/amiri"
+  },
+  {
+    "area": {
+      "en": "Fonts",
+      "ur": "فونٹس",
+      "ar": "الخطوط"
+    },
+    "source": "Amiri Quran (Khaled Hosny / aliftype)",
+    "license": "SIL Open Font License 1.1",
+    "url": "https://fonts.google.com/specimen/Amiri+Quran"
+  },
+  {
+    "area": {
+      "en": "Fonts",
+      "ur": "فونٹس",
+      "ar": "الخطوط"
+    },
+    "source": "Noto Nastaliq Urdu (Google)",
+    "license": "SIL Open Font License 1.1",
+    "url": "https://fonts.google.com/noto/specimen/Noto+Nastaliq+Urdu"
+  },
+  {
+    "area": {
+      "en": "Fonts",
+      "ur": "فونٹس",
+      "ar": "الخطوط"
+    },
+    "source": "Noto Sans Arabic (Google)",
+    "license": "SIL Open Font License 1.1",
+    "url": "https://fonts.google.com/noto/specimen/Noto+Sans+Arabic"
+  },
+  {
+    "area": {
+      "en": "Fonts",
+      "ur": "فونٹس",
+      "ar": "الخطوط"
+    },
+    "source": "Playfair Display (Claus Eggers Sørensen)",
+    "license": "SIL Open Font License 1.1",
+    "url": "https://fonts.google.com/specimen/Playfair+Display"
+  },
+  {
+    "area": {
+      "en": "Fonts",
+      "ur": "فونٹس",
+      "ar": "الخطوط"
+    },
+    "source": "Inter (Rasmus Andersson)",
+    "license": "SIL Open Font License 1.1",
+    "url": "https://fonts.google.com/specimen/Inter"
+  },
+  {
+    "area": {
+      "en": "Icons",
+      "ur": "آئیکنز",
+      "ar": "الأيقونات"
+    },
+    "source": "Lucide icons",
+    "license": "ISC License",
+    "url": "https://lucide.dev"
+  }
+]

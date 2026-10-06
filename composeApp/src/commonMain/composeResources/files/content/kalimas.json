@@ -1,0 +1,51 @@
+[
+  {
+    "id": "tayyibah",
+    "n": 1,
+    "title": {
+      "en": "Kalima Tayyibah",
+      "ur": "کلمہ طیبہ",
+      "ar": "كلمة التوحيد"
+    },
+    "arabic": "لَا إِلَهَ إِلَّا اللَّهُ مُحَمَّدٌ رَسُولُ اللَّهِ",
+    "translit": "La ilaha illallah, Muhammadur rasulullah",
+    "meaning": {
+      "en": "There is no deity worthy of worship except Allah; Muhammad is Allah's Messenger.",
+      "ur": "اللہ کے سوا کوئی معبود نہیں، محمد اللہ کے رسول ہیں۔"
+    },
+    "refs": [
+      {
+        "type": "quran",
+        "key": "47:19",
+        "label": "Quran 47:19"
+      },
+      {
+        "type": "quran",
+        "key": "48:29",
+        "label": "Quran 48:29"
+      }
+    ]
+  },
+  {
+    "id": "shahadah",
+    "n": 2,
+    "title": {
+      "en": "Shahadah",
+      "ur": "کلمہ شہادت",
+      "ar": "الشهادتان"
+    },
+    "arabic": "أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا اللَّهُ، وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ",
+    "translit": "Ashhadu an la ilaha illallah, wa ashhadu anna Muhammadan abduhu wa rasuluh",
+    "meaning": {
+      "en": "I testify that Allah alone deserves worship, and that Muhammad is His servant and Messenger.",
+      "ur": "میں گواہی دیتا ہوں کہ اللہ کے سوا کوئی معبود نہیں اور محمد اس کے بندے اور رسول ہیں۔"
+    },
+    "refs": [
+      {
+        "type": "hadith",
+        "key": "bukhari:831",
+        "label": "Sahih al-Bukhari 831"
+      }
+    ]
+  }
+]

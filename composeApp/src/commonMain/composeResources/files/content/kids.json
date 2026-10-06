@@ -1,0 +1,501 @@
+{
+ "greetings": [
+  {
+   "id": "g-salam",
+   "title": "Assalamu alaikum",
+   "arabic": "ٱلسَّلَامُ عَلَيْكُمْ",
+   "meaning": {
+    "en": "Peace be upon you.",
+    "ur": "آپ پر سلامتی ہو۔",
+    "ar": "السلام عليكم."
+   },
+   "avatar": "boy",
+   "tip": {
+    "en": "Let your child say salam first when entering a room or meeting someone. The Prophet ﷺ said spreading salam brings love between people.",
+    "ur": "بچے کو سکھائیے کہ کمرے میں آتے یا کسی سے ملتے وقت پہلے سلام کرے۔ نبی کریم ﷺ نے فرمایا کہ سلام کو عام کرنے سے آپس میں محبت پیدا ہوتی ہے۔",
+    "ar": "علّم طفلك أن يبدأ بالسلام حين يدخل أو يلقى أحدًا. وقد أخبر النبي ﷺ أن إفشاء السلام يورث المحبة."
+   },
+   "refs": [
+    {
+     "type": "hadith",
+     "label": "Sahih Muslim 54a",
+     "key": "muslim:54a",
+     "grade": "Sahih"
+    }
+   ],
+   "review": true
+  },
+  {
+   "id": "g-reply",
+   "title": "Wa alaikum assalam",
+   "arabic": "وَعَلَيْكُمُ ٱلسَّلَامُ",
+   "meaning": {
+    "en": "And peace be upon you too.",
+    "ur": "اور آپ پر بھی سلامتی ہو۔",
+    "ar": "وعليكم السلام."
+   },
+   "avatar": "girl",
+   "tip": {
+    "en": "Practise replying with a smile: when someone says salam, we answer with the same or better. Make it a fun game at the door.",
+    "ur": "مسکراہٹ کے ساتھ جواب دینے کی مشق کیجیے: جب کوئی سلام کرے تو ہم ویسا ہی یا اس سے بہتر جواب دیتے ہیں۔ دروازے پر اسے ایک مزے دار کھیل بنا لیجیے۔",
+    "ar": "تدرّبوا على الرد بابتسامة: إذا سلّم أحد رددنا بمثلها أو أحسن. اجعلوها لعبة ممتعة عند الباب."
+   },
+   "refs": [
+    {
+     "type": "quran",
+     "label": "An-Nisa 4:86",
+     "key": "4:86"
+    }
+   ],
+   "review": true
+  },
+  {
+   "id": "g-rahmah",
+   "title": "Assalamu alaikum wa rahmatullah",
+   "arabic": "ٱلسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ ٱللَّهِ",
+   "meaning": {
+    "en": "Peace and Allah's mercy be upon you.",
+    "ur": "آپ پر سلامتی اور اللہ کی رحمت ہو۔",
+    "ar": "السلام عليكم ورحمة الله."
+   },
+   "avatar": "grandpa",
+   "tip": {
+    "en": "Each added part of the greeting earns more reward. Grandparents can model the longer greeting for little ones.",
+    "ur": "سلام کے ہر اضافی حصے پر زیادہ ثواب ہے۔ دادا دادی اور نانا نانی چھوٹوں کے سامنے لمبا سلام کر کے مثال قائم کر سکتے ہیں۔",
+    "ar": "كل زيادة في السلام تزيد الأجر. ويمكن للأجداد أن يكونوا قدوة للصغار في السلام الأطول."
+   },
+   "refs": [
+    {
+     "type": "hadith",
+     "label": "Sunan Abi Dawud 5195",
+     "key": "abudawud:5195",
+     "grade": "Sahih"
+    }
+   ],
+   "review": true
+  },
+  {
+   "id": "g-full",
+   "title": "Assalamu alaikum wa rahmatullahi wa barakatuh",
+   "arabic": "ٱلسَّلَامُ عَلَيْكُمْ وَرَحْمَةُ ٱللَّهِ وَبَرَكَاتُهُ",
+   "meaning": {
+    "en": "Peace, Allah's mercy and His blessings be upon you.",
+    "ur": "آپ پر سلامتی، اللہ کی رحمت اور اس کی برکتیں ہوں۔",
+    "ar": "السلام عليكم ورحمة الله وبركاته."
+   },
+   "avatar": "grandma",
+   "tip": {
+    "en": "The Prophet ﷺ counted ten, twenty and thirty good deeds for the short, longer and full greeting. Count them together with your child.",
+    "ur": "نبی کریم ﷺ نے مختصر، اس سے لمبے اور پورے سلام پر دس، بیس اور تیس نیکیاں شمار فرمائیں۔ بچے کے ساتھ مل کر گنیے۔",
+    "ar": "عدّ النبي ﷺ عشر حسنات وعشرين وثلاثين للسلام القصير والأطول والكامل. عدّوها مع طفلك."
+   },
+   "refs": [
+    {
+     "type": "hadith",
+     "label": "Sunan Abi Dawud 5195",
+     "key": "abudawud:5195",
+     "grade": "Sahih"
+    }
+   ],
+   "review": true
+  },
+  {
+   "id": "g-reply-full",
+   "title": "Wa alaikum assalam wa rahmatullahi wa barakatuh",
+   "arabic": "وَعَلَيْكُمُ ٱلسَّلَامُ وَرَحْمَةُ ٱللَّهِ وَبَرَكَاتُهُ",
+   "meaning": {
+    "en": "And peace, Allah's mercy and His blessings be upon you too.",
+    "ur": "اور آپ پر بھی سلامتی، اللہ کی رحمت اور اس کی برکتیں ہوں۔",
+    "ar": "وعليكم السلام ورحمة الله وبركاته."
+   },
+   "avatar": "man",
+   "tip": {
+    "en": "Allah tells us to answer a greeting with a better one or at least the same. Show your child how to give the full reply.",
+    "ur": "اللہ تعالیٰ ہمیں سلام کا جواب اس سے بہتر یا کم از کم ویسا ہی دینے کا حکم دیتا ہے۔ بچے کو پورا جواب دینا سکھائیے۔",
+    "ar": "يأمرنا الله أن نرد التحية بأحسن منها أو بمثلها. علّم طفلك الرد الكامل."
+   },
+   "refs": [
+    {
+     "type": "quran",
+     "label": "An-Nisa 4:86",
+     "key": "4:86"
+    }
+   ],
+   "review": true
+  },
+  {
+   "id": "g-marhaban",
+   "title": "Marhaban",
+   "arabic": "مَرْحَبًا",
+   "meaning": {
+    "en": "Welcome!",
+    "ur": "خوش آمدید!",
+    "ar": "مرحبًا!"
+   },
+   "avatar": "woman",
+   "tip": {
+    "en": "The Prophet ﷺ welcomed his daughter Fatimah (RA) with \"Marhaban\". Welcome guests and family warmly, after saying salam.",
+    "ur": "نبی کریم ﷺ نے اپنی بیٹی حضرت فاطمہ رضی اللہ عنہا کا ”مرحبا“ کہہ کر استقبال کیا۔ سلام کے بعد مہمانوں اور گھر والوں کا گرم جوشی سے استقبال کیجیے۔",
+    "ar": "استقبل النبي ﷺ ابنته فاطمة رضي الله عنها بقوله «مرحبًا». رحّبوا بالضيوف والأهل بحرارة بعد السلام."
+   },
+   "refs": [
+    {
+     "type": "hadith",
+     "label": "Sahih al-Bukhari 3623",
+     "key": "bukhari:3623",
+     "grade": "Sahih"
+    }
+   ],
+   "review": true
+  }
+ ],
+ "manners": [
+  {
+   "id": "m-bismillah",
+   "title": "Bismillah",
+   "arabic": "بِسْمِ ٱللَّهِ",
+   "meaning": {
+    "en": "In the name of Allah.",
+    "ur": "اللہ کے نام سے۔",
+    "ar": "باسم الله."
+   },
+   "avatar": "boy",
+   "tip": {
+    "en": "Say Bismillah together before every meal and eat with the right hand, as the Prophet ﷺ gently taught a young boy.",
+    "ur": "ہر کھانے سے پہلے مل کر بسم اللہ پڑھیے اور دائیں ہاتھ سے کھائیے، جیسے نبی کریم ﷺ نے ایک بچے کو نرمی سے سکھایا۔",
+    "ar": "قولوا «بسم الله» معًا قبل كل طعام وكلوا باليمين، كما علّم النبي ﷺ غلامًا برفق."
+   },
+   "refs": [
+    {
+     "type": "hadith",
+     "label": "Sahih al-Bukhari 5376",
+     "key": "bukhari:5376",
+     "grade": "Sahih"
+    }
+   ],
+   "review": true
+  },
+  {
+   "id": "m-alhamdulillah",
+   "title": "Alhamdulillah",
+   "arabic": "ٱلْحَمْدُ لِلَّهِ",
+   "meaning": {
+    "en": "All praise is for Allah.",
+    "ur": "سب تعریف اللہ کے لیے ہے۔",
+    "ar": "الحمد لله."
+   },
+   "avatar": "girl",
+   "tip": {
+    "en": "After eating or drinking, say Alhamdulillah. Allah is pleased with the one who thanks Him for food and drink.",
+    "ur": "کھانے پینے کے بعد الحمدللہ کہیے۔ اللہ اس بندے سے راضی ہوتا ہے جو کھانے پینے پر اس کا شکر ادا کرے۔",
+    "ar": "قولوا «الحمد لله» بعد الأكل والشرب، فالله يرضى عن العبد يحمده على الطعام والشراب."
+   },
+   "refs": [
+    {
+     "type": "hadith",
+     "label": "Sahih Muslim 2734a",
+     "key": "muslim:2734a",
+     "grade": "Sahih"
+    }
+   ],
+   "review": true
+  },
+  {
+   "id": "m-jazakallah",
+   "title": "JazakAllahu khayran",
+   "arabic": "جَزَاكَ ٱللَّهُ خَيْرًا",
+   "meaning": {
+    "en": "May Allah reward you with good.",
+    "ur": "اللہ آپ کو بہترین بدلہ دے۔",
+    "ar": "جزاك الله خيرًا."
+   },
+   "avatar": "grandma",
+   "tip": {
+    "en": "Teach your child to say JazakAllahu khayran when someone helps them. It is a thank-you and a dua at the same time.",
+    "ur": "بچے کو سکھائیے کہ جب کوئی مدد کرے تو جزاک اللہ خیراً کہے۔ یہ شکریہ بھی ہے اور دعا بھی۔",
+    "ar": "علّم طفلك أن يقول «جزاك الله خيرًا» لمن ساعده، فهي شكر ودعاء معًا."
+   },
+   "refs": [
+    {
+     "type": "hadith",
+     "label": "Jami` at-Tirmidhi 2035",
+     "key": "tirmidhi:2035",
+     "grade": "Sahih"
+    }
+   ],
+   "review": true
+  },
+  {
+   "id": "m-sneeze",
+   "title": "Alhamdulillah — Yarhamukallah",
+   "arabic": "ٱلْحَمْدُ لِلَّهِ — يَرْحَمُكَ ٱللَّهُ — يَهْدِيكُمُ ٱللَّهُ وَيُصْلِحُ بَالَكُمْ",
+   "meaning": {
+    "en": "When you sneeze say \"Alhamdulillah\". Others say \"Yarhamukallah\" (May Allah have mercy on you). You reply \"Yahdikumullahu wa yuslihu balakum\" (May Allah guide you and set your affairs right).",
+    "ur": "چھینک آئے تو \"الحمدللہ\" کہو۔ سننے والا \"یرحمک اللہ\" (اللہ تم پر رحم کرے) کہے۔ تم جواب میں \"یہدیکم اللہ ویصلح بالکم\" (اللہ تمہیں ہدایت دے اور تمہارا حال درست کرے) کہو۔",
+    "ar": "إذا عطست فقل «الحمد لله»، ويقول من سمعك «يرحمك الله»، فترد «يهديكم الله ويصلح بالكم»."
+   },
+   "avatar": "boy",
+   "tip": {
+    "en": "Play a sneezing game: one sneezes, one answers, then reply again. It turns a small moment into three duas.",
+    "ur": "چھینک کا کھیل کھیلیے: ایک چھینکے، دوسرا جواب دے، پھر پہلا جواب دے۔ اس طرح ایک چھوٹا سا لمحہ تین دعاؤں میں بدل جاتا ہے۔",
+    "ar": "العبوا لعبة العطاس: أحدكم يعطس، والآخر يشمّته، ثم يرد الأول. فتتحول لحظة صغيرة إلى ثلاثة أدعية."
+   },
+   "refs": [
+    {
+     "type": "hadith",
+     "label": "Sahih al-Bukhari 6224",
+     "key": "bukhari:6224",
+     "grade": "Sahih"
+    }
+   ],
+   "review": true
+  },
+  {
+   "id": "m-inshaallah",
+   "title": "InshaAllah",
+   "arabic": "إِنْ شَاءَ ٱللَّهُ",
+   "meaning": {
+    "en": "If Allah wills.",
+    "ur": "اگر اللہ نے چاہا۔",
+    "ar": "إن شاء الله."
+   },
+   "avatar": "girl",
+   "tip": {
+    "en": "Say InshaAllah when talking about something you plan to do later, and then really try to do it. It is not a polite way of saying no.",
+    "ur": "جب آئندہ کسی کام کا ارادہ ظاہر کریں تو ان شاء اللہ کہیے، اور پھر واقعی اسے کرنے کی کوشش کیجیے۔ یہ انکار کا شائستہ طریقہ نہیں۔",
+    "ar": "قل «إن شاء الله» حين تتحدث عن عمل تنويه في المستقبل، ثم اجتهد في فعله حقًا؛ فليست طريقة مهذبة للرفض."
+   },
+   "refs": [
+    {
+     "type": "quran",
+     "label": "Al-Kahf 18:23-24",
+     "key": "18:23-24"
+    }
+   ],
+   "review": true
+  },
+  {
+   "id": "m-mashaallah",
+   "title": "MashaAllah",
+   "arabic": "مَا شَاءَ ٱللَّهُ",
+   "meaning": {
+    "en": "What Allah has willed.",
+    "ur": "جو اللہ نے چاہا۔",
+    "ar": "ما شاء الله."
+   },
+   "avatar": "grandpa",
+   "tip": {
+    "en": "When you like something, say MashaAllah, remembering that every good thing comes from Allah. Praise others without envy.",
+    "ur": "جب کوئی چیز اچھی لگے تو ما شاء اللہ کہیے اور یاد رکھیے کہ ہر اچھی چیز اللہ کی طرف سے ہے۔ دوسروں کی تعریف حسد کے بغیر کیجیے۔",
+    "ar": "إذا أعجبك شيء فقل «ما شاء الله»، متذكرًا أن كل خير من الله. وامدح الآخرين بلا حسد."
+   },
+   "refs": [
+    {
+     "type": "quran",
+     "label": "Al-Kahf 18:39",
+     "key": "18:39"
+    }
+   ],
+   "review": true
+  },
+  {
+   "id": "m-salam-home",
+   "title": "Salam when entering home",
+   "arabic": "ٱلسَّلَامُ عَلَيْكُمْ",
+   "meaning": {
+    "en": "Peace be upon you — said when you come into your home.",
+    "ur": "آپ پر سلامتی ہو — گھر میں داخل ہوتے وقت کہا جاتا ہے۔",
+    "ar": "السلام عليكم — تقال عند دخول البيت."
+   },
+   "avatar": "man",
+   "tip": {
+    "en": "Allah tells us to greet when we enter houses. Make it a family habit to say salam each time anyone comes home.",
+    "ur": "اللہ تعالیٰ ہمیں گھروں میں داخل ہوتے وقت سلام کرنے کا حکم دیتا ہے۔ گھر آنے پر ہر بار سلام کرنا خاندان کی عادت بنائیے۔",
+    "ar": "يأمرنا الله أن نسلّم إذا دخلنا البيوت. اجعلوا السلام عند الدخول عادة عائلية في كل مرة."
+   },
+   "refs": [
+    {
+     "type": "quran",
+     "label": "An-Nur 24:61",
+     "key": "24:61"
+    }
+   ],
+   "review": true
+  },
+  {
+   "id": "m-astaghfirullah",
+   "title": "Astaghfirullah",
+   "arabic": "أَسْتَغْفِرُ ٱللَّهَ",
+   "meaning": {
+    "en": "I ask Allah to forgive me.",
+    "ur": "میں اللہ سے معافی مانگتا/مانگتی ہوں۔",
+    "ar": "أستغفر الله."
+   },
+   "avatar": "woman",
+   "tip": {
+    "en": "When a child makes a mistake, help them say sorry to the person and Astaghfirullah to Allah, without shaming them. The Prophet ﷺ himself sought forgiveness many times a day.",
+    "ur": "جب بچے سے غلطی ہو تو شرمندہ کیے بغیر اسے متعلقہ شخص سے معافی مانگنے اور اللہ سے استغفر اللہ کہنے میں مدد دیجیے۔ نبی کریم ﷺ خود دن میں کئی بار استغفار فرماتے تھے۔",
+    "ar": "إذا أخطأ الطفل فساعده على الاعتذار لمن أخطأ في حقه وعلى قول «أستغفر الله» دون تعنيف. وكان النبي ﷺ نفسه يستغفر في اليوم مرات كثيرة."
+   },
+   "refs": [
+    {
+     "type": "hadith",
+     "label": "Sahih al-Bukhari 6307",
+     "key": "bukhari:6307",
+     "grade": "Sahih"
+    }
+   ],
+   "review": true
+  }
+ ],
+ "first_words": [
+  {
+   "id": "w-allah",
+   "title": "Allah",
+   "arabic": "ٱللَّهُ",
+   "meaning": {
+    "en": "Allah — our Creator, who loves us and takes care of us.",
+    "ur": "اللہ — ہمارا خالق، جو ہم سے محبت کرتا ہے اور ہمارا خیال رکھتا ہے۔",
+    "ar": "الله — خالقنا الذي يحبنا ويرعانا."
+   },
+   "avatar": "girl",
+   "tip": {
+    "en": "Let \"Allah\" be among the first words your child hears and says, linked with love and care, never with fear.",
+    "ur": "\"اللہ\" کو ان پہلے الفاظ میں شامل کیجیے جو بچہ سنے اور بولے، محبت اور دیکھ بھال کے ساتھ جوڑ کر، کبھی خوف کے ساتھ نہیں۔",
+    "ar": "اجعل لفظ «الله» من أول ما يسمعه طفلك وينطقه، مقرونًا بالمحبة والرعاية لا بالخوف."
+   },
+   "refs": [
+    {
+     "type": "quran",
+     "label": "Al-Ikhlas 112:1",
+     "key": "112:1"
+    }
+   ],
+   "review": true
+  },
+  {
+   "id": "w-tahlil",
+   "title": "La ilaha illallah",
+   "arabic": "لَا إِلَٰهَ إِلَّا ٱللَّهُ",
+   "meaning": {
+    "en": "There is no god but Allah.",
+    "ur": "اللہ کے سوا کوئی معبود نہیں۔",
+    "ar": "لا إله إلا الله."
+   },
+   "avatar": "grandpa",
+   "tip": {
+    "en": "These are among the words most beloved to Allah. Say them softly together at bedtime.",
+    "ur": "یہ اللہ کو سب سے زیادہ محبوب کلمات میں سے ہیں۔ سوتے وقت مل کر آہستہ آہستہ پڑھیے۔",
+    "ar": "هذه من أحب الكلام إلى الله. قولوها معًا بهدوء قبل النوم."
+   },
+   "refs": [
+    {
+     "type": "hadith",
+     "label": "Sahih Muslim 2137",
+     "key": "muslim:2137",
+     "grade": "Sahih"
+    }
+   ],
+   "review": true
+  },
+  {
+   "id": "w-subhanallah",
+   "title": "SubhanAllah",
+   "arabic": "سُبْحَانَ ٱللَّهِ",
+   "meaning": {
+    "en": "Glory be to Allah — He is perfect.",
+    "ur": "اللہ پاک ہے — وہ ہر عیب سے پاک ہے۔",
+    "ar": "سبحان الله — تنزيه الله عن كل نقص."
+   },
+   "avatar": "boy",
+   "tip": {
+    "en": "Say SubhanAllah when you see something amazing: a rainbow, a flower or the moon. It teaches wonder and gratitude.",
+    "ur": "جب کوئی حیران کن چیز دیکھیں، جیسے قوس قزح، پھول یا چاند، تو سبحان اللہ کہیے۔ یہ حیرت اور شکر سکھاتا ہے۔",
+    "ar": "قولوا «سبحان الله» عند رؤية شيء عجيب: قوس قزح أو زهرة أو القمر. فهي تعلّم الدهشة والشكر."
+   },
+   "refs": [
+    {
+     "type": "hadith",
+     "label": "Sahih Muslim 2137",
+     "key": "muslim:2137",
+     "grade": "Sahih"
+    }
+   ],
+   "review": true
+  },
+  {
+   "id": "w-allahu-akbar",
+   "title": "Allahu Akbar",
+   "arabic": "ٱللَّهُ أَكْبَرُ",
+   "meaning": {
+    "en": "Allah is the Greatest.",
+    "ur": "اللہ سب سے بڑا ہے۔",
+    "ar": "الله أكبر."
+   },
+   "avatar": "man",
+   "tip": {
+    "en": "Allahu Akbar starts every prayer. Let your child say it with you when you begin to pray.",
+    "ur": "اللہ اکبر سے ہر نماز شروع ہوتی ہے۔ نماز شروع کرتے وقت بچے کو اپنے ساتھ کہنے دیجیے۔",
+    "ar": "تُفتتح كل صلاة بـ«الله أكبر». دع طفلك يقولها معك حين تبدأ الصلاة."
+   },
+   "refs": [
+    {
+     "type": "hadith",
+     "label": "Sahih Muslim 2137",
+     "key": "muslim:2137",
+     "grade": "Sahih"
+    }
+   ],
+   "review": true
+  },
+  {
+   "id": "w-zidni-ilma",
+   "title": "Rabbi zidni ilma",
+   "arabic": "رَّبِّ زِدْنِى عِلْمًا",
+   "meaning": {
+    "en": "My Lord, increase me in knowledge.",
+    "ur": "اے میرے رب! میرے علم میں اضافہ فرما۔",
+    "ar": "رب زدني علمًا."
+   },
+   "avatar": "girl",
+   "tip": {
+    "en": "A short dua from the Quran to say before school, homework or reading together.",
+    "ur": "قرآن کی ایک مختصر دعا جو اسکول، ہوم ورک یا مل کر پڑھنے سے پہلے کی جا سکتی ہے۔",
+    "ar": "دعاء قصير من القرآن يقال قبل المدرسة أو الواجبات أو القراءة معًا."
+   },
+   "refs": [
+    {
+     "type": "quran",
+     "label": "Ta-Ha 20:114",
+     "key": "20:114"
+    }
+   ],
+   "review": true
+  },
+  {
+   "id": "w-salawat",
+   "title": "Sallallahu alaihi wa sallam",
+   "arabic": "صَلَّى ٱللَّهُ عَلَيْهِ وَسَلَّمَ",
+   "meaning": {
+    "en": "May Allah send blessings and peace upon him — said after the Prophet Muhammad's ﷺ name.",
+    "ur": "اللہ ان پر رحمتیں اور سلامتی نازل فرمائے — نبی کریم ﷺ کا نام آنے پر کہا جاتا ہے۔",
+    "ar": "صلى الله عليه وسلم — تقال عند ذكر اسم النبي محمد ﷺ."
+   },
+   "avatar": "grandma",
+   "tip": {
+    "en": "Whenever the Prophet ﷺ is mentioned, say salawat together. Whoever sends one blessing on him receives ten from Allah.",
+    "ur": "جب بھی نبی کریم ﷺ کا ذکر ہو تو مل کر درود پڑھیے۔ جو آپ ﷺ پر ایک بار درود بھیجے اللہ اس پر دس رحمتیں نازل فرماتا ہے۔",
+    "ar": "كلما ذُكر النبي ﷺ فصلّوا عليه معًا، فمن صلّى عليه واحدة صلّى الله عليه بها عشرًا."
+   },
+   "refs": [
+    {
+     "type": "hadith",
+     "label": "Sahih Muslim 408",
+     "key": "muslim:408",
+     "grade": "Sahih"
+    }
+   ],
+   "review": true
+  }
+ ]
+}

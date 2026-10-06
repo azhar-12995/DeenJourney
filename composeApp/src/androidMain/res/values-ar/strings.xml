@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">رحلة الدين</string>
+    <string name="channel_adhan">الأذان ومواقيت الصلاة</string>
+    <string name="channel_reminders">التذكيرات</string>
+    <string name="channel_playback">تلاوة القرآن</string>
+</resources>

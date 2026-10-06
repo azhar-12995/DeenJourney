@@ -1,0 +1,716 @@
+{
+  "sections": [
+    {
+      "title": {
+        "en": "What zakat is",
+        "ur": "زکوٰۃ کیا ہے",
+        "ar": "ما هي الزكاة"
+      },
+      "body": {
+        "en": "Zakat is the obligatory charity that every eligible Muslim gives each year from their wealth. It is one of the five pillars of Islam (Bukhari 8), and the Quran often mentions it together with prayer: establish prayer and give zakat (2:43). The word zakat carries the meanings of purification and growth: Allah told the Prophet ﷺ to take charity from people's wealth to purify them and help them grow in goodness (9:103). When the Prophet ﷺ sent Mu'adh (RA) to Yemen, he described zakat as an obligation taken from the wealthy and returned to the poor (Bukhari 1395).",
+        "ur": "زکوٰۃ وہ فرض صدقہ ہے جو ہر صاحبِ نصاب مسلمان ہر سال اپنے مال میں سے ادا کرتا ہے۔ یہ اسلام کے پانچ ارکان میں سے ایک ہے (بخاری 8)، اور قرآن مجید میں اکثر نماز کے ساتھ اس کا ذکر آیا ہے: نماز قائم کرو اور زکوٰۃ ادا کرو (البقرہ 2:43)۔ زکوٰۃ کے معنی پاکیزگی اور بڑھوتری کے ہیں: اللہ تعالیٰ نے نبی کریم ﷺ کو حکم دیا کہ لوگوں کے مال میں سے صدقہ لیں تاکہ انہیں پاک کریں اور ان کی نیکی کو بڑھائیں (التوبہ 9:103)۔ جب نبی کریم ﷺ نے حضرت معاذ رضی اللہ عنہ کو یمن بھیجا تو فرمایا کہ زکوٰۃ مالداروں سے لے کر غریبوں کو لوٹائی جائے گی (بخاری 1395)۔",
+        "ar": "الزكاة فريضةٌ ماليةٌ يُخرجها كل مسلمٍ تجب عليه كل عام، وهي ركنٌ من أركان الإسلام الخمسة (رواه البخاري 8)، وكثيرًا ما قرنها القرآن بالصلاة، قال تعالى: ﴿وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ﴾ [البقرة: 43]. ومعنى الزكاة الطهارة والنماء، قال تعالى: ﴿خُذْ مِنْ أَمْوَٰلِهِمْ صَدَقَةً تُطَهِّرُهُمْ وَتُزَكِّيهِم بِهَا﴾ [التوبة: 103]. ولما بعث النبي ﷺ معاذًا رضي الله عنه إلى اليمن قال: «أَنَّ اللَّهَ افْتَرَضَ عَلَيْهِمْ صَدَقَةً فِي أَمْوَالِهِمْ، تُؤْخَذُ مِنْ أَغْنِيَائِهِمْ وَتُرَدُّ عَلَى فُقَرَائِهِمْ» (رواه البخاري 1395)."
+      },
+      "bullets": [
+        {
+          "en": "Zakat is due from a Muslim who owns at least the nisab (minimum threshold) of zakatable wealth, in full ownership and beyond basic needs, held for one lunar year.",
+          "ur": "زکوٰۃ اس مسلمان پر فرض ہے جو بنیادی ضروریات سے زائد کم از کم نصاب کے برابر قابلِ زکوٰۃ مال کا مکمل مالک ہو اور اس پر ایک قمری سال گزر جائے۔",
+          "ar": "تجب الزكاة على المسلم المالك لنصابٍ من المال الزكوي ملكًا تامًّا، فاضلًا عن حوائجه الأصلية، إذا حال عليه الحول القمري."
+        },
+        {
+          "en": "The standard rate on money, gold, silver and trade goods is 2.5% (one-fortieth).",
+          "ur": "نقدی، سونے، چاندی اور مالِ تجارت پر زکوٰۃ کی شرح 2.5 فیصد (چالیسواں حصہ) ہے۔",
+          "ar": "ومقدارها في النقود والذهب والفضة وعروض التجارة رُبع العُشر (2.5٪)."
+        },
+        {
+          "en": "Zakat is a right of those in need, not a favour: the Quran describes the wealth of the righteous as holding a right for those who ask and those who are deprived (51:19).",
+          "ur": "زکوٰۃ ضرورت مندوں کا حق ہے، احسان نہیں: قرآن مجید نیک لوگوں کے مال کے بارے میں بتاتا ہے کہ اس میں مانگنے والے اور محروم کا حق ہے (الذاریات 51:19)۔",
+          "ar": "والزكاة حقٌّ للمحتاجين لا مِنّة، قال تعالى: ﴿وَفِىٓ أَمْوَٰلِهِمْ حَقٌّ لِّلسَّآئِلِ وَٱلْمَحْرُومِ﴾ [الذاريات: 19]."
+        },
+        {
+          "en": "Withholding zakat is a serious matter: the Quran warns those who hoard gold and silver and do not spend it in Allah's way (9:34–35).",
+          "ur": "زکوٰۃ روک لینا سنگین بات ہے: قرآن مجید ان لوگوں کو تنبیہ کرتا ہے جو سونا چاندی جمع کرتے ہیں اور اللہ کی راہ میں خرچ نہیں کرتے (التوبہ 9:34–35)۔",
+          "ar": "ومنع الزكاة أمرٌ عظيم، فقد توعّد الله الذين يكنزون الذهب والفضة ولا ينفقونها في سبيله [التوبة: 34–35]."
+        }
+      ],
+      "refs": [
+        {
+          "type": "hadith",
+          "label": "Sahih al-Bukhari 8",
+          "key": "bukhari:8",
+          "grade": "Sahih"
+        },
+        {
+          "type": "quran",
+          "label": "Al-Baqarah 2:43",
+          "key": "2:43"
+        },
+        {
+          "type": "quran",
+          "label": "At-Tawbah 9:103",
+          "key": "9:103"
+        },
+        {
+          "type": "quran",
+          "label": "Adh-Dhariyat 51:19",
+          "key": "51:19"
+        },
+        {
+          "type": "hadith",
+          "label": "Sahih al-Bukhari 1395",
+          "key": "bukhari:1395",
+          "grade": "Sahih"
+        },
+        {
+          "type": "quran",
+          "label": "At-Tawbah 9:34-35",
+          "key": "9:34-35"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Who can receive zakat",
+        "ur": "زکوٰۃ کے مستحق کون ہیں",
+        "ar": "مصارف الزكاة"
+      },
+      "body": {
+        "en": "Allah Himself named the eight groups who may receive zakat, and called it an obligation from Allah (9:60). Zakat cannot be spent outside these groups.",
+        "ur": "اللہ تعالیٰ نے خود زکوٰۃ کے آٹھ مصارف بیان فرمائے ہیں اور اسے اللہ کی طرف سے مقرر کردہ فریضہ قرار دیا ہے (التوبہ 9:60)۔ زکوٰۃ ان کے علاوہ کہیں خرچ نہیں کی جا سکتی۔",
+        "ar": "حدّد الله تعالى بنفسه مصارف الزكاة الثمانية فقال: ﴿إِنَّمَا ٱلصَّدَقَٰتُ لِلْفُقَرَآءِ وَٱلْمَسَٰكِينِ وَٱلْعَٰمِلِينَ عَلَيْهَا وَٱلْمُؤَلَّفَةِ قُلُوبُهُمْ وَفِى ٱلرِّقَابِ وَٱلْغَٰرِمِينَ وَفِى سَبِيلِ ٱللَّهِ وَٱبْنِ ٱلسَّبِيلِ فَرِيضَةً مِّنَ ٱللَّهِ وَٱللَّهُ عَلِيمٌ حَكِيمٌ﴾ [التوبة: 60]، فلا تُصرف الزكاة في غيرها."
+      },
+      "bullets": [
+        {
+          "en": "1. The poor (al-fuqara'): people with little or nothing to meet their basic needs.",
+          "ur": "1۔ فقراء: وہ لوگ جن کے پاس بنیادی ضروریات کے لیے بہت کم یا کچھ بھی نہ ہو۔",
+          "ar": "1. الفقراء: من لا يجدون ما يكفي حاجاتهم الأساسية أو لا يجدون شيئًا."
+        },
+        {
+          "en": "2. The needy (al-masakin): people whose income does not cover their needs. Scholars differ on which of these first two groups is in greater need.",
+          "ur": "2۔ مساکین: وہ لوگ جن کی آمدنی ان کی ضروریات کے لیے ناکافی ہو۔ ان دونوں میں سے کون زیادہ محتاج ہے، اس میں علماء کا اختلاف ہے۔",
+          "ar": "2. المساكين: من لا يكفيهم دخلهم، واختلف العلماء في أيّ الصنفين أشدّ حاجة."
+        },
+        {
+          "en": "3. Zakat workers (al-'amilin 'alayha): those appointed to collect and distribute zakat; they may be paid from it even if they are not poor.",
+          "ur": "3۔ عاملین: زکوٰۃ جمع اور تقسیم کرنے پر مقرر افراد؛ انہیں زکوٰۃ سے اجرت دی جا سکتی ہے چاہے وہ غریب نہ ہوں۔",
+          "ar": "3. العاملون عليها: المكلَّفون بجمع الزكاة وتوزيعها، ويُعطَون منها ولو كانوا أغنياء."
+        },
+        {
+          "en": "4. Those whose hearts are to be won over (al-mu'allafati qulubuhum), such as new Muslims who need support. The Hanafi school holds that this share is no longer given; the other schools allow it when there is a need.",
+          "ur": "4۔ مؤلفۃ القلوب: جن کی دلجوئی مقصود ہو، جیسے مدد کے محتاج نو مسلم۔ حنفی مسلک میں یہ مد اب باقی نہیں؛ دیگر مذاہب میں ضرورت کے وقت دی جا سکتی ہے۔",
+          "ar": "4. المؤلَّفة قلوبهم، كمن أسلم حديثًا ويحتاج إلى العون، ويرى الحنفية سقوط هذا السهم، ويُبقيه غيرهم عند الحاجة."
+        },
+        {
+          "en": "5. Freeing those in bondage (fi al-riqab): freeing slaves and, according to many contemporary scholars, ransoming captives.",
+          "ur": "5۔ گردنیں چھڑانا (فی الرقاب): غلاموں کو آزاد کرانا، اور بہت سے معاصر علماء کے نزدیک قیدیوں کو چھڑانا بھی۔",
+          "ar": "5. وفي الرقاب: عتق الرقيق، ويُلحق به كثيرٌ من المعاصرين فكاك الأسرى."
+        },
+        {
+          "en": "6. Those in debt (al-gharimin): people burdened with debts for lawful needs that they cannot repay.",
+          "ur": "6۔ قرض دار (غارمین): وہ لوگ جن پر جائز ضروریات کے لیے لیا گیا ایسا قرض ہو جسے وہ ادا نہ کر سکیں۔",
+          "ar": "6. الغارمون: المدينون في حاجاتٍ مباحةٍ ولا يقدرون على السداد."
+        },
+        {
+          "en": "7. In the cause of Allah (fi sabilillah): the four schools understood this mainly as supporting those striving in Allah's path (the Hanafi school: those of them in need). Some contemporary scholars include other religious causes, while many do not.",
+          "ur": "7۔ اللہ کی راہ میں (فی سبیل اللہ): چاروں مذاہب نے اس سے بنیادی طور پر اللہ کی راہ میں جدوجہد کرنے والوں کی مدد مراد لی ہے (حنفی مسلک میں ان میں سے محتاج افراد)۔ بعض معاصر علماء دیگر دینی کاموں کو بھی شامل کرتے ہیں، جبکہ بہت سے علماء نہیں کرتے۔",
+          "ar": "7. في سبيل الله: فسّره المذاهب الأربعة أساسًا بإعانة المجاهدين في سبيل الله (ويقيّده الحنفية بالمحتاج منهم)، ووسّعه بعض المعاصرين ليشمل وجوهًا دينيةً أخرى، وخالفهم كثيرون."
+        },
+        {
+          "en": "8. The stranded traveller (ibn al-sabil): a traveller cut off from their money, even if they are wealthy at home.",
+          "ur": "8۔ مسافر (ابن السبیل): وہ مسافر جس کا مال اس کی پہنچ میں نہ ہو، چاہے وہ اپنے وطن میں مالدار ہو۔",
+          "ar": "8. ابن السبيل: المسافر المنقطع عن ماله ولو كان غنيًّا في بلده."
+        },
+        {
+          "en": "Who cannot receive your zakat: your parents and grandparents, your children and grandchildren, and the wealthy (those who themselves own the nisab beyond their needs), apart from zakat workers.",
+          "ur": "جنہیں آپ زکوٰۃ نہیں دے سکتے: اپنے والدین اور دادا دادی / نانا نانی، اپنی اولاد اور پوتے پوتیاں / نواسے نواسیاں، اور مالدار لوگ (جو خود ضرورت سے زائد نصاب کے مالک ہوں)، سوائے عاملینِ زکوٰۃ کے۔",
+          "ar": "من لا تُعطى لهم زكاتك: الأصول (الوالدان والأجداد)، والفروع (الأولاد والأحفاد)، والأغنياء المالكون للنصاب الفاضل عن حاجتهم، عدا العاملين عليها."
+        },
+        {
+          "en": "Spouses: a husband cannot give his zakat to his wife. Many scholars allow a wife to give her zakat to a husband in need, citing Bukhari 1466; Abu Hanifa did not allow it.",
+          "ur": "میاں بیوی: شوہر اپنی زکوٰۃ بیوی کو نہیں دے سکتا۔ بہت سے علماء بخاری 1466 کی بنیاد پر بیوی کو اجازت دیتے ہیں کہ وہ محتاج شوہر کو زکوٰۃ دے؛ امام ابو حنیفہ اس کی اجازت نہیں دیتے۔",
+          "ar": "الزوجان: لا يدفع الزوج زكاته إلى زوجته، وأجاز كثيرٌ من العلماء أن تدفع الزوجة زكاتها إلى زوجها المحتاج استدلالًا بحديث البخاري 1466، ومنع ذلك أبو حنيفة."
+        },
+        {
+          "en": "The family of the Prophet ﷺ (Banu Hashim) may not receive zakat (Muslim 1072). Non-Muslims: the majority say zakat is for Muslims, while voluntary sadaqah can go to anyone in need.",
+          "ur": "نبی کریم ﷺ کے خاندان (بنو ہاشم) کو زکوٰۃ نہیں دی جا سکتی (مسلم 1072)۔ غیر مسلم: جمہور کے نزدیک زکوٰۃ مسلمانوں کے لیے ہے، البتہ نفلی صدقہ ہر ضرورت مند کو دیا جا سکتا ہے۔",
+          "ar": "لا تحلّ الزكاة لآل النبي ﷺ من بني هاشم (رواه مسلم 1072). وغير المسلم: يرى الجمهور أن الزكاة للمسلمين، أما صدقة التطوّع فتُعطى لكل محتاج."
+        },
+        {
+          "en": "The Hanafi school requires zakat to be handed into the ownership of a deserving person, so it cannot be used directly to build mosques or fund public projects; most scholars agree that building mosques is not a zakat category.",
+          "ur": "حنفی مسلک میں زکوٰۃ کا کسی مستحق شخص کی ملکیت میں دینا (تملیک) ضروری ہے، اس لیے اسے براہِ راست مسجد کی تعمیر یا رفاہی منصوبوں پر خرچ نہیں کیا جا سکتا؛ اکثر علماء کے نزدیک مسجد کی تعمیر زکوٰۃ کا مصرف نہیں۔",
+          "ar": "ويشترط الحنفية تمليك الزكاة لمستحقٍّ معيّن، فلا تُصرف مباشرةً في بناء المساجد والمشاريع العامة، وأكثر العلماء على أن بناء المساجد ليس من مصارفها."
+        }
+      ],
+      "refs": [
+        {
+          "type": "quran",
+          "label": "At-Tawbah 9:60",
+          "key": "9:60"
+        },
+        {
+          "type": "hadith",
+          "label": "Sahih al-Bukhari 1466",
+          "key": "bukhari:1466",
+          "grade": "Sahih"
+        },
+        {
+          "type": "hadith",
+          "label": "Sahih Muslim 1072",
+          "key": "muslim:1072",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Nisab: the minimum amount",
+        "ur": "نصاب: کم از کم مقدار",
+        "ar": "النصاب"
+      },
+      "body": {
+        "en": "Zakat is due only when your wealth reaches a minimum amount called the nisab. The Prophet ﷺ set it at 200 dirhams of silver and 20 dinars of gold (Abu Dawud 1573; see also Bukhari 1447 on five awaq of silver).",
+        "ur": "زکوٰۃ اسی وقت فرض ہوتی ہے جب مال ایک کم از کم مقدار تک پہنچ جائے جسے نصاب کہتے ہیں۔ نبی کریم ﷺ نے چاندی کا نصاب 200 درہم اور سونے کا نصاب 20 دینار مقرر فرمایا (ابوداؤد 1573؛ نیز چاندی کے پانچ اوقیہ کے بارے میں بخاری 1447)۔",
+        "ar": "لا تجب الزكاة إلا إذا بلغ المال نصابًا، وقد حدّده النبي ﷺ بمئتي درهمٍ من الفضة وعشرين دينارًا من الذهب، ففي الحديث: «فَإِذَا كَانَتْ لَكَ مِائَتَا دِرْهَمٍ وَحَالَ عَلَيْهَا الْحَوْلُ فَفِيهَا خَمْسَةُ دَرَاهِمَ وَلَيْسَ عَلَيْكَ شَىْءٌ - يَعْنِي فِي الذَّهَبِ - حَتَّى يَكُونَ لَكَ عِشْرُونَ دِينَارًا فَإِذَا كَانَ لَكَ عِشْرُونَ دِينَارًا وَحَالَ عَلَيْهَا الْحَوْلُ فَفِيهَا نِصْفُ دِينَارٍ» (رواه أبو داود 1573، وانظر: البخاري 1447 في الأواقي الخمس)."
+      },
+      "bullets": [
+        {
+          "en": "In today's weights the most commonly cited values are 87.48 g of gold (7.5 tola) and 612.36 g of silver (52.5 tola), widely used in South Asia.",
+          "ur": "آج کے وزن میں سب سے زیادہ معروف مقداریں سونے کی 87.48 گرام (ساڑھے سات تولہ) اور چاندی کی 612.36 گرام (ساڑھے باون تولہ) ہیں، جو جنوبی ایشیا میں عام طور پر استعمال ہوتی ہیں۔",
+          "ar": "وأشهر التقديرات المعاصرة: 87.48 غرامًا من الذهب (7.5 تولة) و612.36 غرامًا من الفضة (52.5 تولة)، وهي الشائعة في جنوب آسيا."
+        },
+        {
+          "en": "Many other institutions use 85 g of gold and 595 g of silver. The difference comes from how the historic dinar (mithqal) and dirham are converted into grams.",
+          "ur": "بہت سے دوسرے ادارے سونے کے لیے 85 گرام اور چاندی کے لیے 595 گرام استعمال کرتے ہیں۔ یہ فرق اس وجہ سے ہے کہ قدیم دینار (مثقال) اور درہم کو گرام میں کیسے تبدیل کیا جائے۔",
+          "ar": "وتعتمد هيئاتٌ كثيرةٌ أخرى 85 غرامًا من الذهب و595 غرامًا من الفضة، ويرجع الفرق إلى طريقة تحويل الدينار (المثقال) والدرهم إلى الغرامات."
+        },
+        {
+          "en": "Gold or silver standard? If you hold only gold, with no cash, silver or trade goods, many scholars measure it against the gold nisab. For cash, savings and mixed assets, many scholars, especially in the Hanafi school, advise the silver nisab: it is lower, so more people pay zakat, more reaches the poor, and it is the more cautious choice. Other scholars prefer the gold nisab today because silver has lost much of its value. Ask a scholar which standard applies to you.",
+          "ur": "سونے کا نصاب یا چاندی کا؟ اگر آپ کے پاس صرف سونا ہو اور نقدی، چاندی یا مالِ تجارت نہ ہو تو بہت سے علماء سونے کا نصاب لگاتے ہیں۔ نقدی، بچت اور ملے جلے اثاثوں کے لیے بہت سے علماء، خصوصاً حنفی علماء، چاندی کا نصاب اختیار کرنے کا مشورہ دیتے ہیں: یہ کم ہے، اس لیے زیادہ لوگ زکوٰۃ ادا کرتے ہیں، غریبوں تک زیادہ پہنچتی ہے، اور اس میں احتیاط ہے۔ بعض علماء آج کل سونے کے نصاب کو ترجیح دیتے ہیں کیونکہ چاندی کی قیمت بہت گر چکی ہے۔ کسی عالم سے پوچھ لیں کہ آپ کے لیے کون سا نصاب ہے۔",
+          "ar": "نصاب الذهب أم الفضة؟ من ملك ذهبًا فقط دون نقدٍ أو فضةٍ أو عروض تجارة اعتبر كثيرٌ من العلماء نصاب الذهب في حقه. أما النقود والمدخرات والأموال المختلطة فينصح كثيرٌ من العلماء، ولا سيما الحنفية، بنصاب الفضة لأنه أقلّ، فيزكّي عددٌ أكبر من الناس، ويصل إلى الفقراء أكثر، وهو الأحوط. ويرجّح آخرون نصاب الذهب في زماننا لانخفاض قيمة الفضة كثيرًا. فاسأل عالمًا عن النصاب المعتبر في حالك."
+        },
+        {
+          "en": "The zakat calculator shows both values from live prices and lets you choose the standard. These are international spot prices converted to your currency and may differ from your local market rate, so you can also enter a local price.",
+          "ur": "زکوٰۃ کیلکولیٹر تازہ قیمتوں سے دونوں نصاب دکھاتا ہے اور آپ کو معیار منتخب کرنے دیتا ہے۔ یہ بین الاقوامی اسپاٹ قیمتیں ہیں جو آپ کی کرنسی میں تبدیل کی جاتی ہیں اور مقامی بازار کے نرخ سے مختلف ہو سکتی ہیں، اس لیے آپ مقامی قیمت خود بھی درج کر سکتے ہیں۔",
+          "ar": "تعرض حاسبة الزكاة قيمة النصابين بالأسعار الحالية وتتيح لك اختيار المعيار، وهي أسعارٌ عالميةٌ فورية محوّلة إلى عملتك وقد تختلف عن سعر السوق المحلي، فيمكنك إدخال السعر المحلي يدويًّا."
+        },
+        {
+          "en": "If your wealth is below the nisab, no zakat is due, though voluntary charity is always welcome.",
+          "ur": "اگر آپ کا مال نصاب سے کم ہے تو زکوٰۃ فرض نہیں، البتہ نفلی صدقہ ہمیشہ پسندیدہ ہے۔",
+          "ar": "ومن لم يبلغ ماله النصاب فلا زكاة عليه، وصدقة التطوّع مرغّبٌ فيها دائمًا."
+        }
+      ],
+      "refs": [
+        {
+          "type": "hadith",
+          "label": "Sunan Abi Dawud 1573 (Sahih)",
+          "key": "abudawud:1573",
+          "grade": "Sahih",
+          "grade_note": "Graded weak by Zubair Ali Zai: Daif (hadith-api data)",
+          "verify": true
+        },
+        {
+          "type": "hadith",
+          "label": "Sahih al-Bukhari 1447",
+          "key": "bukhari:1447",
+          "grade": "Sahih"
+        },
+        {
+          "type": "hadith",
+          "label": "Sahih al-Bukhari 1454",
+          "key": "bukhari:1454",
+          "grade": "Sahih"
+        }
+      ],
+      "notes": "87.48 g / 612.36 g = 7.5 / 52.5 tola at 11.664 g per tola (DATA_SOURCES §11). 85 g / 595 g use mithqal 4.25 g and dirham 2.975 g (not verified this session). Dev: confirm the calculator really offers the gold/silver choice and manual price override before release, or adjust the 4th bullet."
+    },
+    {
+      "title": {
+        "en": "Hawl: one lunar year",
+        "ur": "حولان حول: ایک قمری سال",
+        "ar": "الحول"
+      },
+      "body": {
+        "en": "Zakat becomes due when you have owned wealth at or above the nisab for one full lunar (Hijri) year, called the hawl (Tirmidhi 631; Abu Dawud 1573). A lunar year is about 354 days, roughly 11 days shorter than a solar year. Note the Hijri date on which you first owned the nisab: that becomes your yearly zakat date.",
+        "ur": "زکوٰۃ اس وقت فرض ہوتی ہے جب نصاب کے برابر یا اس سے زیادہ مال پر پورا ایک قمری (ہجری) سال گزر جائے، جسے حولان حول کہتے ہیں (ترمذی 631؛ ابوداؤد 1573)۔ قمری سال تقریباً 354 دن کا ہوتا ہے، یعنی شمسی سال سے تقریباً 11 دن چھوٹا۔ جس ہجری تاریخ کو آپ پہلی بار صاحبِ نصاب بنے، وہ تاریخ نوٹ کر لیں: یہی آپ کی سالانہ زکوٰۃ کی تاریخ ہے۔",
+        "ar": "تجب الزكاة إذا مرّ على ملك النصاب حولٌ قمريٌّ كامل (الترمذي 631؛ أبو داود 1573). والسنة القمرية نحو 354 يومًا، أي أقصر من الشمسية بنحو 11 يومًا. فاحفظ التاريخ الهجري الذي ملكت فيه النصاب أول مرة، فهو موعد زكاتك السنوي."
+      },
+      "bullets": [
+        {
+          "en": "Hanafi: what matters is owning the nisab at the start and at the end of the year; ups and downs in between do not reset the year, as long as the wealth did not disappear completely. The Shafi'i and Hanbali schools require the nisab to remain throughout the year for cash and gold; if it falls below, a new year starts when it is reached again.",
+          "ur": "حنفی: سال کے شروع اور آخر میں نصاب کا ہونا معتبر ہے؛ درمیان میں کمی بیشی سے سال نئے سرے سے شروع نہیں ہوتا جب تک مال بالکل ختم نہ ہو جائے۔ شافعی اور حنبلی مسلک میں نقدی اور سونے کے لیے پورے سال نصاب کا باقی رہنا ضروری ہے؛ نصاب سے کم ہو جائے تو دوبارہ نصاب پورا ہونے پر نیا سال شروع ہوتا ہے۔",
+          "ar": "عند الحنفية: العبرة بكمال النصاب في طرفي الحول، ولا يضرّ نقصانه في أثنائه ما لم يهلك المال كلّه. وعند الشافعية والحنابلة: يُشترط بقاء النصاب طوال الحول في النقود والذهب، فإن نقص عنه استُؤنف الحول عند تمامه."
+        },
+        {
+          "en": "Money gained during the year: the Hanafi school adds it to wealth of the same kind and pays on the total on the zakat date. The other schools generally give each new sum its own year, except profits that follow the original capital. Many people simply include everything on their zakat date, which is allowed as an early payment.",
+          "ur": "سال کے دوران حاصل ہونے والا مال: حنفی مسلک میں اسے اسی قسم کے مال میں شامل کر کے زکوٰۃ کی تاریخ پر کل رقم پر زکوٰۃ دی جاتی ہے۔ دیگر مذاہب میں عموماً ہر نئی رقم کا الگ سال شمار ہوتا ہے، سوائے اس نفع کے جو اصل سرمائے کے تابع ہو۔ بہت سے لوگ زکوٰۃ کی تاریخ پر سب کچھ شامل کر لیتے ہیں، جو پیشگی ادائیگی کے طور پر جائز ہے۔",
+          "ar": "المال المستفاد أثناء الحول: يضمّه الحنفية إلى جنسه ويزكّون الجميع في موعد الزكاة، ويجعل غيرهم لكل مالٍ مستفادٍ حولًا مستقلًّا غالبًا إلا الربح التابع لأصله. ويُدخل كثيرٌ من الناس كل ما عندهم في موعد زكاتهم، وهو جائزٌ من باب تعجيل الزكاة."
+        },
+        {
+          "en": "If you track your zakat date by the Gregorian calendar, some scholars and zakat bodies suggest 2.577% instead of 2.5% to account for the longer solar year.",
+          "ur": "اگر آپ زکوٰۃ کی تاریخ عیسوی کیلنڈر سے رکھتے ہیں تو بعض علماء اور زکوٰۃ ادارے شمسی سال کے لمبا ہونے کی وجہ سے 2.5 فیصد کے بجائے 2.577 فیصد کا مشورہ دیتے ہیں۔",
+          "ar": "ومن اعتمد السنة الميلادية في موعد زكاته فقد اقترح بعض العلماء وهيئات الزكاة نسبة 2.577٪ بدل 2.5٪ مراعاةً لطول السنة الشمسية."
+        },
+        {
+          "en": "Crops and fruit have no hawl: their zakat is due at harvest (6:141).",
+          "ur": "فصلوں اور پھلوں پر سال گزرنا شرط نہیں: ان کی زکوٰۃ (عشر) کٹائی کے دن واجب ہوتی ہے (الانعام 6:141)۔",
+          "ar": "ولا يُشترط الحول في الزروع والثمار، بل تجب زكاتها يوم الحصاد، قال تعالى: ﴿وَءَاتُوا۟ حَقَّهُۥ يَوْمَ حَصَادِهِۦ﴾ [الأنعام: 141]."
+        }
+      ],
+      "refs": [
+        {
+          "type": "hadith",
+          "label": "Jami' at-Tirmidhi 631 (Sahih)",
+          "key": "tirmidhi:631",
+          "grade": "Sahih",
+          "grade_note": "Graded weak by Zubair Ali Zai: Daif (hadith-api data)",
+          "verify": true
+        },
+        {
+          "type": "hadith",
+          "label": "Sunan Abi Dawud 1573 (Sahih)",
+          "key": "abudawud:1573",
+          "grade": "Sahih",
+          "grade_note": "Graded weak by Zubair Ali Zai: Daif (hadith-api data)",
+          "verify": true
+        },
+        {
+          "type": "quran",
+          "label": "Al-An'am 6:141",
+          "key": "6:141"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "What counts for zakat",
+        "ur": "کن چیزوں پر زکوٰۃ ہے",
+        "ar": "الأموال التي تجب فيها الزكاة"
+      },
+      "body": {
+        "en": "Zakat is due on wealth that can grow, such as money, gold, silver and goods for trade. Things you own for personal use are exempt.",
+        "ur": "زکوٰۃ اس مال پر ہے جو بڑھنے کی صلاحیت رکھتا ہو، جیسے نقدی، سونا، چاندی اور مالِ تجارت۔ ذاتی استعمال کی چیزوں پر زکوٰۃ نہیں۔",
+        "ar": "تجب الزكاة في المال النامي كالنقود والذهب والفضة وعروض التجارة، ولا زكاة فيما يُقتنى للاستعمال الشخصي."
+      },
+      "bullets": [
+        {
+          "en": "Cash: money at home, in bank accounts and digital wallets, and foreign currency (at the current exchange rate).",
+          "ur": "نقدی: گھر میں رکھی رقم، بینک اکاؤنٹس اور ڈیجیٹل والٹ کی رقم، اور غیر ملکی کرنسی (موجودہ شرحِ تبادلہ پر)۔",
+          "ar": "النقود: ما في البيت والحسابات المصرفية والمحافظ الرقمية، والعملات الأجنبية بسعر الصرف الحالي."
+        },
+        {
+          "en": "Gold and silver in any form: coins, bars and jewellery. Jewellery: the Hanafi school says zakat is due on all gold and silver jewellery, even if it is worn; the Maliki, Shafi'i and Hanbali schools say no zakat is due on permissible jewellery kept for regular personal use, but it is due on jewellery kept as savings or investment.",
+          "ur": "سونا اور چاندی ہر شکل میں: سکے، بسکٹ اور زیورات۔ زیورات: حنفی مسلک میں سونے چاندی کے ہر زیور پر زکوٰۃ ہے چاہے پہنا جاتا ہو؛ مالکی، شافعی اور حنبلی مسلک میں ذاتی استعمال کے جائز زیور پر زکوٰۃ نہیں، البتہ بچت یا سرمایہ کاری کے لیے رکھے گئے زیور پر ہے۔",
+          "ar": "الذهب والفضة بجميع أشكالهما: العملات والسبائك والحليّ. أما الحليّ فتجب فيه الزكاة عند الحنفية ولو كان مستعملًا، ولا زكاة عند المالكية والشافعية والحنابلة في الحليّ المباح المعدّ للاستعمال، وتجب فيما اتُّخذ للادخار أو الاستثمار."
+        },
+        {
+          "en": "Trade goods: stock and items bought to resell, valued at their market (sale) price on your zakat date. Property or cars bought to sell for profit count as trade goods.",
+          "ur": "مالِ تجارت: فروخت کی نیت سے خریدا گیا سامان، جس کی قیمت زکوٰۃ کی تاریخ پر بازاری (فروخت کی) قیمت سے لگائی جائے۔ نفع پر بیچنے کے لیے خریدی گئی جائیداد یا گاڑی بھی مالِ تجارت ہے۔",
+          "ar": "عروض التجارة: البضائع وما اشتُري بنيّة البيع، وتُقوَّم بسعر السوق يوم وجوب الزكاة، ويدخل فيها العقار أو السيارة المشتراة للبيع بربح."
+        },
+        {
+          "en": "Money owed to you: debts you expect to be repaid are generally included, though some schools say you pay on them when you receive them, for the years that have passed. Doubtful debts are not included until received.",
+          "ur": "دوسروں کے ذمے آپ کا قرض: جس قرض کی واپسی کی امید ہو وہ عموماً شامل کیا جاتا ہے، اگرچہ بعض مذاہب کے مطابق وصول ہونے پر گزشتہ سالوں کی زکوٰۃ ادا کی جاتی ہے۔ مشکوک قرض وصول ہونے تک شامل نہیں۔",
+          "ar": "الديون التي لك على الناس: يدخل في الحساب غالبًا ما يُرجى سداده، ويرى بعض المذاهب أداء زكاته عند قبضه عن السنوات الماضية، أما الدين المشكوك فيه فلا يُزكّى حتى يُقبض."
+        },
+        {
+          "en": "Shares and investment funds: if bought to trade for profit, include their full market value. If held long-term for dividends, many contemporary scholars allow paying on your share of the company's zakatable assets (its cash, receivables and stock); if that is unknown, some advise paying on the full market value as a precaution. Views differ.",
+          "ur": "شیئرز اور انویسٹمنٹ فنڈز: اگر نفع پر بیچنے کے لیے خریدے ہوں تو پوری بازاری قیمت شامل کریں۔ اگر منافع (ڈیویڈنڈ) کے لیے طویل مدت تک رکھے ہوں تو بہت سے معاصر علماء کمپنی کے قابلِ زکوٰۃ اثاثوں (نقدی، وصولیاں اور اسٹاک) میں آپ کے حصے پر زکوٰۃ کی اجازت دیتے ہیں؛ اگر یہ معلوم نہ ہو تو بعض علماء احتیاطاً پوری بازاری قیمت پر زکوٰۃ کا مشورہ دیتے ہیں۔ اس میں آراء مختلف ہیں۔",
+          "ar": "الأسهم وصناديق الاستثمار: ما اشتُري للمتاجرة يُزكّى بقيمته السوقية كاملة، وما اقتُني للاستثمار طويل الأجل أجاز كثيرٌ من المعاصرين زكاة حصّته من الموجودات الزكوية للشركة (النقد والديون والمخزون)، فإن جُهلت نصح بعضهم بزكاة القيمة السوقية كاملةً احتياطًا. والمسألة خلافية."
+        },
+        {
+          "en": "Pensions and retirement funds: views differ; many scholars include amounts you can access or withdraw.",
+          "ur": "پنشن اور ریٹائرمنٹ فنڈ: آراء مختلف ہیں؛ بہت سے علماء وہ رقم شامل کرتے ہیں جو آپ نکال سکتے ہوں یا جس تک آپ کی رسائی ہو۔",
+          "ar": "صناديق التقاعد: فيها خلاف، ويُدخل كثيرٌ من العلماء ما يمكنك سحبه أو التصرّف فيه."
+        },
+        {
+          "en": "Rental property: the property itself is not zakatable, but saved rental income is added to your cash.",
+          "ur": "کرائے کی جائیداد: جائیداد کی مالیت پر زکوٰۃ نہیں، البتہ کرائے کی بچی ہوئی آمدنی نقدی میں شامل ہوتی ہے۔",
+          "ar": "العقار المؤجَّر: لا زكاة في قيمته، وإنما يُضمّ ما ادُّخر من أجرته إلى النقود."
+        },
+        {
+          "en": "Not zakatable: your home, personal car, furniture, clothes, household items and the tools of your trade.",
+          "ur": "جن پر زکوٰۃ نہیں: رہائشی گھر، ذاتی گاڑی، فرنیچر، کپڑے، گھریلو سامان اور پیشے کے اوزار۔",
+          "ar": "لا زكاة في: بيت السكن، والسيارة الشخصية، والأثاث، والثياب، وأدوات المنزل، وآلات الحِرفة."
+        }
+      ],
+      "refs": [
+        {
+          "type": "hadith",
+          "label": "Sahih al-Bukhari 1454",
+          "key": "bukhari:1454",
+          "grade": "Sahih"
+        },
+        {
+          "type": "quran",
+          "label": "At-Tawbah 9:34",
+          "key": "9:34"
+        },
+        {
+          "type": "book",
+          "label": "Standard manuals of the four schools (e.g. al-Hidayah, Mukhtasar Khalil, al-Majmu', al-Mughni)",
+          "verify": true
+        }
+      ],
+      "notes": "Receivables, shares, pensions: simplified contemporary positions; reviewer to choose calculator defaults and wording."
+    },
+    {
+      "title": {
+        "en": "Debts you may deduct",
+        "ur": "کون سے قرض منہا کیے جا سکتے ہیں",
+        "ar": "الديون التي تُخصم"
+      },
+      "body": {
+        "en": "Debts you owe can reduce the wealth on which zakat is due, but the schools differ on how:",
+        "ur": "آپ کے ذمے واجب الادا قرض قابلِ زکوٰۃ مال کو کم کر سکتے ہیں، لیکن اس کی تفصیل میں مذاہب کا اختلاف ہے:",
+        "ar": "قد تُنقص الديونُ التي عليك المالَ الواجبةَ فيه الزكاة، وللمذاهب في ذلك تفصيل:"
+      },
+      "bullets": [
+        {
+          "en": "Hanafi: debts owed to people that are due are deducted from your zakatable wealth.",
+          "ur": "حنفی: لوگوں کے وہ قرض جو واجب الادا ہوں، قابلِ زکوٰۃ مال سے منہا کیے جاتے ہیں۔",
+          "ar": "الحنفية: تُخصم ديون العباد المطالَب بها من المال الزكوي."
+        },
+        {
+          "en": "Maliki: debts reduce zakat on cash, gold and silver when you have no other assets to cover them, but not on crops or livestock.",
+          "ur": "مالکی: اگر قرض ادا کرنے کے لیے دوسرا مال نہ ہو تو قرض نقدی، سونے اور چاندی کی زکوٰۃ کو کم کرتا ہے، لیکن فصلوں اور مویشیوں کی زکوٰۃ کو نہیں۔",
+          "ar": "المالكية: يُسقط الدين زكاة النقدين إذا لم يكن عنده ما يقابله من غيرها، ولا يُسقط زكاة الزروع والماشية."
+        },
+        {
+          "en": "Shafi'i: in the school's relied-upon view, debts do not reduce zakat.",
+          "ur": "شافعی: مسلک کے معتمد قول کے مطابق قرض کی وجہ سے زکوٰۃ کم نہیں ہوتی۔",
+          "ar": "الشافعية: الدين لا يمنع وجوب الزكاة على المعتمد في المذهب."
+        },
+        {
+          "en": "Hanbali: in the well-known view of the school, debts are deducted before zakat is calculated.",
+          "ur": "حنبلی: مسلک کے مشہور قول کے مطابق زکوٰۃ کے حساب سے پہلے قرض منہا کیے جاتے ہیں۔",
+          "ar": "الحنابلة: يُخصم الدين قبل حساب الزكاة على المشهور في المذهب."
+        },
+        {
+          "en": "Long-term loans (mortgages, car finance, student loans): many contemporary scholars deduct only the instalments due within the coming 12 months, or those already due, not the whole remaining balance.",
+          "ur": "طویل مدتی قرض (مکان، گاڑی یا تعلیم کے قرض): بہت سے معاصر علماء صرف آئندہ 12 مہینوں کی یا پہلے سے واجب الادا قسطیں منہا کرتے ہیں، پورا باقی قرض نہیں۔",
+          "ar": "الديون طويلة الأجل (التمويل العقاري وتمويل السيارات والقروض الدراسية): يرى كثيرٌ من المعاصرين خصم الأقساط المستحقة خلال الاثني عشر شهرًا القادمة أو الحالّة فقط، لا كامل الرصيد."
+        },
+        {
+          "en": "Bills already due, such as rent, utilities or wages you owe, may be deducted according to those who allow deduction.",
+          "ur": "پہلے سے واجب الادا بل، جیسے کرایہ، یوٹیلیٹی بل یا ملازمین کی تنخواہ، ان علماء کے نزدیک منہا ہو سکتے ہیں جو قرض منہا کرنے کے قائل ہیں۔",
+          "ar": "والفواتير المستحقة كالإيجار وفواتير الخدمات وأجور العمّال تُخصم عند من يرى خصم الديون."
+        },
+        {
+          "en": "In the calculator, enter only the debts that your school or your scholar allows you to deduct.",
+          "ur": "کیلکولیٹر میں صرف وہی قرض درج کریں جنہیں منہا کرنے کی اجازت آپ کا مسلک یا آپ کے عالم دیتے ہیں۔",
+          "ar": "أدخل في الحاسبة الديون التي يجيز مذهبك أو عالمك خصمها فقط."
+        }
+      ],
+      "refs": [
+        {
+          "type": "book",
+          "label": "Standard manuals of the four schools (e.g. al-Hidayah, Mukhtasar Khalil, al-Majmu', al-Mughni)",
+          "verify": true
+        }
+      ],
+      "notes": "School positions summarised from standard manuals; reviewer to confirm, especially Maliki and Hanbali details."
+    },
+    {
+      "title": {
+        "en": "How to calculate",
+        "ur": "زکوٰۃ کا حساب کیسے کریں",
+        "ar": "طريقة حساب الزكاة"
+      },
+      "body": {
+        "en": "Zakat on money, gold, silver and trade goods is one-fortieth (2.5%), as recorded in the written instructions that Abu Bakr (RA) passed on from the Prophet ﷺ (Bukhari 1454).",
+        "ur": "نقدی، سونے، چاندی اور مالِ تجارت کی زکوٰۃ چالیسواں حصہ (2.5 فیصد) ہے، جیسا کہ نبی کریم ﷺ کی ہدایات پر مشتمل اس تحریر میں ہے جو حضرت ابوبکر رضی اللہ عنہ نے لکھوائی (بخاری 1454)۔",
+        "ar": "مقدار الزكاة في النقود والذهب والفضة وعروض التجارة ربع العشر، ففي كتاب أبي بكر رضي الله عنه الذي كتبه بفرائض الصدقة عن رسول الله ﷺ: «وَفِي الرِّقَةِ رُبْعُ الْعُشْرِ» (رواه البخاري 1454)."
+      },
+      "bullets": [
+        {
+          "en": "1. On your zakat date, add up your cash, the market value of your gold and silver (if zakatable in your school), trade goods, money owed to you that you expect to collect, and zakatable investments.",
+          "ur": "1۔ زکوٰۃ کی تاریخ پر اپنی نقدی، سونے چاندی کی بازاری قیمت (اگر آپ کے مسلک میں ان پر زکوٰۃ ہے)، مالِ تجارت، قابلِ وصول قرض اور قابلِ زکوٰۃ سرمایہ کاری کو جمع کریں۔",
+          "ar": "1. في موعد زكاتك اجمع: النقود، والقيمة السوقية للذهب والفضة (إن وجبت فيهما الزكاة في مذهبك)، وعروض التجارة، والديون المرجوّة، والاستثمارات الزكوية."
+        },
+        {
+          "en": "2. Subtract the debts your school allows you to deduct.",
+          "ur": "2۔ وہ قرض منہا کریں جنہیں منہا کرنے کی اجازت آپ کا مسلک دیتا ہے۔",
+          "ar": "2. اطرح الديون التي يجيز مذهبك خصمها."
+        },
+        {
+          "en": "3. Compare the result with the nisab (gold or silver, as advised).",
+          "ur": "3۔ باقی رقم کا موازنہ نصاب (سونے یا چاندی، جیسا مشورہ ہو) سے کریں۔",
+          "ar": "3. قارن الناتج بالنصاب (الذهب أو الفضة بحسب ما يُنصح به)."
+        },
+        {
+          "en": "4. If it is at or above the nisab, multiply by 2.5% (or divide by 40). Example: net zakatable wealth of 1,000,000 gives zakat of 25,000 in the same currency.",
+          "ur": "4۔ اگر یہ نصاب کے برابر یا زیادہ ہو تو 2.5 فیصد نکالیں (یا 40 سے تقسیم کریں)۔ مثال: 10 لاکھ قابلِ زکوٰۃ مال پر 25 ہزار زکوٰۃ، اسی کرنسی میں۔",
+          "ar": "4. إن بلغ النصاب فاضربه في 2.5٪ (أو اقسمه على 40). مثال: صافي مالٍ زكوي قدره 1,000,000 زكاته 25,000 من العملة نفسها."
+        },
+        {
+          "en": "5. Value gold and silver at the price you could sell them for on your zakat date.",
+          "ur": "5۔ سونے چاندی کی قیمت وہ لگائیں جس پر آپ زکوٰۃ کی تاریخ کو انہیں بیچ سکتے ہوں۔",
+          "ar": "5. قوِّم الذهب والفضة بسعر بيعهما يوم وجوب الزكاة."
+        },
+        {
+          "en": "6. Make the intention that it is zakat when you give it or set it aside. You do not have to tell the recipient that it is zakat.",
+          "ur": "6۔ زکوٰۃ دیتے وقت یا الگ کرتے وقت زکوٰۃ کی نیت کریں۔ لینے والے کو یہ بتانا ضروری نہیں کہ یہ زکوٰۃ ہے۔",
+          "ar": "6. انوِ الزكاة عند دفعها أو عزلها، ولا يلزم إخبار الآخذ بأنها زكاة."
+        },
+        {
+          "en": "7. Pay promptly once it is due. The majority allow paying in advance, even in instalments through the year (Abu Dawud 1624, a report whose authenticity is debated); the Maliki school allows only a short time early.",
+          "ur": "7۔ واجب ہونے کے بعد جلد ادا کریں۔ جمہور علماء پیشگی ادائیگی کی اجازت دیتے ہیں، چاہے سال بھر قسطوں میں ہو (ابوداؤد 1624، جس کی صحت میں اختلاف ہے)؛ مالکی مسلک میں صرف تھوڑا پہلے ادا کرنے کی اجازت ہے۔",
+          "ar": "7. بادر بإخراجها عند وجوبها. ويجيز الجمهور تعجيلها ولو على أقساطٍ خلال الحول (أبو داود 1624، وفي صحته خلاف)، ولا يجيز المالكية إلا التقديم اليسير."
+        }
+      ],
+      "refs": [
+        {
+          "type": "hadith",
+          "label": "Sahih al-Bukhari 1454",
+          "key": "bukhari:1454",
+          "grade": "Sahih"
+        },
+        {
+          "type": "hadith",
+          "label": "Sunan Abi Dawud 1624 (Hasan)",
+          "key": "abudawud:1624",
+          "grade": "Hasan",
+          "grade_note": "Graded weak by Shuaib Al Arnaut: Daif; Zubair Ali Zai: Daif (hadith-api data)",
+          "verify": true
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Crops, fruit and livestock",
+        "ur": "فصلیں، پھل اور مویشی",
+        "ar": "زكاة الزروع والثمار والأنعام"
+      },
+      "body": {
+        "en": "Zakat also applies to farm produce and to grazing livestock. These have their own detailed rules, so ask a scholar if they apply to you.",
+        "ur": "زرعی پیداوار اور چرنے والے مویشیوں پر بھی زکوٰۃ ہے۔ ان کے تفصیلی احکام الگ ہیں، اس لیے اگر یہ آپ پر لاگو ہوں تو کسی عالم سے رجوع کریں۔",
+        "ar": "تجب الزكاة أيضًا في الزروع والثمار والأنعام السائمة، ولها أحكامٌ مفصّلة، فاسأل عالمًا إن كانت تخصّك."
+      },
+      "bullets": [
+        {
+          "en": "Crops and fruit: one-tenth (10%) of the harvest if watered by rain or natural springs, and one-twentieth (5%) if watered with effort or cost, such as from wells (Bukhari 1483). It is due at harvest (6:141).",
+          "ur": "فصلیں اور پھل: بارش یا قدرتی چشموں سے سیراب ہونے والی پیداوار پر دسواں حصہ (10 فیصد)، اور محنت یا خرچ سے (مثلاً کنویں سے) سیراب ہونے والی پر بیسواں حصہ (5 فیصد) (بخاری 1483)۔ یہ کٹائی کے وقت واجب ہوتی ہے (الانعام 6:141)۔",
+          "ar": "الزروع والثمار: قال النبي ﷺ: «فِيمَا سَقَتِ السَّمَاءُ وَالْعُيُونُ أَوْ كَانَ عَثَرِيًّا الْعُشْرُ، وَمَا سُقِيَ بِالنَّضْحِ نِصْفُ الْعُشْرِ» (رواه البخاري 1483)، وتجب يوم الحصاد [الأنعام: 141]."
+        },
+        {
+          "en": "Minimum for crops: five awsuq (Bukhari 1447), with modern estimates ranging roughly from 600 to 700 kg. Abu Hanifa held that there is no minimum and that zakat applies to all produce; the other schools set a minimum and limit it to certain crops, such as storable staples.",
+          "ur": "فصلوں کا نصاب: پانچ وسق (بخاری 1447)، جس کا موجودہ اندازہ تقریباً 600 سے 700 کلوگرام تک ہے۔ امام ابو حنیفہ کے نزدیک کوئی نصاب نہیں اور ہر پیداوار پر زکوٰۃ ہے؛ دیگر مذاہب نصاب مقرر کرتے ہیں اور اسے بعض فصلوں، مثلاً ذخیرہ ہونے والی بنیادی غذاؤں، تک محدود رکھتے ہیں۔",
+          "ar": "نصاب الزروع خمسة أوسق (البخاري 1447)، وتُقدَّر حديثًا بنحو 600 إلى 700 كيلوغرام. ولم يشترط أبو حنيفة نصابًا وأوجبها في كل ما أخرجت الأرض، واشترط غيره النصاب وخصّوها بأصنافٍ معيّنة كالأقوات المدّخرة."
+        },
+        {
+          "en": "Livestock: camels, cattle, and sheep or goats that graze freely for most of the year (the Maliki school also includes animals that are fed). Minimums include 5 camels and 40 sheep or goats (Bukhari 1447, 1454) and 30 cattle (Abu Dawud 1576).",
+          "ur": "مویشی: اونٹ، گائے بیل، اور بھیڑ بکریاں جو سال کا اکثر حصہ آزادانہ چرتے ہوں (مالکی مسلک میں چارہ کھانے والے جانور بھی شامل ہیں)۔ نصاب: 5 اونٹ اور 40 بھیڑ بکریاں (بخاری 1447، 1454) اور 30 گائیں (ابوداؤد 1576)۔",
+          "ar": "الأنعام: الإبل والبقر والغنم السائمة أكثر الحول (ولا يشترط المالكية السوم). وأدنى النصاب خمسٌ من الإبل وأربعون من الغنم (البخاري 1447، 1454) وثلاثون من البقر (أبو داود 1576)."
+        },
+        {
+          "en": "Animals or produce kept for trade are treated as trade goods.",
+          "ur": "تجارت کے لیے رکھے گئے جانور یا پیداوار مالِ تجارت شمار ہوتے ہیں۔",
+          "ar": "وما اتُّخذ من الأنعام أو المحاصيل للتجارة فحكمه حكم عروض التجارة."
+        }
+      ],
+      "refs": [
+        {
+          "type": "hadith",
+          "label": "Sahih al-Bukhari 1483",
+          "key": "bukhari:1483",
+          "grade": "Sahih"
+        },
+        {
+          "type": "hadith",
+          "label": "Sahih al-Bukhari 1447",
+          "key": "bukhari:1447",
+          "grade": "Sahih"
+        },
+        {
+          "type": "hadith",
+          "label": "Sahih al-Bukhari 1454",
+          "key": "bukhari:1454",
+          "grade": "Sahih"
+        },
+        {
+          "type": "hadith",
+          "label": "Sunan Abi Dawud 1576 (Sahih)",
+          "key": "abudawud:1576",
+          "grade": "Sahih",
+          "grade_note": "Graded weak by Zubair Ali Zai: Daif (hadith-api data)",
+          "verify": true
+        },
+        {
+          "type": "quran",
+          "label": "Al-An'am 6:141",
+          "key": "6:141"
+        }
+      ],
+      "notes": "Five awsuq conversion varies (approx. 612-653 kg commonly cited); range given deliberately."
+    },
+    {
+      "title": {
+        "en": "Paying for your family",
+        "ur": "گھر والوں کی طرف سے زکوٰۃ",
+        "ar": "الزكاة عن الأسرة"
+      },
+      "body": {
+        "en": "Zakat is due from each owner on their own wealth, so a husband, a wife and adult children each work out their own zakat.",
+        "ur": "زکوٰۃ ہر مالک پر اپنے مال کی ہوتی ہے، اس لیے شوہر، بیوی اور بالغ اولاد میں سے ہر ایک اپنی زکوٰۃ کا حساب الگ کرتا ہے۔",
+        "ar": "تجب الزكاة على كل مالكٍ في ماله، فيحسب الزوج والزوجة والأولاد البالغون كلٌّ منهم زكاته."
+      },
+      "bullets": [
+        {
+          "en": "You may pay zakat on behalf of someone else, such as your spouse or an adult child, with their knowledge and permission, because zakat needs the owner's intention.",
+          "ur": "آپ کسی دوسرے، مثلاً شریکِ حیات یا بالغ اولاد، کی طرف سے ان کے علم اور اجازت سے زکوٰۃ ادا کر سکتے ہیں، کیونکہ زکوٰۃ میں مالک کی نیت ضروری ہے۔",
+          "ar": "يجوز أن تُخرج الزكاة عن غيرك، كالزوج أو الولد البالغ، بعلمه وإذنه، لأن الزكاة تفتقر إلى نيّة المالك."
+        },
+        {
+          "en": "A wife's jewellery and mahr belong to her, so their zakat is hers to pay; her husband may pay it for her with her consent.",
+          "ur": "بیوی کے زیورات اور مہر اس کی ملکیت ہیں، اس لیے ان کی زکوٰۃ اسی کے ذمے ہے؛ شوہر اس کی رضامندی سے اس کی طرف سے ادا کر سکتا ہے۔",
+          "ar": "حليّ الزوجة ومهرها ملكٌ لها، فزكاته عليها، ويجوز لزوجها أن يُخرجها عنها برضاها."
+        },
+        {
+          "en": "Children's wealth: the Hanafi school says no zakat is due on the wealth of a child or of a person without sound mind; the Maliki, Shafi'i and Hanbali schools say it is due, and the guardian pays it from that wealth.",
+          "ur": "نابالغ بچوں کا مال: حنفی مسلک میں بچے یا فاترالعقل شخص کے مال پر زکوٰۃ نہیں؛ مالکی، شافعی اور حنبلی مسلک میں زکوٰۃ واجب ہے اور سرپرست اسی مال سے ادا کرے گا۔",
+          "ar": "مال الصغير: لا زكاة فيه ولا في مال المجنون عند الحنفية، وتجب فيه عند المالكية والشافعية والحنابلة ويُخرجها الوليّ من ماله."
+        },
+        {
+          "en": "Relatives in need, such as brothers, sisters, aunts, uncles, cousins and in-laws, may receive your zakat if they are eligible, and giving to a relative is both charity and keeping family ties (Nasa'i 2582). Parents, grandparents, children, grandchildren and your spouse cannot receive it.",
+          "ur": "ضرورت مند رشتہ دار، جیسے بہن بھائی، چچا، پھوپھی، ماموں، خالہ، کزن اور سسرالی رشتہ دار، مستحق ہوں تو زکوٰۃ لے سکتے ہیں، اور رشتہ دار کو دینا صدقہ بھی ہے اور صلہ رحمی بھی (نسائی 2582)۔ والدین، دادا دادی / نانا نانی، اولاد، پوتے نواسے اور شریکِ حیات کو زکوٰۃ نہیں دی جا سکتی۔",
+          "ar": "يجوز دفع الزكاة إلى الأقارب المستحقين كالإخوة والأخوات والأعمام والعمّات والأخوال والخالات وأبنائهم والأصهار، قال النبي ﷺ: «إِنَّ الصَّدَقَةَ عَلَى الْمِسْكِينِ صَدَقَةٌ وَعَلَى ذِي الرَّحِمِ اثْنَتَانِ صَدَقَةٌ وَصِلَةٌ» (رواه النسائي 2582). ولا تُدفع إلى الأصول والفروع والزوج."
+        },
+        {
+          "en": "Giving locally is the default: zakat is taken from the wealthy and returned to the poor of the same community (Bukhari 1395). The schools differ on sending it to another country: the Hanafi and Maliki schools allow it for people in greater need (and the Hanafi school for relatives), while the Shafi'i and Hanbali schools restrict it. Many contemporary scholars allow it for urgent humanitarian need.",
+          "ur": "اصل یہ ہے کہ زکوٰۃ مقامی طور پر دی جائے: یہ اسی بستی کے مالداروں سے لے کر وہیں کے غریبوں کو دی جاتی ہے (بخاری 1395)۔ دوسرے ملک بھیجنے میں اختلاف ہے: حنفی اور مالکی مسلک زیادہ محتاج لوگوں کے لیے اجازت دیتے ہیں (اور حنفی مسلک رشتہ داروں کے لیے بھی)، جبکہ شافعی اور حنبلی مسلک اسے محدود کرتے ہیں۔ بہت سے معاصر علماء ہنگامی انسانی ضرورت کے لیے اجازت دیتے ہیں۔",
+          "ar": "الأصل إخراج الزكاة في بلد المال، فهي تؤخذ من أغنياء أهله وتُردّ على فقرائهم (البخاري 1395). واختلفوا في نقلها: فأجازه الحنفية والمالكية لمن هو أشدّ حاجة (وأجازه الحنفية للأقارب)، وقيّده الشافعية والحنابلة، وأجازه كثيرٌ من المعاصرين للحاجات الإنسانية العاجلة."
+        }
+      ],
+      "refs": [
+        {
+          "type": "hadith",
+          "label": "Sunan an-Nasa'i 2582 (Sahih)",
+          "key": "nasai:2582",
+          "grade": "Sahih"
+        },
+        {
+          "type": "hadith",
+          "label": "Sahih al-Bukhari 1395",
+          "key": "bukhari:1395",
+          "grade": "Sahih"
+        },
+        {
+          "type": "book",
+          "label": "Standard manuals of the four schools (e.g. al-Hidayah, Mukhtasar Khalil, al-Majmu', al-Mughni)",
+          "verify": true
+        }
+      ],
+      "notes": "Transfer of zakat (naql) positions simplified; reviewer to confirm."
+    },
+    {
+      "title": {
+        "en": "Zakat and sadaqah",
+        "ur": "زکوٰۃ اور صدقہ",
+        "ar": "الزكاة والصدقة"
+      },
+      "body": {
+        "en": "Zakat and sadaqah are both charity, but they are not the same.",
+        "ur": "زکوٰۃ اور صدقہ دونوں خیرات ہیں، لیکن دونوں ایک جیسے نہیں۔",
+        "ar": "الزكاة والصدقة كلتاهما إنفاقٌ في الخير، لكنهما ليستا سواء."
+      },
+      "bullets": [
+        {
+          "en": "Zakat is obligatory; sadaqah is voluntary.",
+          "ur": "زکوٰۃ فرض ہے؛ صدقہ نفلی ہے۔",
+          "ar": "الزكاة فريضة، والصدقة تطوّع."
+        },
+        {
+          "en": "Zakat has a fixed rate (2.5% on money), a minimum (nisab) and a yearly cycle; sadaqah can be any amount, at any time.",
+          "ur": "زکوٰۃ کی شرح (نقدی پر 2.5 فیصد)، نصاب اور سالانہ وقت مقرر ہے؛ صدقہ کسی بھی مقدار میں، کسی بھی وقت دیا جا سکتا ہے۔",
+          "ar": "للزكاة مقدارٌ محدّد (ربع العشر في النقود) ونصابٌ وحول، والصدقة بأيّ مقدارٍ وفي أيّ وقت."
+        },
+        {
+          "en": "Zakat goes only to the eight groups named in 9:60; sadaqah can go to anyone in need, including non-Muslims, and to good causes such as mosques, schools and wells.",
+          "ur": "زکوٰۃ صرف التوبہ 9:60 میں مذکور آٹھ مصارف میں جاتی ہے؛ صدقہ ہر ضرورت مند کو، بشمول غیر مسلم، اور مسجد، مدرسہ اور کنواں جیسے نیک کاموں میں دیا جا سکتا ہے۔",
+          "ar": "تُصرف الزكاة في الأصناف الثمانية المذكورة في سورة التوبة فقط، وتُعطى الصدقة لكل محتاجٍ ولو كان غير مسلم، وفي وجوه البرّ كالمساجد والمدارس والآبار."
+        },
+        {
+          "en": "Charity does not decrease wealth (Muslim 2588).",
+          "ur": "صدقہ مال کو کم نہیں کرتا (مسلم 2588)۔",
+          "ar": "قال النبي ﷺ: «مَا نَقَصَتْ صَدَقَةٌ مِنْ مَالٍ» (رواه مسلم 2588)."
+        },
+        {
+          "en": "Ongoing charity (sadaqah jariyah) keeps benefiting a person after death (Muslim 1631).",
+          "ur": "صدقۂ جاریہ انسان کو مرنے کے بعد بھی فائدہ پہنچاتا رہتا ہے (مسلم 1631)۔",
+          "ar": "والصدقة الجارية يبقى نفعها للإنسان بعد موته (رواه مسلم 1631)."
+        },
+        {
+          "en": "Giving to the poor privately is better for you, though giving openly is also good (2:271).",
+          "ur": "غریبوں کو چھپا کر دینا آپ کے لیے زیادہ بہتر ہے، اگرچہ ظاہر کر کے دینا بھی اچھا ہے (البقرہ 2:271)۔",
+          "ar": "وإخفاء الصدقة وإعطاؤها الفقراء خيرٌ، وإبداؤها حسنٌ أيضًا، قال تعالى: ﴿وَإِن تُخْفُوهَا وَتُؤْتُوهَا ٱلْفُقَرَآءَ فَهُوَ خَيْرٌ لَّكُمْ﴾ [البقرة: 271]."
+        },
+        {
+          "en": "Zakat al-fitr is separate again: a small fixed charity at the end of Ramadan (see the Fasting guide).",
+          "ur": "صدقۂ فطر ان دونوں سے الگ ہے: رمضان کے اختتام پر ایک چھوٹا مقررہ صدقہ (دیکھیے: روزے کی رہنمائی)۔",
+          "ar": "وزكاة الفطر شيءٌ ثالث: صدقةٌ يسيرةٌ محدّدةٌ في آخر رمضان (انظر: دليل الصيام)."
+        }
+      ],
+      "refs": [
+        {
+          "type": "quran",
+          "label": "At-Tawbah 9:60",
+          "key": "9:60"
+        },
+        {
+          "type": "quran",
+          "label": "Al-Baqarah 2:271",
+          "key": "2:271"
+        },
+        {
+          "type": "hadith",
+          "label": "Sahih Muslim 2588",
+          "key": "muslim:2588",
+          "grade": "Sahih"
+        },
+        {
+          "type": "hadith",
+          "label": "Sahih Muslim 1631",
+          "key": "muslim:1631",
+          "grade": "Sahih"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Please consult a qualified scholar",
+        "ur": "براہِ کرم کسی مستند عالم سے رجوع کریں",
+        "ar": "استشر عالمًا مؤهَّلًا"
+      },
+      "body": {
+        "en": "This guide and the zakat calculator give an estimate for common situations only. Zakat is an act of worship with real obligations, and the four schools differ on many details. The calculator uses international spot prices for gold and silver converted into your currency, which can differ from local market rates, and it cannot know every detail of your finances. Its result is not a fatwa.",
+        "ur": "یہ رہنمائی اور زکوٰۃ کیلکولیٹر صرف عام حالات کے لیے اندازہ فراہم کرتے ہیں۔ زکوٰۃ ایک عبادت ہے جس کی حقیقی ذمہ داریاں ہیں، اور بہت سی تفصیلات میں چاروں مذاہب کا اختلاف ہے۔ کیلکولیٹر سونے چاندی کی بین الاقوامی اسپاٹ قیمتیں آپ کی کرنسی میں تبدیل کر کے استعمال کرتا ہے جو مقامی بازار سے مختلف ہو سکتی ہیں، اور وہ آپ کے مالی معاملات کی ہر تفصیل نہیں جان سکتا۔ اس کا نتیجہ فتویٰ نہیں۔",
+        "ar": "هذا الدليل وحاسبة الزكاة يقدّمان تقديرًا للحالات الشائعة فقط. والزكاة عبادةٌ لها التزاماتٌ حقيقية، وللمذاهب الأربعة خلافٌ في كثيرٍ من تفاصيلها. وتعتمد الحاسبة أسعار الذهب والفضة العالمية الفورية محوّلةً إلى عملتك، وقد تختلف عن أسعار السوق المحلية، ولا تحيط بكل تفاصيل أحوالك المالية، ونتيجتها ليست فتوى."
+      },
+      "bullets": [
+        {
+          "en": "Ask a qualified scholar (mufti) or a trusted zakat organisation, especially if you have a business, shares or funds, a pension, property, large debts, farmland or livestock, or an inheritance.",
+          "ur": "کسی مستند عالم (مفتی) یا قابلِ اعتماد زکوٰۃ ادارے سے رجوع کریں، خاص طور پر اگر آپ کا کاروبار، شیئرز یا فنڈز، پنشن، جائیداد، بڑے قرض، زرعی زمین یا مویشی، یا وراثت کا معاملہ ہو۔",
+          "ar": "اسأل عالمًا مؤهّلًا (مفتيًا) أو مؤسسة زكاةٍ موثوقة، ولا سيما إن كان لديك تجارةٌ أو أسهمٌ أو صناديق أو معاشٌ تقاعدي أو عقارات أو ديونٌ كبيرة أو أرضٌ زراعية أو ماشية أو ميراث."
+        },
+        {
+          "en": "Tell the scholar which school you follow and which nisab standard you use.",
+          "ur": "عالم کو بتائیں کہ آپ کس مسلک پر عمل کرتے ہیں اور کون سا نصاب استعمال کرتے ہیں۔",
+          "ar": "أخبر العالم بمذهبك وبالنصاب الذي تعتمده."
+        },
+        {
+          "en": "If you have missed zakat in past years, it is still owed; a scholar can help you work out the amount.",
+          "ur": "اگر پچھلے سالوں کی زکوٰۃ رہ گئی ہو تو وہ اب بھی ذمے ہے؛ کوئی عالم اس کی مقدار نکالنے میں مدد کر سکتا ہے۔",
+          "ar": "ومن فاتته زكاة سنواتٍ ماضية فهي باقيةٌ في ذمّته، ويمكن للعالم أن يعينه على حسابها."
+        },
+        {
+          "en": "Keep a simple record each year of your zakat date, your assets and what you paid.",
+          "ur": "ہر سال اپنی زکوٰۃ کی تاریخ، اثاثوں اور ادا شدہ رقم کا سادہ ریکارڈ رکھیں۔",
+          "ar": "احتفظ كل عامٍ بسجلٍّ بسيطٍ لموعد زكاتك وأموالك وما أخرجته."
+        }
+      ],
+      "refs": []
+    }
+  ],
+  "review": true,
+  "notes": "Authored for Deen Journey (H06 Zakat result & learn). Quran Arabic verbatim from quran.db; hadith Arabic verbatim from hadith-api ara editions; sunnah.com numbering. Fiqh positions are summaries and MUST be checked by a qualified scholar, together with the calculator defaults (nisab basis, gold vs silver, debt deduction)."
+}

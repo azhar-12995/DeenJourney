@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Deen Journey</string>
+    <string name="channel_adhan">Adhan &amp; prayer times</string>
+    <string name="channel_reminders">Reminders</string>
+    <string name="channel_playback">Quran playback</string>
+</resources>

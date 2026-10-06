@@ -1,0 +1,799 @@
+[
+ {
+  "id": "islamic-new-year",
+  "month": 1,
+  "day": 1,
+  "title": {
+   "en": "1 Muharram — Islamic New Year",
+   "ur": "یکم محرم — اسلامی نیا سال",
+   "ar": "١ محرم — رأس السنة الهجرية"
+  },
+  "body": {
+   "en": "Muharram is the first month of the Hijri calendar and one of the four sacred months. The Companions dated the calendar from the Prophet's ﷺ arrival in Madinah (the Hijrah). No special prayer is prescribed for the new year, but fasting in Muharram is especially virtuous and it is a good moment for reflection.",
+   "ur": "محرم ہجری کیلنڈر کا پہلا مہینہ اور چار حرمت والے مہینوں میں سے ایک ہے۔ صحابہ کرام نے کیلنڈر کا آغاز نبی کریم ﷺ کی مدینہ آمد (ہجرت) سے کیا۔ نئے سال کے لیے کوئی خاص نماز مقرر نہیں، البتہ محرم کے روزوں کی خاص فضیلت ہے اور یہ غور و فکر کا اچھا موقع ہے۔",
+   "ar": "محرّم أول شهور التقويم الهجري وأحد الأشهر الحرم الأربعة. وقد أرّخ الصحابة التقويم بمقدم النبي ﷺ المدينة (الهجرة). ولا صلاة مخصوصة لرأس السنة، لكن الصيام في المحرّم فاضل، وهو وقت مناسب للتأمل."
+  },
+  "kind": "month",
+  "disputed": false,
+  "refs": [
+   {
+    "type": "quran",
+    "label": "At-Tawbah 9:36",
+    "key": "9:36"
+   },
+   {
+    "type": "hadith",
+    "label": "Sahih al-Bukhari 4662",
+    "key": "bukhari:4662",
+    "grade": "Sahih"
+   },
+   {
+    "type": "hadith",
+    "label": "Sahih al-Bukhari 3934",
+    "key": "bukhari:3934",
+    "grade": "Sahih"
+   },
+   {
+    "type": "hadith",
+    "label": "Sahih Muslim 1163a",
+    "key": "muslim:1163a",
+    "grade": "Sahih"
+   }
+  ],
+  "review": true
+ },
+ {
+  "id": "month-2",
+  "month": 2,
+  "day": 1,
+  "title": {
+   "en": "Safar begins",
+   "ur": "صفر کا آغاز",
+   "ar": "بداية شهر صفر"
+  },
+  "body": {
+   "en": "Safar is the second month of the Hijri year. Like every month it is neither lucky nor unlucky; the Prophet ﷺ rejected the pre-Islamic belief in bad omens connected with Safar.",
+   "ur": "صفر ہجری سال کا دوسرا مہینہ ہے۔ ہر مہینے کی طرح یہ نہ منحوس ہے نہ خوش قسمت؛ نبی کریم ﷺ نے صفر سے جڑی زمانہ جاہلیت کی بدشگونی کی نفی فرمائی۔",
+   "ar": "صفر الشهر الثاني من السنة الهجرية، وهو كسائر الشهور لا شؤم فيه؛ وقد نفى النبي ﷺ ما كان يعتقده أهل الجاهلية من التشاؤم بصفر."
+  },
+  "kind": "month",
+  "disputed": false,
+  "refs": [
+   {
+    "type": "hadith",
+    "label": "Sahih al-Bukhari 5707",
+    "key": "bukhari:5707",
+    "grade": "Sahih"
+   }
+  ],
+  "review": true
+ },
+ {
+  "id": "month-3",
+  "month": 3,
+  "day": 1,
+  "title": {
+   "en": "Rabi' al-Awwal begins",
+   "ur": "ربیع الاول کا آغاز",
+   "ar": "بداية شهر ربيع الأول"
+  },
+  "body": {
+   "en": "Rabi' al-Awwal is the month in which, according to the well-known accounts, the Prophet ﷺ was born and in which he reached Madinah on the Hijrah. A good time to learn and share the Seerah.",
+   "ur": "ربیع الاول وہ مہینہ ہے جس میں مشہور روایات کے مطابق نبی کریم ﷺ کی ولادت ہوئی اور اسی مہینے آپ ﷺ ہجرت کر کے مدینہ پہنچے۔ سیرت سیکھنے اور سکھانے کا اچھا موقع ہے۔",
+   "ar": "ربيع الأول هو الشهر الذي وُلد فيه النبي ﷺ على المشهور، وفيه قدم المدينة مهاجرًا. وهو وقت طيب لتعلّم السيرة ونشرها."
+  },
+  "kind": "month",
+  "disputed": false,
+  "refs": [],
+  "review": true
+ },
+ {
+  "id": "month-4",
+  "month": 4,
+  "day": 1,
+  "title": {
+   "en": "Rabi' al-Thani begins",
+   "ur": "ربیع الثانی کا آغاز",
+   "ar": "بداية شهر ربيع الآخر"
+  },
+  "body": {
+   "en": "Rabi' al-Thani (also called Rabi' al-Akhir) is the fourth month of the Hijri year.",
+   "ur": "ربیع الثانی (ربیع الآخر) ہجری سال کا چوتھا مہینہ ہے۔",
+   "ar": "ربيع الآخر (ويسمى ربيع الثاني) الشهر الرابع من السنة الهجرية."
+  },
+  "kind": "month",
+  "disputed": false,
+  "refs": [],
+  "review": true
+ },
+ {
+  "id": "month-5",
+  "month": 5,
+  "day": 1,
+  "title": {
+   "en": "Jumada al-Ula begins",
+   "ur": "جمادی الاولیٰ کا آغاز",
+   "ar": "بداية شهر جمادى الأولى"
+  },
+  "body": {
+   "en": "Jumada al-Ula is the fifth month of the Hijri year.",
+   "ur": "جمادی الاولیٰ ہجری سال کا پانچواں مہینہ ہے۔",
+   "ar": "جمادى الأولى الشهر الخامس من السنة الهجرية."
+  },
+  "kind": "month",
+  "disputed": false,
+  "refs": [],
+  "review": true
+ },
+ {
+  "id": "month-6",
+  "month": 6,
+  "day": 1,
+  "title": {
+   "en": "Jumada al-Akhirah begins",
+   "ur": "جمادی الآخرہ کا آغاز",
+   "ar": "بداية شهر جمادى الآخرة"
+  },
+  "body": {
+   "en": "Jumada al-Akhirah is the sixth month of the Hijri year.",
+   "ur": "جمادی الآخرہ ہجری سال کا چھٹا مہینہ ہے۔",
+   "ar": "جمادى الآخرة الشهر السادس من السنة الهجرية."
+  },
+  "kind": "month",
+  "disputed": false,
+  "refs": [],
+  "review": true
+ },
+ {
+  "id": "month-7",
+  "month": 7,
+  "day": 1,
+  "title": {
+   "en": "Rajab begins",
+   "ur": "رجب کا آغاز",
+   "ar": "بداية شهر رجب"
+  },
+  "body": {
+   "en": "Rajab is one of the four sacred months, in which wrongdoing is especially serious and good deeds are encouraged.",
+   "ur": "رجب چار حرمت والے مہینوں میں سے ایک ہے، جن میں ظلم خاص طور پر سنگین ہے اور نیکیوں کی ترغیب ہے۔",
+   "ar": "رجب أحد الأشهر الحرم الأربعة، يعظم فيها الظلم ويُرغَّب في العمل الصالح."
+  },
+  "kind": "month",
+  "disputed": false,
+  "refs": [
+   {
+    "type": "quran",
+    "label": "At-Tawbah 9:36",
+    "key": "9:36"
+   },
+   {
+    "type": "hadith",
+    "label": "Sahih al-Bukhari 4662",
+    "key": "bukhari:4662",
+    "grade": "Sahih"
+   }
+  ],
+  "review": true
+ },
+ {
+  "id": "month-8",
+  "month": 8,
+  "day": 1,
+  "title": {
+   "en": "Sha'ban begins",
+   "ur": "شعبان کا آغاز",
+   "ar": "بداية شهر شعبان"
+  },
+  "body": {
+   "en": "Sha'ban comes before Ramadan. The Prophet ﷺ fasted more in Sha'ban than in any month other than Ramadan, making it a good time to prepare for Ramadan.",
+   "ur": "شعبان رمضان سے پہلے آتا ہے۔ نبی کریم ﷺ رمضان کے علاوہ کسی مہینے میں شعبان سے زیادہ روزے نہیں رکھتے تھے، اس لیے یہ رمضان کی تیاری کا اچھا وقت ہے۔",
+   "ar": "شعبان يسبق رمضان، وكان النبي ﷺ يصوم فيه أكثر مما يصوم في غيره من الشهور سوى رمضان، فهو وقت مناسب للاستعداد لرمضان."
+  },
+  "kind": "month",
+  "disputed": false,
+  "refs": [
+   {
+    "type": "hadith",
+    "label": "Sahih al-Bukhari 1969",
+    "key": "bukhari:1969",
+    "grade": "Sahih"
+   }
+  ],
+  "review": true
+ },
+ {
+  "id": "month-10",
+  "month": 10,
+  "day": 1,
+  "title": {
+   "en": "Shawwal begins",
+   "ur": "شوال کا آغاز",
+   "ar": "بداية شهر شوال"
+  },
+  "body": {
+   "en": "Shawwal begins with Eid al-Fitr. Fasting six days of Shawwal after Ramadan is a recommended sunnah.",
+   "ur": "شوال عید الفطر سے شروع ہوتا ہے۔ رمضان کے بعد شوال کے چھ روزے رکھنا مسنون ہے۔",
+   "ar": "يبدأ شوال بعيد الفطر، وصيام ستة أيام منه بعد رمضان سنة مستحبة."
+  },
+  "kind": "month",
+  "disputed": false,
+  "refs": [
+   {
+    "type": "hadith",
+    "label": "Sahih Muslim 1164a",
+    "key": "muslim:1164a",
+    "grade": "Sahih"
+   }
+  ],
+  "review": true
+ },
+ {
+  "id": "month-11",
+  "month": 11,
+  "day": 1,
+  "title": {
+   "en": "Dhul Qa'dah begins",
+   "ur": "ذوالقعدہ کا آغاز",
+   "ar": "بداية شهر ذو القعدة"
+  },
+  "body": {
+   "en": "Dhul Qa'dah is one of the four sacred months and the month in which many pilgrims set out for Hajj.",
+   "ur": "ذوالقعدہ چار حرمت والے مہینوں میں سے ایک ہے اور اسی مہینے بہت سے حاجی حج کے لیے روانہ ہوتے ہیں۔",
+   "ar": "ذو القعدة أحد الأشهر الحرم الأربعة، وفيه يبدأ كثير من الحجاج رحلتهم إلى الحج."
+  },
+  "kind": "month",
+  "disputed": false,
+  "refs": [
+   {
+    "type": "quran",
+    "label": "At-Tawbah 9:36",
+    "key": "9:36"
+   },
+   {
+    "type": "hadith",
+    "label": "Sahih al-Bukhari 4662",
+    "key": "bukhari:4662",
+    "grade": "Sahih"
+   }
+  ],
+  "review": true
+ },
+ {
+  "id": "month-12",
+  "month": 12,
+  "day": 1,
+  "title": {
+   "en": "Dhul Hijjah begins",
+   "ur": "ذوالحجہ کا آغاز",
+   "ar": "بداية شهر ذو الحجة"
+  },
+  "body": {
+   "en": "Dhul Hijjah is the sacred month of Hajj. Its first ten days are among the best days of the year for good deeds.",
+   "ur": "ذوالحجہ حج کا حرمت والا مہینہ ہے۔ اس کے پہلے دس دن سال کے بہترین دنوں میں سے ہیں۔",
+   "ar": "ذو الحجة شهر الحج الحرام، وعشره الأوائل من أفضل أيام السنة للعمل الصالح."
+  },
+  "kind": "month",
+  "disputed": false,
+  "refs": [
+   {
+    "type": "quran",
+    "label": "At-Tawbah 9:36",
+    "key": "9:36"
+   },
+   {
+    "type": "hadith",
+    "label": "Sahih al-Bukhari 4662",
+    "key": "bukhari:4662",
+    "grade": "Sahih"
+   }
+  ],
+  "review": true
+ },
+ {
+  "id": "ramadan-start",
+  "month": 9,
+  "day": 1,
+  "title": {
+   "en": "Ramadan begins",
+   "ur": "رمضان المبارک کا آغاز",
+   "ar": "بداية شهر رمضان"
+  },
+  "body": {
+   "en": "Ramadan, the month in which the Quran was revealed, begins when the new crescent is confirmed, and fasting it is the fourth pillar of Islam. When Ramadan begins, the gates of heaven are opened and the gates of Hell are closed. Moon-sighting practice and calculation methods differ between countries, so follow your local authority.",
+   "ur": "رمضان، وہ مہینہ جس میں قرآن نازل ہوا، نئے چاند کی تصدیق سے شروع ہوتا ہے، اور اس کے روزے اسلام کا چوتھا رکن ہیں۔ جب رمضان شروع ہوتا ہے تو آسمان کے دروازے کھول دیے جاتے ہیں اور جہنم کے دروازے بند کر دیے جاتے ہیں۔ چاند دیکھنے اور حساب کے طریقے ملکوں میں مختلف ہیں، اس لیے اپنی مقامی رویت کمیٹی یا ادارے کی پیروی کیجیے۔",
+   "ar": "يبدأ رمضان، الشهر الذي أُنزل فيه القرآن، بثبوت رؤية الهلال، وصيامه الركن الرابع من أركان الإسلام. وإذا دخل رمضان فُتحت أبواب السماء وغُلّقت أبواب جهنم. وتختلف طرق الرؤية والحساب بين البلدان، فاتبع الجهة المعتمدة في بلدك."
+  },
+  "kind": "fast",
+  "disputed": false,
+  "refs": [
+   {
+    "type": "quran",
+    "label": "Al-Baqarah 2:185",
+    "key": "2:185"
+   },
+   {
+    "type": "hadith",
+    "label": "Sahih al-Bukhari 1899",
+    "key": "bukhari:1899",
+    "grade": "Sahih"
+   },
+   {
+    "type": "hadith",
+    "label": "Sahih al-Bukhari 38",
+    "key": "bukhari:38",
+    "grade": "Sahih"
+   }
+  ],
+  "review": true
+ },
+ {
+  "id": "tasua",
+  "month": 1,
+  "day": 9,
+  "title": {
+   "en": "Tasu'a — 9 Muharram",
+   "ur": "تاسوعا — 9 محرم",
+   "ar": "تاسوعاء — ٩ محرم"
+  },
+  "body": {
+   "en": "The Prophet ﷺ said that, if he lived to the next year, he would fast the 9th of Muharram as well. Scholars therefore recommend fasting the 9th together with the 10th (Ashura).",
+   "ur": "نبی کریم ﷺ نے فرمایا کہ اگر میں اگلے سال تک زندہ رہا تو نو محرم کا روزہ بھی رکھوں گا۔ اسی لیے علماء دس محرم (عاشورا) کے ساتھ نو محرم کا روزہ رکھنے کی ترغیب دیتے ہیں۔",
+   "ar": "قال النبي ﷺ: لئن بقيت إلى قابل لأصومن التاسع. ولذلك يستحب العلماء صيام التاسع مع العاشر (عاشوراء)."
+  },
+  "kind": "fast",
+  "disputed": false,
+  "refs": [
+   {
+    "type": "hadith",
+    "label": "Sahih Muslim 1134b",
+    "key": "muslim:1134b",
+    "grade": "Sahih"
+   }
+  ],
+  "review": true
+ },
+ {
+  "id": "ashura",
+  "month": 1,
+  "day": 10,
+  "title": {
+   "en": "Ashura — 10 Muharram",
+   "ur": "عاشورا — 10 محرم",
+   "ar": "عاشوراء — ١٠ محرم"
+  },
+  "body": {
+   "en": "Ashura is the day Allah saved Musa (AS) and the Children of Israel from Pharaoh; the Prophet ﷺ fasted it and encouraged fasting it. He said he hoped fasting Ashura would expiate the sins of the previous year. It is recommended to fast the 9th with it.",
+   "ur": "عاشورا وہ دن ہے جب اللہ نے موسیٰ علیہ السلام اور بنی اسرائیل کو فرعون سے نجات دی؛ نبی کریم ﷺ نے اس دن روزہ رکھا اور اس کی ترغیب دی۔ آپ ﷺ نے فرمایا کہ مجھے امید ہے کہ عاشورا کا روزہ پچھلے سال کے گناہوں کا کفارہ بنے گا۔ اس کے ساتھ نو محرم کا روزہ رکھنا مستحب ہے۔",
+   "ar": "عاشوراء يوم نجّى الله فيه موسى عليه السلام وبني إسرائيل من فرعون، فصامه النبي ﷺ ورغّب في صيامه، وقال إنه يحتسب على الله أن يكفّر السنة التي قبله. ويستحب صيام التاسع معه."
+  },
+  "kind": "fast",
+  "disputed": false,
+  "refs": [
+   {
+    "type": "hadith",
+    "label": "Sahih al-Bukhari 2004",
+    "key": "bukhari:2004",
+    "grade": "Sahih"
+   },
+   {
+    "type": "hadith",
+    "label": "Sahih Muslim 1162a",
+    "key": "muslim:1162a",
+    "grade": "Sahih"
+   },
+   {
+    "type": "hadith",
+    "label": "Sahih Muslim 1134b",
+    "key": "muslim:1134b",
+    "grade": "Sahih"
+   }
+  ],
+  "review": true
+ },
+ {
+  "id": "ayyam-al-bid",
+  "month": 0,
+  "day": 13,
+  "title": {
+   "en": "Ayyam al-Bid — 13, 14, 15 of every month",
+   "ur": "ایام بیض — ہر مہینے کی 13، 14، 15",
+   "ar": "الأيام البيض — ١٣ و١٤ و١٥ من كل شهر"
+  },
+  "body": {
+   "en": "The Prophet ﷺ encouraged fasting three days every month and recommended the 13th, 14th and 15th, the 'white days' when the moon is full. Fasting three days each month is described as like fasting the whole year.",
+   "ur": "نبی کریم ﷺ نے ہر مہینے تین روزے رکھنے کی ترغیب دی اور 13، 14 اور 15 تاریخ کی سفارش فرمائی، جنہیں 'ایام بیض' (روشن دن) کہا جاتا ہے کیونکہ ان راتوں میں چاند پورا ہوتا ہے۔ ہر مہینے تین روزے رکھنا پورے سال کے روزوں کی طرح بتایا گیا ہے۔",
+   "ar": "رغّب النبي ﷺ في صيام ثلاثة أيام من كل شهر، وأوصى بالثالث عشر والرابع عشر والخامس عشر، وهي الأيام البيض حين يكتمل القمر. وصيام ثلاثة أيام من كل شهر كصيام الدهر."
+  },
+  "kind": "fast",
+  "disputed": false,
+  "refs": [
+   {
+    "type": "hadith",
+    "label": "Sahih al-Bukhari 1981",
+    "key": "bukhari:1981",
+    "grade": "Sahih"
+   },
+   {
+    "type": "hadith",
+    "label": "Jami` at-Tirmidhi 761",
+    "key": "tirmidhi:761",
+    "grade": "Hasan Sahih"
+   },
+   {
+    "type": "hadith",
+    "label": "Sunan an-Nasa'i 2420",
+    "key": "nasai:2420",
+    "grade": "Hasan"
+   }
+  ],
+  "review": true,
+  "notes": "month 0 = every month; app should show days 13-15."
+ },
+ {
+  "id": "mon-thu-fast",
+  "month": 0,
+  "day": 0,
+  "title": {
+   "en": "Monday & Thursday fasts",
+   "ur": "پیر اور جمعرات کے روزے",
+   "ar": "صيام الاثنين والخميس"
+  },
+  "body": {
+   "en": "The Prophet ﷺ often fasted on Mondays and Thursdays. He said deeds are presented on these days and he loved his deeds to be presented while he was fasting; about Monday he said it was the day he was born and the day revelation came to him.",
+   "ur": "نبی کریم ﷺ اکثر پیر اور جمعرات کو روزہ رکھتے تھے۔ آپ ﷺ نے فرمایا کہ ان دنوں اعمال پیش کیے جاتے ہیں اور مجھے پسند ہے کہ میرے اعمال روزے کی حالت میں پیش ہوں؛ اور پیر کے بارے میں فرمایا کہ اسی دن میری ولادت ہوئی اور اسی دن مجھ پر وحی نازل ہوئی۔",
+   "ar": "كان النبي ﷺ يكثر صيام الاثنين والخميس، وقال إن الأعمال تُعرض فيهما وإنه يحب أن يُعرض عمله وهو صائم، وقال عن الاثنين: ذاك يوم ولدت فيه ويوم بُعثت أو أُنزل عليّ فيه."
+  },
+  "kind": "fast",
+  "disputed": false,
+  "refs": [
+   {
+    "type": "hadith",
+    "label": "Jami` at-Tirmidhi 747",
+    "key": "tirmidhi:747",
+    "grade": "Sahih"
+   },
+   {
+    "type": "hadith",
+    "label": "Sahih Muslim 1162b",
+    "key": "muslim:1162b",
+    "grade": "Sahih"
+   }
+  ],
+  "review": true,
+  "notes": "month 0, day 0 = weekly (Mon & Thu)."
+ },
+ {
+  "id": "last-ten-nights",
+  "month": 9,
+  "day": 21,
+  "title": {
+   "en": "Last ten nights & Laylat al-Qadr",
+   "ur": "آخری عشرہ اور شب قدر",
+   "ar": "العشر الأواخر وليلة القدر"
+  },
+  "body": {
+   "en": "Laylat al-Qadr, the Night of Decree, is better than a thousand months. The Prophet ﷺ told us to seek it in the odd nights of the last ten of Ramadan (21st, 23rd, 25th, 27th, 29th), and he strove hardest in worship during these nights. Its exact night is not known with certainty, so seek it in all of them.",
+   "ur": "شب قدر ہزار مہینوں سے بہتر ہے۔ نبی کریم ﷺ نے اسے رمضان کے آخری عشرے کی طاق راتوں (21، 23، 25، 27، 29) میں تلاش کرنے کا حکم دیا، اور آپ ﷺ ان راتوں میں سب سے زیادہ عبادت فرماتے تھے۔ اس کی رات یقینی طور پر معلوم نہیں، اس لیے سب طاق راتوں میں اسے تلاش کیجیے۔",
+   "ar": "ليلة القدر خير من ألف شهر، وأمر النبي ﷺ بتحرّيها في الوتر من العشر الأواخر من رمضان (٢١، ٢٣، ٢٥، ٢٧، ٢٩)، وكان يجتهد فيها ما لا يجتهد في غيرها. ولم تُعيَّن ليلتها يقينًا، فالتمسها في جميعها."
+  },
+  "kind": "night",
+  "disputed": false,
+  "refs": [
+   {
+    "type": "quran",
+    "label": "Al-Qadr 97:1-5",
+    "key": "97:1-5"
+   },
+   {
+    "type": "hadith",
+    "label": "Sahih al-Bukhari 2017",
+    "key": "bukhari:2017",
+    "grade": "Sahih"
+   },
+   {
+    "type": "hadith",
+    "label": "Sahih al-Bukhari 2024",
+    "key": "bukhari:2024",
+    "grade": "Sahih"
+   }
+  ],
+  "review": true,
+  "notes": "Night of the 21st begins at Maghrib of the 20th day; the app should note that nights start at sunset."
+ },
+ {
+  "id": "eid-al-fitr",
+  "month": 10,
+  "day": 1,
+  "title": {
+   "en": "Eid al-Fitr",
+   "ur": "عید الفطر",
+   "ar": "عيد الفطر"
+  },
+  "body": {
+   "en": "Eid al-Fitr marks the end of Ramadan. Zakat al-Fitr is paid before the Eid prayer so that the poor can celebrate too. The Prophet ﷺ told the people of Madinah that Allah had given them two better days of celebration: Eid al-Fitr and Eid al-Adha.",
+   "ur": "عید الفطر رمضان کے اختتام کی خوشی ہے۔ صدقۂ فطر عید کی نماز سے پہلے ادا کیا جاتا ہے تاکہ غریب بھی عید منا سکیں۔ نبی کریم ﷺ نے اہل مدینہ کو بتایا کہ اللہ نے انہیں خوشی کے دو بہتر دن عطا کیے ہیں: عید الفطر اور عید الاضحیٰ۔",
+   "ar": "عيد الفطر يختم شهر رمضان، وتُخرج زكاة الفطر قبل صلاة العيد ليفرح الفقراء أيضًا. وأخبر النبي ﷺ أهل المدينة أن الله أبدلهم يومين خيرًا منهما: يوم الفطر ويوم الأضحى."
+  },
+  "kind": "eid",
+  "disputed": false,
+  "refs": [
+   {
+    "type": "hadith",
+    "label": "Sahih al-Bukhari 1503",
+    "key": "bukhari:1503",
+    "grade": "Sahih"
+   },
+   {
+    "type": "hadith",
+    "label": "Sunan Abi Dawud 1134",
+    "key": "abudawud:1134",
+    "grade": "Sahih"
+   }
+  ],
+  "review": true
+ },
+ {
+  "id": "shawwal-six",
+  "month": 10,
+  "day": 2,
+  "title": {
+   "en": "Six fasts of Shawwal",
+   "ur": "شوال کے چھ روزے",
+   "ar": "صيام ست من شوال"
+  },
+  "body": {
+   "en": "Whoever fasts Ramadan and follows it with six days of Shawwal, it is as if he fasted the whole year. The days can be fasted together or spread out after Eid day; fasting on Eid day itself is not allowed.",
+   "ur": "جو رمضان کے روزے رکھے اور پھر شوال کے چھ روزے رکھے تو گویا اس نے پورے سال کے روزے رکھے۔ یہ روزے عید کے بعد لگاتار یا الگ الگ رکھے جا سکتے ہیں؛ عید کے دن روزہ رکھنا جائز نہیں۔",
+   "ar": "من صام رمضان ثم أتبعه ستًّا من شوال كان كصيام الدهر. ويجوز صيامها متتابعة أو متفرقة بعد يوم العيد، ولا يجوز صوم يوم العيد نفسه."
+  },
+  "kind": "fast",
+  "disputed": false,
+  "refs": [
+   {
+    "type": "hadith",
+    "label": "Sahih Muslim 1164a",
+    "key": "muslim:1164a",
+    "grade": "Sahih"
+   },
+   {
+    "type": "hadith",
+    "label": "Sahih al-Bukhari 1990",
+    "key": "bukhari:1990",
+    "grade": "Sahih"
+   }
+  ],
+  "review": true,
+  "notes": "Bukhari 1990: prohibition of fasting on the two Eid days. Some Maliki scholars historically disliked publicising these fasts; the majority recommend them."
+ },
+ {
+  "id": "dhul-hijjah-ten",
+  "month": 12,
+  "day": 1,
+  "title": {
+   "en": "First ten days of Dhul Hijjah",
+   "ur": "ذوالحجہ کے پہلے دس دن",
+   "ar": "العشر الأوائل من ذي الحجة"
+  },
+  "body": {
+   "en": "The Prophet ﷺ said no good deeds are better than those done in these ten days. Increase dhikr (takbir, tahlil, tahmid), charity, Quran and fasting (especially on the Day of Arafah). Those intending to offer a sacrifice are told not to cut their hair or nails from the 1st until they sacrifice; the schools differ on whether this is obligatory or recommended.",
+   "ur": "نبی کریم ﷺ نے فرمایا کہ ان دس دنوں کے نیک اعمال سے بہتر کوئی عمل نہیں۔ ذکر (تکبیر، تہلیل، تحمید)، صدقہ، تلاوت اور روزوں (خاص طور پر یوم عرفہ) میں اضافہ کیجیے۔ قربانی کا ارادہ رکھنے والوں کو یکم ذوالحجہ سے قربانی تک بال اور ناخن نہ کاٹنے کی ہدایت ہے؛ مسالک میں اختلاف ہے کہ یہ واجب ہے یا مستحب۔",
+   "ar": "قال النبي ﷺ: ما العمل في أيام أفضل منه في هذه العشر. فأكثر من الذكر (التكبير والتهليل والتحميد) والصدقة والقرآن والصيام (وخاصة يوم عرفة). ومن أراد أن يضحّي فلا يأخذ من شعره وأظفاره من أول الشهر حتى يضحّي، واختلفت المذاهب في كونه واجبًا أو مستحبًا."
+  },
+  "kind": "observance",
+  "disputed": false,
+  "refs": [
+   {
+    "type": "hadith",
+    "label": "Sahih al-Bukhari 969",
+    "key": "bukhari:969",
+    "grade": "Sahih"
+   },
+   {
+    "type": "hadith",
+    "label": "Sahih Muslim 1977",
+    "key": "muslim:1977",
+    "grade": "Sahih",
+    "verify": true
+   }
+  ],
+  "review": true,
+  "notes": "Hair/nails hadith = hadith-api muslim/5119 (arabicnumber 1977.03, Umm Salamah); sunnah.com letter suffix not confirmed. Hair/nails: Hanbali view it as obligatory, Shafi`i and Maliki as recommended, Hanafi do not consider it binding. Scholar to check fiqh wording."
+ },
+ {
+  "id": "day-of-arafah",
+  "month": 12,
+  "day": 9,
+  "title": {
+   "en": "Day of Arafah — 9 Dhul Hijjah",
+   "ur": "یوم عرفہ — 9 ذوالحجہ",
+   "ar": "يوم عرفة — ٩ ذو الحجة"
+  },
+  "body": {
+   "en": "On this day the pilgrims stand at Arafah, the heart of Hajj. For those not on Hajj, the Prophet ﷺ said he hoped fasting this day would expiate the sins of the previous year and the coming year. The verse on the perfection of the religion (Al-Ma'idah 5:3) was revealed on the Day of Arafah.",
+   "ur": "اس دن حجاج عرفات میں ٹھہرتے ہیں، جو حج کا رکن اعظم ہے۔ جو حج پر نہ ہوں ان کے لیے نبی کریم ﷺ نے فرمایا کہ مجھے امید ہے اس دن کا روزہ پچھلے اور اگلے سال کے گناہوں کا کفارہ بنے گا۔ دین کی تکمیل والی آیت (المائدہ 5:3) عرفہ کے دن نازل ہوئی۔",
+   "ar": "في هذا اليوم يقف الحجاج بعرفة، وهو ركن الحج الأعظم. ولغير الحاج قال النبي ﷺ: صيام يوم عرفة أحتسب على الله أن يكفّر السنة التي قبله والسنة التي بعده. ونزلت آية إكمال الدين (المائدة 5:3) يوم عرفة."
+  },
+  "kind": "fast",
+  "disputed": false,
+  "refs": [
+   {
+    "type": "hadith",
+    "label": "Sahih Muslim 1162a",
+    "key": "muslim:1162a",
+    "grade": "Sahih"
+   },
+   {
+    "type": "quran",
+    "label": "Al-Ma'idah 5:3",
+    "key": "5:3"
+   },
+   {
+    "type": "hadith",
+    "label": "Sahih al-Bukhari 45",
+    "key": "bukhari:45",
+    "grade": "Sahih"
+   }
+  ],
+  "review": true
+ },
+ {
+  "id": "eid-al-adha",
+  "month": 12,
+  "day": 10,
+  "title": {
+   "en": "Eid al-Adha",
+   "ur": "عید الاضحیٰ",
+   "ar": "عيد الأضحى"
+  },
+  "body": {
+   "en": "Eid al-Adha remembers the devotion of Ibrahim (AS). The day begins with the Eid prayer, followed by the sacrifice (udhiyah) for those able; the meat is shared with family, neighbours and the poor. Takbir is said throughout the days of Eid.",
+   "ur": "عید الاضحیٰ ابراہیم علیہ السلام کی فرماں برداری کی یاد ہے۔ دن کا آغاز عید کی نماز سے ہوتا ہے، پھر استطاعت رکھنے والے قربانی کرتے ہیں؛ گوشت گھر والوں، پڑوسیوں اور غریبوں میں تقسیم کیا جاتا ہے۔ عید کے دنوں میں تکبیرات پڑھی جاتی ہیں۔",
+   "ar": "عيد الأضحى يذكّر بطاعة إبراهيم عليه السلام. ويبدأ بصلاة العيد ثم الأضحية لمن استطاع، ويُقسم لحمها بين الأهل والجيران والفقراء. ويُكبَّر في أيام العيد."
+  },
+  "kind": "eid",
+  "disputed": false,
+  "refs": [
+   {
+    "type": "quran",
+    "label": "Al-Kawthar 108:2",
+    "key": "108:2"
+   },
+   {
+    "type": "quran",
+    "label": "Al-Hajj 22:37",
+    "key": "22:37"
+   },
+   {
+    "type": "hadith",
+    "label": "Sahih al-Bukhari 5545",
+    "key": "bukhari:5545",
+    "grade": "Sahih"
+   }
+  ],
+  "review": true,
+  "notes": "Udhiyah ruling differs: Hanafi wajib for those who have nisab; majority sunnah mu`akkadah."
+ },
+ {
+  "id": "days-of-tashreeq",
+  "month": 12,
+  "day": 11,
+  "title": {
+   "en": "Days of Tashreeq — 11, 12, 13 Dhul Hijjah",
+   "ur": "ایام تشریق — 11، 12، 13 ذوالحجہ",
+   "ar": "أيام التشريق — ١١ و١٢ و١٣ ذو الحجة"
+  },
+  "body": {
+   "en": "The three days after Eid al-Adha are the days of Tashreeq, which the Prophet ﷺ described as days of eating, drinking and remembering Allah. Fasting on them is not allowed, except for a pilgrim who could not find a sacrificial animal. Takbir after the prayers continues through these days according to most scholars.",
+   "ur": "عید الاضحیٰ کے بعد کے تین دن ایام تشریق ہیں، جنہیں نبی کریم ﷺ نے کھانے پینے اور اللہ کے ذکر کے دن فرمایا۔ ان دنوں روزہ رکھنا جائز نہیں، سوائے اس حاجی کے جسے قربانی کا جانور نہ ملا ہو۔ اکثر علماء کے نزدیک ان دنوں میں نمازوں کے بعد تکبیرات جاری رہتی ہیں۔",
+   "ar": "الأيام الثلاثة بعد عيد الأضحى هي أيام التشريق، ووصفها النبي ﷺ بأنها أيام أكل وشرب وذكر لله. ولا يجوز صيامها إلا للحاج الذي لم يجد الهدي. ويستمر التكبير بعد الصلوات فيها عند أكثر العلماء."
+  },
+  "kind": "observance",
+  "disputed": false,
+  "refs": [
+   {
+    "type": "hadith",
+    "label": "Sahih Muslim 1141b",
+    "key": "muslim:1141b",
+    "grade": "Sahih"
+   },
+   {
+    "type": "quran",
+    "label": "Al-Baqarah 2:203",
+    "key": "2:203"
+   },
+   {
+    "type": "hadith",
+    "label": "Sahih al-Bukhari 1997",
+    "key": "bukhari:1997",
+    "grade": "Sahih"
+   }
+  ],
+  "review": true,
+  "notes": "Exact start/end of the takbir differs by school; scholar to check."
+ },
+ {
+  "id": "mawlid",
+  "month": 3,
+  "day": 12,
+  "title": {
+   "en": "12 Rabi' al-Awwal — the Prophet's ﷺ birth (Mawlid)",
+   "ur": "12 ربیع الاول — میلاد النبی ﷺ",
+   "ar": "١٢ ربيع الأول — المولد النبوي"
+  },
+  "body": {
+   "en": "Many Muslims commemorate the birth of the Prophet ﷺ on this date. Historians differ on the exact date of his birth, and scholars differ on holding special celebrations; all agree that loving him, sending salawat and following his Sunnah are virtues every day. The Prophet ﷺ himself fasted on Mondays, saying it was the day he was born.",
+   "ur": "بہت سے مسلمان اس تاریخ کو نبی کریم ﷺ کی ولادت کی یاد مناتے ہیں۔ مؤرخین کے درمیان ولادت کی صحیح تاریخ میں اختلاف ہے، اور علماء کے درمیان خاص تقریبات کے بارے میں اختلاف ہے؛ البتہ سب متفق ہیں کہ آپ ﷺ سے محبت، درود اور سنت کی پیروی ہر روز کی فضیلت ہے۔ نبی کریم ﷺ خود پیر کا روزہ رکھتے اور فرماتے کہ اس دن میری ولادت ہوئی۔",
+   "ar": "يحيي كثير من المسلمين ذكرى مولد النبي ﷺ في هذا التاريخ. ويختلف المؤرخون في تاريخ مولده تحديدًا، ويختلف العلماء في إقامة احتفالات خاصة به، ويتفق الجميع على أن محبته والصلاة عليه واتباع سنته فضيلة كل يوم. وكان ﷺ يصوم الاثنين ويقول: ذاك يوم ولدت فيه."
+  },
+  "kind": "observance",
+  "disputed": true,
+  "refs": [
+   {
+    "type": "hadith",
+    "label": "Sahih Muslim 1162b",
+    "key": "muslim:1162b",
+    "grade": "Sahih"
+   }
+  ],
+  "review": true
+ },
+ {
+  "id": "isra-miraj",
+  "month": 7,
+  "day": 27,
+  "title": {
+   "en": "27 Rajab — Isra' and Mi'raj",
+   "ur": "27 رجب — اسراء و معراج",
+   "ar": "٢٧ رجب — الإسراء والمعراج"
+  },
+  "body": {
+   "en": "The Night Journey from Makkah to Jerusalem and the ascension through the heavens, when the five daily prayers were given, is affirmed in the Quran and authentic hadith. Many Muslims remember it on 27 Rajab; historians differ on its date and scholars differ on marking it with special worship.",
+   "ur": "مکہ سے بیت المقدس تک رات کا سفر اور آسمانوں کی طرف معراج، جس میں پانچ نمازیں عطا ہوئیں، قرآن اور صحیح احادیث سے ثابت ہے۔ بہت سے مسلمان اسے 27 رجب کو یاد کرتے ہیں؛ مؤرخین میں اس کی تاریخ پر اختلاف ہے اور علماء میں اس رات کو خاص عبادت کے لیے مخصوص کرنے پر اختلاف ہے۔",
+   "ar": "رحلة الإسراء من مكة إلى بيت المقدس والمعراج إلى السماوات، وفيها فُرضت الصلوات الخمس، ثابتة بالقرآن والأحاديث الصحيحة. ويذكرها كثير من المسلمين في ٢٧ رجب، ويختلف المؤرخون في تاريخها، ويختلف العلماء في تخصيص ليلتها بعبادة."
+  },
+  "kind": "night",
+  "disputed": true,
+  "refs": [
+   {
+    "type": "quran",
+    "label": "Al-Isra 17:1",
+    "key": "17:1"
+   },
+   {
+    "type": "hadith",
+    "label": "Sahih al-Bukhari 3887",
+    "key": "bukhari:3887",
+    "grade": "Sahih"
+   }
+  ],
+  "review": true
+ },
+ {
+  "id": "mid-shaban",
+  "month": 8,
+  "day": 15,
+  "title": {
+   "en": "15 Sha'ban — mid-Sha'ban night",
+   "ur": "15 شعبان — شب برات",
+   "ar": "١٥ شعبان — ليلة النصف من شعبان"
+  },
+  "body": {
+   "en": "Many Muslims spend the night of mid-Sha'ban in prayer, dua and seeking forgiveness. Scholars differ on the strength of the narrations about this night: some accept a narration about Allah's forgiveness in it, others consider it weak, and they also differ on singling it out for special worship. Seeking forgiveness and making peace with others are good at any time.",
+   "ur": "بہت سے مسلمان نصف شعبان کی رات نماز، دعا اور استغفار میں گزارتے ہیں۔ اس رات سے متعلق روایات کی قوت کے بارے میں علماء میں اختلاف ہے: بعض اس رات اللہ کی مغفرت والی روایت کو قابل قبول سمجھتے ہیں اور بعض ضعیف، اور اس رات کو خاص عبادت کے لیے مخصوص کرنے پر بھی اختلاف ہے۔ استغفار اور دوسروں سے صلح کرنا ہر وقت اچھا ہے۔",
+   "ar": "يحيي كثير من المسلمين ليلة النصف من شعبان بالصلاة والدعاء والاستغفار. ويختلف العلماء في قوة الروايات الواردة فيها: فبعضهم يقبل حديث مغفرة الله فيها وبعضهم يضعّفه، ويختلفون كذلك في تخصيصها بعبادة. والاستغفار والصلح مع الناس خير في كل وقت."
+  },
+  "kind": "night",
+  "disputed": true,
+  "refs": [
+   {
+    "type": "hadith",
+    "label": "Sunan Ibn Majah 1390",
+    "key": "ibnmajah:1390",
+    "grade": "Hasan",
+    "verify": true
+   }
+  ],
+  "review": true,
+  "notes": "Ibn Majah 1390 grades in hadith-api: al-Albani Hasan; Muhammad Fouad Abd al-Baqi Hasan; Shu'aib al-Arna'ut and Zubair Ali Zai Da'if. Shown only as a disputed reference."
+ }
+]

@@ -1,0 +1,242 @@
+[
+ {
+  "id": "shahadah",
+  "n": 1,
+  "glyph": "shahadah",
+  "arabic": "الشَّهَادَةُ",
+  "link": "lesson:faith-1",
+  "title": {
+   "en": "Shahadah — the testimony of faith",
+   "ur": "شہادت — کلمۂ ایمان",
+   "ar": "الشهادة"
+  },
+  "subtitle": {
+   "en": "There is no god but Allah, and Muhammad ﷺ is His Messenger",
+   "ur": "اللہ کے سوا کوئی معبود نہیں اور محمد ﷺ اللہ کے رسول ہیں",
+   "ar": "لا إله إلا الله، محمد رسول الله"
+  },
+  "body": {
+   "en": "The first pillar is to bear witness, with sincere belief, that there is no god worthy of worship except Allah and that Muhammad ﷺ is His Messenger. It is the doorway into Islam and the foundation on which every other act of worship rests. Living the shahadah means worshipping Allah alone and following the Prophet ﷺ in daily life.",
+   "ur": "پہلا رکن سچے دل سے یہ گواہی دینا ہے کہ اللہ کے سوا کوئی عبادت کے لائق نہیں اور محمد ﷺ اللہ کے رسول ہیں۔ یہ اسلام کا دروازہ ہے اور باقی ہر عبادت اسی بنیاد پر قائم ہے۔ شہادت کے مطابق زندگی گزارنے کا مطلب ہے صرف اللہ کی عبادت کرنا اور روزمرہ زندگی میں نبی کریم ﷺ کی پیروی کرنا۔",
+   "ar": "الركن الأول أن تشهد عن يقين أن لا إله إلا الله وأن محمدًا ﷺ رسول الله. وهي باب الإسلام والأساس الذي تقوم عليه سائر العبادات. والعيش بالشهادة يعني عبادة الله وحده واتباع النبي ﷺ في الحياة اليومية."
+  },
+  "refs": [
+   {
+    "type": "quran",
+    "label": "Al Imran 3:18",
+    "key": "3:18"
+   },
+   {
+    "type": "quran",
+    "label": "Al-Fath 48:29",
+    "key": "48:29"
+   },
+   {
+    "type": "hadith",
+    "label": "Sahih Muslim 8a",
+    "key": "muslim:8a",
+    "grade": "Sahih"
+   },
+   {
+    "type": "hadith",
+    "label": "Sahih al-Bukhari 8",
+    "key": "bukhari:8",
+    "grade": "Sahih"
+   }
+  ],
+  "review": true
+ },
+ {
+  "id": "salah",
+  "n": 2,
+  "glyph": "salah",
+  "arabic": "الصَّلَاةُ",
+  "link": "screen:E08",
+  "title": {
+   "en": "Salah — prayer",
+   "ur": "نماز",
+   "ar": "الصلاة"
+  },
+  "subtitle": {
+   "en": "Five daily prayers at their times",
+   "ur": "وقت پر پانچ نمازیں",
+   "ar": "خمس صلوات في أوقاتها"
+  },
+  "body": {
+   "en": "The second pillar is to establish the five daily prayers: Fajr, Dhuhr, Asr, Maghrib and Isha, each within its time. Prayer is a direct connection with Allah, and the Quran describes it as prescribed for the believers at fixed times. It is the first act of worship a child is taught to build as a daily habit.",
+   "ur": "دوسرا رکن پانچ وقت کی نماز قائم کرنا ہے: فجر، ظہر، عصر، مغرب اور عشاء، ہر ایک اپنے وقت میں۔ نماز اللہ سے براہ راست تعلق ہے، اور قرآن بتاتا ہے کہ یہ مومنوں پر مقررہ اوقات میں فرض ہے۔ یہ وہ پہلی عبادت ہے جسے بچوں کو روزانہ کی عادت کے طور پر سکھایا جاتا ہے۔",
+   "ar": "الركن الثاني إقامة الصلوات الخمس: الفجر والظهر والعصر والمغرب والعشاء، كلٌّ في وقتها. والصلاة صلة مباشرة بالله، وقد وصفها القرآن بأنها كتاب موقوت على المؤمنين. وهي أول عبادة يُعوَّد عليها الطفل كل يوم."
+  },
+  "refs": [
+   {
+    "type": "quran",
+    "label": "Al-Baqarah 2:43",
+    "key": "2:43"
+   },
+   {
+    "type": "quran",
+    "label": "An-Nisa 4:103",
+    "key": "4:103"
+   },
+   {
+    "type": "hadith",
+    "label": "Sahih Muslim 8a",
+    "key": "muslim:8a",
+    "grade": "Sahih"
+   },
+   {
+    "type": "hadith",
+    "label": "Sahih al-Bukhari 8",
+    "key": "bukhari:8",
+    "grade": "Sahih"
+   }
+  ],
+  "review": true
+ },
+ {
+  "id": "zakat",
+  "n": 3,
+  "glyph": "zakat",
+  "arabic": "الزَّكَاةُ",
+  "link": "screen:H05",
+  "title": {
+   "en": "Zakat — obligatory charity",
+   "ur": "زکوٰۃ",
+   "ar": "الزكاة"
+  },
+  "subtitle": {
+   "en": "A yearly share of wealth for those in need",
+   "ur": "ضرورت مندوں کے لیے مال کا سالانہ حصہ",
+   "ar": "حق معلوم في المال للمستحقين"
+  },
+  "body": {
+   "en": "The third pillar is zakat: when a Muslim's savings reach the minimum threshold (nisab) and a lunar year passes, a set portion (generally 2.5% of cash and trade goods) is given to the categories named in the Quran. Zakat purifies wealth and the heart, and supports the poor and needy. Details such as which assets are counted differ between the schools, so the app's calculator lets you choose your school.",
+   "ur": "تیسرا رکن زکوٰۃ ہے: جب کسی مسلمان کی بچت کم از کم حد (نصاب) تک پہنچ جائے اور اس پر ایک قمری سال گزر جائے تو ایک مقررہ حصہ (عام طور پر نقدی اور تجارتی مال کا ڈھائی فیصد) قرآن میں بیان کردہ مستحقین کو دیا جاتا ہے۔ زکوٰۃ مال اور دل دونوں کو پاک کرتی ہے اور غریبوں اور ضرورت مندوں کا سہارا بنتی ہے۔ کن چیزوں پر زکوٰۃ ہے، اس کی تفصیل میں فقہی مسالک میں فرق ہے، اس لیے ایپ کا کیلکولیٹر آپ کو اپنا مسلک منتخب کرنے دیتا ہے۔",
+   "ar": "الركن الثالث الزكاة: إذا بلغ مال المسلم النصاب وحال عليه الحول القمري أخرج منه قدرًا معلومًا (ربع العشر غالبًا في النقود وعروض التجارة) لمستحقيها المذكورين في القرآن. والزكاة تطهّر المال والقلب وتعين الفقراء والمساكين. وتختلف المذاهب في تفاصيل الأموال الزكوية، ولذلك تتيح الحاسبة في التطبيق اختيار مذهبك."
+  },
+  "refs": [
+   {
+    "type": "quran",
+    "label": "Al-Baqarah 2:43",
+    "key": "2:43"
+   },
+   {
+    "type": "quran",
+    "label": "At-Tawbah 9:60",
+    "key": "9:60"
+   },
+   {
+    "type": "quran",
+    "label": "At-Tawbah 9:103",
+    "key": "9:103"
+   },
+   {
+    "type": "hadith",
+    "label": "Sahih Muslim 8a",
+    "key": "muslim:8a",
+    "grade": "Sahih"
+   },
+   {
+    "type": "hadith",
+    "label": "Sahih al-Bukhari 8",
+    "key": "bukhari:8",
+    "grade": "Sahih"
+   }
+  ],
+  "review": true
+ },
+ {
+  "id": "sawm",
+  "n": 4,
+  "glyph": "sawm",
+  "arabic": "الصَّوْمُ",
+  "link": "screen:H01",
+  "title": {
+   "en": "Sawm — fasting in Ramadan",
+   "ur": "روزہ",
+   "ar": "صوم رمضان"
+  },
+  "subtitle": {
+   "en": "Fasting the month of Ramadan from dawn to sunset",
+   "ur": "رمضان کے مہینے میں فجر سے مغرب تک روزہ",
+   "ar": "صيام شهر رمضان من الفجر إلى الغروب"
+  },
+  "body": {
+   "en": "The fourth pillar is fasting the month of Ramadan: refraining from food, drink and marital relations from true dawn until sunset, with the intention of worship. Allah prescribed fasting so that believers may attain taqwa. Those who are ill, travelling or otherwise excused have specific concessions explained in the Quran and Sunnah.",
+   "ur": "چوتھا رکن رمضان کے روزے رکھنا ہے: عبادت کی نیت سے صبح صادق سے غروب آفتاب تک کھانے پینے اور میاں بیوی کے تعلق سے رکے رہنا۔ اللہ تعالیٰ نے روزے اس لیے فرض کیے تاکہ مومنوں میں تقویٰ پیدا ہو۔ بیمار، مسافر اور دیگر معذور لوگوں کے لیے قرآن و سنت میں خاص رخصتیں بیان ہوئی ہیں۔",
+   "ar": "الركن الرابع صيام شهر رمضان: الإمساك عن الطعام والشراب والجماع من طلوع الفجر الصادق إلى غروب الشمس بنية التعبد. وقد فرض الله الصيام ليحقق المؤمنون التقوى. وللمريض والمسافر وأصحاب الأعذار رخص مبيّنة في القرآن والسنة."
+  },
+  "refs": [
+   {
+    "type": "quran",
+    "label": "Al-Baqarah 2:183",
+    "key": "2:183"
+   },
+   {
+    "type": "quran",
+    "label": "Al-Baqarah 2:185",
+    "key": "2:185"
+   },
+   {
+    "type": "hadith",
+    "label": "Sahih Muslim 8a",
+    "key": "muslim:8a",
+    "grade": "Sahih"
+   },
+   {
+    "type": "hadith",
+    "label": "Sahih al-Bukhari 8",
+    "key": "bukhari:8",
+    "grade": "Sahih"
+   }
+  ],
+  "review": true
+ },
+ {
+  "id": "hajj",
+  "n": 5,
+  "glyph": "kaaba",
+  "arabic": "الحَجُّ",
+  "link": "screen:H07",
+  "title": {
+   "en": "Hajj — pilgrimage to Makkah",
+   "ur": "حج",
+   "ar": "الحج"
+  },
+  "subtitle": {
+   "en": "Once in a lifetime for those who are able",
+   "ur": "استطاعت رکھنے والوں پر زندگی میں ایک بار",
+   "ar": "مرة في العمر لمن استطاع إليه سبيلًا"
+  },
+  "body": {
+   "en": "The fifth pillar is Hajj, the pilgrimage to the Sacred House in Makkah during the days of Dhul Hijjah, required once in a lifetime of every adult Muslim who is physically and financially able. Hajj gathers Muslims from every land in the footsteps of Ibrahim (AS) and the Prophet ﷺ. Those who cannot go can still honour the first ten days of Dhul Hijjah with good deeds.",
+   "ur": "پانچواں رکن حج ہے، یعنی ذوالحجہ کے دنوں میں مکہ مکرمہ میں بیت اللہ کی زیارت، جو ہر اس بالغ مسلمان پر زندگی میں ایک بار فرض ہے جو جسمانی اور مالی استطاعت رکھتا ہو۔ حج ہر ملک کے مسلمانوں کو ابراہیم علیہ السلام اور نبی کریم ﷺ کے نقش قدم پر جمع کرتا ہے۔ جو نہ جا سکیں وہ ذوالحجہ کے پہلے دس دنوں کو نیک اعمال سے آباد کر سکتے ہیں۔",
+   "ar": "الركن الخامس الحج إلى البيت الحرام بمكة في أيام ذي الحجة، وهو واجب مرة في العمر على كل مسلم بالغ مستطيع بدنًا ومالًا. ويجمع الحج المسلمين من كل البلاد على خطى إبراهيم عليه السلام والنبي ﷺ. ومن لم يستطع الحج فله أن يعمر العشر الأوائل من ذي الحجة بالعمل الصالح."
+  },
+  "refs": [
+   {
+    "type": "quran",
+    "label": "Al Imran 3:97",
+    "key": "3:97"
+   },
+   {
+    "type": "quran",
+    "label": "Al-Hajj 22:27",
+    "key": "22:27"
+   },
+   {
+    "type": "hadith",
+    "label": "Sahih Muslim 8a",
+    "key": "muslim:8a",
+    "grade": "Sahih"
+   },
+   {
+    "type": "hadith",
+    "label": "Sahih al-Bukhari 8",
+    "key": "bukhari:8",
+    "grade": "Sahih"
+   }
+  ],
+  "review": true
+ }
+]

@@ -1,0 +1,185 @@
+{
+ "chapters": [
+  {
+   "id": 1,
+   "revelation_place": "makkah",
+   "revelation_order": 5,
+   "bismillah_pre": false,
+   "name_simple": "Al-Fatihah",
+   "name_complex": "Al-Fātiĥah",
+   "name_arabic": "الفاتحة",
+   "verses_count": 7,
+   "pages": [
+    1,
+    1
+   ],
+   "translated_name": {
+    "language_name": "english",
+    "name": "The Opener"
+   }
+  },
+  {
+   "id": 2,
+   "revelation_place": "madinah",
+   "revelation_order": 87,
+   "bismillah_pre": true,
+   "name_simple": "Al-Baqarah",
+   "name_complex": "Al-Baqarah",
+   "name_arabic": "البقرة",
+   "verses_count": 286,
+   "pages": [
+    2,
+    49
+   ],
+   "translated_name": {
+    "language_name": "english",
+    "name": "The Cow"
+   }
+  },
+  {
+   "id": 3,
+   "revelation_place": "madinah",
+   "revelation_order": 89,
+   "bismillah_pre": true,
+   "name_simple": "Ali 'Imran",
+   "name_complex": "Āli `Imrān",
+   "name_arabic": "آل عمران",
+   "verses_count": 200,
+   "pages": [
+    50,
+    76
+   ],
+   "translated_name": {
+    "language_name": "english",
+    "name": "Family of Imran"
+   }
+  },
+  {
+   "id": 4,
+   "revelation_place": "madinah",
+   "revelation_order": 92,
+   "bismillah_pre": true,
+   "name_simple": "An-Nisa",
+   "name_complex": "An-Nisā",
+   "name_arabic": "النساء",
+   "verses_count": 176,
+   "pages": [
+    77,
+    106
+   ],
+   "translated_name": {
+    "language_name": "english",
+    "name": "The Women"
+   }
+  },
+  {
+   "id": 5,
+   "revelation_place": "madinah",
+   "revelation_order": 112,
+   "bismillah_pre": true,
+   "name_simple": "Al-Ma'idah",
+   "name_complex": "Al-Mā'idah",
+   "name_arabic": "المائدة",
+   "verses_count": 120,
+   "pages": [
+    106,
+    127
+   ],
+   "translated_name": {
+    "language_name": "english",
+    "name": "The Table Spread"
+   }
+  },
+  {
+   "id": 6,
+   "revelation_place": "makkah",
+   "revelation_order": 55,
+   "bismillah_pre": true,
+   "name_simple": "Al-An'am",
+   "name_complex": "Al-'An`ām",
+   "name_arabic": "الأنعام",
+   "verses_count": 165,
+   "pages": [
+    128,
+    150
+   ],
+   "translated_name": {
+    "language_name": "english",
+    "name": "The Cattle"
+   }
+  },
+  {
+   "id": 7,
+   "revelation_place": "makkah",
+   "revelation_order": 39,
+   "bismillah_pre": true,
+   "name_simple": "Al-A'raf",
+   "name_complex": "Al-'A`rāf",
+   "name_arabic": "الأعراف",
+   "verses_count": 206,
+   "pages": [
+    151,
+    176
+   ],
+   "translated_name": {
+    "language_name": "english",
+    "name": "The Heights"
+   }
+  },
+  {
+   "id": 8,
+   "revelation_place": "madinah",
+   "revelation_order": 88,
+   "bismillah_pre": true,
+   "name_simple": "Al-Anfal",
+   "name_complex": "Al-'Anfāl",
+   "name_arabic": "الأنفال",
+   "verses_count": 75,
+   "pages": [
+    177,
+    186
+   ],
+   "translated_name": {
+    "language_name": "english",
+    "name": "The Spoils of War"
+   }
+  },
+  {
+   "id": 9,
+   "revelation_place": "madinah",
+   "revelation_order": 113,
+   "bismillah_pre": false,
+   "name_simple": "At-Tawbah",
+   "name_complex": "At-Tawbah",
+   "name_arabic": "التوبة",
+   "verses_count": 129,
+   "pages": [
+    187,
+    207
+   ],
+   "translated_name": {
+    "language_name": "english",
+    "name": "The Repentance"
+   }
+  },
+  {
+   "id": 10,
+   "revelation_place": "makkah",
+   "revelation_order": 51,
+   "bismillah_pre": true,
+   "name_simple": "Yunus",
+   "name_complex": "Yūnus",
+   "name_arabic": "يونس",
+   "verses_count": 109,
+   "pages": [
+    208,
+    221
+   ],
+   "translated_name": {
+    "language_name": "english",
+    "name": "Jonah"
+   }
+  }
+ ],
+ "_note": "trimmed to first 10 of 114 chapters; source https://api.quran.com/api/v4/chapters fetched 2026-10-03"
+}

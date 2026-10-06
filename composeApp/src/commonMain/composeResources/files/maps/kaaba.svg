@@ -1,0 +1,11 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="glyph/kaaba">
+<path id="Vector" opacity="0.92" d="M5 7.5L15 10.625V23.75L5 20.625V7.5Z" fill="#8C6D2E"/>
+<path id="Vector_2" opacity="0.78" d="M15 10.625L25 7.5V20.625L15 23.75V10.625Z" fill="#8C6D2E"/>
+<path id="Vector_3" d="M5 7.5L15 4.375L25 7.5L15 10.625L5 7.5Z" fill="#EBD9AE"/>
+<path id="Vector_4" d="M5 7.5L15 4.375L25 7.5L15 10.625L5 7.5Z" stroke="#8C6D2E" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_5" d="M5 10.625L15 13.75L25 10.625" stroke="#EBD9AE" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_6" d="M18.125 15.3125L21.25 14.375V19.375L18.125 20.3125V15.3125Z" fill="#EBD9AE"/>
+<path id="Vector_7" d="M3.125 27.5H26.875" stroke="#8C6D2E" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</svg>

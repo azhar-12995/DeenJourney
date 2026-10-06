@@ -1,0 +1,35 @@
+# Gradle, Kotlin and IDE state
+.gradle/
+.kotlin/
+.idea/
+**/build/
+*.iml
+local.properties
+
+# Local Firebase and signing configuration
+google-services.json
+GoogleService-Info.plist
+*.jks
+*.keystore
+*.p12
+*.pem
+*.key
+keystore.properties
+.env
+.env.*
+!.env.example
+
+# Generated artifacts and machine files
+*.log
+*.apk
+*.aab
+*.ipa
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
+**/xcuserdata/
+**/DerivedData/
+
+# Downloaded source datasets; packaged app data stays tracked
+tools/data/src/

@@ -1,0 +1,125 @@
+# source: https://cdn.jsdelivr.net/gh/spa5k/tafsir_api@main/tafsir/editions.json (fetched 2026-10-03), 123 editions
+id	slug	language	name	source_host
+381	bn-tafisr-fathul-majid	bengali	Tafsir Fathul Majid	quran.com
+92	ar-tafseer-tanwir-al-miqbas	arabic	Tafseer Tanwir al-Miqbas	quran.com
+157	ur-tafsir-fe-zalul-quran-syed-qatab	urdu	Fi Zilal al-Quran	quran.com
+160	ur-tafseer-ibn-e-kaseer	urdu	Tafsir Ibn Kathir	quran.com
+159	ur-tafsir-bayan-ul-quran	urdu	Tafsir Bayan ul Quran	quran.com
+818	ur-tazkirul-quran	urdu	Tazkirul Quran(Maulana Wahiduddin Khan)	quran.com
+817	en-tazkirul-quran	english	Tazkirul Quran(Maulana Wahiduddin Khan)	quran.com
+109	en-kashf-al-asrar-tafsir	english	Kashf Al-Asrar Tafsir	www.altafsir.com
+108	en-al-qushairi-tafsir	english	Al Qushairi Tafsir	www.altafsir.com
+107	en-kashani-tafsir	english	Kashani Tafsir	www.altafsir.com
+93	en-tafsir-al-tustari	english	Tafsir al-Tustari	www.altafsir.com
+86	en-asbab-al-nuzul-by-al-wahidi	english	Asbab Al-Nuzul by Al-Wahidi	www.altafsir.com
+73	en-tafsir-ibn-abbas	english	Tanwîr al-Miqbâs min Tafsîr Ibn ‘Abbâs	www.altafsir.com
+74	en-al-jalalayn	english	Al-Jalalayn	www.altafsir.com
+453	sinhalese-mokhtasar	sinhala	Sinhalese Mokhtasar	qul.tarteel.ai
+266	en-tafsir-al-mukhtasar	english	English Al-Mukhtasar	qul.tarteel.ai
+283	sq-saadi	albanian	Tafsir As-Saadi	qul.tarteel.ai
+265	japanese-mokhtasar	japanese	Japanese Abridged Explanation of the Quran	qul.tarteel.ai
+262	russian-mokhtasar	russian	Russian Al-Mukhtasar	qul.tarteel.ai
+267	bengali-mokhtasar	bengali	Bengali Abridged Explanation of the Quran	qul.tarteel.ai
+254	tagalog-mokhtasar	tagalog	Filipino (Tagalog) Al-Mukhtasar in interpreting the Noble Quran	qul.tarteel.ai
+307	ru-tafsir-ibne-kahtir	russian	Tafsir Ibne Kathir	qul.tarteel.ai
+264	chinese-mokhtasar	chinese	Chinese Abridged Explanation of the Quran	qul.tarteel.ai
+306	tr-tafsir-ibne-kathir	turkish	Tafsir Ibne Kathir	qul.tarteel.ai
+250	asseraj-fi-bayan-gharib-alquran	arabic	Asseraj fi Bayan Gharib AlQuran	qul.tarteel.ai
+255	assamese-mokhtasar	assamese	Assamese Abridged Explanation of the Quran	qul.tarteel.ai
+251	ar-tafsir-al-mukhtasar	arabic	Arabic Al-Mukhtasar in interpreting the Noble Quran	qul.tarteel.ai
+253	italian-mokhtasar	italian	Italian Al-Mukhtasar in interpreting the Noble Quran	qul.tarteel.ai
+310	tafsir-as-saadi-russian	russian	Tafsir As-Saadi	qul.tarteel.ai
+252	bosnian-mokhtasar	bosnian	Bosnian Abridged Explanation of the Quran	qul.tarteel.ai
+256	malayalam-mokhtasar	malayalam	Malayalam Abridged Explanation of the Quran	qul.tarteel.ai
+258	turkish-mokhtasar	turkish	Turkish Al-Mukhtasar in Interpreting the Noble Quran	qul.tarteel.ai
+257	khmer-mokhtasar	central khmer	Khmer Abridged Explanation of the Quran	qul.tarteel.ai
+259	french-mokhtasar	french	French Abridged Explanation of the Quran	qul.tarteel.ai
+261	vietnamese-mokhtasar	vietnamese	Vietnamese Al-Mukhtasar in interpreting the Noble Quran	qul.tarteel.ai
+263	persian-mokhtasar	persian	Persian Al-Mukhtasar in interpreting the Noble Quran	qul.tarteel.ai
+308	ar-tafsir-as-saadi	arabic	Tafsir As-Saadi	qul.tarteel.ai
+260	indonesian-mokhtasar	indonesian	Indoniesua Al-Mukhtasar in Interpreting the Noble Quran	qul.tarteel.ai
+504	al-i-rab-al-muyassar	arabic	Iraab Al-Muyassar	qul.tarteel.ai
+309	ur-tafsir-as-saadi-urdu	urdu	Tafsir As-Saadi - Urdu	qul.tarteel.ai
+503	id-tafsir-as-saadi	indonesian	Tafsir As-Saadi - Indonesian	qul.tarteel.ai
+499	tafsir-ibn-abi-zamanin	arabic	Tafsir Ibn Abi Zamanin	qul.tarteel.ai
+507	abu-bakr-jabir-al-jazairi	arabic	Abu Bakr Jabir Al-Jazairi	qul.tarteel.ai
+506	i-rab-al-quran-li-al-darwish	arabic	I'rab Al Quran li Al Darwish	qul.tarteel.ai
+498	nazam-al-durar-al-biqa-i	arabic	Nazam Al-Durar Al-Biqa'i	qul.tarteel.ai
+25	ar-tafseer-tahrir-al-tanwir	arabic	Tafsir al-Tahrir wa al-Tanwir	qul.tarteel.ai
+35	en-tafisr-ibn-kathir	english	Tafsir Ibn Kathir	qul.tarteel.ai
+24	ar-tafseer-al-saddi	arabic	Tafseer Al Saadi - Arabic	qul.tarteel.ai
+36	ru-tafseer-al-saddi	russian	Tafseer Al Saadi - Russian	qul.tarteel.ai
+22	ar-tafsir-ibn-kathir	arabic	Tafsir Ibn Kathir	qul.tarteel.ai
+23	ar-tafseer-al-qurtubi	arabic	Tafseer Al Qurtubi	qul.tarteel.ai
+27	ar-tafsir-al-baghawi	arabic	Tafseer Al-Baghawi	qul.tarteel.ai
+30	tafseer-ibn-e-kaseer-urdu	urdu	Tafsir Ibn Kathir	qul.tarteel.ai
+28	tafsir-fe-zalul-quran-syed-qatab	urdu	Fi Zilal al-Quran	qul.tarteel.ai
+31	bn-tafseer-ibn-e-kaseer	bengali	Tafseer ibn Kathir	qul.tarteel.ai
+29	tafsir-bayan-ul-quran	urdu	Tafsir Bayan ul Quran	qul.tarteel.ai
+26	ar-tafsir-al-wasit	arabic	Tafsir Al Wasit	qul.tarteel.ai
+34	en-tafsir-maarif-ul-quran	english	Maarif-ul-Quran	qul.tarteel.ai
+38	ar-tafsir-muyassar	arabic	Tafsir Muyassar	qul.tarteel.ai
+41	in-tafsir-jalalayn	indonesian	Tafsir Jalalayn	qul.tarteel.ai
+32	bn-tafsir-ahsanul-bayaan	bengali	Tafsir Ahsanul Bayaan	qul.tarteel.ai
+39	tafisr-fathul-majid-bn	bengali	Tafsir Fathul Majid	qul.tarteel.ai
+33	bn-tafsir-abu-bakr-zakaria	bengali	Tafsir Abu Bakr Zakaria	qul.tarteel.ai
+42	tazkirul-quran-en	english	Tazkirul Quran(Maulana Wahiduddin Khan)	qul.tarteel.ai
+43	tazkiru-quran-ur	urdu	Tazkirul Quran(Maulana Wahiduddin Khan)	qul.tarteel.ai
+40	kurd-tafsir-rebar	Kurdish	Rebar Kurdish Tafsir	qul.tarteel.ai
+509	al-muharrar-al-wajiz-ibn-atiyyah	arabic	Al-Muharrar Al-Wajiz Ibn Atiyyah	qul.tarteel.ai
+37	ar-tafsir-al-tabari	arabic	Tafsir al-Tabari	qul.tarteel.ai
+511	al-basit	arabic	Al-Basit	qul.tarteel.ai
+515	alrab-al-quran-li-da-as	arabic	Alrab Al-Quran li-Da'as	qul.tarteel.ai
+514	tafsir-al-nasafi	arabic	Tafsir Al-Nasafi	qul.tarteel.ai
+519	al-muyassar-fi-al-gharib	arabic	Al-Muyassar fi Al-Gharib	qul.tarteel.ai
+516	al-lubab-fi-ulum-al-kitab	arabic	Al Lubab fi Ulum Al Kitab	qul.tarteel.ai
+523	ar-tafsir-al-jalalayn	arabic	Tafsir Jalalayn	qul.tarteel.ai
+518	tafsir-al-baydawi	arabic	Tafsir Al-Baydawi	qul.tarteel.ai
+520	al-jadwal-fi-i-rab-al-quran	arabic	Al Jadwal fi I'rab Al Quran	qul.tarteel.ai
+488	tafsir-al-razi	arabic	Tafsir Al-Razi	qul.tarteel.ai
+573	tafsir-al-jalalayn	english	Tafsir Al Jalalayn - English	qul.tarteel.ai
+491	tafsir-ibn-juzay	arabic	Tafsir Ibn Juzay	qul.tarteel.ai
+485	fr-tafsir-as-saadi	persian	Tafsir As-Saadi - Persian	qul.tarteel.ai
+484	turkish-tafsir-as-saadi-turkish	turkish	Tafsir As-Saadi - Turkish	qul.tarteel.ai
+492	mawsoo-at-al-tafsir-al-ma-thoor	arabic	Mawsoo'at Al-Tafsir Al-Ma'thoor	qul.tarteel.ai
+487	tahlil-kalimat-al-qur-an	arabic	Tahlil Kalimat al-Qur'an	qul.tarteel.ai
+486	tafsir-ibn-uthaymeen	arabic	Tafsir Ibn Uthaymeen	qul.tarteel.ai
+490	tafsir-makhi	arabic	Tafsir Makhi	qul.tarteel.ai
+541	thai-mokhtasar	thai	Thai Mokhtasar	qul.tarteel.ai
+524	mahasin-al-ta-wil-al-qasimi	arabic	Mahasin Al-Ta'wil Al-Qasimi	qul.tarteel.ai
+540	telugu-mokhtasar	telugu	Telugu Mokhtasar	qul.tarteel.ai
+539	uyghur-mokhtasar	uighur	Uyghur Mokhtasar	qul.tarteel.ai
+533	pashto-mokhtasar	pashto	Pashto Mokhtasar	qul.tarteel.ai
+529	tafsir-al-sam-ani	arabic	Tafsir Al-Sam'ani	qul.tarteel.ai
+537	azeri-mokhtasar	azeri	Azeri Mokhtasar	qul.tarteel.ai
+534	fulani-mokhtasar	fulah	Fulani Mokhtasar	qul.tarteel.ai
+526	al-bahr-al-muhit	arabic	Al-Bahr Al-Muhit	qul.tarteel.ai
+528	ar-tafsir-al-tha-alibi	arabic	Tafsir Al-Tha'alibi	qul.tarteel.ai
+538	uzbek-mokhtasar	uzbek	Uzbek Mokhtasar	qul.tarteel.ai
+527	ar-tafsir-al-tha-alibi-527	arabic	Tafsir Al-Tha'alibi	qul.tarteel.ai
+525	adwa-al-bayan	arabic	Adwa' Al-Bayan	qul.tarteel.ai
+563	ayah-dependency-graphs	arabic	Ayah Dependency Graphs	qul.tarteel.ai
+543	serbian-mokhtasar	serbian	Serbian Mokhtasar	qul.tarteel.ai
+542	kurdish-mokhtasar	kurdish	Kurdish Mokhtasar	qul.tarteel.ai
+489	al-wajiz-wahidi	arabic	Al-Wajiz Wahidi	qul.tarteel.ai
+554	tamil-mokhtasar	tamil	Tamil Mokhtasar	qul.tarteel.ai
+494	fath-al-qadir-al-shawkani	arabic	Fath Al-Qadir Al-Shawkani	qul.tarteel.ai
+522	al-nashr-li-ibn-al-jazari	arabic	Al Nashr li Ibn Al Jazari	qul.tarteel.ai
+536	kyrgyz-mokhtasar	kyrgyz	Kyrgyz Mokhtasar	qul.tarteel.ai
+521	al-qira-at-al-mawsoo-ah-al-qur-aniyyah	arabic	Al Qira'at Al Mawsoo'ah Al Qur'aniyyah	qul.tarteel.ai
+268	spanish-mokhtasar	spanish	Spanish Abridged Explanation of the Quran	qul.tarteel.ai
+496	tafsir-ibn-al-jawzi	arabic	Tafsir Ibn Al-Jawzi	qul.tarteel.ai
+500	tafsir-ibn-al-qayyim	arabic	Tafsir Ibn Al-Qayyim	qul.tarteel.ai
+535	hindi-mokhtasar	hindi	Hindi Mokhtasar	qul.tarteel.ai
+493	al-durr-al-manthur	arabic	Al-Durr Al-Manthur	qul.tarteel.ai
+508	jamia-al-bayan-aliji	arabic	Jamia Al-Bayan AlIji	qul.tarteel.ai
+513	tafsir-al-samarqandi	arabic	Tafsir Al-Samarqandi	qul.tarteel.ai
+502	tafsir-ibn-abi-hatim	arabic	Tafsir Ibn Abi Hatim	qul.tarteel.ai
+501	tafsir-al-alusi	arabic	Tafsir Al-Alusi	qul.tarteel.ai
+505	al-dur-al-masun-lil-samin-al-halabi	arabic	Al Dur Al Masun Lil Samin Al Halabi	qul.tarteel.ai
+517	tadabbur-wa-amal	arabic	Tadabbur wa 'Amal	qul.tarteel.ai
+495	fath-al-bayan-li-al-qanuji	arabic	Fath Al-Bayan li Al-Qanuji	qul.tarteel.ai
+497	tafsir-abi-al-su-ood	arabic	Tafsir Abi Al-Suaood	qul.tarteel.ai
+512	tafsir-al-mawardi	arabic	Tafsir Al-Mawardi	qul.tarteel.ai
+510	al-kashshaf-al-zamakhshari	arabic	Al-Kashshaf Al-Zamakhshari	qul.tarteel.ai
+9001	ar-tafsir-al-jami-al-wajiz	arabic	Tafsir Al-Jami' Al-Wajiz	github.com

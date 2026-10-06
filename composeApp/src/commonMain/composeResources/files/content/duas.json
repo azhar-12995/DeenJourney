@@ -1,0 +1,226 @@
+{
+  "categories": [
+    {
+      "id": "quran",
+      "title": {
+        "en": "Quranic supplications",
+        "ur": "قرآنی دعائیں",
+        "ar": "الأدعية القرآنية"
+      },
+      "glyph": "quran",
+      "duas": [
+        "good",
+        "parents",
+        "knowledge",
+        "steadfast",
+        "prayer",
+        "forgiveness",
+        "family"
+      ]
+    },
+    {
+      "id": "family",
+      "title": {
+        "en": "Home & family",
+        "ur": "گھر اور خاندان",
+        "ar": "البيت والأسرة"
+      },
+      "glyph": "family",
+      "duas": [
+        "parents",
+        "family"
+      ]
+    },
+    {
+      "id": "learning",
+      "title": {
+        "en": "Learning & faith",
+        "ur": "علم اور ایمان",
+        "ar": "العلم والإيمان"
+      },
+      "glyph": "lesson",
+      "duas": [
+        "knowledge",
+        "steadfast",
+        "prayer"
+      ]
+    }
+  ],
+  "duas": [
+    {
+      "id": "good",
+      "title": {
+        "en": "Good in this life and the next",
+        "ur": "دنیا اور آخرت کی بھلائی",
+        "ar": "خير الدنيا والآخرة"
+      },
+      "arabic": "وَمِنْهُم مَّن يَقُولُ رَبَّنَآ ءَاتِنَا فِى ٱلدُّنْيَا حَسَنَةً وَفِى ٱلْـَٔاخِرَةِ حَسَنَةً وَقِنَا عَذَابَ ٱلنَّارِ",
+      "meaning": {
+        "en": "But among them is he who says, \"Our Lord, give us in this world [that which is] good and in the Hereafter [that which is] good and protect us from the punishment of the Fire.\"",
+        "ur": "اور بعضے ایسے ہیں کہ دعا کرتے ہیں کہ پروردگار ہم کو دنیا میں بھی نعمت عطا فرما اور آخرت میں بھی نعمت بخشیو اور دوزخ کے عذاب سے محفوظ رکھیو"
+      },
+      "refs": [
+        {
+          "type": "quran",
+          "key": "2:201",
+          "label": "Quran 2:201"
+        }
+      ],
+      "when": {
+        "en": "The complete Quran verse is shown with its translation.",
+        "ur": "مکمل قرآنی آیت ترجمے کے ساتھ ہے۔",
+        "ar": "تُعرض الآية القرآنية كاملة مع ترجمتها."
+      }
+    },
+    {
+      "id": "parents",
+      "title": {
+        "en": "Mercy for parents",
+        "ur": "والدین کے لیے رحمت",
+        "ar": "الرحمة للوالدين"
+      },
+      "arabic": "وَٱخْفِضْ لَهُمَا جَنَاحَ ٱلذُّلِّ مِنَ ٱلرَّحْمَةِ وَقُل رَّبِّ ٱرْحَمْهُمَا كَمَا رَبَّيَانِى صَغِيرًا",
+      "meaning": {
+        "en": "And lower to them the wing of humility out of mercy and say, \"My Lord, have mercy upon them as they brought me up [when I was] small.\"",
+        "ur": "اور عجزو نیاز سے ان کے آگے جھکے رہو اور ان کے حق میں دعا کرو کہ اے پروردگار جیسا انہوں نے مجھے بچپن میں (شفقت سے) پرورش کیا ہے تو بھی اُن (کے حال) پر رحمت فرما"
+      },
+      "refs": [
+        {
+          "type": "quran",
+          "key": "17:24",
+          "label": "Quran 17:24"
+        }
+      ],
+      "when": {
+        "en": "The complete Quran verse is shown with its translation.",
+        "ur": "مکمل قرآنی آیت ترجمے کے ساتھ ہے۔",
+        "ar": "تُعرض الآية القرآنية كاملة مع ترجمتها."
+      }
+    },
+    {
+      "id": "knowledge",
+      "title": {
+        "en": "Increase in knowledge",
+        "ur": "علم میں اضافہ",
+        "ar": "زيادة العلم"
+      },
+      "arabic": "فَتَعَٰلَى ٱللَّهُ ٱلْمَلِكُ ٱلْحَقُّ وَلَا تَعْجَلْ بِٱلْقُرْءَانِ مِن قَبْلِ أَن يُقْضَىٰٓ إِلَيْكَ وَحْيُهُۥ وَقُل رَّبِّ زِدْنِى عِلْمًا",
+      "meaning": {
+        "en": "So high [above all] is Allāh, the Sovereign,[861] the Truth.[862] And, [O Muḥammad], do not hasten with [recitation of] the Qur’ān before its revelation is completed to you, and say, \"My Lord, increase me in knowledge.\"",
+        "ur": "تو خدا جو سچا بادشاہ ہے عالی قدر ہے۔ اور قرآن کی وحی جو تمہاری طرف بھیجی جاتی ہے اس کے پورا ہونے سے پہلے قرآن کے (پڑھنے کے) لئے جلدی نہ کیا کرو اور دعا کرو کہ میرے پروردگار مجھے اور زیادہ علم دے"
+      },
+      "refs": [
+        {
+          "type": "quran",
+          "key": "20:114",
+          "label": "Quran 20:114"
+        }
+      ],
+      "when": {
+        "en": "The complete Quran verse is shown with its translation.",
+        "ur": "مکمل قرآنی آیت ترجمے کے ساتھ ہے۔",
+        "ar": "تُعرض الآية القرآنية كاملة مع ترجمتها."
+      }
+    },
+    {
+      "id": "steadfast",
+      "title": {
+        "en": "A steadfast heart",
+        "ur": "دل کی ثابت قدمی",
+        "ar": "ثبات القلب"
+      },
+      "arabic": "رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا وَهَبْ لَنَا مِن لَّدُنكَ رَحْمَةً إِنَّكَ أَنتَ ٱلْوَهَّابُ",
+      "meaning": {
+        "en": "[Who say], \"Our Lord, let not our hearts deviate after You have guided us and grant us from Yourself mercy. Indeed, You are the Bestower.[117]",
+        "ur": "اے پروردگار جب تو نے ہمیں ہدایت بخشی ہے تو اس کے بعد ہمارے دلوں میں کجی نہ پیدا کر دیجیو اور ہمیں اپنے ہاں سے نعمت عطا فرما تو تو بڑا عطا فرمانے والا ہے"
+      },
+      "refs": [
+        {
+          "type": "quran",
+          "key": "3:8",
+          "label": "Quran 3:8"
+        }
+      ],
+      "when": {
+        "en": "The complete Quran verse is shown with its translation.",
+        "ur": "مکمل قرآنی آیت ترجمے کے ساتھ ہے۔",
+        "ar": "تُعرض الآية القرآنية كاملة مع ترجمتها."
+      }
+    },
+    {
+      "id": "prayer",
+      "title": {
+        "en": "Establishing prayer",
+        "ur": "نماز قائم رکھنا",
+        "ar": "إقامة الصلاة"
+      },
+      "arabic": "رَبِّ ٱجْعَلْنِى مُقِيمَ ٱلصَّلَوٰةِ وَمِن ذُرِّيَّتِى رَبَّنَا وَتَقَبَّلْ دُعَآءِ",
+      "meaning": {
+        "en": "My Lord, make me an establisher of prayer, and [many] from my descendants. Our Lord, and accept my supplication.",
+        "ur": "اے پروردگار مجھ کو (ایسی توفیق عنایت) کر کہ نماز پڑھتا رہوں اور میری اولاد کو بھی (یہ توفیق بخش) اے پروردگار میری دعا قبول فرما"
+      },
+      "refs": [
+        {
+          "type": "quran",
+          "key": "14:40",
+          "label": "Quran 14:40"
+        }
+      ],
+      "when": {
+        "en": "The complete Quran verse is shown with its translation.",
+        "ur": "مکمل قرآنی آیت ترجمے کے ساتھ ہے۔",
+        "ar": "تُعرض الآية القرآنية كاملة مع ترجمتها."
+      }
+    },
+    {
+      "id": "forgiveness",
+      "title": {
+        "en": "Seeking forgiveness",
+        "ur": "مغفرت مانگنا",
+        "ar": "طلب المغفرة"
+      },
+      "arabic": "وَذَا ٱلنُّونِ إِذ ذَّهَبَ مُغَٰضِبًا فَظَنَّ أَن لَّن نَّقْدِرَ عَلَيْهِ فَنَادَىٰ فِى ٱلظُّلُمَٰتِ أَن لَّآ إِلَٰهَ إِلَّآ أَنتَ سُبْحَٰنَكَ إِنِّى كُنتُ مِنَ ٱلظَّٰلِمِينَ",
+      "meaning": {
+        "en": "And [mention] the man of the fish [i.e., Jonah], when he went off in anger[899] and thought that We would not decree [anything] upon him.[900] And he called out within the darknesses,[901] \"There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers.\"",
+        "ur": "اور ذوالنون (کو یاد کرو) جب وہ (اپنی قوم سے ناراض ہو کر) غصے کی حالت میں چل دیئے اور خیال کیا کہ ہم ان پر قابو نہیں پاسکیں گے۔ آخر اندھیرے میں (خدا کو) پکارنے لگے کہ تیرے سوا کوئی معبود نہیں۔ تو پاک ہے (اور) بےشک میں قصوروار ہوں"
+      },
+      "refs": [
+        {
+          "type": "quran",
+          "key": "21:87",
+          "label": "Quran 21:87"
+        }
+      ],
+      "when": {
+        "en": "The complete Quran verse is shown with its translation.",
+        "ur": "مکمل قرآنی آیت ترجمے کے ساتھ ہے۔",
+        "ar": "تُعرض الآية القرآنية كاملة مع ترجمتها."
+      }
+    },
+    {
+      "id": "family",
+      "title": {
+        "en": "Righteous family",
+        "ur": "نیک خاندان",
+        "ar": "الأسرة الصالحة"
+      },
+      "arabic": "وَٱلَّذِينَ يَقُولُونَ رَبَّنَا هَبْ لَنَا مِنْ أَزْوَٰجِنَا وَذُرِّيَّٰتِنَا قُرَّةَ أَعْيُنٍ وَٱجْعَلْنَا لِلْمُتَّقِينَ إِمَامًا",
+      "meaning": {
+        "en": "And those who say, \"Our Lord, grant us from among our wives and offspring comfort to our eyes[1038] and make us a leader [i.e., example] for the righteous.\"",
+        "ur": "اور وہ جو (خدا سے) دعا مانگتے ہیں کہ اے پروردگار ہم کو ہماری بیویوں کی طرف سے (دل کا چین) اور اولاد کی طرف سے آنکھ کی ٹھنڈک عطا فرما اور ہمیں پرہیزگاروں کا امام بنا"
+      },
+      "refs": [
+        {
+          "type": "quran",
+          "key": "25:74",
+          "label": "Quran 25:74"
+        }
+      ],
+      "when": {
+        "en": "The complete Quran verse is shown with its translation.",
+        "ur": "مکمل قرآنی آیت ترجمے کے ساتھ ہے۔",
+        "ar": "تُعرض الآية القرآنية كاملة مع ترجمتها."
+      }
+    }
+  ]
+}

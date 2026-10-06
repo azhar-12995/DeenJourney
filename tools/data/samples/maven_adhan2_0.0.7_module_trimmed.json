@@ -1,0 +1,128 @@
+{
+ "component": {
+  "group": "com.batoulapps.adhan",
+  "module": "adhan2",
+  "version": "0.0.7",
+  "attributes": {
+   "org.gradle.status": "release"
+  }
+ },
+ "createdBy": {
+  "gradle": {
+   "version": "9.5.1"
+  }
+ },
+ "variants": [
+  {
+   "name": "metadataApiElements",
+   "module": null,
+   "platform": "common",
+   "deps": [
+    {
+     "group": "org.jetbrains.kotlinx",
+     "module": "kotlinx-datetime",
+     "version": {
+      "requires": "0.8.0"
+     }
+    },
+    {
+     "group": "org.jetbrains.kotlin",
+     "module": "kotlin-stdlib",
+     "version": {
+      "requires": "2.4.0"
+     }
+    }
+   ]
+  },
+  {
+   "name": "iosArm64ApiElements-published",
+   "module": "adhan2-iosarm64",
+   "platform": "native",
+   "deps": []
+  },
+  {
+   "name": "iosSimulatorArm64ApiElements-published",
+   "module": "adhan2-iossimulatorarm64",
+   "platform": "native",
+   "deps": []
+  },
+  {
+   "name": "iosX64ApiElements-published",
+   "module": "adhan2-iosx64",
+   "platform": "native",
+   "deps": []
+  },
+  {
+   "name": "jsApiElements-published",
+   "module": "adhan2-js",
+   "platform": "js",
+   "deps": []
+  },
+  {
+   "name": "jvmApiElements-published",
+   "module": "adhan2-jvm",
+   "platform": "jvm",
+   "deps": []
+  },
+  {
+   "name": "linuxArm64ApiElements-published",
+   "module": "adhan2-linuxarm64",
+   "platform": "native",
+   "deps": []
+  },
+  {
+   "name": "linuxX64ApiElements-published",
+   "module": "adhan2-linuxx64",
+   "platform": "native",
+   "deps": []
+  },
+  {
+   "name": "macosArm64ApiElements-published",
+   "module": "adhan2-macosarm64",
+   "platform": "native",
+   "deps": []
+  },
+  {
+   "name": "macosX64ApiElements-published",
+   "module": "adhan2-macosx64",
+   "platform": "native",
+   "deps": []
+  },
+  {
+   "name": "mingwX64ApiElements-published",
+   "module": "adhan2-mingwx64",
+   "platform": "native",
+   "deps": []
+  },
+  {
+   "name": "wasmJsApiElements-published",
+   "module": "adhan2-wasm-js",
+   "platform": "wasm",
+   "deps": []
+  },
+  {
+   "name": "watchosArm32ApiElements-published",
+   "module": "adhan2-watchosarm32",
+   "platform": "native",
+   "deps": []
+  },
+  {
+   "name": "watchosArm64ApiElements-published",
+   "module": "adhan2-watchosarm64",
+   "platform": "native",
+   "deps": []
+  },
+  {
+   "name": "watchosSimulatorArm64ApiElements-published",
+   "module": "adhan2-watchossimulatorarm64",
+   "platform": "native",
+   "deps": []
+  },
+  {
+   "name": "watchosX64ApiElements-published",
+   "module": "adhan2-watchosx64",
+   "platform": "native",
+   "deps": []
+  }
+ ]
+}

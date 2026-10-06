@@ -1,0 +1,706 @@
+{
+  "wudu": {
+    "title": {
+      "en": "Wudu",
+      "ur": "وضو",
+      "ar": "الوضوء"
+    },
+    "intro": {
+      "en": "Prepare for prayer with clean water and a sincere intention.",
+      "ur": "پاک پانی اور نیت کے ساتھ نماز کی تیاری کریں۔",
+      "ar": "استعد للصلاة بماء طهور ونية صادقة."
+    },
+    "steps": [
+      {
+        "title": {
+          "en": "Wash hands",
+          "ur": "ہاتھ دھوئیں",
+          "ar": "غسل اليدين"
+        },
+        "body": {
+          "en": "Wash both hands three times.",
+          "ur": "دونوں ہاتھ تین بار دھوئیں۔",
+          "ar": "اغسل اليدين ثلاث مرات."
+        },
+        "glyph": "hands_wash"
+      },
+      {
+        "title": {
+          "en": "Rinse mouth and nose",
+          "ur": "کلی اور ناک صاف کریں",
+          "ar": "المضمضة والاستنشاق"
+        },
+        "body": {
+          "en": "Rinse the mouth and gently rinse the nose.",
+          "ur": "کلی کریں اور ناک میں نرمی سے پانی ڈال کر صاف کریں۔",
+          "ar": "تمضمض واستنشق الماء برفق."
+        },
+        "glyph": "mouth"
+      },
+      {
+        "title": {
+          "en": "Wash face",
+          "ur": "چہرہ دھوئیں",
+          "ar": "غسل الوجه"
+        },
+        "body": {
+          "en": "Wash the entire face three times.",
+          "ur": "پورا چہرہ تین بار دھوئیں۔",
+          "ar": "اغسل الوجه كاملًا ثلاث مرات."
+        },
+        "glyph": "face"
+      },
+      {
+        "title": {
+          "en": "Wash arms",
+          "ur": "بازو دھوئیں",
+          "ar": "غسل الذراعين"
+        },
+        "body": {
+          "en": "Wash the arms including the elbows, beginning with the right.",
+          "ur": "کہنیوں سمیت بازو دھوئیں، دائیں سے شروع کریں۔",
+          "ar": "اغسل الذراعين مع المرفقين بدءًا باليمين."
+        },
+        "glyph": "arm"
+      },
+      {
+        "title": {
+          "en": "Wipe head",
+          "ur": "سر کا مسح",
+          "ar": "مسح الرأس"
+        },
+        "body": {
+          "en": "Wipe the head with wet hands.",
+          "ur": "گیلے ہاتھوں سے سر کا مسح کریں۔",
+          "ar": "امسح الرأس بيدين مبللتين."
+        },
+        "glyph": "head"
+      },
+      {
+        "title": {
+          "en": "Wash feet",
+          "ur": "پاؤں دھوئیں",
+          "ar": "غسل القدمين"
+        },
+        "body": {
+          "en": "Wash both feet including the ankles.",
+          "ur": "ٹخنوں سمیت دونوں پاؤں دھوئیں۔",
+          "ar": "اغسل القدمين مع الكعبين."
+        },
+        "glyph": "feet"
+      }
+    ],
+    "about": [
+      {
+        "title": {
+          "en": "Wudu: purity before prayer",
+          "ur": "وضو: نماز سے پہلے پاکیزگی",
+          "ar": "الوضوء: الطهارة قبل الصلاة"
+        },
+        "body": {
+          "en": "Before we stand before Allah, we prepare our bodies and hearts. Allah says: O you who believe, when you rise for prayer, wash your faces and your arms up to the elbows, wipe your heads, and wash your feet up to the ankles (5:6). The Prophet ﷺ said that the prayer of someone who has lost their wudu is not accepted until they perform wudu again (Sahih al-Bukhari 135).\n\n‘Uthman (RA) once called for water and showed the people: he washed his hands three times, rinsed his mouth and nose, washed his face three times, his arms up to the elbows, wiped his head, and washed his feet, saying he had seen the Prophet ﷺ do this (Sahih al-Bukhari 159). We begin with “Bismi-Llāh” and usually start with the right side.\n\nThe Prophet ﷺ said: purity is half of faith (Sahih Muslim 223). He also said that when a believer washes his face, every sin his eyes looked at is washed away with the water, and so on for the hands and feet (Sahih Muslim 244). After wudu, he taught us to say: Ash-hadu an lā ilāha illa-Llāhu waḥdahu lā sharīka lah, wa ash-hadu anna Muḥammadan ‘abduhu wa rasūluh — and promised that the gates of Paradise are opened for the one who says it (Sahih Muslim 234).\n\nAll four schools agree on the acts named in 5:6. They differ on some details — such as whether intention, keeping the order, continuity and rinsing the mouth and nose are obligatory or sunnah, and how much of the head must be wiped. See the Wudu guide for step-by-step details.",
+          "ur": "اللہ کے سامنے کھڑے ہونے سے پہلے ہم اپنے جسم اور دل کو تیار کرتے ہیں۔ اللہ فرماتا ہے: اے ایمان والو! جب تم نماز کے لیے اٹھو تو اپنے چہرے اور کہنیوں تک ہاتھ دھو لو، اپنے سروں کا مسح کرو اور ٹخنوں تک پاؤں دھو لو (5:6)۔ نبی کریم ﷺ نے فرمایا کہ جس کا وضو ٹوٹ جائے اس کی نماز قبول نہیں ہوتی جب تک وہ دوبارہ وضو نہ کرے (صحیح بخاری 135)۔\n\nحضرت عثمان رضی اللہ عنہ نے ایک بار پانی منگوایا اور لوگوں کو دکھایا: تین بار ہاتھ دھوئے، کلی کی اور ناک میں پانی ڈالا، تین بار چہرہ دھویا، کہنیوں تک بازو دھوئے، سر کا مسح کیا اور پاؤں دھوئے، اور فرمایا کہ میں نے نبی کریم ﷺ کو اسی طرح وضو کرتے دیکھا (صحیح بخاری 159)۔ ہم «بسم اللہ» سے شروع کرتے ہیں اور عموماً دائیں طرف سے ابتدا کرتے ہیں۔\n\nنبی کریم ﷺ نے فرمایا: پاکیزگی آدھا ایمان ہے (صحیح مسلم 223)۔ آپ ﷺ نے یہ بھی فرمایا کہ جب مومن اپنا چہرہ دھوتا ہے تو آنکھوں سے کیے گئے سب گناہ پانی کے ساتھ دھل جاتے ہیں، اور اسی طرح ہاتھوں اور پاؤں کے (صحیح مسلم 244)۔ وضو کے بعد آپ ﷺ نے یہ پڑھنا سکھایا: «اَشْہَدُ اَنْ لَّا اِلٰہَ اِلَّا اللّٰہُ وَحْدَہٗ لَا شَرِیْکَ لَہٗ وَاَشْہَدُ اَنَّ مُحَمَّدًا عَبْدُہٗ وَرَسُوْلُہٗ» — اور وعدہ فرمایا کہ اس کے لیے جنت کے دروازے کھول دیے جاتے ہیں (صحیح مسلم 234)۔\n\nچاروں مذاہب 5:6 میں مذکور کاموں پر متفق ہیں۔ بعض تفصیلات میں اختلاف ہے — جیسے نیت، ترتیب، تسلسل اور کلی و ناک میں پانی ڈالنا فرض ہیں یا سنت، اور سر کے کتنے حصے کا مسح ضروری ہے۔ تفصیلی طریقے کے لیے وضو گائیڈ دیکھیں۔",
+          "ar": "قبل أن نقف بين يدي الله نُهيّئ أجسادنا وقلوبنا، قال تعالى: ﴿يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا قُمْتُمْ إِلَى ٱلصَّلَوٰةِ فَٱغْسِلُوا۟ وُجُوهَكُمْ وَأَيْدِيَكُمْ إِلَى ٱلْمَرَافِقِ وَٱمْسَحُوا۟ بِرُءُوسِكُمْ وَأَرْجُلَكُمْ إِلَى ٱلْكَعْبَيْنِ﴾. وقال النبي ﷺ: «لا تُقبل صلاة من أحدث حتى يتوضأ» (صحيح البخاري 135).\n\nوقد دعا عثمان رضي الله عنه بماء وأرى الناس: غسل كفّيه ثلاثًا، ثم تمضمض واستنشق، وغسل وجهه ثلاثًا، ويديه إلى المرفقين، ومسح برأسه، وغسل رجليه، وقال: رأيت النبي ﷺ يتوضأ هكذا (صحيح البخاري 159). ونبدأ بالتسمية، ونقدّم اليمين عادةً.\n\nوقال النبي ﷺ: «الطُّهور شطر الإيمان» (صحيح مسلم 223)، وأخبر أن المؤمن إذا غسل وجهه خرجت مع الماء كل خطيئة نظر إليها بعينيه، وكذلك اليدان والرجلان (صحيح مسلم 244). وعلّمنا أن نقول بعد الوضوء: «أشهد أن لا إله إلا الله وحده لا شريك له، وأشهد أن محمدًا عبده ورسوله»، ووعد بأن تُفتح لقائلها أبواب الجنة (صحيح مسلم 234).\n\nواتفقت المذاهب الأربعة على الأفعال المذكورة في الآية، واختلفت في تفاصيل، كحكم النية والترتيب والموالاة والمضمضة والاستنشاق، وقدر ما يُمسح من الرأس. وراجع دليل الوضوء للخطوات المفصّلة."
+        }
+      }
+    ],
+    "refs": [
+      {
+        "type": "quran",
+        "key": "5:6",
+        "label": "Quran 5:6"
+      },
+      {
+        "type": "hadith",
+        "key": "bukhari:159",
+        "label": "Sahih al-Bukhari 159"
+      }
+    ]
+  },
+  "ghusl": {
+    "title": {
+      "en": "Ghusl",
+      "ur": "غسل",
+      "ar": "الغسل"
+    },
+    "intro": {
+      "en": "A full purification bath. Follow your school for detailed requirements.",
+      "ur": "مکمل پاکی کا غسل۔ تفصیلی مسائل میں اپنے مسلک کی رہنمائی لیں۔",
+      "ar": "غسل الطهارة الكامل. اتبع مذهبك في التفاصيل."
+    },
+    "steps": [
+      {
+        "title": {
+          "en": "Intention and hands",
+          "ur": "نیت اور ہاتھ",
+          "ar": "النية واليدان"
+        },
+        "body": {
+          "en": "Intend purification and wash your hands.",
+          "ur": "پاکی کی نیت کریں اور ہاتھ دھوئیں۔",
+          "ar": "انوِ الطهارة واغسل يديك."
+        },
+        "glyph": "intention"
+      },
+      {
+        "title": {
+          "en": "Clean and perform wudu",
+          "ur": "صفائی اور وضو",
+          "ar": "التنظيف والوضوء"
+        },
+        "body": {
+          "en": "Remove any impurity and perform wudu.",
+          "ur": "نجاست صاف کریں اور وضو کریں۔",
+          "ar": "أزل النجاسة وتوضأ."
+        },
+        "glyph": "wudu"
+      },
+      {
+        "title": {
+          "en": "Head and whole body",
+          "ur": "سر اور پورا بدن",
+          "ar": "الرأس والجسد"
+        },
+        "body": {
+          "en": "Wet the roots of the hair, pour water over the head, then wash the entire body.",
+          "ur": "بالوں کی جڑوں تک پانی پہنچائیں، سر پر پانی بہائیں، پھر پورا بدن دھوئیں۔",
+          "ar": "بلّل أصول الشعر وأفض الماء على الرأس ثم اغسل الجسد كله."
+        },
+        "glyph": "body_side"
+      }
+    ],
+    "refs": [
+      {
+        "type": "quran",
+        "key": "5:6",
+        "label": "Quran 5:6"
+      },
+      {
+        "type": "hadith",
+        "key": "bukhari:248",
+        "label": "Sahih al-Bukhari 248"
+      }
+    ]
+  },
+  "jumuah": {
+    "title": {
+      "en": "Jumu‘ah",
+      "ur": "جمعہ",
+      "ar": "الجمعة"
+    },
+    "intro": {
+      "en": "The weekly gathering of the Muslims",
+      "ur": "مسلمانوں کا ہفتہ وار اجتماع",
+      "ar": "اجتماع المسلمين الأسبوعي"
+    },
+    "about": [
+      {
+        "title": {
+          "en": "Jumu‘ah: the best day",
+          "ur": "جمعہ: بہترین دن",
+          "ar": "الجمعة: خير الأيام"
+        },
+        "body": {
+          "en": "The Prophet ﷺ said: the best day on which the sun rises is Friday; on it Adam (AS) was created, on it he was admitted into Paradise, and on it he was sent out of it (Sahih Muslim 854). Allah says: O you who believe, when the call is made for prayer on the day of Jumu‘ah, hasten to the remembrance of Allah and leave off trade… and when the prayer is over, spread through the land and seek Allah’s bounty, and remember Allah often (62:9–10).\n\nThe Jumu‘ah prayer — a khutbah (sermon) followed by two rak‘ahs — takes the place of Dhuhr. The Prophet ﷺ said it is a duty on every Muslim in congregation except four: a slave, a woman, a child and a sick person (Sunan Abi Dawud 1067). Women and children are welcome to attend, and if they do, it counts in place of their Dhuhr. The schools set further conditions, such as being resident.\n\nThe Prophet ﷺ described how to prepare: whoever takes a bath on Friday, purifies himself as much as he can, uses oil or perfume, goes to the mosque without pushing between two people, prays what is written for him and listens quietly when the imam speaks, will have his sins between that Friday and the next forgiven (Sahih al-Bukhari 883).\n\nHe also said: send many blessings upon me on Friday, for your blessings are presented to me (Sunan Abi Dawud 1047). And on Friday there is an hour in which a Muslim who is praying and asks Allah for something good will be given it (Sahih al-Bukhari 935).",
+          "ur": "نبی کریم ﷺ نے فرمایا: بہترین دن جس پر سورج طلوع ہوتا ہے جمعہ کا دن ہے؛ اسی دن آدم علیہ السلام پیدا کیے گئے، اسی دن جنت میں داخل کیے گئے اور اسی دن وہاں سے نکالے گئے (صحیح مسلم 854)۔ اللہ فرماتا ہے: اے ایمان والو! جب جمعہ کے دن نماز کے لیے پکارا جائے تو اللہ کی یاد کی طرف دوڑو اور خرید و فروخت چھوڑ دو… پھر جب نماز ختم ہو جائے تو زمین میں پھیل جاؤ، اللہ کا فضل تلاش کرو اور اللہ کو کثرت سے یاد کرو (62:9–10)۔\n\nجمعہ کی نماز — خطبہ اور اس کے بعد دو رکعتیں — ظہر کی جگہ لیتی ہے۔ نبی کریم ﷺ نے فرمایا کہ جماعت کے ساتھ جمعہ ہر مسلمان پر فرض ہے سوائے چار کے: غلام، عورت، بچہ اور بیمار (سنن ابی داؤد 1067)۔ خواتین اور بچے شریک ہو سکتے ہیں، اور اگر شریک ہوں تو یہ ان کی ظہر کی جگہ کافی ہے۔ مذاہب نے مزید شرائط بھی رکھی ہیں، جیسے مقیم ہونا۔\n\nنبی کریم ﷺ نے تیاری کا طریقہ بتایا: جو جمعہ کے دن غسل کرے، جتنی ہو سکے پاکیزگی حاصل کرے، تیل یا خوشبو لگائے، مسجد جائے اور دو آدمیوں کے درمیان گھس کر نہ بیٹھے، جو نماز اس کے لیے مقدر ہو پڑھے اور جب امام خطبہ دے تو خاموشی سے سنے، اس کے اس جمعہ سے اگلے جمعہ تک کے گناہ معاف کر دیے جاتے ہیں (صحیح بخاری 883)۔\n\nآپ ﷺ نے یہ بھی فرمایا: جمعہ کے دن مجھ پر کثرت سے درود بھیجو، کیونکہ تمہارا درود مجھ پر پیش کیا جاتا ہے (سنن ابی داؤد 1047)۔ اور جمعہ کے دن ایک گھڑی ایسی ہے کہ جو مسلمان اس میں نماز پڑھتے ہوئے اللہ سے کوئی بھلائی مانگے، اسے وہ عطا کی جاتی ہے (صحیح بخاری 935)۔",
+          "ar": "قال النبي ﷺ: «خير يوم طلعت عليه الشمس يوم الجمعة؛ فيه خُلق آدم، وفيه أُدخل الجنة، وفيه أُخرج منها» (صحيح مسلم 854). وقال تعالى: ﴿يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا نُودِىَ لِلصَّلَوٰةِ مِن يَوْمِ ٱلْجُمُعَةِ فَٱسْعَوْا۟ إِلَىٰ ذِكْرِ ٱللَّهِ وَذَرُوا۟ ٱلْبَيْعَ ذَٰلِكُمْ خَيْرٌ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ﴾ ﴿فَإِذَا قُضِيَتِ ٱلصَّلَوٰةُ فَٱنتَشِرُوا۟ فِى ٱلْأَرْضِ وَٱبْتَغُوا۟ مِن فَضْلِ ٱللَّهِ وَٱذْكُرُوا۟ ٱللَّهَ كَثِيرًا لَّعَلَّكُمْ تُفْلِحُونَ﴾.\n\nوصلاة الجمعة — خطبة ثم ركعتان — تقوم مقام الظهر. وقال النبي ﷺ: «الجمعة حقٌّ واجب على كل مسلم في جماعة إلا أربعة: عبدٌ مملوك، أو امرأة، أو صبي، أو مريض» (سنن أبي داود 1067). ويجوز للنساء والأطفال حضورها، فإن حضروها أجزأتهم عن الظهر. وللمذاهب شروط أخرى كالاستيطان.\n\nوبيّن النبي ﷺ الاستعداد لها: من اغتسل يوم الجمعة وتطهّر ما استطاع، وادّهن أو مسّ من طيب بيته، ثم خرج فلم يفرّق بين اثنين، ثم صلّى ما كُتب له، ثم أنصت إذا تكلّم الإمام، غُفر له ما بينه وبين الجمعة الأخرى (صحيح البخاري 883).\n\nوقال: «أكثروا عليّ من الصلاة فيه، فإن صلاتكم معروضة عليّ» (سنن أبي داود 1047). وفي الجمعة ساعة لا يوافقها مسلم وهو قائم يصلّي يسأل الله خيرًا إلا أعطاه إياه (صحيح البخاري 935)."
+        },
+        "refs": [
+          {
+            "type": "hadith",
+            "label": "Sahih Muslim 854",
+            "key": "muslim:854",
+            "grade": "Sahih",
+            "hadith_api": "eng-muslim/1976"
+          },
+          {
+            "type": "quran",
+            "label": "Quran 62:9-10",
+            "key": "62:9-10"
+          },
+          {
+            "type": "hadith",
+            "label": "Sunan Abi Dawud 1067",
+            "key": "abudawud:1067",
+            "grade": "Sahih (al-Albani)"
+          },
+          {
+            "type": "hadith",
+            "label": "Sahih al-Bukhari 883",
+            "key": "bukhari:883",
+            "grade": "Sahih"
+          },
+          {
+            "type": "hadith",
+            "label": "Sunan Abi Dawud 1047",
+            "key": "abudawud:1047",
+            "grade": "Sahih (al-Albani)"
+          },
+          {
+            "type": "hadith",
+            "label": "Sahih al-Bukhari 935",
+            "key": "bukhari:935",
+            "grade": "Sahih"
+          }
+        ]
+      }
+    ],
+    "refs": [
+      {
+        "type": "hadith",
+        "label": "Sahih Muslim 854",
+        "key": "muslim:854",
+        "grade": "Sahih",
+        "hadith_api": "eng-muslim/1976"
+      },
+      {
+        "type": "quran",
+        "label": "Quran 62:9-10",
+        "key": "62:9-10"
+      },
+      {
+        "type": "hadith",
+        "label": "Sunan Abi Dawud 1067",
+        "key": "abudawud:1067",
+        "grade": "Sahih (al-Albani)"
+      },
+      {
+        "type": "hadith",
+        "label": "Sahih al-Bukhari 883",
+        "key": "bukhari:883",
+        "grade": "Sahih"
+      },
+      {
+        "type": "hadith",
+        "label": "Sunan Abi Dawud 1047",
+        "key": "abudawud:1047",
+        "grade": "Sahih (al-Albani)"
+      },
+      {
+        "type": "hadith",
+        "label": "Sahih al-Bukhari 935",
+        "key": "bukhari:935",
+        "grade": "Sahih"
+      }
+    ]
+  },
+  "witr": {
+    "title": {
+      "en": "Witr",
+      "ur": "وتر",
+      "ar": "الوتر"
+    },
+    "intro": {
+      "en": "Extra prayers that bring us closer",
+      "ur": "اضافی نمازیں جو قریب کرتی ہیں",
+      "ar": "صلوات إضافية تقرّبنا إلى الله"
+    },
+    "about": [
+      {
+        "title": {
+          "en": "Sunnah and voluntary prayers",
+          "ur": "سنت اور نفل نمازیں",
+          "ar": "السنن والنوافل"
+        },
+        "body": {
+          "en": "Besides the five obligatory prayers, the Prophet ﷺ regularly prayed extra prayers called sunnah or nafl. They are a gift: a way to come closer to Allah and to make up for shortcomings in our obligatory prayers.\n\nUmm Habibah (RA) narrated that the Prophet ﷺ said: whoever prays twelve rak‘ahs in a day and night, a house will be built for him in Paradise (Sahih Muslim 728). Another narration lists them: four before Dhuhr and two after it, two after Maghrib, two after ‘Isha and two before Fajr (Jami‘ at-Tirmidhi 414). Ibn ‘Umar (RA) remembered two before Dhuhr rather than four (Sahih al-Bukhari 1180), so both are practised.\n\nThe two rak‘ahs before Fajr were especially dear to him. He said: the two rak‘ahs of Fajr are better than this world and everything in it (Sahih Muslim 725).\n\nThe night prayer (qiyam al-layl or tahajjud) is praised in the Quran (17:79). The Prophet ﷺ said: the night prayer is two rak‘ahs at a time, and if you fear dawn is near, pray one rak‘ah to make it odd (witr) (Sahih al-Bukhari 990). Witr is wajib (required) in the Hanafi school and a strongly emphasised sunnah in the Shafi‘i, Maliki and Hanbali schools; the schools also differ on how it is prayed.\n\nStart small: perhaps the two before Fajr and witr before sleeping. Children can join with two extra rak‘ahs. Consistency matters more than quantity.",
+          "ur": "پانچ فرض نمازوں کے علاوہ نبی کریم ﷺ باقاعدگی سے اضافی نمازیں پڑھتے تھے جنہیں سنت یا نفل کہتے ہیں۔ یہ ایک تحفہ ہیں: اللہ کے قریب ہونے کا ذریعہ اور فرض نمازوں کی کمی پوری کرنے کا سبب۔\n\nحضرت ام حبیبہ رضی اللہ عنہا نے روایت کیا کہ نبی کریم ﷺ نے فرمایا: جو دن رات میں بارہ رکعتیں پڑھے اس کے لیے جنت میں ایک گھر بنایا جاتا ہے (صحیح مسلم 728)۔ ایک اور روایت میں ان کی تفصیل ہے: ظہر سے پہلے چار اور بعد میں دو، مغرب کے بعد دو، عشاء کے بعد دو اور فجر سے پہلے دو (جامع ترمذی 414)۔ حضرت ابن عمر رضی اللہ عنہما نے ظہر سے پہلے چار کے بجائے دو رکعتیں یاد رکھیں (صحیح بخاری 1180)، اس لیے دونوں پر عمل کیا جاتا ہے۔\n\nفجر سے پہلے کی دو رکعتیں آپ ﷺ کو خاص طور پر محبوب تھیں۔ آپ ﷺ نے فرمایا: فجر کی دو رکعتیں دنیا اور اس کی ہر چیز سے بہتر ہیں (صحیح مسلم 725)۔\n\nرات کی نماز (قیام اللیل یا تہجد) کی قرآن میں تعریف کی گئی ہے (17:79)۔ نبی کریم ﷺ نے فرمایا: رات کی نماز دو دو رکعت ہے، اور جب صبح قریب ہونے کا اندیشہ ہو تو ایک رکعت پڑھ کر اسے طاق (وتر) بنا لو (صحیح بخاری 990)۔ وتر حنفی مذہب میں واجب اور شافعی، مالکی اور حنبلی مذاہب میں سنتِ مؤکدہ ہے؛ اس کے پڑھنے کے طریقے میں بھی مذاہب کا اختلاف ہے۔\n\nتھوڑے سے شروع کریں: مثلاً فجر سے پہلے کی دو سنتیں اور سونے سے پہلے وتر۔ بچے دو نفل رکعتوں سے شامل ہو سکتے ہیں۔ مقدار سے زیادہ پابندی اہم ہے۔",
+          "ar": "سوى الصلوات الخمس المفروضة، كان النبي ﷺ يواظب على صلوات إضافية تسمّى السنن والنوافل، وهي هديّة: سبيلٌ للقرب من الله، وجبرٌ لما يقع في الفرائض من نقص.\n\nروت أم حبيبة رضي الله عنها أن النبي ﷺ قال: «من صلّى اثنتي عشرة ركعة في يوم وليلة بُني له بهنّ بيت في الجنة» (صحيح مسلم 728). وفي رواية تفصيلها: أربعٌ قبل الظهر وركعتان بعدها، وركعتان بعد المغرب، وركعتان بعد العشاء، وركعتان قبل الفجر (جامع الترمذي 414). وحفظ ابن عمر رضي الله عنهما ركعتين قبل الظهر بدل الأربع (صحيح البخاري 1180)، فكلاهما معمول به.\n\nوكانت ركعتا الفجر أحبّ شيء إليه، فقال: «ركعتا الفجر خير من الدنيا وما فيها» (صحيح مسلم 725).\n\nوقد أثنى القرآن على قيام الليل (الإسراء 79). وقال النبي ﷺ: «صلاة الليل مثنى مثنى، فإذا خشي أحدكم الصبح صلّى ركعة واحدة توتر له ما قد صلّى» (صحيح البخاري 990). والوتر واجب عند الحنفية، وسنة مؤكدة عند الشافعية والمالكية والحنابلة، واختلفت المذاهب في صفته.\n\nابدأ بالقليل: ركعتي الفجر والوتر قبل النوم مثلًا، ويمكن للأطفال المشاركة بركعتين نافلتين. والمداومة أهم من الكثرة."
+        },
+        "refs": [
+          {
+            "type": "hadith",
+            "label": "Sahih Muslim 728",
+            "key": "muslim:728",
+            "grade": "Sahih",
+            "hadith_api": "eng-muslim/1694"
+          },
+          {
+            "type": "hadith",
+            "label": "Jami' at-Tirmidhi 414",
+            "key": "tirmidhi:414",
+            "grade": "Sahih (al-Albani)"
+          },
+          {
+            "type": "hadith",
+            "label": "Sahih al-Bukhari 1180",
+            "key": "bukhari:1180",
+            "grade": "Sahih"
+          },
+          {
+            "type": "hadith",
+            "label": "Sahih Muslim 725",
+            "key": "muslim:725",
+            "grade": "Sahih",
+            "hadith_api": "eng-muslim/1688"
+          },
+          {
+            "type": "quran",
+            "label": "Quran 17:79",
+            "key": "17:79"
+          },
+          {
+            "type": "hadith",
+            "label": "Sahih al-Bukhari 990",
+            "key": "bukhari:990",
+            "grade": "Sahih"
+          }
+        ]
+      }
+    ],
+    "refs": [
+      {
+        "type": "hadith",
+        "label": "Sahih Muslim 728",
+        "key": "muslim:728",
+        "grade": "Sahih",
+        "hadith_api": "eng-muslim/1694"
+      },
+      {
+        "type": "hadith",
+        "label": "Jami' at-Tirmidhi 414",
+        "key": "tirmidhi:414",
+        "grade": "Sahih (al-Albani)"
+      },
+      {
+        "type": "hadith",
+        "label": "Sahih al-Bukhari 1180",
+        "key": "bukhari:1180",
+        "grade": "Sahih"
+      },
+      {
+        "type": "hadith",
+        "label": "Sahih Muslim 725",
+        "key": "muslim:725",
+        "grade": "Sahih",
+        "hadith_api": "eng-muslim/1688"
+      },
+      {
+        "type": "quran",
+        "label": "Quran 17:79",
+        "key": "17:79"
+      },
+      {
+        "type": "hadith",
+        "label": "Sahih al-Bukhari 990",
+        "key": "bukhari:990",
+        "grade": "Sahih"
+      }
+    ]
+  },
+  "janazah": {
+    "title": {
+      "en": "Janazah",
+      "ur": "نماز جنازہ",
+      "ar": "صلاة الجنازة"
+    },
+    "intro": {
+      "en": "A prayer of supplication for the deceased. Learn the takbirs, recitations and local school practice with an imam before leading it.",
+      "ur": "میت کے لیے دعا کی نماز۔ امامت سے پہلے امام سے تکبیرات اور اپنے مسلک کا طریقہ سیکھیں۔",
+      "ar": "صلاة دعاء للميت. تعلّم التكبيرات والقراءة وفق مذهبك من إمام قبل إمامتها."
+    },
+    "about": [
+      {
+        "title": {
+          "en": "Janazah",
+          "ur": "نماز جنازہ",
+          "ar": "صلاة الجنازة"
+        },
+        "body": {
+          "en": "A prayer of supplication for the deceased. Learn the takbirs, recitations and local school practice with an imam before leading it.",
+          "ur": "میت کے لیے دعا کی نماز۔ امامت سے پہلے امام سے تکبیرات اور اپنے مسلک کا طریقہ سیکھیں۔",
+          "ar": "صلاة دعاء للميت. تعلّم التكبيرات والقراءة وفق مذهبك من إمام قبل إمامتها."
+        },
+        "refs": [
+          {
+            "type": "hadith",
+            "key": "muslim:963a",
+            "label": "Sahih Muslim 963a"
+          }
+        ]
+      }
+    ],
+    "refs": [
+      {
+        "type": "hadith",
+        "key": "muslim:963a",
+        "label": "Sahih Muslim 963a"
+      }
+    ]
+  },
+  "eid": {
+    "title": {
+      "en": "Eid prayer",
+      "ur": "نماز عید",
+      "ar": "صلاة العيد"
+    },
+    "intro": {
+      "en": "Join the congregational Eid prayer and listen to the sermon. Extra takbirs differ between schools; follow your imam.",
+      "ur": "عید کی جماعت میں شامل ہوں اور خطبہ سنیں۔ زائد تکبیرات میں مسالک کا فرق ہے، اپنے امام کی پیروی کریں۔",
+      "ar": "شارك في صلاة العيد واستمع للخطبة. تختلف التكبيرات الزائدة بين المذاهب، فاتبع إمامك."
+    },
+    "about": [
+      {
+        "title": {
+          "en": "Eid prayer",
+          "ur": "نماز عید",
+          "ar": "صلاة العيد"
+        },
+        "body": {
+          "en": "Join the congregational Eid prayer and listen to the sermon. Extra takbirs differ between schools; follow your imam.",
+          "ur": "عید کی جماعت میں شامل ہوں اور خطبہ سنیں۔ زائد تکبیرات میں مسالک کا فرق ہے، اپنے امام کی پیروی کریں۔",
+          "ar": "شارك في صلاة العيد واستمع للخطبة. تختلف التكبيرات الزائدة بين المذاهب، فاتبع إمامك."
+        },
+        "refs": [
+          {
+            "type": "hadith",
+            "key": "bukhari:962",
+            "label": "Sahih al-Bukhari 962"
+          }
+        ]
+      }
+    ],
+    "refs": [
+      {
+        "type": "hadith",
+        "key": "bukhari:962",
+        "label": "Sahih al-Bukhari 962"
+      }
+    ]
+  },
+  "istikharah": {
+    "title": {
+      "en": "Istikharah",
+      "ur": "استخارہ",
+      "ar": "الاستخارة"
+    },
+    "intro": {
+      "en": "Pray two voluntary rak‘ahs and make the taught supplication when seeking guidance about a decision. A particular dream is not a condition.",
+      "ur": "فیصلے میں رہنمائی کے لیے دو نفل رکعتیں پڑھیں اور مسنون دعا کریں۔ خاص خواب آنا شرط نہیں۔",
+      "ar": "صلّ ركعتين نافلة وادعُ بالدعاء المأثور طلبًا للهداية في قرارك. لا يُشترط حلم معين."
+    },
+    "about": [
+      {
+        "title": {
+          "en": "Istikharah",
+          "ur": "استخارہ",
+          "ar": "الاستخارة"
+        },
+        "body": {
+          "en": "Pray two voluntary rak‘ahs and make the taught supplication when seeking guidance about a decision. A particular dream is not a condition.",
+          "ur": "فیصلے میں رہنمائی کے لیے دو نفل رکعتیں پڑھیں اور مسنون دعا کریں۔ خاص خواب آنا شرط نہیں۔",
+          "ar": "صلّ ركعتين نافلة وادعُ بالدعاء المأثور طلبًا للهداية في قرارك. لا يُشترط حلم معين."
+        },
+        "refs": [
+          {
+            "type": "hadith",
+            "key": "bukhari:1166",
+            "label": "Sahih al-Bukhari 1166"
+          }
+        ]
+      }
+    ],
+    "refs": [
+      {
+        "type": "hadith",
+        "key": "bukhari:1166",
+        "label": "Sahih al-Bukhari 1166"
+      }
+    ]
+  },
+  "hajj": {
+    "title": {
+      "en": "Hajj",
+      "ur": "حج",
+      "ar": "الحج"
+    },
+    "intro": {
+      "en": "An overview to plan your learning. Detailed rites depend on your Hajj type and circumstances; use your group scholar's guidance.",
+      "ur": "سیکھنے کا عمومی خاکہ۔ تفصیلی اعمال حج کی قسم اور حالات کے مطابق ہیں، گروپ کے عالم سے رہنمائی لیں۔",
+      "ar": "نظرة عامة للتعلم. تختلف التفاصيل بحسب النسك والظروف، فاتبع عالم مجموعتك."
+    },
+    "steps": [
+      {
+        "title": {
+          "en": "Prepare",
+          "ur": "تیاری",
+          "ar": "الاستعداد"
+        },
+        "body": {
+          "en": "Arrange travel, health needs and learn your chosen form of Hajj.",
+          "ur": "سفر اور صحت کی تیاری کریں اور حج کا منتخب طریقہ سیکھیں۔",
+          "ar": "جهّز السفر واحتياجات الصحة وتعلّم نسكك."
+        },
+        "glyph": "luggage"
+      },
+      {
+        "title": {
+          "en": "Ihram",
+          "ur": "احرام",
+          "ar": "الإحرام"
+        },
+        "body": {
+          "en": "Enter ihram at the appropriate miqat with intention and talbiyah.",
+          "ur": "میقات پر نیت اور تلبیہ کے ساتھ احرام باندھیں۔",
+          "ar": "أحرم عند الميقات بالنية والتلبية."
+        },
+        "glyph": "ihram"
+      },
+      {
+        "title": {
+          "en": "Makkah",
+          "ur": "مکہ",
+          "ar": "مكة"
+        },
+        "body": {
+          "en": "Follow your guide for tawaf and sa‘i according to your form of Hajj.",
+          "ur": "اپنے طریقہ حج کے مطابق طواف اور سعی میں رہنمائی لیں۔",
+          "ar": "اتبع مرشدك في الطواف والسعي بحسب نسكك."
+        },
+        "glyph": "kaaba"
+      },
+      {
+        "title": {
+          "en": "Mina",
+          "ur": "منیٰ",
+          "ar": "منى"
+        },
+        "body": {
+          "en": "On 8 Dhul Hijjah, travel to Mina with your group.",
+          "ur": "8 ذوالحجہ کو اپنے گروپ کے ساتھ منیٰ جائیں۔",
+          "ar": "في الثامن من ذي الحجة توجّه إلى منى مع مجموعتك."
+        },
+        "glyph": "tent"
+      },
+      {
+        "title": {
+          "en": "Arafah",
+          "ur": "عرفات",
+          "ar": "عرفة"
+        },
+        "body": {
+          "en": "Spend 9 Dhul Hijjah at Arafah in worship and supplication.",
+          "ur": "9 ذوالحجہ عرفات میں عبادت اور دعا میں گزاریں۔",
+          "ar": "اقضِ التاسع من ذي الحجة بعرفة في العبادة والدعاء."
+        },
+        "glyph": "arafah"
+      },
+      {
+        "title": {
+          "en": "Muzdalifah",
+          "ur": "مزدلفہ",
+          "ar": "مزدلفة"
+        },
+        "body": {
+          "en": "After sunset, travel to Muzdalifah following your group instructions.",
+          "ur": "غروب کے بعد گروپ کی رہنمائی کے مطابق مزدلفہ جائیں۔",
+          "ar": "بعد الغروب توجّه إلى مزدلفة وفق إرشادات مجموعتك."
+        },
+        "glyph": "pebbles"
+      },
+      {
+        "title": {
+          "en": "Eid rites and return",
+          "ur": "عید کے اعمال اور واپسی",
+          "ar": "أعمال يوم النحر"
+        },
+        "body": {
+          "en": "Follow the required rites for your Hajj, including stoning, sacrifice where due, hair cutting, tawaf and sa‘i.",
+          "ur": "اپنے حج کے مطابق رمی، لازم قربانی، بال کٹوانا، طواف اور سعی مکمل کریں۔",
+          "ar": "أكمل أعمال نسكك: الرمي والهدي عند وجوبه والحلق أو التقصير والطواف والسعي."
+        },
+        "glyph": "jamarat"
+      }
+    ],
+    "refs": [
+      {
+        "type": "quran",
+        "key": "2:196-200",
+        "label": "Quran 2:196-200"
+      },
+      {
+        "type": "hadith",
+        "key": "muslim:1218a",
+        "label": "Sahih Muslim 1218a"
+      }
+    ]
+  },
+  "umrah": {
+    "title": {
+      "en": "Umrah",
+      "ur": "عمرہ",
+      "ar": "العمرة"
+    },
+    "intro": {
+      "en": "Ihram, tawaf, sa‘i and hair cutting form the journey of Umrah.",
+      "ur": "احرام، طواف، سعی اور بال کٹوانا عمرے کا طریقہ ہے۔",
+      "ar": "الإحرام والطواف والسعي والحلق أو التقصير أعمال العمرة."
+    },
+    "steps": [
+      {
+        "title": {
+          "en": "Ihram",
+          "ur": "احرام",
+          "ar": "الإحرام"
+        },
+        "body": {
+          "en": "Enter ihram at the appropriate miqat with intention and talbiyah.",
+          "ur": "میقات پر نیت اور تلبیہ کے ساتھ احرام باندھیں۔",
+          "ar": "أحرم عند الميقات بالنية والتلبية."
+        },
+        "glyph": "ihram"
+      },
+      {
+        "title": {
+          "en": "Tawaf",
+          "ur": "طواف",
+          "ar": "الطواف"
+        },
+        "body": {
+          "en": "Make seven circuits around the Kaaba.",
+          "ur": "کعبہ کے گرد سات چکر لگائیں۔",
+          "ar": "طُف حول الكعبة سبعة أشواط."
+        },
+        "glyph": "tawaf"
+      },
+      {
+        "title": {
+          "en": "Sa‘i",
+          "ur": "سعی",
+          "ar": "السعي"
+        },
+        "body": {
+          "en": "Make seven lengths between Safa and Marwah.",
+          "ur": "صفا اور مروہ کے درمیان سات پھیرے کریں۔",
+          "ar": "اسعَ بين الصفا والمروة سبعة أشواط."
+        },
+        "glyph": "sai"
+      },
+      {
+        "title": {
+          "en": "Hair cutting",
+          "ur": "بال کٹوانا",
+          "ar": "الحلق أو التقصير"
+        },
+        "body": {
+          "en": "Complete the prescribed hair cutting to leave ihram.",
+          "ur": "مقرر طریقے سے بال کٹوا کر احرام ختم کریں۔",
+          "ar": "أكمل الحلق أو التقصير للخروج من الإحرام."
+        },
+        "glyph": "scissors"
+      }
+    ],
+    "refs": [
+      {
+        "type": "quran",
+        "key": "2:158",
+        "label": "Quran 2:158"
+      },
+      {
+        "type": "hadith",
+        "key": "muslim:1218a",
+        "label": "Sahih Muslim 1218a"
+      }
+    ]
+  }
+}

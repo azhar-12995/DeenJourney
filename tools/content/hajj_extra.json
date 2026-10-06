@@ -1,0 +1,632 @@
+{
+  "checklist": [
+    {
+      "group": {
+        "en": "Documents",
+        "ur": "دستاویزات",
+        "ar": "الوثائق"
+      },
+      "items": [
+        {
+          "id": "doc-passport",
+          "text": {
+            "en": "Passport with enough validity",
+            "ur": "کافی مدت والا پاسپورٹ",
+            "ar": "جواز سفرٍ ساري المفعول لمدةٍ كافية"
+          },
+          "sub": {
+            "en": "Commonly at least 6 months beyond your travel dates; confirm the rule with your operator. Keep a photocopy and a phone photo separately.",
+            "ur": "عام طور پر سفر کی تاریخوں کے بعد کم از کم 6 مہینے؛ اپنے آپریٹر سے تصدیق کریں۔ ایک فوٹو کاپی اور فون میں تصویر الگ الگ رکھیں۔",
+            "ar": "يُشترط عادةً ستة أشهرٍ على الأقل بعد تاريخ السفر، فتأكّد من الشرط مع منظِّم رحلتك، واحتفظ بنسخةٍ ورقيةٍ وصورةٍ على الهاتف في مكانين مختلفين."
+          },
+          "verify": true
+        },
+        {
+          "id": "doc-permit",
+          "text": {
+            "en": "Hajj visa and permit through an official channel",
+            "ur": "سرکاری ذریعے سے حج ویزا اور اجازت نامہ",
+            "ar": "تأشيرة الحج والتصريح عبر جهةٍ رسمية"
+          },
+          "sub": {
+            "en": "Register only through your country's official Hajj mission or a licensed operator, or through Nusuk Hajj if your country is served by it. Saudi authorities do not allow Hajj without an official permit.",
+            "ur": "صرف اپنے ملک کے سرکاری حج مشن یا لائسنس یافتہ آپریٹر کے ذریعے، یا اگر آپ کا ملک اس میں شامل ہو تو نسک حج کے ذریعے رجسٹریشن کرائیں۔ سعودی حکام سرکاری اجازت نامے کے بغیر حج کی اجازت نہیں دیتے۔",
+            "ar": "سجّل فقط عبر بعثة الحج الرسمية في بلدك أو منظِّمٍ مرخَّص، أو عبر منصة «نسك حج» إن كانت تخدم بلدك، فالسلطات السعودية لا تسمح بالحج دون تصريحٍ رسمي."
+          },
+          "verify": true
+        },
+        {
+          "id": "doc-nusuk-card",
+          "text": {
+            "en": "Nusuk card and group ID",
+            "ur": "نسک کارڈ اور گروپ کی شناخت",
+            "ar": "بطاقة نسك وهوية المجموعة"
+          },
+          "sub": {
+            "en": "Carry your Nusuk card (printed or digital) and your group wristband or ID at all times; they are checked at the holy sites.",
+            "ur": "اپنا نسک کارڈ (چھپا ہوا یا ڈیجیٹل) اور گروپ کا رسٹ بینڈ یا شناختی کارڈ ہر وقت ساتھ رکھیں؛ مقدس مقامات پر ان کی جانچ ہوتی ہے۔",
+            "ar": "احمل بطاقة نسك (الورقية أو الرقمية) وسوار المجموعة أو بطاقتها في كل وقت، فهي تُفحص عند المشاعر المقدسة."
+          },
+          "verify": true
+        },
+        {
+          "id": "doc-copies",
+          "text": {
+            "en": "Copies of key documents",
+            "ur": "اہم دستاویزات کی نقول",
+            "ar": "نُسَخ الوثائق المهمة"
+          },
+          "sub": {
+            "en": "Passport, visa, vaccination certificate, tickets and insurance: on paper and in a secure folder on your phone.",
+            "ur": "پاسپورٹ، ویزا، ویکسین سرٹیفکیٹ، ٹکٹ اور انشورنس: کاغذ پر بھی اور فون کے محفوظ فولڈر میں بھی۔",
+            "ar": "جواز السفر والتأشيرة وشهادة التطعيم والتذاكر والتأمين: نسخةٌ ورقية وأخرى في مجلدٍ آمنٍ على الهاتف."
+          }
+        },
+        {
+          "id": "doc-contacts",
+          "text": {
+            "en": "Emergency contacts",
+            "ur": "ہنگامی رابطے",
+            "ar": "أرقام الطوارئ"
+          },
+          "sub": {
+            "en": "Save your operator, group leader, hotel and embassy numbers in your phone and on a paper card in your pocket.",
+            "ur": "آپریٹر، گروپ لیڈر، ہوٹل اور سفارت خانے کے نمبر فون میں بھی محفوظ کریں اور جیب میں کاغذ کے کارڈ پر بھی لکھ کر رکھیں۔",
+            "ar": "احفظ أرقام منظِّم الرحلة وقائد المجموعة والفندق والسفارة في هاتفك وعلى بطاقةٍ ورقيةٍ في جيبك."
+          }
+        },
+        {
+          "id": "doc-women",
+          "text": {
+            "en": "Women: check travel rules",
+            "ur": "خواتین: سفر کے قواعد معلوم کریں",
+            "ar": "للنساء: التحقّق من أحكام السفر"
+          },
+          "sub": {
+            "en": "Rules about travelling with a mahram differ between countries' Hajj programmes and between schools of fiqh; confirm both before booking.",
+            "ur": "محرم کے ساتھ سفر کے قواعد مختلف ممالک کے حج پروگراموں اور فقہی مذاہب میں مختلف ہیں؛ بکنگ سے پہلے دونوں کی تصدیق کر لیں۔",
+            "ar": "تختلف أحكام سفر المرأة مع المَحرم بين برامج الحج في الدول وبين المذاهب الفقهية، فتحقّقي من الأمرين قبل الحجز."
+          }
+        }
+      ]
+    },
+    {
+      "group": {
+        "en": "Health",
+        "ur": "صحت",
+        "ar": "الصحة"
+      },
+      "items": [
+        {
+          "id": "health-acwy",
+          "text": {
+            "en": "Meningococcal ACWY vaccine certificate",
+            "ur": "گردن توڑ بخار (میننجائٹس ACWY) ویکسین کا سرٹیفکیٹ",
+            "ar": "شهادة لقاح الحمى الشوكية الرباعي (ACWY)"
+          },
+          "sub": {
+            "en": "Required by the Saudi Ministry of Health for Hajj pilgrims. It must be given at least 10 days before arrival; check how long your vaccine type stays valid.",
+            "ur": "سعودی وزارتِ صحت حاجیوں کے لیے لازمی قرار دیتی ہے۔ یہ پہنچنے سے کم از کم 10 دن پہلے لگوانی ضروری ہے؛ معلوم کر لیں کہ آپ کی ویکسین کتنی مدت کے لیے کارآمد ہے۔",
+            "ar": "تشترطه وزارة الصحة السعودية على الحجاج، ويجب أخذه قبل الوصول بعشرة أيامٍ على الأقل، فتحقّق من مدة صلاحية نوع اللقاح."
+          },
+          "notes": "Saudi MoH health requirements are updated yearly; dev/reviewer to re-check before each season.",
+          "verify": true
+        },
+        {
+          "id": "health-other",
+          "text": {
+            "en": "Other vaccines for your country",
+            "ur": "آپ کے ملک کے لیے دیگر ویکسینز",
+            "ar": "لقاحاتٌ أخرى بحسب بلدك"
+          },
+          "sub": {
+            "en": "Depending on where you travel from, you may also need proof of polio or yellow fever vaccination. Seasonal flu and COVID-19 vaccines are often recommended. Check the current list for this year.",
+            "ur": "آپ کس ملک سے سفر کر رہے ہیں، اس کے مطابق پولیو یا زرد بخار کی ویکسین کا ثبوت بھی درکار ہو سکتا ہے۔ موسمی فلو اور کووڈ-19 ویکسین کا اکثر مشورہ دیا جاتا ہے۔ اس سال کی تازہ فہرست دیکھ لیں۔",
+            "ar": "قد يُطلب منك أيضًا بحسب بلد القدوم إثبات التطعيم ضد شلل الأطفال أو الحمى الصفراء، ويُنصح غالبًا بلقاح الإنفلونزا الموسمية وكوفيد-19، فراجع القائمة المحدَّثة لهذا العام."
+          },
+          "verify": true
+        },
+        {
+          "id": "health-checkup",
+          "text": {
+            "en": "Medical check-up before travel",
+            "ur": "سفر سے پہلے طبی معائنہ",
+            "ar": "فحصٌ طبيٌّ قبل السفر"
+          },
+          "sub": {
+            "en": "Especially for older pilgrims and anyone with heart disease, diabetes or breathing problems.",
+            "ur": "خاص طور پر بزرگ حاجیوں اور دل، ذیابیطس یا سانس کے مریضوں کے لیے۔",
+            "ar": "ولا سيما لكبار السن ومرضى القلب والسكري والجهاز التنفسي."
+          }
+        },
+        {
+          "id": "health-meds",
+          "text": {
+            "en": "Personal medicines and a small first-aid kit",
+            "ur": "ذاتی دوائیں اور ابتدائی طبی امداد کا چھوٹا بکس",
+            "ar": "الأدوية الشخصية وحقيبة إسعافاتٍ صغيرة"
+          },
+          "sub": {
+            "en": "Enough medicine for the whole trip plus extra, in original packs with a doctor's letter. Add plasters, blister care, pain relief and masks.",
+            "ur": "پورے سفر کے لیے کافی دوائیں اور کچھ اضافی، اصل پیکنگ میں ڈاکٹر کے خط کے ساتھ۔ ساتھ میں پلاسٹر، چھالوں کی دوا، درد کی دوا اور ماسک رکھیں۔",
+            "ar": "أدويةٌ تكفي الرحلة كلّها مع زيادة، في عبواتها الأصلية مع رسالةٍ من الطبيب، وأضِف اللصقات وعلاج البثور ومسكّنات الألم والكمامات."
+          }
+        },
+        {
+          "id": "health-heat",
+          "text": {
+            "en": "Protection from the heat",
+            "ur": "گرمی سے بچاؤ",
+            "ar": "الوقاية من الحرّ"
+          },
+          "sub": {
+            "en": "An umbrella, a refillable water bottle, oral rehydration salts and unscented sunscreen. Heat illness is a serious risk.",
+            "ur": "چھتری، دوبارہ بھرنے والی پانی کی بوتل، او آر ایس اور بغیر خوشبو والی سن اسکرین۔ گرمی سے بیمار ہونا ایک سنگین خطرہ ہے۔",
+            "ar": "مظلّة، وقارورة ماءٍ قابلةٌ لإعادة التعبئة، وأملاح الإرواء، وواقي شمسٍ بلا عطر، فضربات الحرّ خطرٌ حقيقي."
+          }
+        },
+        {
+          "id": "health-feet",
+          "text": {
+            "en": "Comfortable, worn-in footwear",
+            "ur": "آرام دہ اور پہلے سے استعمال شدہ جوتے",
+            "ar": "حذاءٌ مريحٌ معتادٌ عليه"
+          },
+          "sub": {
+            "en": "You will walk long distances; wear your sandals in before you travel to avoid blisters.",
+            "ur": "آپ کو لمبے فاصلے پیدل طے کرنے ہوں گے؛ چھالوں سے بچنے کے لیے سفر سے پہلے چپل پہن کر عادت ڈال لیں۔",
+            "ar": "ستمشي مسافاتٍ طويلة، فاعتد على نعليك قبل السفر لتجنّب البثور."
+          }
+        }
+      ]
+    },
+    {
+      "group": {
+        "en": "Ihram and clothing",
+        "ur": "احرام اور لباس",
+        "ar": "الإحرام واللباس"
+      },
+      "items": [
+        {
+          "id": "ihram-men",
+          "text": {
+            "en": "Men: two plain unstitched sheets (izar and rida')",
+            "ur": "مرد: دو سادہ بغیر سلی چادریں (ازار اور ردا)",
+            "ar": "للرجال: إزارٌ ورداءٌ غير مَخيطَين"
+          },
+          "sub": {
+            "en": "Usually white; take at least two sets. A belt or money pouch to hold the izar is fine. Men in ihram do not wear shirts, trousers, turbans or hooded cloaks (Bukhari 1542).",
+            "ur": "عموماً سفید؛ کم از کم دو جوڑے رکھیں۔ ازار باندھنے کے لیے بیلٹ یا پیسوں والی پیٹی جائز ہے۔ احرام میں مرد قمیص، پاجامہ، عمامہ یا ٹوپی والا چوغہ نہیں پہنتے (بخاری 1542)۔",
+            "ar": "ويُستحب أن يكونا أبيضين، وخذ طقمين على الأقل، ولا بأس بحزامٍ أو كيسٍ للنقود يشدّ الإزار. ولا يلبس المُحرِم القميص ولا السراويل ولا العمائم ولا البرانس (البخاري 1542)."
+          },
+          "refs": [
+            {
+              "type": "hadith",
+              "label": "Sahih al-Bukhari 1542",
+              "key": "bukhari:1542",
+              "grade": "Sahih"
+            }
+          ]
+        },
+        {
+          "id": "ihram-footwear",
+          "text": {
+            "en": "Men: sandals that leave the ankles and upper foot uncovered",
+            "ur": "مرد: ایسی چپل جس میں ٹخنے اور پاؤں کا اوپری حصہ کھلا رہے",
+            "ar": "للرجال: نعلان تكشفان الكعبين وظاهر القدم"
+          },
+          "sub": {
+            "en": "Schools differ slightly on exactly how much of the foot must stay uncovered; ask your group's scholar.",
+            "ur": "پاؤں کا کتنا حصہ کھلا رہنا ضروری ہے، اس میں مذاہب کا معمولی اختلاف ہے؛ اپنے گروپ کے عالم سے پوچھ لیں۔",
+            "ar": "تختلف المذاهب يسيرًا في القدر الواجب كشفه من القدم، فاسأل عالم مجموعتك."
+          }
+        },
+        {
+          "id": "ihram-women",
+          "text": {
+            "en": "Women: ordinary modest clothing",
+            "ur": "خواتین: عام باپردہ لباس",
+            "ar": "للنساء: لباسٌ ساترٌ معتاد"
+          },
+          "sub": {
+            "en": "Any colour; it does not have to be white. In ihram a woman does not wear a niqab or gloves (Bukhari 1838).",
+            "ur": "کسی بھی رنگ کا ہو سکتا ہے؛ سفید ہونا ضروری نہیں۔ احرام میں عورت نقاب اور دستانے نہیں پہنتی (بخاری 1838)۔",
+            "ar": "بأيّ لون، ولا يلزم الأبيض، ولا تنتقب المُحرِمة ولا تلبس القفّازين (البخاري 1838)."
+          },
+          "refs": [
+            {
+              "type": "hadith",
+              "label": "Sahih al-Bukhari 1838",
+              "key": "bukhari:1838",
+              "grade": "Sahih"
+            }
+          ]
+        },
+        {
+          "id": "ihram-unscented",
+          "text": {
+            "en": "Unscented toiletries",
+            "ur": "بغیر خوشبو والی اشیائے صفائی",
+            "ar": "أدوات نظافةٍ بلا عطر"
+          },
+          "sub": {
+            "en": "Perfume is not allowed in ihram. Pack unscented soap, shampoo, deodorant and wet wipes.",
+            "ur": "احرام میں خوشبو منع ہے۔ بغیر خوشبو کا صابن، شیمپو، ڈیوڈرنٹ اور گیلے ٹشو ساتھ رکھیں۔",
+            "ar": "الطيب محظورٌ في الإحرام، فاحمل صابونًا وشامبو ومزيل عرقٍ ومناديل مبلّلة خاليةً من العطر."
+          }
+        },
+        {
+          "id": "ihram-night",
+          "text": {
+            "en": "A light mat or blanket",
+            "ur": "ہلکی چٹائی یا کمبل",
+            "ar": "حصيرةٌ أو بطانيةٌ خفيفة"
+          },
+          "sub": {
+            "en": "Useful for the night in Muzdalifah and for cool, air-conditioned tents and buses.",
+            "ur": "مزدلفہ کی رات اور ٹھنڈے ایئر کنڈیشنڈ خیموں اور بسوں کے لیے مفید۔",
+            "ar": "تنفعك ليلة مزدلفة وفي الخيام والحافلات المكيّفة الباردة."
+          }
+        }
+      ]
+    },
+    {
+      "group": {
+        "en": "Money and phone",
+        "ur": "رقم اور فون",
+        "ar": "المال والهاتف"
+      },
+      "items": [
+        {
+          "id": "money-cash",
+          "text": {
+            "en": "Saudi riyals and a bank card",
+            "ur": "سعودی ریال اور بینک کارڈ",
+            "ar": "ريالاتٌ سعودية وبطاقةٌ مصرفية"
+          },
+          "sub": {
+            "en": "Carry small notes for daily needs and don't keep all your money in one place.",
+            "ur": "روزمرہ ضروریات کے لیے چھوٹے نوٹ رکھیں اور ساری رقم ایک جگہ نہ رکھیں۔",
+            "ar": "احمل فئاتٍ صغيرةً للحاجات اليومية، ولا تضع مالك كلّه في مكانٍ واحد."
+          }
+        },
+        {
+          "id": "money-hady",
+          "text": {
+            "en": "Plan for your sacrifice (hady)",
+            "ur": "قربانی (ہدی) کا انتظام",
+            "ar": "الترتيب للهدي"
+          },
+          "sub": {
+            "en": "If your type of Hajj requires a sacrifice, check whether your package includes it or arrange it through an official programme.",
+            "ur": "اگر آپ کے حج کی قسم میں قربانی لازم ہے تو معلوم کریں کہ پیکج میں شامل ہے یا نہیں، ورنہ کسی سرکاری پروگرام کے ذریعے انتظام کریں۔",
+            "ar": "إن كان نسكك يوجب الهدي فتحقّق هل يشمله برنامجك، وإلا فرتّبه عبر برنامجٍ رسمي."
+          }
+        },
+        {
+          "id": "phone-power",
+          "text": {
+            "en": "Phone, charger, power bank and travel adaptor",
+            "ur": "فون، چارجر، پاور بینک اور ٹریول اڈاپٹر",
+            "ar": "الهاتف والشاحن وبطارية احتياطية ومحوّل كهرباء"
+          },
+          "sub": {
+            "en": "Arrange a roaming plan or a Saudi SIM or eSIM before you need it.",
+            "ur": "ضرورت پڑنے سے پہلے رومنگ پیکج یا سعودی سم / ای سم کا انتظام کر لیں۔",
+            "ar": "رتّب باقة تجوالٍ أو شريحةً سعوديةً (أو eSIM) قبل الحاجة إليها."
+          }
+        },
+        {
+          "id": "phone-apps",
+          "text": {
+            "en": "Official apps and offline content",
+            "ur": "سرکاری ایپس اور آف لائن مواد",
+            "ar": "التطبيقات الرسمية والمحتوى دون اتصال"
+          },
+          "sub": {
+            "en": "Install the Nusuk app and any app your operator uses, and download duas and guides in Deen Journey for offline use.",
+            "ur": "نسک ایپ اور اپنے آپریٹر کی ایپ انسٹال کریں، اور ڈین جرنی میں دعائیں اور رہنمائی آف لائن استعمال کے لیے ڈاؤن لوڈ کر لیں۔",
+            "ar": "ثبّت تطبيق نسك وأيّ تطبيقٍ يستخدمه منظِّم رحلتك، ونزّل الأدعية والأدلّة في تطبيق «دين جيرني» لاستخدامها دون اتصال."
+          }
+        },
+        {
+          "id": "money-bag",
+          "text": {
+            "en": "Small backpack and a pebble pouch",
+            "ur": "چھوٹا بیگ اور کنکریوں کی تھیلی",
+            "ar": "حقيبة ظهرٍ صغيرة وكيسٌ للحصى"
+          },
+          "sub": {
+            "en": "A light bag for Arafah and Muzdalifah, and a small pouch for the pebbles for the Jamarat.",
+            "ur": "عرفات اور مزدلفہ کے لیے ہلکا بیگ، اور جمرات کی کنکریوں کے لیے چھوٹی تھیلی۔",
+            "ar": "حقيبةٌ خفيفةٌ لعرفة ومزدلفة، وكيسٌ صغيرٌ لحصى الجمرات."
+          }
+        }
+      ]
+    },
+    {
+      "group": {
+        "en": "Spiritual preparation",
+        "ur": "روحانی تیاری",
+        "ar": "الاستعداد الروحي"
+      },
+      "items": [
+        {
+          "id": "sp-intention",
+          "text": {
+            "en": "Make a sincere intention",
+            "ur": "خالص نیت کریں",
+            "ar": "أخلِص النيّة"
+          },
+          "sub": {
+            "en": "Do Hajj for Allah alone. Hajj is a duty to Allah on everyone who is able to make the journey (3:97).",
+            "ur": "حج صرف اللہ کے لیے کریں۔ حج اللہ کا حق ہے ہر اس شخص پر جو وہاں تک پہنچنے کی استطاعت رکھتا ہو (آل عمران 3:97)۔",
+            "ar": "اجعل حجّك لله وحده، قال تعالى: ﴿وَلِلَّهِ عَلَى ٱلنَّاسِ حِجُّ ٱلْبَيْتِ مَنِ ٱسْتَطَاعَ إِلَيْهِ سَبِيلًا﴾ [آل عمران: 97]."
+          },
+          "refs": [
+            {
+              "type": "quran",
+              "label": "Al ʿImran 3:97",
+              "key": "3:97"
+            }
+          ]
+        },
+        {
+          "id": "sp-repent",
+          "text": {
+            "en": "Repent and put things right with people",
+            "ur": "توبہ کریں اور لوگوں سے معاملات درست کریں",
+            "ar": "تُب وأصلِح ما بينك وبين الناس"
+          },
+          "sub": {
+            "en": "Ask forgiveness from anyone you may have wronged and return anything you owe.",
+            "ur": "جن کے ساتھ زیادتی ہوئی ہو ان سے معافی مانگیں اور جو کسی کا حق ہو وہ لوٹا دیں۔",
+            "ar": "استسمِح من ظلمته، وردّ الحقوق إلى أهلها."
+          }
+        },
+        {
+          "id": "sp-will",
+          "text": {
+            "en": "Settle debts and write a will",
+            "ur": "قرض ادا کریں اور وصیت لکھیں",
+            "ar": "اقضِ ديونك واكتب وصيّتك"
+          },
+          "sub": {
+            "en": "The Prophet ﷺ said a Muslim who has something to bequeath should not let two nights pass without a written will (Bukhari 2738).",
+            "ur": "نبی کریم ﷺ نے فرمایا کہ جس مسلمان کے پاس وصیت کے قابل کوئی چیز ہو وہ دو راتیں بھی اس طرح نہ گزارے کہ اس کی وصیت لکھی ہوئی نہ ہو (بخاری 2738)۔",
+            "ar": "قال النبي ﷺ إنه لا ينبغي لمسلمٍ له شيءٌ يوصي فيه أن يبيت ليلتين إلا ووصيّته مكتوبةٌ عنده (رواه البخاري 2738)."
+          },
+          "refs": [
+            {
+              "type": "hadith",
+              "label": "Sahih al-Bukhari 2738",
+              "key": "bukhari:2738",
+              "grade": "Sahih"
+            }
+          ]
+        },
+        {
+          "id": "sp-halal",
+          "text": {
+            "en": "Pay for Hajj with lawful (halal) money",
+            "ur": "حج کا خرچ حلال مال سے کریں",
+            "ar": "أنفِق في حجّك من مالٍ حلال"
+          },
+          "sub": {
+            "en": "Allah is pure and accepts only what is pure (Muslim 1015).",
+            "ur": "اللہ پاک ہے اور صرف پاک چیز ہی قبول کرتا ہے (مسلم 1015)۔",
+            "ar": "قال النبي ﷺ: «إِنَّ اللَّهَ طَيِّبٌ لاَ يَقْبَلُ إِلاَّ طَيِّبًا» (رواه مسلم 1015)."
+          },
+          "refs": [
+            {
+              "type": "hadith",
+              "label": "Sahih Muslim 1015",
+              "key": "muslim:1015",
+              "grade": "Sahih"
+            }
+          ]
+        },
+        {
+          "id": "sp-learn",
+          "text": {
+            "en": "Learn the rites for your type of Hajj",
+            "ur": "اپنے حج کی قسم کے مناسک سیکھیں",
+            "ar": "تعلّم مناسك نوع حجّك"
+          },
+          "sub": {
+            "en": "Tamattu', qiran or ifrad: learn the steps for your choice according to your school, using the Hajj guide in this app and your group's scholar.",
+            "ur": "تمتع، قران یا افراد: اپنی منتخب قسم کے مراحل اپنے مسلک کے مطابق اس ایپ کی حج رہنمائی اور اپنے گروپ کے عالم سے سیکھیں۔",
+            "ar": "التمتّع أو القِران أو الإفراد: تعلّم خطوات ما اخترته على مذهبك من دليل الحج في التطبيق ومن عالم مجموعتك."
+          }
+        },
+        {
+          "id": "sp-provision",
+          "text": {
+            "en": "Take provisions, and the best provision is taqwa",
+            "ur": "زادِ راہ ساتھ لیں، اور بہترین زادِ راہ تقویٰ ہے",
+            "ar": "تزوّد، وخير الزاد التقوى"
+          },
+          "sub": {
+            "en": "Prepare well for the journey, and remember that mindfulness of Allah is the best thing to take with you (2:197).",
+            "ur": "سفر کی اچھی تیاری کریں، اور یاد رکھیں کہ اللہ کا ڈر اور دھیان سب سے بہترین زادِ راہ ہے (البقرہ 2:197)۔",
+            "ar": "استعدّ لسفرك جيّدًا، وتذكّر قوله تعالى: ﴿وَتَزَوَّدُوا۟ فَإِنَّ خَيْرَ ٱلزَّادِ ٱلتَّقْوَىٰ﴾ [البقرة: 197]."
+          },
+          "refs": [
+            {
+              "type": "quran",
+              "label": "Al-Baqarah 2:197",
+              "key": "2:197"
+            }
+          ]
+        },
+        {
+          "id": "sp-family",
+          "text": {
+            "en": "Arrange care for your family at home",
+            "ur": "گھر والوں کی دیکھ بھال کا انتظام",
+            "ar": "رتّب رعاية أهلك في غيابك"
+          },
+          "sub": {
+            "en": "Make sure those who depend on you are provided for while you are away.",
+            "ur": "یقینی بنائیں کہ آپ کی غیر موجودگی میں آپ کے زیرِ کفالت افراد کی ضروریات پوری ہوں۔",
+            "ar": "تأكّد من كفاية من تعولهم مدة غيابك."
+          }
+        }
+      ]
+    },
+    {
+      "group": {
+        "en": "During Hajj",
+        "ur": "حج کے دوران",
+        "ar": "أثناء الحج"
+      },
+      "items": [
+        {
+          "id": "dh-talbiyah",
+          "text": {
+            "en": "Recite the talbiyah often after entering ihram",
+            "ur": "احرام کے بعد کثرت سے تلبیہ پڑھیں",
+            "ar": "أكثِر من التلبية بعد الإحرام"
+          },
+          "sub": {
+            "en": "Men raise their voices (Abu Dawud 1814); women recite softly.",
+            "ur": "مرد بلند آواز سے پڑھیں (ابوداؤد 1814)؛ خواتین آہستہ آواز سے۔",
+            "ar": "يرفع الرجال أصواتهم بها (أبو داود 1814)، وتُخفِض النساء أصواتهن."
+          },
+          "refs": [
+            {
+              "type": "hadith",
+              "label": "Sunan Abi Dawud 1814 (Sahih)",
+              "key": "abudawud:1814",
+              "grade": "Sahih"
+            }
+          ]
+        },
+        {
+          "id": "dh-manners",
+          "text": {
+            "en": "Stay calm and kind",
+            "ur": "پُرسکون اور نرم مزاج رہیں",
+            "ar": "الزم السكينة وحسن الخلق"
+          },
+          "sub": {
+            "en": "No obscene talk, no sin and no arguing during Hajj (2:197). Be patient in crowds and queues.",
+            "ur": "حج کے دوران نہ بے ہودہ بات، نہ گناہ اور نہ جھگڑا (البقرہ 2:197)۔ ہجوم اور قطاروں میں صبر سے کام لیں۔",
+            "ar": "قال تعالى: ﴿فَلَا رَفَثَ وَلَا فُسُوقَ وَلَا جِدَالَ فِى ٱلْحَجِّ﴾ [البقرة: 197]، فاصبر في الزحام والطوابير."
+          },
+          "refs": [
+            {
+              "type": "quran",
+              "label": "Al-Baqarah 2:197",
+              "key": "2:197"
+            },
+            {
+              "type": "hadith",
+              "label": "Sahih al-Bukhari 1521",
+              "key": "bukhari:1521",
+              "grade": "Sahih"
+            }
+          ]
+        },
+        {
+          "id": "dh-water",
+          "text": {
+            "en": "Drink water and use shade",
+            "ur": "پانی پیتے رہیں اور سائے میں رہیں",
+            "ar": "اشرب الماء والزم الظل"
+          },
+          "sub": {
+            "en": "Rest during the hottest hours and follow official heat warnings.",
+            "ur": "سب سے زیادہ گرمی کے اوقات میں آرام کریں اور گرمی سے متعلق سرکاری ہدایات پر عمل کریں۔",
+            "ar": "استرِح في ساعات الذروة واتّبع تحذيرات الحرّ الرسمية."
+          }
+        },
+        {
+          "id": "dh-schedule",
+          "text": {
+            "en": "Follow your group's schedule and official timings",
+            "ur": "گروپ کے شیڈول اور سرکاری اوقات کی پابندی کریں",
+            "ar": "التزم بجدول مجموعتك والمواعيد الرسمية"
+          },
+          "sub": {
+            "en": "Especially when moving between sites and for stoning at the Jamarat, which is organised in time slots.",
+            "ur": "خاص طور پر مقامات کے درمیان منتقلی اور جمرات کی رمی کے لیے، جس کے اوقات مقرر کیے جاتے ہیں۔",
+            "ar": "ولا سيما عند التنقّل بين المشاعر وفي رمي الجمرات الذي يُنظَّم بمواعيد محدّدة."
+          }
+        },
+        {
+          "id": "dh-arafah",
+          "text": {
+            "en": "Give the Day of Arafah to dua",
+            "ur": "یومِ عرفہ دعا میں گزاریں",
+            "ar": "اجعل يوم عرفة للدعاء"
+          },
+          "sub": {
+            "en": "\"Hajj is Arafah\" (Tirmidhi 889). Be within the boundaries of Arafah, and spend the time in dua and dhikr until sunset.",
+            "ur": "\"حج عرفہ (میں حاضری) ہے\" (ترمذی 889)۔ عرفات کی حدود کے اندر رہیں، اور غروبِ آفتاب تک وقت دعا اور ذکر میں گزاریں۔",
+            "ar": "«الْحَجُّ عَرَفَةُ» (رواه الترمذي 889)، فكن داخل حدود عرفة، واشغل وقتك بالدعاء والذكر حتى غروب الشمس."
+          },
+          "refs": [
+            {
+              "type": "hadith",
+              "label": "Jami' at-Tirmidhi 889 (Sahih)",
+              "key": "tirmidhi:889",
+              "grade": "Sahih"
+            }
+          ]
+        },
+        {
+          "id": "dh-lost",
+          "text": {
+            "en": "If you get lost",
+            "ur": "اگر آپ راستہ بھول جائیں",
+            "ar": "إذا ضللت الطريق"
+          },
+          "sub": {
+            "en": "Stay where you are, show your Nusuk card or wristband to officials, and call your group leader.",
+            "ur": "جہاں ہیں وہیں رکیں، اہلکاروں کو اپنا نسک کارڈ یا رسٹ بینڈ دکھائیں، اور اپنے گروپ لیڈر کو فون کریں۔",
+            "ar": "ابقَ في مكانك، وأرِ المسؤولين بطاقة نسك أو السوار، واتّصل بقائد مجموعتك."
+          }
+        },
+        {
+          "id": "dh-farewell",
+          "text": {
+            "en": "Farewell tawaf before leaving Makkah",
+            "ur": "مکہ سے روانگی سے پہلے طوافِ وداع",
+            "ar": "طواف الوداع قبل مغادرة مكة"
+          },
+          "sub": {
+            "en": "Pilgrims were commanded to make their last act a visit to the Kaaba, except women who are menstruating (Bukhari 1755).",
+            "ur": "حاجیوں کو حکم دیا گیا کہ ان کا آخری عمل بیت اللہ کا طواف ہو، سوائے حیض والی خواتین کے (بخاری 1755)۔",
+            "ar": "أُمر الناس أن يكون آخر عهدهم بالبيت، إلا أنه خُفّف عن الحائض (رواه البخاري 1755)."
+          },
+          "refs": [
+            {
+              "type": "hadith",
+              "label": "Sahih al-Bukhari 1755",
+              "key": "bukhari:1755",
+              "grade": "Sahih"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "talbiyah": {
+    "arabic": "لَبَّيْكَ اللَّهُمَّ لَبَّيْكَ، لَبَّيْكَ لاَ شَرِيكَ لَكَ لَبَّيْكَ، إِنَّ الْحَمْدَ وَالنِّعْمَةَ لَكَ وَالْمُلْكَ، لاَ شَرِيكَ لَكَ",
+    "translit": "Labbayka Allāhumma labbayk, labbayka lā sharīka laka labbayk, inna al-ḥamda wan-niʿmata laka wal-mulk, lā sharīka lak",
+    "meaning": {
+      "en": "Here I am, O Allah, here I am. Here I am; You have no partner; here I am. All praise and all blessings are Yours, and the dominion too. You have no partner.",
+      "ur": "حاضر ہوں، اے اللہ! میں حاضر ہوں۔ حاضر ہوں، تیرا کوئی شریک نہیں، میں حاضر ہوں۔ بے شک ہر تعریف اور ہر نعمت تیری ہی ہے، اور بادشاہی بھی تیری ہے۔ تیرا کوئی شریک نہیں۔",
+      "ar": "أجبتُك يا الله إجابةً بعد إجابة، لا شريك لك، إن الحمد والنعمة لك والملك كذلك، لا شريك لك."
+    },
+    "ref": {
+      "type": "hadith",
+      "label": "Sahih al-Bukhari 1549",
+      "key": "bukhari:1549",
+      "grade": "Sahih"
+    }
+  },
+  "review": true,
+  "notes": "Authored for H08 Hajj checklist. Talbiyah Arabic copied verbatim from hadith-api ara-bukhari 1549 (verified against eng-bukhari 1549). Items marked verify:true depend on Saudi/national regulations that change yearly (permits, Nusuk card, vaccine rules) and must be re-checked each season. Extra 'refs'/'notes'/'verify' fields on items are for reviewers and are ignored by the parser."
+}

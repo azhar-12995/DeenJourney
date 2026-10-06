@@ -1,0 +1,293 @@
+[
+  {
+    "q": {
+      "en": "Why are the prayer times different from my mosque's timetable?",
+      "ur": "نماز کے اوقات میری مسجد کے نقشے سے مختلف کیوں ہیں؟",
+      "ar": "لماذا تختلف مواقيت الصلاة عن تقويم مسجدي؟"
+    },
+    "a": {
+      "en": "Prayer times are calculated from the sun's position at your exact location, so small differences are normal. They usually come from the calculation method (the angles used for Fajr and Isha), the Asr setting (Hanafi or Standard), the high-latitude rule, or safety minutes that many mosques add. Mosque timetables also often show the congregation (iqamah) time, which is later than the start time shown in the app. Check that your location is correct, then in Prayer & adhan settings choose the same method and Asr setting as your mosque and use the minute adjustment for each prayer to match it.",
+      "ur": "نماز کے اوقات آپ کے مقام پر سورج کی پوزیشن سے نکالے جاتے ہیں، اس لیے معمولی فرق عام بات ہے۔ یہ فرق عموماً حساب کے طریقے (فجر اور عشاء کے زاویے)، عصر کی ترتیب (حنفی یا عام)، بلند عرض بلد کے اصول، یا ان احتیاطی منٹوں کی وجہ سے ہوتا ہے جو بہت سی مساجد شامل کرتی ہیں۔ مسجد کے نقشے میں اکثر جماعت کا وقت لکھا ہوتا ہے جو ایپ میں دکھائے گئے ابتدائی وقت سے بعد میں ہوتا ہے۔ پہلے اپنا مقام درست ہونے کی تصدیق کریں، پھر \"نماز اور اذان کی ترتیبات\" میں وہی طریقہ اور عصر کی ترتیب منتخب کریں جو آپ کی مسجد استعمال کرتی ہے، اور ہر نماز کے لیے منٹوں کی کمی بیشی سے اوقات ملا لیں۔",
+      "ar": "تُحسب المواقيت من موقع الشمس بالنسبة إلى مكانك بدقة، لذا فالفروق اليسيرة أمرٌ طبيعي. وتنشأ غالبًا من طريقة الحساب (زاويتي الفجر والعشاء)، أو إعداد العصر (حنفي أو قياسي)، أو قاعدة خطوط العرض العليا، أو دقائق الاحتياط التي تضيفها مساجد كثيرة. كما أن تقاويم المساجد كثيرًا ما تذكر وقت الإقامة، وهو بعد وقت دخول الصلاة الذي يعرضه التطبيق. تأكّد من صحة موقعك، ثم اختر في «إعدادات الصلاة والأذان» الطريقة وإعداد العصر اللذين يعتمدهما مسجدك، واستخدم تعديل الدقائق لكل صلاة لمطابقته."
+    },
+    "link": "screen:E02",
+    "review": true
+  },
+  {
+    "q": {
+      "en": "Which calculation method should I use for my country?",
+      "ur": "میرے ملک کے لیے کون سا حسابی طریقہ درست ہے؟",
+      "ar": "ما طريقة الحساب المناسبة لبلدي؟"
+    },
+    "a": {
+      "en": "The app suggests a method based on your country. For example: Karachi (University of Islamic Sciences) for Pakistan, India and Bangladesh; Umm al-Qura for Saudi Arabia; Dubai for the UAE; the Egyptian General Authority for Egypt and much of the Arab world; Turkey (Diyanet) for Turkey and the Balkans; Singapore for Singapore; the Muslim World League for the UK, Europe and many other countries; and ISNA or the Moonsighting Committee in North America. The best choice is the one your local mosque or national religious authority uses. You can change it at any time.",
+      "ur": "ایپ آپ کے ملک کے مطابق ایک طریقہ تجویز کرتی ہے، مثلاً: پاکستان، بھارت اور بنگلہ دیش کے لیے کراچی (جامعۃ العلوم الاسلامیہ)؛ سعودی عرب کے لیے اُمّ القریٰ؛ متحدہ عرب امارات کے لیے دبئی؛ مصر اور بیشتر عرب دنیا کے لیے مصری جنرل اتھارٹی؛ ترکی اور بلقان کے لیے ترکی (دیانت)؛ سنگاپور کے لیے سنگاپور؛ برطانیہ، یورپ اور بہت سے دوسرے ممالک کے لیے رابطہ عالمِ اسلامی؛ اور شمالی امریکہ میں ISNA یا مون سائٹنگ کمیٹی۔ بہترین انتخاب وہی ہے جو آپ کی مقامی مسجد یا ملکی مذہبی ادارہ استعمال کرتا ہو۔ آپ اسے کسی بھی وقت بدل سکتے ہیں۔",
+      "ar": "يقترح التطبيق طريقةً بحسب بلدك، ومن ذلك: كراتشي (جامعة العلوم الإسلامية) لباكستان والهند وبنغلاديش، وأم القرى للسعودية، ودبي للإمارات، والهيئة المصرية العامة للمساحة لمصر ومعظم البلاد العربية، ورئاسة الشؤون الدينية التركية لتركيا والبلقان، وسنغافورة لسنغافورة، ورابطة العالم الإسلامي لبريطانيا وأوروبا وبلدانٍ كثيرة، وISNA أو لجنة رؤية الهلال في أمريكا الشمالية. وأفضل اختيارٍ هو ما يعتمده مسجدك أو الجهة الدينية الرسمية في بلدك، ويمكنك تغييره في أي وقت."
+    },
+    "link": "screen:E02",
+    "review": true,
+    "notes": "Country defaults mirror DATA_SOURCES §7 table; keep in sync with the code's default map."
+  },
+  {
+    "q": {
+      "en": "What is the difference between Asr \"Hanafi\" and \"Standard\"?",
+      "ur": "عصر کے \"حنفی\" اور \"عام\" وقت میں کیا فرق ہے؟",
+      "ar": "ما الفرق بين وقت العصر «الحنفي» و«القياسي»؟"
+    },
+    "a": {
+      "en": "Asr begins when an object's shadow reaches a certain length, beyond the shadow it had at midday. In the Standard setting, the view of the Shafi'i, Maliki and Hanbali schools and of Abu Hanifa's two students Abu Yusuf and Muhammad, the shadow equals the object's length. In the Hanafi setting, Imam Abu Hanifa's view, followed widely in South Asia, Turkey and Central Asia, it is twice the object's length, so Asr starts noticeably later (often by around an hour). Choose the one your school or your mosque follows.",
+      "ur": "عصر کا وقت اس وقت شروع ہوتا ہے جب کسی چیز کا سایہ، دوپہر کے سائے کے علاوہ، ایک خاص لمبائی تک پہنچ جائے۔ \"عام\" ترتیب میں، جو شافعی، مالکی اور حنبلی مسلک اور امام ابو حنیفہ کے دو شاگردوں امام ابو یوسف اور امام محمد کی رائے ہے، سایہ چیز کے ایک مثل ہوتا ہے۔ \"حنفی\" ترتیب میں، جو امام ابو حنیفہ کی رائے ہے اور جنوبی ایشیا، ترکی اور وسطی ایشیا میں عام ہے، سایہ دو مثل ہوتا ہے، اس لیے عصر کافی دیر سے (اکثر تقریباً ایک گھنٹہ بعد) شروع ہوتی ہے۔ وہ ترتیب منتخب کریں جس پر آپ کا مسلک یا آپ کی مسجد عمل کرتی ہے۔",
+      "ar": "يدخل وقت العصر حين يبلغ ظلّ الشيء طولًا معيّنًا بعد فيء الزوال. ففي الإعداد «القياسي»، وهو قول الشافعية والمالكية والحنابلة وصاحبَي أبي حنيفة أبي يوسف ومحمد، يكون الظلّ مثل الشيء. وفي الإعداد «الحنفي»، وهو قول الإمام أبي حنيفة المعمول به في جنوب آسيا وتركيا وآسيا الوسطى، يكون مِثلَيه، فيتأخّر العصر بوضوح (بنحو ساعةٍ غالبًا). اختر ما يتّبعه مذهبك أو مسجدك."
+    },
+    "link": "screen:E02",
+    "review": true
+  },
+  {
+    "q": {
+      "en": "I live far north or south. Why do Fajr and Isha look strange in summer?",
+      "ur": "میں بہت شمال یا جنوب میں رہتا ہوں۔ گرمیوں میں فجر اور عشاء کے اوقات عجیب کیوں لگتے ہیں؟",
+      "ar": "أسكن في أقصى الشمال أو الجنوب، فلماذا يبدو وقتا الفجر والعشاء غريبين صيفًا؟"
+    },
+    "a": {
+      "en": "At high latitudes, roughly above 48° north or south, the sky may not get dark enough in summer for the usual Fajr and Isha angles to be reached. The app then applies a high-latitude rule: Middle of the night, One-seventh of the night, or Twilight angle. Each is a recognised approximation. Ask your local mosque which one they use and select it in Prayer & adhan settings. Where the sun does not set or rise for days, follow the guidance of your local scholars.",
+      "ur": "بلند عرض بلد پر، تقریباً 48 درجے شمال یا جنوب سے آگے، گرمیوں میں آسمان اتنا تاریک نہیں ہوتا کہ فجر اور عشاء کے معمول کے زاویے پورے ہوں۔ ایسی صورت میں ایپ بلند عرض بلد کا ایک اصول لاگو کرتی ہے: نصف شب، رات کا ساتواں حصہ، یا شفق کا زاویہ۔ یہ سب تسلیم شدہ تخمینے ہیں۔ اپنی مقامی مسجد سے پوچھیں کہ وہ کون سا اصول استعمال کرتی ہے اور \"نماز اور اذان کی ترتیبات\" میں وہی منتخب کریں۔ جہاں کئی دن سورج غروب یا طلوع نہ ہو، وہاں مقامی علماء کی رہنمائی پر عمل کریں۔",
+      "ar": "في خطوط العرض العليا، أي فوق 48 درجة شمالًا أو جنوبًا تقريبًا، قد لا يُظلم الأفق صيفًا بما يكفي لبلوغ زاويتي الفجر والعشاء المعتادتين، فيطبّق التطبيق قاعدةً لخطوط العرض العليا: منتصف الليل، أو سُبع الليل، أو زاوية الشفق، وكلّها تقديراتٌ معتبرة. اسأل مسجدك المحلي عن القاعدة التي يعتمدها واخترها في «إعدادات الصلاة والأذان». وحيث لا تغيب الشمس أو لا تطلع أيامًا، فاتّبع إرشاد علماء بلدك."
+    },
+    "link": "screen:E02",
+    "review": true
+  },
+  {
+    "q": {
+      "en": "How do I set or change my location?",
+      "ur": "میں اپنا مقام کیسے منتخب یا تبدیل کروں؟",
+      "ar": "كيف أحدّد موقعي أو أغيّره؟"
+    },
+    "a": {
+      "en": "Open Choose location and either use your phone's GPS or search for any city worldwide. Prayer times and the Qibla direction are calculated from this location, so update it when you travel.",
+      "ur": "\"مقام منتخب کریں\" کھولیں اور فون کا GPS استعمال کریں یا دنیا کے کسی بھی شہر کو تلاش کریں۔ نماز کے اوقات اور قبلے کی سمت اسی مقام سے نکالی جاتی ہے، اس لیے سفر میں اسے اپ ڈیٹ کر لیں۔",
+      "ar": "افتح «اختيار الموقع» واستخدم نظام تحديد المواقع في هاتفك أو ابحث عن أيّ مدينةٍ في العالم. تُحسب المواقيت واتجاه القبلة من هذا الموقع، فحدّثه عند السفر."
+    },
+    "link": "screen:E03",
+    "review": true
+  },
+  {
+    "q": {
+      "en": "Why is the Hijri date one day different from my local calendar?",
+      "ur": "ہجری تاریخ میرے مقامی کیلنڈر سے ایک دن مختلف کیوں ہے؟",
+      "ar": "لماذا يختلف التاريخ الهجري يومًا عن تقويم بلدي؟"
+    },
+    "a": {
+      "en": "The app calculates the Hijri date with the Umm al-Qura calendar used in Saudi Arabia. Many countries begin each month by local moon sighting, which can differ by a day, occasionally two; Pakistan, India and Bangladesh, for example, are often one day behind Saudi Arabia. You can adjust the Hijri date by up to ±2 days in the Islamic calendar. For Ramadan and Eid, always follow the announcement of your local moon-sighting authority or mosque.",
+      "ur": "ایپ ہجری تاریخ سعودی عرب میں رائج اُمّ القریٰ کیلنڈر سے نکالتی ہے۔ بہت سے ممالک ہر مہینے کا آغاز مقامی رؤیتِ ہلال سے کرتے ہیں، جس میں ایک دن اور کبھی کبھار دو دن کا فرق ہو سکتا ہے؛ مثلاً پاکستان، بھارت اور بنگلہ دیش اکثر سعودی عرب سے ایک دن پیچھے ہوتے ہیں۔ آپ اسلامی کیلنڈر میں ہجری تاریخ کو ±2 دن تک آگے پیچھے کر سکتے ہیں۔ رمضان اور عید کے لیے ہمیشہ اپنی مقامی رؤیتِ ہلال کمیٹی یا مسجد کے اعلان پر عمل کریں۔",
+      "ar": "يحسب التطبيق التاريخ الهجري وفق تقويم أم القرى المعتمد في السعودية، وكثيرٌ من البلدان تبدأ الشهر برؤية الهلال محليًّا فيختلف يومًا وأحيانًا يومين، فباكستان والهند وبنغلاديش مثلًا تتأخّر غالبًا يومًا عن السعودية. ويمكنك تعديل التاريخ الهجري حتى يومين زيادةً أو نقصًا في «التقويم الإسلامي». وفي رمضان والعيدين اتّبع دائمًا إعلان جهة رؤية الهلال أو المسجد في بلدك."
+    },
+    "link": "screen:H10",
+    "review": true,
+    "notes": "Links to H10 (Islamic calendar, where the ±2 Hijri adjustment lives per SCREENS.md); switch to I03 if the setting is moved."
+  },
+  {
+    "q": {
+      "en": "How accurate is the Qibla compass, and how do I calibrate it?",
+      "ur": "قبلہ نما کتنا درست ہے اور اسے کیلیبریٹ کیسے کروں؟",
+      "ar": "ما دقّة بوصلة القبلة، وكيف أعايرها؟"
+    },
+    "a": {
+      "en": "The Qibla direction itself is calculated precisely from your location, along the shortest path on the globe to the Kaaba. The compass needle, however, relies on your phone's magnetic sensor, which metal, magnets (including magnetic cases and car mounts) and electronics can disturb. For a better reading: remove magnetic cases, step away from metal objects, hold the phone flat, and calibrate by moving it in a figure-of-eight a few times. If the needle seems unstable, calibrate again, and use the Qibla map to check the direction against landmarks around you.",
+      "ur": "قبلے کی سمت آپ کے مقام سے زمین پر کعبہ تک کے مختصر ترین راستے کے مطابق بالکل درست نکالی جاتی ہے۔ البتہ قطب نما کی سوئی فون کے مقناطیسی سینسر پر چلتی ہے، جس پر دھات، مقناطیس (بشمول مقناطیسی کور اور گاڑی کے ہولڈر) اور الیکٹرانک آلات اثر ڈال سکتے ہیں۔ بہتر نتیجے کے لیے: مقناطیسی کور اتار دیں، دھاتی چیزوں سے دور ہٹ جائیں، فون کو سیدھا (افقی) رکھیں، اور فون کو چند بار انگریزی ہندسے 8 کی شکل میں گھما کر کیلیبریٹ کریں۔ اگر سوئی غیر مستحکم لگے تو دوبارہ کیلیبریٹ کریں، اور قبلہ نقشے سے آس پاس کی نمایاں جگہوں کے حساب سے سمت کی تصدیق کر لیں۔",
+      "ar": "يُحسب اتجاه القبلة نفسه بدقةٍ من موقعك على أقصر مسارٍ على سطح الأرض إلى الكعبة، أما إبرة البوصلة فتعتمد على المستشعر المغناطيسي في هاتفك، وقد تؤثّر فيه المعادن والمغناطيسات (ومنها الأغطية المغناطيسية وحوامل السيارات) والأجهزة الإلكترونية. ولقراءةٍ أدقّ: انزع الغطاء المغناطيسي، وابتعد عن المعادن، وأمسك الهاتف أفقيًّا، وعايِره بتحريكه على شكل الرقم 8 عدّة مرات. وإن بدت الإبرة مضطربةً فأعِد المعايرة، واستعن بخريطة القبلة لمطابقة الاتجاه مع المعالم من حولك."
+    },
+    "link": "screen:E04",
+    "review": true,
+    "notes": "Dev: ensure the compass converts magnetic to true north (declination) before release."
+  },
+  {
+    "q": {
+      "en": "Does the app work without the internet?",
+      "ur": "کیا ایپ انٹرنیٹ کے بغیر کام کرتی ہے؟",
+      "ar": "هل يعمل التطبيق دون اتصال بالإنترنت؟"
+    },
+    "a": {
+      "en": "Mostly, yes. Prayer times, the Qibla compass and map, the Quran text with translations, duas, adhkar, guides and lessons work offline. You need a connection to stream recitation, to view tafsir and word-by-word meanings, to fetch live gold and silver prices for the zakat calculator, and to sync your family's progress. Recitations you download in Downloads play offline.",
+      "ur": "زیادہ تر ہاں۔ نماز کے اوقات، قبلہ نما اور قبلہ نقشہ، قرآن کا متن اور ترجمے، دعائیں، اذکار، رہنمائیاں اور اسباق آف لائن چلتے ہیں۔ تلاوت آن لائن سننے، تفسیر اور لفظ بہ لفظ معانی دیکھنے، زکوٰۃ کیلکولیٹر کے لیے سونے چاندی کی تازہ قیمتیں لینے، اور گھر والوں کی پیش رفت سنک کرنے کے لیے انٹرنیٹ چاہیے۔ \"ڈاؤن لوڈز\" میں محفوظ کی گئی تلاوتیں آف لائن چلتی ہیں۔",
+      "ar": "نعم في معظمه: تعمل المواقيت وبوصلة القبلة وخريطتها ونص القرآن مع الترجمات والأدعية والأذكار والأدلّة والدروس دون اتصال. ويلزم الاتصال لتشغيل التلاوات مباشرةً، وعرض التفسير ومعاني الكلمات، وجلب أسعار الذهب والفضة لحاسبة الزكاة، ومزامنة تقدّم أسرتك. أما التلاوات التي تنزّلها من «التنزيلات» فتعمل دون اتصال."
+    },
+    "link": "screen:I04",
+    "review": true,
+    "notes": "Assumes offline Qibla map (Natural Earth) and online-only tafsir/word-by-word (Quran Foundation terms forbid bundling)."
+  },
+  {
+    "q": {
+      "en": "How do I download Quran recitation to listen offline?",
+      "ur": "قرآن کی تلاوت آف لائن سننے کے لیے کیسے ڈاؤن لوڈ کروں؟",
+      "ar": "كيف أنزّل التلاوة للاستماع دون اتصال؟"
+    },
+    "a": {
+      "en": "Open Downloads, choose a reciter, and download single surahs or the whole Quran; you can also tap download in the full surah player. Downloads use storage space, so the Downloads screen shows their size and lets you remove them. Use Wi-Fi for large downloads.",
+      "ur": "\"ڈاؤن لوڈز\" کھولیں، قاری منتخب کریں، اور الگ الگ سورتیں یا پورا قرآن ڈاؤن لوڈ کریں؛ مکمل سورت پلیئر میں ڈاؤن لوڈ کا بٹن بھی استعمال کر سکتے ہیں۔ ڈاؤن لوڈز فون کی جگہ لیتے ہیں، اس لیے \"ڈاؤن لوڈز\" اسکرین ان کا سائز دکھاتی ہے اور انہیں حذف کرنے دیتی ہے۔ بڑے ڈاؤن لوڈز کے لیے وائی فائی استعمال کریں۔",
+      "ar": "افتح «التنزيلات»، واختر القارئ، ونزّل سورًا مفردة أو القرآن كاملًا، ويمكنك أيضًا الضغط على زر التنزيل في مشغّل السورة. وتشغل التنزيلات مساحةً من الذاكرة، لذا تعرض شاشة «التنزيلات» حجمها وتتيح حذفها. استخدم شبكة Wi-Fi للتنزيلات الكبيرة."
+    },
+    "link": "screen:I04",
+    "review": true
+  },
+  {
+    "q": {
+      "en": "The adhan didn't play at prayer time. What should I check?",
+      "ur": "نماز کے وقت اذان نہیں بجی۔ مجھے کیا چیک کرنا چاہیے؟",
+      "ar": "لم يُرفع الأذان في وقت الصلاة، فماذا أتحقّق منه؟"
+    },
+    "a": {
+      "en": "• Allow notifications for Deen Journey (Android 13 and later asks for this).\n• Allow \"Alarms & reminders\" (exact alarms) for the app on Android 12 and later, so the adhan plays on the exact minute.\n• Turn off battery optimisation for the app (set it to \"Unrestricted\"). Some phones, such as Samsung, Xiaomi, Huawei, Oppo and Vivo, have extra battery savers that close apps; add Deen Journey to their allowed or never-sleeping list.\n• Check that the adhan is switched on for that prayer, that the phone is not on silent or Do Not Disturb, and that the notification volume is up.\n• On iPhone, allow notifications and sounds for the app in Settings, and see the next question about sound length.",
+      "ur": "• ڈین جرنی کے لیے نوٹیفکیشن کی اجازت دیں (اینڈرائیڈ 13 اور بعد کے ورژن یہ اجازت مانگتے ہیں)۔\n• اینڈرائیڈ 12 اور بعد کے ورژن میں ایپ کے لیے \"الارمز اور یاددہانیاں\" (exact alarms) کی اجازت دیں تاکہ اذان عین وقت پر بجے۔\n• ایپ کے لیے بیٹری آپٹیمائزیشن بند کریں (\"Unrestricted\" منتخب کریں)۔ بعض فونز، جیسے سام سنگ، شیاؤمی، ہواوے، اوپو اور ویوو، میں اضافی بیٹری سیور ہوتے ہیں جو ایپس بند کر دیتے ہیں؛ ڈین جرنی کو ان کی اجازت یافتہ یا کبھی نہ سونے والی فہرست میں شامل کریں۔\n• دیکھیں کہ اس نماز کے لیے اذان آن ہے، فون سائلنٹ یا ڈو ناٹ ڈسٹرب پر نہیں، اور نوٹیفکیشن کی آواز بلند ہے۔\n• آئی فون پر سیٹنگز میں ایپ کے لیے نوٹیفکیشن اور آواز کی اجازت دیں، اور آواز کی لمبائی کے بارے میں اگلا سوال دیکھیں۔",
+      "ar": "• اسمح بالإشعارات لتطبيق «دين جيرني» (يطلب أندرويد 13 وما بعده هذا الإذن).\n• اسمح بـ«المنبّهات والتذكيرات» (المنبّهات الدقيقة) للتطبيق في أندرويد 12 وما بعده، ليُرفع الأذان في الدقيقة نفسها.\n• أوقف تحسين البطارية للتطبيق (اختر «غير مقيَّد»). وفي بعض الهواتف مثل سامسونج وشاومي وهواوي وأوبو وفيفو موفّرات طاقةٍ إضافية تُغلق التطبيقات، فأضِف التطبيق إلى قائمة المسموح لها أو التي لا تُنوَّم.\n• تأكّد من تفعيل الأذان لتلك الصلاة، وأن الهاتف ليس على الوضع الصامت أو «عدم الإزعاج»، وأن صوت الإشعارات مرتفع.\n• في آيفون اسمح بالإشعارات والأصوات للتطبيق من الإعدادات، وانظر السؤال التالي عن مدة الصوت."
+    },
+    "link": "screen:E02",
+    "review": true
+  },
+  {
+    "q": {
+      "en": "Why does the adhan on my iPhone play only a short part?",
+      "ur": "میرے آئی فون پر اذان کا صرف مختصر حصہ کیوں بجتا ہے؟",
+      "ar": "لماذا لا يُشغَّل في آيفون إلا جزءٌ قصيرٌ من الأذان؟"
+    },
+    "a": {
+      "en": "iOS only allows notification sounds up to 30 seconds long; if a sound is longer, the phone plays the default sound instead. That is why the app uses a short adhan clip for notifications on iPhone. Tap the notification to open the app, where the full adhan can play. If Silent mode or a Focus is on, the sound may not play at all; you can allow Deen Journey in your Focus settings.",
+      "ur": "آئی او ایس نوٹیفکیشن کی آواز زیادہ سے زیادہ 30 سیکنڈ تک چلنے دیتا ہے؛ آواز اس سے لمبی ہو تو فون اس کی جگہ عام آواز بجاتا ہے۔ اسی لیے آئی فون پر نوٹیفکیشن کے لیے اذان کا مختصر حصہ استعمال ہوتا ہے۔ نوٹیفکیشن پر ٹیپ کر کے ایپ کھولیں جہاں مکمل اذان سنی جا سکتی ہے۔ اگر سائلنٹ موڈ یا فوکس آن ہو تو آواز بالکل نہیں بجے گی؛ آپ فوکس کی ترتیبات میں ڈین جرنی کو اجازت دے سکتے ہیں۔",
+      "ar": "لا يسمح نظام iOS بأصوات إشعاراتٍ تزيد على 30 ثانية، فإن طال الصوت شغّل الهاتف الصوت الافتراضي بدلًا منه، ولذلك يستخدم التطبيق مقطعًا قصيرًا من الأذان للإشعارات في آيفون. اضغط على الإشعار لفتح التطبيق حيث يمكن الاستماع إلى الأذان كاملًا. وإذا كان الوضع الصامت أو أحد أوضاع التركيز مفعّلًا فقد لا يُسمع الصوت أصلًا، ويمكنك السماح للتطبيق في إعدادات التركيز."
+    },
+    "link": "screen:E02",
+    "review": true,
+    "notes": "Dev: confirm in-app full adhan playback exists; otherwise drop that sentence."
+  },
+  {
+    "q": {
+      "en": "How do I add a child's profile?",
+      "ur": "بچے کی پروفائل کیسے شامل کروں؟",
+      "ar": "كيف أضيف ملفًّا لطفل؟"
+    },
+    "a": {
+      "en": "Open the profile switcher or Family profiles and tap Add family member. Enter the child's name, relationship and age group, and pick an avatar. The child's lessons and activities then match their age group (2–5, 6–9 or 10–12), and you can follow their progress on the Parent dashboard.",
+      "ur": "پروفائل بدلنے والا مینو یا \"خاندان کی پروفائلز\" کھولیں اور \"خاندان کا فرد شامل کریں\" پر ٹیپ کریں۔ بچے کا نام، رشتہ اور عمر کا گروپ درج کریں اور کوئی اوتار منتخب کریں۔ اس کے بعد بچے کے اسباق اور سرگرمیاں اس کی عمر (2–5، 6–9 یا 10–12) کے مطابق ہوں گی، اور آپ \"والدین کا ڈیش بورڈ\" پر اس کی پیش رفت دیکھ سکتے ہیں۔",
+      "ar": "افتح قائمة تبديل الملف أو «ملفات الأسرة» واضغط «إضافة فردٍ من الأسرة»، ثم أدخل اسم الطفل وصلة القرابة والفئة العمرية واختر صورةً رمزية. بعدها تناسب دروس الطفل وأنشطته فئته العمرية (2–5 أو 6–9 أو 10–12)، ويمكنك متابعة تقدّمه في «لوحة الوالدين»."
+    },
+    "link": "screen:B04",
+    "review": true,
+    "notes": "B04 = Add family member (SCREENS.md). Dev to align button names with final UI strings."
+  },
+  {
+    "q": {
+      "en": "What does child-safe mode do?",
+      "ur": "بچوں کے لیے محفوظ موڈ کیا کرتا ہے؟",
+      "ar": "ماذا يفعل وضع أمان الأطفال؟"
+    },
+    "a": {
+      "en": "Child-safe mode keeps a child's profile focused on age-appropriate learning. In Child-safe settings, a parent can choose which sections the child can open and protect account and settings changes, so children can explore safely.",
+      "ur": "بچوں کے لیے محفوظ موڈ بچے کی پروفائل کو اس کی عمر کے مطابق سیکھنے تک محدود رکھتا ہے۔ \"بچوں کے لیے محفوظ ترتیبات\" میں والدین منتخب کر سکتے ہیں کہ بچہ کون سے حصے کھول سکے، اور اکاؤنٹ و ترتیبات میں تبدیلی کو محفوظ کر سکتے ہیں، تاکہ بچے بے فکری سے سیکھ سکیں۔",
+      "ar": "يُبقي وضع أمان الأطفال ملفّ الطفل مركّزًا على التعلّم المناسب لعمره، ففي «إعدادات أمان الأطفال» يختار الوالد الأقسام التي يمكن للطفل فتحها، ويحمي تغيير الحساب والإعدادات، ليستكشف الأطفال بأمان."
+    },
+    "link": "screen:G04",
+    "review": true,
+    "notes": "Dev: align this description with the features actually built on G04."
+  },
+  {
+    "q": {
+      "en": "Where does the content come from? Is it checked by scholars?",
+      "ur": "مواد کہاں سے لیا گیا ہے؟ کیا علماء نے اس کی جانچ کی ہے؟",
+      "ar": "من أين يأتي المحتوى؟ وهل راجعه العلماء؟"
+    },
+    "a": {
+      "en": "The Quran text is the Tanzil Uthmani text, shown exactly as published. Translations are Saheeh International (English) and Fateh Muhammad Jalandhry (Urdu). Hadith come from the major collections, such as Sahih al-Bukhari and Sahih Muslim, with the reference and grade shown. Duas, guides and lessons are written by our team from the Quran and authentic hadith, with a reference for each item, and where the schools of fiqh differ we show the views side by side. Authored content is reviewed by qualified scholars. About & sources lists every source and its licence.",
+      "ur": "قرآن کا متن تنزیل کا عثمانی متن ہے جو بالکل اسی طرح دکھایا جاتا ہے جیسے شائع ہوا۔ ترجمے صحیح انٹرنیشنل (انگریزی) اور فتح محمد جالندھری (اردو) کے ہیں۔ احادیث بڑے مجموعوں، جیسے صحیح بخاری اور صحیح مسلم، سے حوالے اور درجے کے ساتھ لی گئی ہیں۔ دعائیں، رہنمائیاں اور اسباق ہماری ٹیم نے قرآن اور صحیح احادیث سے ہر چیز کے حوالے کے ساتھ لکھے ہیں، اور جہاں فقہی مذاہب کا اختلاف ہے وہاں سب آراء ساتھ ساتھ دکھائی گئی ہیں۔ تحریر کردہ مواد کی مستند علماء سے جانچ کروائی جاتی ہے۔ \"تعارف اور ماخذ\" میں تمام ماخذ اور ان کے لائسنس درج ہیں۔",
+      "ar": "نصّ القرآن هو النص العثماني من مشروع تنزيل، يُعرض كما نُشر دون تغيير. والترجمتان: صحيح إنترناشونال (الإنجليزية) وفتح محمد جالندهري (الأردية). والأحاديث من الكتب المعتمدة كصحيح البخاري وصحيح مسلم مع ذكر المرجع والدرجة. أما الأدعية والأدلّة والدروس فكتبها فريقنا من القرآن والسنة الصحيحة مع مرجعٍ لكل مادة، وحيث اختلفت المذاهب عرضنا الأقوال جنبًا إلى جنب. ويراجع المحتوى المؤلَّف علماءُ مؤهَّلون، وتسرد صفحة «حول التطبيق والمصادر» كل المصادر وتراخيصها."
+    },
+    "link": "screen:I09",
+    "review": true,
+    "notes": "Owner: scholar review must actually be completed before this answer ships."
+  },
+  {
+    "q": {
+      "en": "How do I change the language? Does the app support right-to-left?",
+      "ur": "زبان کیسے تبدیل کروں؟ کیا ایپ دائیں سے بائیں لکھائی کو سپورٹ کرتی ہے؟",
+      "ar": "كيف أغيّر اللغة؟ وهل يدعم التطبيق الكتابة من اليمين إلى اليسار؟"
+    },
+    "a": {
+      "en": "Go to Settings and choose English, اردو (Urdu) or العربية (Arabic). With Urdu or Arabic, the whole layout switches to right-to-left automatically. Quranic Arabic always appears in its original script, and you can choose which translations to show in the Quran reader settings.",
+      "ur": "\"ترتیبات\" میں جا کر English، اردو یا العربیہ منتخب کریں۔ اردو یا عربی منتخب کرنے پر پوری ایپ خود بخود دائیں سے بائیں ہو جاتی ہے۔ قرآن کی عربی ہمیشہ اپنی اصل لکھائی میں رہتی ہے، اور قرآن ریڈر کی ترتیبات میں آپ منتخب کر سکتے ہیں کہ کون سے ترجمے دکھائے جائیں۔",
+      "ar": "اذهب إلى «الإعدادات» واختر English أو اردو أو العربية، وعند اختيار الأردية أو العربية يتحوّل التطبيق كلّه تلقائيًّا إلى الاتجاه من اليمين إلى اليسار. ويبقى نصّ القرآن بخطّه الأصلي دائمًا، ويمكنك اختيار الترجمات المعروضة من إعدادات القارئ."
+    },
+    "link": "screen:I03",
+    "review": true
+  },
+  {
+    "q": {
+      "en": "Can I set my school of fiqh (madhab)?",
+      "ur": "کیا میں اپنا فقہی مسلک منتخب کر سکتا ہوں؟",
+      "ar": "هل يمكنني اختيار مذهبي الفقهي؟"
+    },
+    "a": {
+      "en": "Yes. In Settings you can choose Hanafi, Shafi'i, Maliki or Hanbali. The app uses it for the Asr time default and shows your school's view first where the schools differ, while still showing the other views.",
+      "ur": "جی ہاں۔ \"ترتیبات\" میں آپ حنفی، شافعی، مالکی یا حنبلی منتخب کر سکتے ہیں۔ ایپ اسے عصر کے وقت کی بنیادی ترتیب کے لیے استعمال کرتی ہے، اور جہاں مذاہب کا اختلاف ہو وہاں آپ کے مسلک کی رائے پہلے دکھاتی ہے، ساتھ ہی دوسری آراء بھی۔",
+      "ar": "نعم، يمكنك في «الإعدادات» اختيار الحنفي أو الشافعي أو المالكي أو الحنبلي، ويستخدمه التطبيق لضبط وقت العصر افتراضيًّا، ويعرض قول مذهبك أولًا حيث تختلف المذاهب مع إبقاء الأقوال الأخرى."
+    },
+    "link": "screen:I03",
+    "review": true,
+    "notes": "Dev: confirm 'school's view first' ordering is implemented, otherwise simplify."
+  },
+  {
+    "q": {
+      "en": "How do I delete my account?",
+      "ur": "میں اپنا اکاؤنٹ کیسے حذف کروں؟",
+      "ar": "كيف أحذف حسابي؟"
+    },
+    "a": {
+      "en": "Go to Settings › Privacy & data › Delete account. This permanently deletes your account and the data stored with it on our servers, including family profiles, progress, bookmarks and notes, and it cannot be undone. You can export your data first from the same screen. Downloads saved on your phone are removed when you uninstall the app.",
+      "ur": "\"ترتیبات › رازداری اور ڈیٹا › اکاؤنٹ حذف کریں\" پر جائیں۔ اس سے آپ کا اکاؤنٹ اور ہمارے سرورز پر محفوظ اس کا ڈیٹا، بشمول خاندان کی پروفائلز، پیش رفت، بُک مارکس اور نوٹس، ہمیشہ کے لیے حذف ہو جاتا ہے اور یہ عمل واپس نہیں ہو سکتا۔ اس سے پہلے آپ اسی اسکرین سے اپنا ڈیٹا ایکسپورٹ کر سکتے ہیں۔ فون میں محفوظ ڈاؤن لوڈز ایپ ان انسٹال کرنے پر ختم ہو جاتے ہیں۔",
+      "ar": "اذهب إلى «الإعدادات › الخصوصية والبيانات › حذف الحساب». يؤدّي ذلك إلى حذف حسابك وبياناته المحفوظة على خوادمنا نهائيًّا، ومنها ملفات الأسرة والتقدّم والإشارات المرجعية والملاحظات، ولا يمكن التراجع عنه. ويمكنك تصدير بياناتك أولًا من الشاشة نفسها، أما التنزيلات المحفوظة على الهاتف فتُزال بإلغاء تثبيت التطبيق."
+    },
+    "link": "screen:I05",
+    "review": true,
+    "notes": "Owner/dev: confirm exactly what server-side data is deleted (Firebase Auth + Firestore) and match the Privacy Policy."
+  },
+  {
+    "q": {
+      "en": "I found a mistake. How do I report it?",
+      "ur": "مجھے کوئی غلطی نظر آئی۔ میں اس کی اطلاع کیسے دوں؟",
+      "ar": "وجدتُ خطأً، فكيف أبلّغ عنه؟"
+    },
+    "a": {
+      "en": "Thank you, please tell us. Open Content correction (from Help & FAQ or from the item's menu), say what is wrong and, if you can, give the correct source. Our team and reviewing scholars check every report.",
+      "ur": "شکریہ، ضرور بتائیں۔ \"مواد کی تصحیح\" کھولیں (مدد اور سوالات سے یا متعلقہ چیز کے مینو سے)، بتائیں کہ کیا غلط ہے اور اگر ممکن ہو تو درست حوالہ بھی دیں۔ ہماری ٹیم اور جانچ کرنے والے علماء ہر رپورٹ دیکھتے ہیں۔",
+      "ar": "شكرًا لك، أخبرنا من فضلك: افتح «تصحيح المحتوى» (من «المساعدة والأسئلة» أو من قائمة المادة نفسها)، واذكر الخطأ، وأضِف المصدر الصحيح إن أمكن، ويراجع فريقنا والعلماء المراجِعون كل بلاغ."
+    },
+    "link": "screen:I08",
+    "review": true
+  },
+  {
+    "q": {
+      "en": "Is the zakat calculator's result final?",
+      "ur": "کیا زکوٰۃ کیلکولیٹر کا نتیجہ حتمی ہے؟",
+      "ar": "هل نتيجة حاسبة الزكاة نهائية؟"
+    },
+    "a": {
+      "en": "No. It is an estimate to help you prepare, not a fatwa. It uses international spot prices for gold and silver converted to your currency, which can differ from local market prices, and you can enter your own price. The result depends on the nisab standard and school you choose, and some assets, such as business stock, shares, pensions and debts, need a scholar's advice. Please confirm your zakat with a qualified scholar or a trusted zakat organisation.",
+      "ur": "نہیں۔ یہ تیاری میں مدد کے لیے ایک اندازہ ہے، فتویٰ نہیں۔ یہ سونے چاندی کی بین الاقوامی اسپاٹ قیمتیں آپ کی کرنسی میں تبدیل کر کے استعمال کرتا ہے جو مقامی بازار سے مختلف ہو سکتی ہیں، اور آپ اپنی قیمت خود بھی درج کر سکتے ہیں۔ نتیجہ آپ کے منتخب نصاب اور مسلک پر منحصر ہے، اور بعض اثاثوں، جیسے کاروباری اسٹاک، شیئرز، پنشن اور قرضوں، کے لیے عالم کا مشورہ ضروری ہے۔ براہِ کرم اپنی زکوٰۃ کی تصدیق کسی مستند عالم یا قابلِ اعتماد زکوٰۃ ادارے سے کروائیں۔",
+      "ar": "لا، إنها تقديرٌ يعينك على الاستعداد وليست فتوى. فهي تعتمد أسعار الذهب والفضة العالمية الفورية محوّلةً إلى عملتك، وقد تختلف عن أسعار السوق المحلية، ويمكنك إدخال السعر بنفسك. وتتوقّف النتيجة على النصاب والمذهب اللذين تختارهما، وبعض الأموال كبضائع التجارة والأسهم والمعاشات والديون تحتاج إلى رأي عالم. فتحقّق من زكاتك مع عالمٍ مؤهَّل أو مؤسسة زكاةٍ موثوقة."
+    },
+    "link": "screen:H05",
+    "review": true
+  },
+  {
+    "q": {
+      "en": "Is my data private?",
+      "ur": "کیا میرا ڈیٹا محفوظ اور نجی ہے؟",
+      "ar": "هل بياناتي خاصة؟"
+    },
+    "a": {
+      "en": "We use your data only to provide the features you use. Prayer times and the Qibla direction are calculated on your phone from your location. Your account and synced data, such as family profiles, progress and bookmarks, are stored securely so you can use them across your devices. You can export or delete your data at any time in Privacy & data, and our Privacy Policy explains the details.",
+      "ur": "ہم آپ کا ڈیٹا صرف ان سہولیات کے لیے استعمال کرتے ہیں جو آپ استعمال کرتے ہیں۔ نماز کے اوقات اور قبلے کی سمت آپ کے مقام سے آپ کے فون پر ہی نکالی جاتی ہے۔ آپ کا اکاؤنٹ اور سنک کیا گیا ڈیٹا، جیسے خاندان کی پروفائلز، پیش رفت اور بُک مارکس، محفوظ طریقے سے رکھا جاتا ہے تاکہ آپ اسے اپنے مختلف آلات پر استعمال کر سکیں۔ آپ \"رازداری اور ڈیٹا\" میں کسی بھی وقت اپنا ڈیٹا ایکسپورٹ یا حذف کر سکتے ہیں، اور ہماری پرائیویسی پالیسی میں تفصیل موجود ہے۔",
+      "ar": "نستخدم بياناتك فقط لتقديم الميزات التي تستعملها. تُحسب المواقيت واتجاه القبلة على هاتفك من موقعك، ويُحفظ حسابك وبياناتك المتزامنة كملفات الأسرة والتقدّم والإشارات المرجعية بأمان لتستخدمها على أجهزتك. ويمكنك تصدير بياناتك أو حذفها في أي وقت من «الخصوصية والبيانات»، وتشرح سياسة الخصوصية التفاصيل."
+    },
+    "link": "screen:I05",
+    "review": true,
+    "notes": "Owner: verify every claim against the published Privacy Policy (and the Aladhan online fallback, which would send coordinates off-device if enabled)."
+  }
+]

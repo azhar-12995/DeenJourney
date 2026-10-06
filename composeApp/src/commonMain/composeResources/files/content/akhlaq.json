@@ -1,0 +1,1042 @@
+[
+ {
+  "id": "kindness",
+  "title": {
+   "en": "Kindness",
+   "ur": "مہربانی اور نرمی",
+   "ar": "اللطف والرفق"
+  },
+  "subtitle": {
+   "en": "Gentle words and gentle hands",
+   "ur": "نرم بات، نرم برتاؤ",
+   "ar": "كلمة ليّنة ومعاملة رفيقة"
+  },
+  "glyph": "heart",
+  "body": {
+   "en": "Kindness (rifq and ihsan) means treating people, animals and the world gently and doing good beyond what is required. Allah commands justice and good conduct, and the Prophet ﷺ taught that gentleness beautifies everything it touches. Kindness is shown in tone of voice, patience with children, and help offered without being asked.",
+   "ur": "مہربانی (رفق اور احسان) کا مطلب ہے لوگوں، جانوروں اور دنیا کے ساتھ نرمی سے پیش آنا اور فرض سے بڑھ کر بھلائی کرنا۔ اللہ تعالیٰ عدل اور احسان کا حکم دیتا ہے، اور نبی کریم ﷺ نے سکھایا کہ نرمی جس چیز میں ہو اسے خوبصورت بنا دیتی ہے۔ مہربانی آواز کے لہجے، بچوں کے ساتھ صبر اور بن مانگے مدد میں نظر آتی ہے۔",
+   "ar": "اللطف (الرفق والإحسان) معاملة الناس والحيوان والعالم برفق، وفعل الخير فوق الواجب. والله يأمر بالعدل والإحسان، وعلّم النبي ﷺ أن الرفق لا يكون في شيء إلا زانه. ويظهر اللطف في نبرة الصوت والصبر مع الأطفال وتقديم العون دون طلب."
+  },
+  "quran": {
+   "text": {
+    "en": "Indeed, Allāh orders justice and good conduct and giving [help] to relatives and forbids immorality and bad conduct and oppression. He admonishes you that perhaps you will be reminded.",
+    "ur": "خدا تم کو انصاف اور احسان کرنے اور رشتہ داروں کو (خرچ سے مدد) دینے کا حکم دیتا ہے۔ اور بےحیائی اور نامعقول کاموں سے اور سرکشی سے منع کرتا ہے (اور) تمہیں نصیحت کرتا ہے تاکہ تم یاد رکھو",
+    "ar": "إِنَّ ٱللَّهَ يَأْمُرُ بِٱلْعَدْلِ وَٱلْإِحْسَٰنِ وَإِيتَآئِ ذِى ٱلْقُرْبَىٰ وَيَنْهَىٰ عَنِ ٱلْفَحْشَآءِ وَٱلْمُنكَرِ وَٱلْبَغْىِ يَعِظُكُمْ لَعَلَّكُمْ تَذَكَّرُونَ"
+   },
+   "ref": {
+    "type": "quran",
+    "label": "An-Nahl 16:90",
+    "key": "16:90"
+   }
+  },
+  "hadith": {
+   "text": {
+    "en": "A'isha, the wife of Allah's Apostle (ﷺ), reported Allah's Apostle (ﷺ) as saying:Kindness is not to be found in anything but that it adds to its beauty and it is not withdrawn from anything but it makes it defective.",
+    "ur": "…حضرت عائشہ صدیقہ رضی اللہ عنہا سے، انہوں نے نبی صلی اللہ علیہ وسلم سے روایت کی کہ آپ نے فرمایا : \" نرمی جس چیز میں بھی ہوتی ہے اس کو زینت بخش دیتی ہے اور جس چیز سے بھی نرمی نکال دی جاتی ہے اسے بدصورت کر دیتی ہے ۔ \"",
+    "ar": "…عَنْ عَائِشَةَ، زَوْجِ النَّبِيِّ صلى الله عليه وسلم عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ \" إِنَّ الرِّفْقَ لاَ يَكُونُ فِي شَىْءٍ إِلاَّ زَانَهُ وَلاَ يُنْزَعُ مِنْ شَىْءٍ إِلاَّ شَانَهُ \""
+   },
+   "ref": {
+    "type": "hadith",
+    "label": "Sahih Muslim 2594a",
+    "key": "muslim:2594a",
+    "grade": "Sahih"
+   }
+  },
+  "reflect": [
+   {
+    "en": "When were you last gentle with someone who did not expect it?",
+    "ur": "آخری بار آپ نے کب کسی ایسے شخص کے ساتھ نرمی کی جسے اس کی توقع نہیں تھی؟",
+    "ar": "متى رفقت آخر مرة بشخص لم يكن يتوقع ذلك؟"
+   },
+   {
+    "en": "Is your tone at home as gentle as your tone with guests?",
+    "ur": "کیا گھر میں آپ کا لہجہ مہمانوں جتنا نرم ہوتا ہے؟",
+    "ar": "هل نبرتك في البيت لطيفة كنبرتك مع الضيوف؟"
+   }
+  ],
+  "practice": [
+   {
+    "en": "Lower your voice when you feel frustrated.",
+    "ur": "جھنجھلاہٹ محسوس ہو تو آواز دھیمی رکھیے۔",
+    "ar": "اخفض صوتك حين تشعر بالضيق."
+   },
+   {
+    "en": "Do one unasked kindness each day: hold a door, carry a bag, refill water.",
+    "ur": "روزانہ ایک بن مانگی مہربانی کیجیے: دروازہ کھولیے، تھیلا اٹھائیے، پانی بھر دیجیے۔",
+    "ar": "قدّم كل يوم لطفًا دون طلب: افتح بابًا، احمل كيسًا، املأ الماء."
+   },
+   {
+    "en": "Be gentle with animals and put out water for birds in hot weather.",
+    "ur": "جانوروں کے ساتھ نرمی کیجیے اور گرمی میں پرندوں کے لیے پانی رکھیے۔",
+    "ar": "ارفق بالحيوان وضع ماءً للطيور في الحر."
+   }
+  ],
+  "scenario": {
+   "q": {
+    "en": "Your younger brother spills juice on your homework. What is the kind response?",
+    "ur": "آپ کے چھوٹے بھائی نے آپ کے ہوم ورک پر جوس گرا دیا۔ مہربانی والا ردعمل کیا ہے؟",
+    "ar": "سكب أخوك الصغير العصير على واجبك المدرسي. ما الرد اللطيف؟"
+   },
+   "options": [
+    {
+     "en": "Shout at him so he learns a lesson",
+     "ur": "اس پر چیخیں تاکہ سبق سیکھے",
+     "ar": "أصرخ عليه ليتعلم"
+    },
+    {
+     "en": "Take a breath, clean up together and explain calmly",
+     "ur": "گہری سانس لیں، مل کر صاف کریں اور سکون سے سمجھائیں",
+     "ar": "خذ نفسًا، ونظّفا معًا، واشرح بهدوء"
+    },
+    {
+     "en": "Ignore him for the rest of the day",
+     "ur": "باقی دن اس سے بات نہ کریں",
+     "ar": "تجاهله بقية اليوم"
+    }
+   ],
+   "answer": 1,
+   "feedback": {
+    "en": "Gentleness beautifies the situation: he learns more from your calm help than from shouting, and the homework can be redone.",
+    "ur": "نرمی صورتحال کو خوبصورت بنا دیتی ہے: وہ چیخنے سے زیادہ آپ کی پرسکون مدد سے سیکھے گا، اور ہوم ورک دوبارہ ہو سکتا ہے۔",
+    "ar": "الرفق يزيّن الموقف: سيتعلم من عونك الهادئ أكثر من الصراخ، ويمكن إعادة الواجب."
+   }
+  },
+  "review": true
+ },
+ {
+  "id": "honesty",
+  "title": {
+   "en": "Honesty",
+   "ur": "سچائی",
+   "ar": "الصدق"
+  },
+  "subtitle": {
+   "en": "Truth in words, deeds and dealings",
+   "ur": "بات، کام اور لین دین میں سچ",
+   "ar": "الصدق في القول والعمل والمعاملة"
+  },
+  "glyph": "check_all",
+  "body": {
+   "en": "Honesty (sidq) means that our words match the truth and our actions match our words. Allah tells the believers to be with the truthful, and the Prophet ﷺ taught that truthfulness leads to righteousness and righteousness to Paradise. Honesty covers telling the truth, not cheating in tests or trade, and admitting mistakes.",
+   "ur": "سچائی (صدق) کا مطلب ہے کہ ہماری بات حقیقت کے مطابق ہو اور ہمارا عمل ہماری بات کے مطابق ہو۔ اللہ تعالیٰ مومنوں کو سچوں کے ساتھ رہنے کا حکم دیتا ہے، اور نبی کریم ﷺ نے سکھایا کہ سچائی نیکی کی طرف اور نیکی جنت کی طرف لے جاتی ہے۔ سچائی میں سچ بولنا، امتحان یا تجارت میں دھوکا نہ دینا اور غلطی ماننا سب شامل ہیں۔",
+   "ar": "الصدق أن يطابق قولنا الحقيقة وأن يطابق فعلنا قولنا. ويأمر الله المؤمنين أن يكونوا مع الصادقين، وعلّم النبي ﷺ أن الصدق يهدي إلى البر والبر يهدي إلى الجنة. ويشمل الصدق قول الحق وترك الغش في الامتحان والتجارة والاعتراف بالخطأ."
+  },
+  "quran": {
+   "text": {
+    "en": "O you who have believed, fear Allāh and be with those who are true.",
+    "ur": "اے اہل ایمان! خدا سے ڈرتے رہو اور راست بازوں کے ساتھ رہو",
+    "ar": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱتَّقُوا۟ ٱللَّهَ وَكُونُوا۟ مَعَ ٱلصَّٰدِقِينَ"
+   },
+   "ref": {
+    "type": "quran",
+    "label": "At-Tawbah 9:119",
+    "key": "9:119"
+   }
+  },
+  "hadith": {
+   "text": {
+    "en": "Narrated `Abdullah:The Prophet (ﷺ) said, \"Truthfulness leads to righteousness, and righteousness leads to Paradise. And a man keeps on telling the truth until he becomes a truthful person. Falsehood leads to Al-Fajur (i.e. wickedness, evil-doing), and Al-Fajur (wickedness) leads to the (Hell) Fire, and a man may keep on telling lies till he is written before Allah, a liar.\"",
+    "ur": "…عبداللہ بن مسعود رضی اللہ عنہ نے بیان کیا کہ نبی کریم صلی اللہ علیہ وسلم نے فرمایا ”بلاشبہ سچ آدمی کو نیکی کی طرف بلاتا ہے اور نیکی جنت کی طرف لے جاتی ہے اور ایک شخص سچ بولتا رہتا ہے یہاں تک کہ وہ صدیق کا لقب اور مرتبہ حاصل کر لیتا ہے اور بلاشبہ جھوٹ برائی کی طرف لے جاتا ہے اور برائی جہنم کی طرف اور ایک شخص جھوٹ بولتا رہتا ہے، یہاں تک کہ وہ اللہ کے یہاں بہت جھوٹا لکھ دیا جاتا ہے۔“",
+    "ar": "…عَنْ عَبْدِ اللَّهِ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ \" إِنَّ الصِّدْقَ يَهْدِي إِلَى الْبِرِّ، وَإِنَّ الْبِرَّ يَهْدِي إِلَى الْجَنَّةِ، وَإِنَّ الرَّجُلَ لَيَصْدُقُ حَتَّى يَكُونَ صِدِّيقًا، وَإِنَّ الْكَذِبَ يَهْدِي إِلَى الْفُجُورِ، وَإِنَّ الْفُجُورَ يَهْدِي إِلَى النَّارِ، وَإِنَّ الرَّجُلَ لَيَكْذِبُ، حَتَّى يُكْتَبَ عِنْدَ اللَّهِ كَذَّابًا \""
+   },
+   "ref": {
+    "type": "hadith",
+    "label": "Sahih al-Bukhari 6094",
+    "key": "bukhari:6094",
+    "grade": "Sahih"
+   }
+  },
+  "reflect": [
+   {
+    "en": "Is there a 'small' lie you tell often, like an excuse?",
+    "ur": "کیا کوئی 'چھوٹا' جھوٹ ہے جو آپ اکثر بولتے ہیں، جیسے کوئی بہانہ؟",
+    "ar": "هل هناك كذبة «صغيرة» تكررها، كعذر ما؟"
+   },
+   {
+    "en": "How do you feel after admitting a mistake honestly?",
+    "ur": "ایمانداری سے غلطی ماننے کے بعد آپ کیسا محسوس کرتے ہیں؟",
+    "ar": "بماذا تشعر بعد أن تعترف بخطئك بصدق؟"
+   }
+  ],
+  "practice": [
+   {
+    "en": "Do not lie even as a joke.",
+    "ur": "مذاق میں بھی جھوٹ نہ بولیے۔",
+    "ar": "لا تكذب ولو مازحًا."
+   },
+   {
+    "en": "If you made a mistake, say so early, before being asked.",
+    "ur": "غلطی ہو جائے تو پوچھے جانے سے پہلے خود بتا دیجیے۔",
+    "ar": "إذا أخطأت فبادر بالاعتراف قبل أن تُسأل."
+   },
+   {
+    "en": "Be honest in buying and selling: describe items truthfully and give full measure.",
+    "ur": "خرید و فروخت میں سچ بولیے: چیز کی صحیح تفصیل بتائیے اور پورا تولیے۔",
+    "ar": "اصدق في البيع والشراء: صف السلعة بصدق وأوفِ الكيل."
+   }
+  ],
+  "scenario": {
+   "q": {
+    "en": "You broke a plate while no one was watching. Your mother asks who did it.",
+    "ur": "آپ سے پلیٹ ٹوٹ گئی اور کسی نے نہیں دیکھا۔ امی پوچھتی ہیں کہ کس نے توڑی؟",
+    "ar": "كسرت صحنًا ولم يرك أحد، وسألت أمك: من كسره؟"
+   },
+   "options": [
+    {
+     "en": "Stay quiet and let her think the cat did it",
+     "ur": "خاموش رہیں اور انہیں سمجھنے دیں کہ بلی نے توڑی",
+     "ar": "أسكت وأدعها تظن أن القطة كسرته"
+    },
+    {
+     "en": "Say a sibling did it",
+     "ur": "کہہ دیں کہ بہن یا بھائی نے توڑی",
+     "ar": "أقول إن أخي هو الذي كسره"
+    },
+    {
+     "en": "Tell the truth and offer to help clean up",
+     "ur": "سچ بتائیں اور صفائی میں مدد کی پیشکش کریں",
+     "ar": "أقول الحقيقة وأعرض المساعدة في التنظيف"
+    }
+   ],
+   "answer": 2,
+   "feedback": {
+    "en": "Telling the truth may feel hard for a moment, but truthfulness leads to righteousness and builds trust at home.",
+    "ur": "سچ بولنا ایک لمحے کے لیے مشکل لگ سکتا ہے، مگر سچائی نیکی کی طرف لے جاتی ہے اور گھر میں اعتماد بڑھاتی ہے۔",
+    "ar": "قد يصعب الصدق لحظة، لكنه يهدي إلى البر ويبني الثقة في البيت."
+   }
+  },
+  "review": true
+ },
+ {
+  "id": "parents",
+  "title": {
+   "en": "Respect for parents",
+   "ur": "والدین کا احترام",
+   "ar": "برّ الوالدين"
+  },
+  "subtitle": {
+   "en": "Kindness, humility and dua for them",
+   "ur": "ان کے ساتھ حسن سلوک، عاجزی اور دعا",
+   "ar": "الإحسان إليهما والتواضع والدعاء لهما"
+  },
+  "glyph": "parent",
+  "body": {
+   "en": "After worshipping Allah alone, the Quran repeatedly commands excellent treatment of parents (birr al-walidayn). It means speaking to them respectfully, serving them, especially in old age, and praying for them. The Prophet ﷺ placed the mother first three times when asked who deserves the best companionship.",
+   "ur": "اللہ کی عبادت کے بعد قرآن بار بار والدین کے ساتھ بہترین سلوک (بر الوالدین) کا حکم دیتا ہے۔ اس کا مطلب ہے ان سے ادب سے بات کرنا، ان کی خدمت کرنا، خاص طور پر بڑھاپے میں، اور ان کے لیے دعا کرنا۔ جب پوچھا گیا کہ بہترین سلوک کا سب سے زیادہ حقدار کون ہے تو نبی کریم ﷺ نے تین بار ماں کو مقدم رکھا۔",
+   "ar": "بعد عبادة الله وحده يأمر القرآن مرارًا ببرّ الوالدين. ومعناه مخاطبتهما بأدب وخدمتهما، ولا سيما في الكبر، والدعاء لهما. وقد قدّم النبي ﷺ الأم ثلاث مرات حين سُئل عن أحق الناس بحسن الصحبة."
+  },
+  "quran": {
+   "text": {
+    "en": "And lower to them the wing of humility out of mercy and say, \"My Lord, have mercy upon them as they brought me up [when I was] small.\"",
+    "ur": "اور عجزو نیاز سے ان کے آگے جھکے رہو اور ان کے حق میں دعا کرو کہ اے پروردگار جیسا انہوں نے مجھے بچپن میں (شفقت سے) پرورش کیا ہے تو بھی اُن (کے حال) پر رحمت فرما",
+    "ar": "وَٱخْفِضْ لَهُمَا جَنَاحَ ٱلذُّلِّ مِنَ ٱلرَّحْمَةِ وَقُل رَّبِّ ٱرْحَمْهُمَا كَمَا رَبَّيَانِى صَغِيرًا"
+   },
+   "ref": {
+    "type": "quran",
+    "label": "Al-Isra 17:24",
+    "key": "17:24"
+   }
+  },
+  "hadith": {
+   "text": {
+    "en": "Narrated Abu Huraira:A man came to Allah's Messenger (ﷺ) and said, \"O Allah's Messenger (ﷺ)! Who is more entitled to be treated with the best companionship by me?\" The Prophet (ﷺ) said, \"Your mother.\" The man said. \"Who is next?\" The Prophet said, \"Your mother.\" The man further said, \"Who is next?\" The Prophet (ﷺ) said, \"Your mother.\" The man asked for the fourth time, \"Who is next?\" The Prophet (ﷺ) said, \"Your father.\"",
+    "ur": "…ابوہریرہ رضی اللہ عنہ نے بیان کیا کہ ایک صحابی رسول اللہ صلی اللہ علیہ وسلم کی خدمت میں حاضر ہوئے اور عرض کیا کہ یا رسول اللہ! میرے اچھے سلوک کا سب سے زیادہ حقدار کون ہے؟ فرمایا کہ تمہاری ماں ہے۔ پوچھا اس کے بعد کون ہے؟ فرمایا کہ تمہاری ماں ہے۔ انہوں نے پھر پوچھا اس کے بعد کون؟ نبی کریم صلی اللہ علیہ وسلم نے فرمایا کہ تمہاری ماں ہے۔ انہوں نے پوچھا اس کے بعد کون ہے؟ نبی کریم صلی اللہ علیہ وسلم نے فرمایا کہ پھر تمہارا باپ ہے۔…",
+    "ar": "…عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ قَالَ جَاءَ رَجُلٌ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَ يَا رَسُولَ اللَّهِ مَنْ أَحَقُّ بِحُسْنِ صَحَابَتِي قَالَ \" أُمُّكَ \". قَالَ ثُمَّ مَنْ قَالَ \" أُمُّكَ \". قَالَ ثُمَّ مَنْ قَالَ \" أُمُّكَ \". قَالَ ثُمَّ مَنْ قَالَ \" ثُمَّ أَبُوكَ \""
+   },
+   "ref": {
+    "type": "hadith",
+    "label": "Sahih al-Bukhari 5971",
+    "key": "bukhari:5971",
+    "grade": "Sahih"
+   }
+  },
+  "reflect": [
+   {
+    "en": "When did you last thank your parents for something specific?",
+    "ur": "آخری بار آپ نے والدین کا کسی خاص بات پر شکریہ کب ادا کیا؟",
+    "ar": "متى شكرت والديك آخر مرة على شيء محدد؟"
+   },
+   {
+    "en": "Do you include your parents in your daily dua?",
+    "ur": "کیا آپ اپنی روزانہ کی دعا میں والدین کو شامل کرتے ہیں؟",
+    "ar": "هل تذكر والديك في دعائك اليومي؟"
+   }
+  ],
+  "practice": [
+   {
+    "en": "Answer their call promptly and with a soft voice.",
+    "ur": "ان کے بلانے پر فوراً اور نرم آواز سے جواب دیجیے۔",
+    "ar": "أجب نداءهما بسرعة وبصوت ليّن."
+   },
+   {
+    "en": "Say 'Rabbir-ḥamhumā kamā rabbayānī ṣaghīrā' after your prayers.",
+    "ur": "نماز کے بعد 'رب ارحمہما کما ربیانی صغیرا' پڑھیے۔",
+    "ar": "قل بعد صلاتك: «رب ارحمهما كما ربياني صغيرًا»."
+   },
+   {
+    "en": "Help with one chore without being asked.",
+    "ur": "بغیر کہے گھر کا کوئی ایک کام کر دیجیے۔",
+    "ar": "ساعد في عمل منزلي واحد دون أن يُطلب منك."
+   }
+  ],
+  "scenario": {
+   "q": {
+    "en": "Your father asks you to help him while you are in the middle of a game.",
+    "ur": "آپ گیم کے بیچ میں ہیں اور ابو مدد کے لیے بلاتے ہیں۔",
+    "ar": "أنت في منتصف لعبة وطلب منك أبوك المساعدة."
+   },
+   "options": [
+    {
+     "en": "Pause the game and help him cheerfully",
+     "ur": "گیم روک کر خوشی سے ان کی مدد کریں",
+     "ar": "أوقف اللعبة وأساعده بسرور"
+    },
+    {
+     "en": "Say 'in a minute' and keep playing for an hour",
+     "ur": "'ایک منٹ' کہہ کر ایک گھنٹہ کھیلتے رہیں",
+     "ar": "أقول «دقيقة» وأستمر ساعة"
+    },
+    {
+     "en": "Sigh loudly so he knows you are annoyed",
+     "ur": "زور سے آہ بھریں تاکہ انہیں پتا چلے آپ ناراض ہیں",
+     "ar": "أتنهد بصوت عالٍ ليعرف أنني منزعج"
+    }
+   ],
+   "answer": 0,
+   "feedback": {
+    "en": "Helping parents promptly and cheerfully is part of birr; the Quran even forbids saying 'uff' to them.",
+    "ur": "والدین کی فوراً اور خوشی سے مدد کرنا بر کا حصہ ہے؛ قرآن تو انہیں 'اف' کہنے سے بھی منع کرتا ہے۔",
+    "ar": "مساعدة الوالدين بسرعة وبسرور من البر، بل إن القرآن نهى عن قول «أف» لهما."
+   }
+  },
+  "review": true
+ },
+ {
+  "id": "neighbour",
+  "title": {
+   "en": "Being a good neighbour",
+   "ur": "اچھا پڑوسی",
+   "ar": "حسن الجوار"
+  },
+  "subtitle": {
+   "en": "The rights of those who live near us",
+   "ur": "آس پاس رہنے والوں کے حقوق",
+   "ar": "حقوق من يسكن بقربنا"
+  },
+  "glyph": "family",
+  "body": {
+   "en": "Islam gives neighbours, Muslim or not, near or far, strong rights. Allah commands good treatment of the near and distant neighbour, and Jibril (AS) emphasised the neighbour so much that the Prophet ﷺ thought neighbours might inherit. Good neighbourliness means not harming them, sharing food, checking on them and keeping noise and rubbish under control.",
+   "ur": "اسلام پڑوسیوں کو، مسلمان ہوں یا نہ ہوں، قریب ہوں یا دور، مضبوط حقوق دیتا ہے۔ اللہ تعالیٰ قریبی اور دور کے پڑوسی کے ساتھ حسن سلوک کا حکم دیتا ہے، اور جبریل علیہ السلام نے پڑوسی پر اتنا زور دیا کہ نبی کریم ﷺ کو گمان ہوا کہ پڑوسی وارث بن جائے گا۔ اچھی ہمسائیگی کا مطلب ہے انہیں تکلیف نہ دینا، کھانا بانٹنا، ان کی خیریت پوچھنا اور شور اور کچرے کا خیال رکھنا۔",
+   "ar": "يعطي الإسلام الجار، مسلمًا كان أو غير مسلم، قريبًا أو بعيدًا، حقوقًا عظيمة. فالله يأمر بالإحسان إلى الجار ذي القربى والجار الجنب، وأكثر جبريل عليه السلام الوصية بالجار حتى ظن النبي ﷺ أنه سيورّثه. وحسن الجوار يعني ترك أذاهم ومشاركتهم الطعام وتفقّد أحوالهم وضبط الضجيج والنفايات."
+  },
+  "quran": {
+   "text": {
+    "en": "Worship Allāh and associate nothing with Him, and to parents do good, and to relatives, orphans, the needy, the near neighbor, the neighbor farther away, the companion at your side, the traveler, and those whom your right hands possess. Indeed, Allāh does not like those who are self-deluding and boastful,",
+    "ur": "اور خدا ہی کی عبادت کرو اور اس کے ساتھ کسی چیز کو شریک نہ بناؤ اور ماں باپ اور قرابت والوں اور یتیموں اور محتاجوں اور رشتہ دار ہمسائیوں اور اجنبی ہمسائیوں اور رفقائے پہلو (یعنی پاس بیٹھنے والوں) اور مسافروں اور جو لوگ تمہارے قبضے میں ہوں سب کے ساتھ احسان کرو کہ خدا (احسان کرنے والوں کو دوست رکھتا ہے اور) تکبر کرنے والے بڑائی مارنے والے کو دوست نہیں رکھتا",
+    "ar": "وَٱعْبُدُوا۟ ٱللَّهَ وَلَا تُشْرِكُوا۟ بِهِۦ شَيْـًٔا وَبِٱلْوَٰلِدَيْنِ إِحْسَٰنًا وَبِذِى ٱلْقُرْبَىٰ وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينِ وَٱلْجَارِ ذِى ٱلْقُرْبَىٰ وَٱلْجَارِ ٱلْجُنُبِ وَٱلصَّاحِبِ بِٱلْجَنۢبِ وَٱبْنِ ٱلسَّبِيلِ وَمَا مَلَكَتْ أَيْمَٰنُكُمْ إِنَّ ٱللَّهَ لَا يُحِبُّ مَن كَانَ مُخْتَالًا فَخُورًا"
+   },
+   "ref": {
+    "type": "quran",
+    "label": "An-Nisa 4:36",
+    "key": "4:36"
+   }
+  },
+  "hadith": {
+   "text": {
+    "en": "Narrated `Aisha:The Prophet (ﷺ) said \"Gabriel continued to recommend me about treating the neighbors Kindly and politely so much so that I thought he would order me to make them as my heirs.\"",
+    "ur": "…عائشہ رضی اللہ عنہا نے کہ نبی کریم صلی اللہ علیہ وسلم نے فرمایا ”جبرائیل علیہ السلام مجھے پڑوسی کے بارے میں باربار اس طرح وصیت کرتے رہے کہ مجھے خیال گزرا کہ شاید پڑوسی کو وراثت میں شریک نہ کر دیں۔“",
+    "ar": "…عَنْ عَائِشَةَ ـ رضى الله عنها ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ \" مَا زَالَ يُوصِينِي جِبْرِيلُ بِالْجَارِ حَتَّى ظَنَنْتُ أَنَّهُ سَيُوَرِّثُهُ \""
+   },
+   "ref": {
+    "type": "hadith",
+    "label": "Sahih al-Bukhari 6014",
+    "key": "bukhari:6014",
+    "grade": "Sahih"
+   }
+  },
+  "reflect": [
+   {
+    "en": "Do you know the names of your neighbours?",
+    "ur": "کیا آپ اپنے پڑوسیوں کے نام جانتے ہیں؟",
+    "ar": "هل تعرف أسماء جيرانك؟"
+   },
+   {
+    "en": "Could anything you do (noise, parking, rubbish) be bothering them?",
+    "ur": "کیا آپ کا کوئی کام (شور، پارکنگ، کچرا) انہیں تکلیف دے رہا ہو سکتا ہے؟",
+    "ar": "هل يمكن أن يزعجهم شيء من تصرفاتك (ضجيج، وقوف السيارة، النفايات)؟"
+   }
+  ],
+  "practice": [
+   {
+    "en": "Share a plate of food with a neighbour this week.",
+    "ur": "اس ہفتے کسی پڑوسی کے ساتھ کھانے کی ایک پلیٹ بانٹیے۔",
+    "ar": "شارك جارك طبقًا من الطعام هذا الأسبوع."
+   },
+   {
+    "en": "Greet neighbours when you see them and check on elderly ones.",
+    "ur": "پڑوسیوں سے ملیں تو سلام کیجیے اور بزرگ پڑوسیوں کی خیریت پوچھیے۔",
+    "ar": "سلّم على جيرانك وتفقّد كبار السن منهم."
+   },
+   {
+    "en": "Keep music, parties and car horns considerate, especially at night.",
+    "ur": "خاص طور پر رات کو موسیقی، تقریبات اور گاڑی کے ہارن میں خیال رکھیے۔",
+    "ar": "راعِ جيرانك في الأصوات والحفلات والمنبّهات، خاصة ليلًا."
+   }
+  ],
+  "scenario": {
+   "q": {
+    "en": "Your elderly neighbour has not been seen for two days.",
+    "ur": "آپ کے بزرگ پڑوسی دو دن سے نظر نہیں آئے۔",
+    "ar": "لم يُرَ جارك المسنّ منذ يومين."
+   },
+   "options": [
+    {
+     "en": "It is not my business",
+     "ur": "یہ میرا معاملہ نہیں",
+     "ar": "هذا ليس من شأني"
+    },
+    {
+     "en": "Knock, check on them and offer help",
+     "ur": "دروازہ کھٹکھٹائیں، خیریت پوچھیں اور مدد کی پیشکش کریں",
+     "ar": "أطرق الباب وأتفقّده وأعرض المساعدة"
+    },
+    {
+     "en": "Post about it online without checking",
+     "ur": "دیکھے بغیر آن لائن پوسٹ کر دیں",
+     "ar": "أنشر عن الأمر على الإنترنت دون أن أتحقق"
+    }
+   ],
+   "answer": 1,
+   "feedback": {
+    "en": "Checking on a neighbour is part of the rights Jibril (AS) kept emphasising; a short visit may mean a lot to them.",
+    "ur": "پڑوسی کی خیریت پوچھنا ان حقوق کا حصہ ہے جن پر جبریل علیہ السلام زور دیتے رہے؛ ایک مختصر ملاقات ان کے لیے بہت معنی رکھ سکتی ہے۔",
+    "ar": "تفقّد الجار من الحقوق التي أكثر جبريل عليه السلام الوصية بها، وقد تعني له زيارة قصيرة الكثير."
+   }
+  },
+  "review": true
+ },
+ {
+  "id": "patience",
+  "title": {
+   "en": "Patience",
+   "ur": "صبر",
+   "ar": "الصبر"
+  },
+  "subtitle": {
+   "en": "Steadiness in hardship and in obedience",
+   "ur": "مشکل میں اور اطاعت پر ثابت قدمی",
+   "ar": "الثبات في الشدة وعلى الطاعة"
+  },
+  "glyph": "sunrise",
+  "body": {
+   "en": "Patience (sabr) is holding steady: in doing good, in avoiding wrong, and in facing hardship without despair. Allah tells the believers to seek help through patience and prayer, and that He is with the patient. The Prophet ﷺ said the believer gains in every situation, being grateful in ease and patient in hardship.",
+   "ur": "صبر کا مطلب ہے ثابت قدم رہنا: نیکی کرنے میں، برائی سے بچنے میں، اور مایوس ہوئے بغیر مشکل کا سامنا کرنے میں۔ اللہ تعالیٰ مومنوں کو صبر اور نماز سے مدد لینے کا حکم دیتا ہے اور بتاتا ہے کہ وہ صبر کرنے والوں کے ساتھ ہے۔ نبی کریم ﷺ نے فرمایا کہ مومن ہر حال میں فائدے میں رہتا ہے: آسانی میں شکر کرتا ہے اور مشکل میں صبر۔",
+   "ar": "الصبر هو الثبات: على فعل الخير، وعن ترك الشر، وفي مواجهة الشدائد دون يأس. ويأمر الله المؤمنين أن يستعينوا بالصبر والصلاة، ويخبر أنه مع الصابرين. وقال النبي ﷺ إن أمر المؤمن كله خير: يشكر في السراء ويصبر في الضراء."
+  },
+  "quran": {
+   "text": {
+    "en": "O you who have believed, seek help through patience and prayer. Indeed, Allāh is with the patient.",
+    "ur": "اے ایمان والو صبر اور نماز سے مدد لیا کرو بےشک خدا صبر کرنے والوں کے ساتھ ہے",
+    "ar": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱسْتَعِينُوا۟ بِٱلصَّبْرِ وَٱلصَّلَوٰةِ إِنَّ ٱللَّهَ مَعَ ٱلصَّٰبِرِينَ"
+   },
+   "ref": {
+    "type": "quran",
+    "label": "Al-Baqarah 2:153",
+    "key": "2:153"
+   }
+  },
+  "hadith": {
+   "text": {
+    "en": "Suhaib reported that Allah's Messenger (ﷺ) said:Strange are the ways of a believer for there is good in every affair of his and this is not the case with anyone else except in the case of a believer for if he has an occasion to feel delight, he thanks (God), thus there is a good for him in it, and if he gets into trouble and shows resignation (and endures it patiently), there is a good for him in it.",
+    "ur": "حضرت صہیب رضی اللہ تعالیٰ عنہ سے روایت ہے، کہا : رسول اللہ صلی اللہ علیہ وسلم نے فرمایا : \" مومن کا معاملہ عجیب ہے ۔ اس کا ہرمعاملہ اس کے لیے بھلائی کا ہے ۔ اور یہ بات مومن کے سوا کسی اور کومیسر نہیں ۔ اسے خوشی اور خوشحالی ملے توشکر کرتا ہے ۔ اور یہ اس کے لیے اچھا ہوتا ہے اور اگر اسے کوئی نقصان پہنچے تو ( اللہ کی رضا کے لیے ) صبر کر تا ہے، یہ ( ابھی ) اس کے لیے بھلائی ہوتی ہے ۔ \"",
+    "ar": "…عَنْ صُهَيْبٍ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم \" عَجَبًا لأَمْرِ الْمُؤْمِنِ إِنَّ أَمْرَهُ كُلَّهُ خَيْرٌ وَلَيْسَ ذَاكَ لأَحَدٍ إِلاَّ لِلْمُؤْمِنِ إِنْ أَصَابَتْهُ سَرَّاءُ شَكَرَ فَكَانَ خَيْرًا لَهُ وَإِنْ أَصَابَتْهُ ضَرَّاءُ صَبَرَ فَكَانَ خَيْرًا لَهُ \""
+   },
+   "ref": {
+    "type": "hadith",
+    "label": "Sahih Muslim 2999",
+    "key": "muslim:2999",
+    "grade": "Sahih"
+   }
+  },
+  "reflect": [
+   {
+    "en": "What is testing your patience most at the moment?",
+    "ur": "اس وقت کون سی چیز آپ کے صبر کا سب سے زیادہ امتحان لے رہی ہے؟",
+    "ar": "ما أكثر ما يختبر صبرك الآن؟"
+   },
+   {
+    "en": "How has a past hardship made you stronger?",
+    "ur": "کسی پچھلی مشکل نے آپ کو کیسے مضبوط بنایا؟",
+    "ar": "كيف جعلتك شدة سابقة أقوى؟"
+   }
+  ],
+  "practice": [
+   {
+    "en": "When upset, pray two rak'ahs or make wudu before reacting.",
+    "ur": "پریشانی میں ردعمل سے پہلے وضو کیجیے یا دو رکعت نماز پڑھیے۔",
+    "ar": "إذا ضاق صدرك فتوضأ أو صلِّ ركعتين قبل أن تتصرف."
+   },
+   {
+    "en": "Say 'Inna lillahi wa inna ilayhi raji'un' at a loss, big or small.",
+    "ur": "کسی بھی نقصان پر، چھوٹا ہو یا بڑا، 'انا للہ وانا الیہ راجعون' کہیے۔",
+    "ar": "قل «إنا لله وإنا إليه راجعون» عند المصيبة صغيرة كانت أو كبيرة."
+   },
+   {
+    "en": "Break big goals into small steady steps.",
+    "ur": "بڑے اہداف کو چھوٹے مستقل قدموں میں بانٹ لیجیے۔",
+    "ar": "قسّم الأهداف الكبيرة إلى خطوات صغيرة ثابتة."
+   }
+  ],
+  "scenario": {
+   "q": {
+    "en": "You studied hard but got a lower mark than expected.",
+    "ur": "آپ نے محنت سے پڑھائی کی مگر توقع سے کم نمبر آئے۔",
+    "ar": "ذاكرت بجد لكنك حصلت على درجة أقل من المتوقع."
+   },
+   "options": [
+    {
+     "en": "Give up studying — effort is pointless",
+     "ur": "پڑھائی چھوڑ دیں — محنت کا کوئی فائدہ نہیں",
+     "ar": "أترك المذاكرة فالجهد بلا فائدة"
+    },
+    {
+     "en": "Stay calm, review your mistakes and keep trying",
+     "ur": "پرسکون رہیں، غلطیوں کا جائزہ لیں اور کوشش جاری رکھیں",
+     "ar": "أهدأ وأراجع أخطائي وأستمر في المحاولة"
+    },
+    {
+     "en": "Blame the teacher in front of everyone",
+     "ur": "سب کے سامنے استاد پر الزام لگائیں",
+     "ar": "ألوم المعلم أمام الجميع"
+    }
+   ],
+   "answer": 1,
+   "feedback": {
+    "en": "Patience is not doing nothing; it is staying steady and continuing to try while trusting Allah. Your effort is never wasted.",
+    "ur": "صبر کا مطلب کچھ نہ کرنا نہیں؛ یہ ثابت قدم رہ کر اللہ پر بھروسے کے ساتھ کوشش جاری رکھنا ہے۔ آپ کی محنت کبھی ضائع نہیں ہوتی۔",
+    "ar": "الصبر ليس القعود، بل الثبات ومواصلة السعي مع التوكل على الله، وجهدك لا يضيع."
+   }
+  },
+  "review": true
+ },
+ {
+  "id": "gratitude",
+  "title": {
+   "en": "Gratitude",
+   "ur": "شکر گزاری",
+   "ar": "الشكر"
+  },
+  "subtitle": {
+   "en": "Thanking Allah and thanking people",
+   "ur": "اللہ کا شکر اور لوگوں کا شکریہ",
+   "ar": "شكر الله وشكر الناس"
+  },
+  "glyph": "star",
+  "body": {
+   "en": "Gratitude (shukr) is noticing blessings, acknowledging that they come from Allah, and using them in ways that please Him. Allah promises that if we are grateful He will give us more. The Prophet ﷺ linked thanking Allah with thanking the people through whom His blessings reach us.",
+   "ur": "شکر کا مطلب ہے نعمتوں کو پہچاننا، یہ ماننا کہ وہ اللہ کی طرف سے ہیں، اور انہیں ان کاموں میں استعمال کرنا جو اسے پسند ہوں۔ اللہ تعالیٰ وعدہ کرتا ہے کہ اگر ہم شکر کریں گے تو وہ اور زیادہ دے گا۔ نبی کریم ﷺ نے اللہ کے شکر کو ان لوگوں کے شکریے سے جوڑا جن کے ذریعے اس کی نعمتیں ہم تک پہنچتی ہیں۔",
+   "ar": "الشكر أن تلاحظ النعم، وتقرّ بأنها من الله، وتستعملها فيما يرضيه. ووعد الله بالزيادة لمن شكر. وربط النبي ﷺ شكر الله بشكر الناس الذين تصل إلينا نعمه على أيديهم."
+  },
+  "quran": {
+   "text": {
+    "en": "And [remember] when your Lord proclaimed, 'If you are grateful, I will surely increase you [in favor]; but if you deny, indeed, My punishment is severe.'\"",
+    "ur": "اور جب تمہارے پروردگار نے (تم کو) آگاہ کیا کہ اگر شکر کرو گے تو میں تمہیں زیادہ دوں گا اور اگر ناشکری کرو گے تو (یاد رکھو کہ) میرا عذاب بھی سخت ہے",
+    "ar": "وَإِذْ تَأَذَّنَ رَبُّكُمْ لَئِن شَكَرْتُمْ لَأَزِيدَنَّكُمْ وَلَئِن كَفَرْتُمْ إِنَّ عَذَابِى لَشَدِيدٌ"
+   },
+   "ref": {
+    "type": "quran",
+    "label": "Ibrahim 14:7",
+    "key": "14:7"
+   }
+  },
+  "hadith": {
+   "text": {
+    "en": "Narrated Abu Hurayrah: The Prophet (ﷺ) said: He who does not thank the people is not thankful to Allah.",
+    "ur": "ابوہریرہ رضی اللہ عنہ کہتے ہیں کہ نبی اکرم صلی اللہ علیہ وسلم نے فرمایا: جو لوگوں کا شکر ادا نہیں کرتا اللہ کا ( بھی ) شکر ادا نہیں کرتا ۔",
+    "ar": "…عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ \" لاَ يَشْكُرُ اللَّهَ مَنْ لاَ يَشْكُرُ النَّاسَ \""
+   },
+   "ref": {
+    "type": "hadith",
+    "label": "Sunan Abi Dawud 4811",
+    "key": "abudawud:4811",
+    "grade": "Sahih"
+   }
+  },
+  "reflect": [
+   {
+    "en": "Which three blessings do you usually forget to notice?",
+    "ur": "کون سی تین نعمتیں ہیں جنہیں آپ عموماً نظرانداز کر دیتے ہیں؟",
+    "ar": "ما النعم الثلاث التي تنسى ملاحظتها عادة؟"
+   },
+   {
+    "en": "Whom have you not thanked recently who deserves it?",
+    "ur": "کس کا حال ہی میں شکریہ ادا نہیں کیا جو اس کا حقدار ہے؟",
+    "ar": "من يستحق شكرك ولم تشكره مؤخرًا؟"
+   }
+  ],
+  "practice": [
+   {
+    "en": "Say Alhamdulillah for three specific things before sleeping.",
+    "ur": "سونے سے پہلے تین خاص چیزوں پر الحمدللہ کہیے۔",
+    "ar": "قل «الحمد لله» على ثلاثة أشياء محددة قبل النوم."
+   },
+   {
+    "en": "Thank the cook, the driver or the teacher by name.",
+    "ur": "کھانا بنانے والے، ڈرائیور یا استاد کا نام لے کر شکریہ ادا کیجیے۔",
+    "ar": "اشكر الطاهي أو السائق أو المعلم باسمه."
+   },
+   {
+    "en": "Use a blessing for good: share food, lend a book, teach a skill.",
+    "ur": "کسی نعمت کو بھلائی میں استعمال کیجیے: کھانا بانٹیے، کتاب دیجیے، کوئی ہنر سکھائیے۔",
+    "ar": "استعمل النعمة في الخير: شارك الطعام، أعر كتابًا، علّم مهارة."
+   }
+  ],
+  "scenario": {
+   "q": {
+    "en": "A friend has the new phone you wanted, and you feel unhappy with yours.",
+    "ur": "دوست کے پاس وہ نیا فون ہے جو آپ چاہتے تھے، اور آپ اپنے فون سے ناخوش ہیں۔",
+    "ar": "لدى صديقك الهاتف الجديد الذي أردته، وصرت غير راضٍ عن هاتفك."
+   },
+   "options": [
+    {
+     "en": "Remember those who have less and thank Allah for what you have",
+     "ur": "ان کو یاد کریں جن کے پاس کم ہے اور جو ہے اس پر اللہ کا شکر کریں",
+     "ar": "أتذكر من هو دوني وأشكر الله على ما عندي"
+    },
+    {
+     "en": "Complain to your parents until they buy one",
+     "ur": "والدین سے شکایت کرتے رہیں جب تک وہ خرید نہ دیں",
+     "ar": "أشكو لوالديّ حتى يشتريا لي واحدًا"
+    },
+    {
+     "en": "Say something unkind about your friend's phone",
+     "ur": "دوست کے فون کے بارے میں کوئی ناگوار بات کہیں",
+     "ar": "أقول كلامًا سيئًا عن هاتف صديقي"
+    }
+   ],
+   "answer": 0,
+   "feedback": {
+    "en": "The Prophet ﷺ taught us to look at those who have less; it protects the heart from envy and fills it with gratitude.",
+    "ur": "نبی کریم ﷺ نے سکھایا کہ اپنے سے کم والوں کو دیکھو؛ یہ دل کو حسد سے بچاتا اور شکر سے بھر دیتا ہے۔",
+    "ar": "علّمنا النبي ﷺ أن ننظر إلى من هو دوننا، فذلك يحمي القلب من الحسد ويملؤه شكرًا."
+   }
+  },
+  "review": true
+ },
+ {
+  "id": "forgiveness",
+  "title": {
+   "en": "Forgiveness",
+   "ur": "معاف کرنا",
+   "ar": "العفو"
+  },
+  "subtitle": {
+   "en": "Pardoning others as we hope Allah pardons us",
+   "ur": "دوسروں کو معاف کرنا، اس امید پر کہ اللہ ہمیں معاف کرے",
+   "ar": "العفو عن الناس رجاء عفو الله"
+  },
+  "glyph": "leaf",
+  "body": {
+   "en": "Forgiving others does not mean pretending nothing happened; it means letting go of the right to get even, for Allah's sake. When Abu Bakr (RA) was hurt by a relative, Allah revealed: 'let them pardon and overlook; would you not like Allah to forgive you?' The Prophet ﷺ said that Allah only increases in honour the one who forgives.",
+   "ur": "دوسروں کو معاف کرنے کا مطلب یہ نہیں کہ کچھ ہوا ہی نہیں؛ اس کا مطلب ہے اللہ کی خاطر بدلہ لینے کا حق چھوڑ دینا۔ جب حضرت ابوبکر رضی اللہ عنہ کو ایک رشتہ دار سے تکلیف پہنچی تو اللہ نے فرمایا کہ معاف کر دو اور درگزر کرو، کیا تم نہیں چاہتے کہ اللہ تمہیں معاف کرے؟ نبی کریم ﷺ نے فرمایا کہ معاف کرنے سے اللہ عزت ہی بڑھاتا ہے۔",
+   "ar": "العفو لا يعني التظاهر بأن شيئًا لم يحدث، بل ترك حق الانتصاف لوجه الله. ولما أوذي أبو بكر رضي الله عنه من قريب له أنزل الله الأمر بالعفو والصفح: ألا تحبون أن يغفر الله لكم؟ وقال النبي ﷺ: وما زاد الله عبدًا بعفو إلا عزًّا."
+  },
+  "quran": {
+   "text": {
+    "en": "And let not those of virtue among you and wealth swear not to give [aid] to their relatives and the needy and the emigrants for the cause of Allāh, and let them pardon and overlook. Would you not like that Allāh should forgive you? And Allāh is Forgiving and Merciful.",
+    "ur": "اور جو لوگ تم میں صاحب فضل (اور صاحب) وسعت ہیں، وہ اس بات کی قسم نہ کھائیں کہ رشتہ داروں اور محتاجوں اور وطن چھوڑ جانے والوں کو کچھ خرچ پات نہیں دیں گے۔ ان کو چاہیئے کہ معاف کردیں اور درگزر کریں۔ کیا تم پسند نہیں کرتے کہ خدا تم کو بخش دے؟ اور خدا تو بخشنے والا مہربان ہے",
+    "ar": "وَلَا يَأْتَلِ أُو۟لُوا۟ ٱلْفَضْلِ مِنكُمْ وَٱلسَّعَةِ أَن يُؤْتُوٓا۟ أُو۟لِى ٱلْقُرْبَىٰ وَٱلْمَسَٰكِينَ وَٱلْمُهَٰجِرِينَ فِى سَبِيلِ ٱللَّهِ وَلْيَعْفُوا۟ وَلْيَصْفَحُوٓا۟ أَلَا تُحِبُّونَ أَن يَغْفِرَ ٱللَّهُ لَكُمْ وَٱللَّهُ غَفُورٌ رَّحِيمٌ"
+   },
+   "ref": {
+    "type": "quran",
+    "label": "An-Nur 24:22",
+    "key": "24:22"
+   }
+  },
+  "hadith": {
+   "text": {
+    "en": "Abu Huraira reported Allah's Messenger (ﷺ) as saying:Charity does not decrease wealth, no one forgives another except that Allah increases his honor, and no one humbles himself for the sake of Allah except that Allah raises his status.",
+    "ur": "حضرت ابوہریرہ رضی اللہ عنہ نے رسول اللہ صلی اللہ علیہ وسلم سے روایت کی کہ آپ صلی اللہ علیہ وسلم نے فرمایا : \" صدقے نے مال میں کبھی کوئی کمی نہیں کی اور معاف کرنے سے اللہ تعالیٰ بندے کو عزت ہی میں بڑھاتا ہے اور کوئی شخص ( صرف اور صرف ) اللہ کی خاطر تواضع ( انکسار ) اختیار نہیں کرتا مگر اللہ تعالیٰ اس کا مقام بلند کر دیتا ہے ۔ \"",
+    "ar": "…عَنْ أَبِي هُرَيْرَةَ، عَنْ رَسُولِ اللَّهِ صلى الله عليه وسلم قَالَ \" مَا نَقَصَتْ صَدَقَةٌ مِنْ مَالٍ وَمَا زَادَ اللَّهُ عَبْدًا بِعَفْوٍ إِلاَّ عِزًّا وَمَا تَوَاضَعَ أَحَدٌ لِلَّهِ إِلاَّ رَفَعَهُ اللَّهُ \""
+   },
+   "ref": {
+    "type": "hadith",
+    "label": "Sahih Muslim 2588",
+    "key": "muslim:2588",
+    "grade": "Sahih"
+   }
+  },
+  "reflect": [
+   {
+    "en": "Is there someone you are still holding a grudge against?",
+    "ur": "کیا کوئی ایسا ہے جس کے خلاف آپ کے دل میں اب بھی رنجش ہے؟",
+    "ar": "هل هناك من لا تزال تحمل عليه ضغينة؟"
+   },
+   {
+    "en": "What would it take for you to forgive them for Allah's sake?",
+    "ur": "اللہ کی خاطر انہیں معاف کرنے کے لیے آپ کو کیا کرنا ہوگا؟",
+    "ar": "ما الذي تحتاجه لتعفو عنه لوجه الله؟"
+   }
+  ],
+  "practice": [
+   {
+    "en": "Make dua for the person who hurt you.",
+    "ur": "جس نے آپ کو تکلیف دی اس کے لیے دعا کیجیے۔",
+    "ar": "ادعُ لمن آذاك."
+   },
+   {
+    "en": "Do not keep bringing up old mistakes in arguments.",
+    "ur": "جھگڑوں میں پرانی غلطیاں بار بار نہ دہرائیے۔",
+    "ar": "لا تُعِد ذكر الأخطاء القديمة في كل خلاف."
+   },
+   {
+    "en": "Forgiving does not require staying in harm's way; set healthy boundaries when needed.",
+    "ur": "معاف کرنے کا مطلب نقصان کی جگہ پر رہنا نہیں؛ ضرورت ہو تو مناسب حدود مقرر کیجیے۔",
+    "ar": "العفو لا يعني البقاء في موضع الأذى؛ ضع حدودًا سليمة عند الحاجة."
+   }
+  ],
+  "scenario": {
+   "q": {
+    "en": "A cousin who mocked you last year sincerely apologises at a family gathering.",
+    "ur": "ایک کزن جس نے پچھلے سال آپ کا مذاق اڑایا تھا، خاندانی تقریب میں خلوص سے معافی مانگتا ہے۔",
+    "ar": "ابن عمك الذي سخر منك العام الماضي يعتذر بصدق في لقاء عائلي."
+   },
+   "options": [
+    {
+     "en": "Refuse and remind everyone what he did",
+     "ur": "انکار کریں اور سب کو اس کی حرکت یاد دلائیں",
+     "ar": "أرفض وأذكّر الجميع بما فعل"
+    },
+    {
+     "en": "Accept his apology and move forward kindly",
+     "ur": "معافی قبول کریں اور نرمی سے آگے بڑھیں",
+     "ar": "أقبل اعتذاره وأمضي بلطف"
+    },
+    {
+     "en": "Accept, but mock him back later",
+     "ur": "معافی قبول کریں مگر بعد میں اس کا مذاق اڑائیں",
+     "ar": "أقبل ثم أسخر منه لاحقًا"
+    }
+   ],
+   "answer": 1,
+   "feedback": {
+    "en": "Forgiving brings honour, not weakness, and we hope Allah forgives us as we forgive others.",
+    "ur": "معاف کرنا عزت لاتا ہے، کمزوری نہیں، اور ہم امید رکھتے ہیں کہ جیسے ہم دوسروں کو معاف کرتے ہیں اللہ ہمیں معاف کرے۔",
+    "ar": "العفو يورث العزة لا الضعف، ونرجو أن يعفو الله عنا كما نعفو عن غيرنا."
+   }
+  },
+  "review": true
+ },
+ {
+  "id": "modesty",
+  "title": {
+   "en": "Modesty (haya)",
+   "ur": "حیا",
+   "ar": "الحياء"
+  },
+  "subtitle": {
+   "en": "Dignity before Allah and people",
+   "ur": "اللہ اور لوگوں کے سامنے وقار",
+   "ar": "الوقار أمام الله والناس"
+  },
+  "glyph": "privacy_drop",
+  "body": {
+   "en": "Haya is a sense of dignity and shyness that keeps a person away from what is shameful, in private and in public. It applies to speech, dress, behaviour and what we watch or share online. The Prophet ﷺ said haya brings nothing but good, and Allah describes the clothing of righteousness as the best clothing.",
+   "ur": "حیا وقار اور شرم کا وہ احساس ہے جو انسان کو تنہائی اور سب کے سامنے برے کاموں سے دور رکھتا ہے۔ اس کا تعلق گفتگو، لباس، رویے اور اس سے ہے جو ہم آن لائن دیکھتے یا شیئر کرتے ہیں۔ نبی کریم ﷺ نے فرمایا کہ حیا صرف بھلائی لاتی ہے، اور اللہ تعالیٰ نے تقویٰ کے لباس کو بہترین لباس قرار دیا۔",
+   "ar": "الحياء شعور بالوقار والاستحياء يبعد المرء عما يشين في السر والعلن. ويشمل الكلام واللباس والسلوك وما نشاهده أو ننشره على الإنترنت. وقال النبي ﷺ إن الحياء لا يأتي إلا بخير، ووصف الله لباس التقوى بأنه خير لباس."
+  },
+  "quran": {
+   "text": {
+    "en": "O children of Adam, We have bestowed upon you clothing to conceal your private parts and as adornment. But the clothing of righteousness - that is best. That is from the signs of Allāh that perhaps they will remember.",
+    "ur": "اے نبی آدم ہم نے تم پر پوشاک اتاری کہ تمہارا ستر ڈھانکے اور (تمہارے بدن کو) زینت (دے) اور (جو) پرہیزگاری کا لباس (ہے) وہ سب سے اچھا ہے۔ یہ خدا کی نشانیاں ہیں تاکہ لوگ نصحیت پکڑ یں",
+    "ar": "يَٰبَنِىٓ ءَادَمَ قَدْ أَنزَلْنَا عَلَيْكُمْ لِبَاسًا يُوَٰرِى سَوْءَٰتِكُمْ وَرِيشًا وَلِبَاسُ ٱلتَّقْوَىٰ ذَٰلِكَ خَيْرٌ ذَٰلِكَ مِنْ ءَايَٰتِ ٱللَّهِ لَعَلَّهُمْ يَذَّكَّرُونَ"
+   },
+   "ref": {
+    "type": "quran",
+    "label": "Al-A'raf 7:26",
+    "key": "7:26"
+   }
+  },
+  "hadith": {
+   "text": {
+    "en": "Narrated Abu As-Sawar Al-Adawi:`Imran bin Husain said: The Prophet (ﷺ) said, \"Haya' (pious shyness from committing religeous indiscretions) does not bring anything except good.\"",
+    "ur": "…نبی کریم صلی اللہ علیہ وسلم نے فرمایا ”حیاء سے ہمیشہ بھلائی پیدا ہوتی ہے۔“",
+    "ar": "…قَالَ النَّبِيُّ صلى الله عليه وسلم \" الْحَيَاءُ لاَ يَأْتِي إِلاَّ بِخَيْرٍ \""
+   },
+   "ref": {
+    "type": "hadith",
+    "label": "Sahih al-Bukhari 6117",
+    "key": "bukhari:6117",
+    "grade": "Sahih"
+   }
+  },
+  "reflect": [
+   {
+    "en": "Would you be comfortable if your parents saw your recent online activity?",
+    "ur": "کیا آپ مطمئن ہوں گے اگر آپ کے والدین آپ کی حالیہ آن لائن سرگرمی دیکھیں؟",
+    "ar": "هل ستكون مرتاحًا لو رأى والداك نشاطك الأخير على الإنترنت؟"
+   },
+   {
+    "en": "How does haya show in the way you speak about others?",
+    "ur": "دوسروں کے بارے میں بات کرنے کے انداز میں حیا کیسے ظاہر ہوتی ہے؟",
+    "ar": "كيف يظهر الحياء في طريقة حديثك عن الآخرين؟"
+   }
+  ],
+  "practice": [
+   {
+    "en": "Choose clean words, even when joking.",
+    "ur": "مذاق میں بھی پاکیزہ الفاظ استعمال کیجیے۔",
+    "ar": "اختر الكلمات النظيفة ولو في المزاح."
+   },
+   {
+    "en": "Knock and ask permission before entering a room.",
+    "ur": "کمرے میں داخل ہونے سے پہلے دستک دے کر اجازت لیجیے۔",
+    "ar": "استأذن واطرق الباب قبل دخول الغرفة."
+   },
+   {
+    "en": "Think before posting: would this please Allah?",
+    "ur": "پوسٹ کرنے سے پہلے سوچیے: کیا یہ اللہ کو پسند آئے گا؟",
+    "ar": "فكّر قبل النشر: هل يرضي هذا الله؟"
+   }
+  ],
+  "scenario": {
+   "q": {
+    "en": "Friends in a group chat start sharing a rude joke.",
+    "ur": "گروپ چیٹ میں دوست ایک بیہودہ لطیفہ شیئر کرنے لگتے ہیں۔",
+    "ar": "بدأ الأصدقاء في مجموعة محادثة بتبادل نكتة بذيئة."
+   },
+   "options": [
+    {
+     "en": "Forward it to more people",
+     "ur": "اسے مزید لوگوں کو آگے بھیج دیں",
+     "ar": "أعيد إرساله لآخرين"
+    },
+    {
+     "en": "Add an even ruder joke",
+     "ur": "اس سے بھی بیہودہ لطیفہ بھیج دیں",
+     "ar": "أضيف نكتة أسوأ"
+    },
+    {
+     "en": "Do not share it, and politely change the topic",
+     "ur": "اسے شیئر نہ کریں اور شائستگی سے موضوع بدل دیں",
+     "ar": "لا أنشرها وأغيّر الموضوع بلطف"
+    }
+   ],
+   "answer": 2,
+   "feedback": {
+    "en": "Haya guards our tongue and screen as well as our dress; quietly steering away from indecency is a sign of faith.",
+    "ur": "حیا ہمارے لباس کے ساتھ ساتھ زبان اور اسکرین کی بھی حفاظت کرتی ہے؛ بے حیائی سے خاموشی سے ہٹ جانا ایمان کی علامت ہے۔",
+    "ar": "الحياء يحفظ اللسان والشاشة كما يحفظ اللباس، والابتعاد بهدوء عن البذاءة علامة إيمان."
+   }
+  },
+  "review": true
+ },
+ {
+  "id": "promises",
+  "title": {
+   "en": "Keeping promises",
+   "ur": "وعدہ پورا کرنا",
+   "ar": "الوفاء بالوعد"
+  },
+  "subtitle": {
+   "en": "Being someone whose word can be trusted",
+   "ur": "ایسا انسان جس کی بات پر بھروسا ہو",
+   "ar": "أن تكون كلمتك موضع ثقة"
+  },
+  "glyph": "flag",
+  "body": {
+   "en": "Keeping promises and honouring trusts are qualities of the successful believers described in the Quran. The Prophet ﷺ warned that breaking promises, lying and betraying trust are signs of hypocrisy. This includes promises to children, appointments, deadlines and things borrowed.",
+   "ur": "وعدے پورے کرنا اور امانتوں کا خیال رکھنا قرآن میں بیان کردہ کامیاب مومنوں کی صفات ہیں۔ نبی کریم ﷺ نے خبردار کیا کہ وعدہ خلافی، جھوٹ اور امانت میں خیانت منافقت کی نشانیاں ہیں۔ اس میں بچوں سے کیے گئے وعدے، ملاقات کے اوقات، کام کی آخری تاریخیں اور ادھار لی گئی چیزیں سب شامل ہیں۔",
+   "ar": "الوفاء بالوعد ورعاية الأمانات من صفات المؤمنين المفلحين في القرآن. وحذّر النبي ﷺ من أن إخلاف الوعد والكذب وخيانة الأمانة من علامات النفاق. ويشمل ذلك الوعود للأطفال والمواعيد ومواعيد التسليم والأشياء المستعارة."
+  },
+  "quran": {
+   "text": {
+    "en": "And they who are to their trusts and their promises attentive",
+    "ur": "اور جو امانتوں اور اقراروں کو ملحوظ رکھتے ہیں",
+    "ar": "وَٱلَّذِينَ هُمْ لِأَمَٰنَٰتِهِمْ وَعَهْدِهِمْ رَٰعُونَ"
+   },
+   "ref": {
+    "type": "quran",
+    "label": "Al-Mu'minun 23:8",
+    "key": "23:8"
+   }
+  },
+  "hadith": {
+   "text": {
+    "en": "Narrated Abu Huraira: The Prophet (ﷺ) said, \"The signs of a hypocrite are three: 1. Whenever he speaks, he tells a lie. 2. Whenever he promises, he always breaks it (his promise ). 3. If you trust him, he proves to be dishonest. (If you keep something as a trust with him, he will not return it).\"",
+    "ur": "…ابوہریرہ رضی اللہ عنہ سے روایت کرتے ہیں، وہ رسول اللہ صلی اللہ علیہ وسلم سے نقل کرتے ہیں کہ آپ صلی اللہ علیہ وسلم نے فرمایا، منافق کی علامتیں تین ہیں۔ جب بات کرے جھوٹ بولے، جب وعدہ کرے اس کے خلاف کرے اور جب اس کو امین بنایا جائے تو خیانت کرے۔",
+    "ar": "…عَنْ أَبِي هُرَيْرَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ \" آيَةُ الْمُنَافِقِ ثَلاَثٌ إِذَا حَدَّثَ كَذَبَ، وَإِذَا وَعَدَ أَخْلَفَ، وَإِذَا اؤْتُمِنَ خَانَ \""
+   },
+   "ref": {
+    "type": "hadith",
+    "label": "Sahih al-Bukhari 33",
+    "key": "bukhari:33",
+    "grade": "Sahih"
+   }
+  },
+  "reflect": [
+   {
+    "en": "Is there a promise you made that you have not yet kept?",
+    "ur": "کیا کوئی وعدہ ہے جو آپ نے کیا مگر ابھی پورا نہیں کیا؟",
+    "ar": "هل هناك وعد قطعته ولم تفِ به بعد؟"
+   },
+   {
+    "en": "Do you promise too quickly, without thinking?",
+    "ur": "کیا آپ بغیر سوچے جلدی وعدہ کر لیتے ہیں؟",
+    "ar": "هل تعد بسرعة دون تفكير؟"
+   }
+  ],
+  "practice": [
+   {
+    "en": "Only promise what you are able to do.",
+    "ur": "صرف وہی وعدہ کیجیے جو آپ پورا کر سکیں۔",
+    "ar": "لا تعد إلا بما تقدر عليه."
+   },
+   {
+    "en": "Write down promises and appointments so you do not forget.",
+    "ur": "وعدے اور ملاقاتیں لکھ لیجیے تاکہ بھول نہ جائیں۔",
+    "ar": "دوّن الوعود والمواعيد كي لا تنساها."
+   },
+   {
+    "en": "If you cannot keep a promise, tell the person early and apologise.",
+    "ur": "اگر وعدہ پورا نہ کر سکیں تو متعلقہ شخص کو پہلے بتا کر معذرت کیجیے۔",
+    "ar": "إن لم تستطع الوفاء فأخبر صاحبك مبكرًا واعتذر."
+   }
+  ],
+  "scenario": {
+   "q": {
+    "en": "You promised your little sister to play with her after school, but friends invite you out.",
+    "ur": "آپ نے چھوٹی بہن سے اسکول کے بعد کھیلنے کا وعدہ کیا تھا، مگر دوست باہر چلنے کی دعوت دیتے ہیں۔",
+    "ar": "وعدت أختك الصغيرة أن تلعب معها بعد المدرسة، ثم دعاك أصدقاؤك للخروج."
+   },
+   "options": [
+    {
+     "en": "Keep your promise to her and see friends another time",
+     "ur": "بہن سے کیا وعدہ پورا کریں اور دوستوں سے پھر کبھی ملیں",
+     "ar": "أفي بوعدي لها وألقى أصدقائي في وقت آخر"
+    },
+    {
+     "en": "Go out without telling her",
+     "ur": "اسے بتائے بغیر باہر چلے جائیں",
+     "ar": "أخرج دون أن أخبرها"
+    },
+    {
+     "en": "Tell her she misunderstood your promise",
+     "ur": "اسے کہیں کہ اس نے وعدہ غلط سمجھا",
+     "ar": "أقول لها إنها أساءت فهم وعدي"
+    }
+   ],
+   "answer": 0,
+   "feedback": {
+    "en": "A promise to a child is still a promise; keeping it teaches her trust and is part of your faith.",
+    "ur": "بچے سے کیا گیا وعدہ بھی وعدہ ہے؛ اسے پورا کرنا اسے اعتماد سکھاتا ہے اور آپ کے ایمان کا حصہ ہے۔",
+    "ar": "الوعد للطفل وعد كذلك، والوفاء به يعلّمها الثقة وهو من إيمانك."
+   }
+  },
+  "review": true
+ },
+ {
+  "id": "anger",
+  "title": {
+   "en": "Controlling anger",
+   "ur": "غصے پر قابو",
+   "ar": "كظم الغيظ"
+  },
+  "subtitle": {
+   "en": "Real strength is self-control",
+   "ur": "اصل طاقت خود پر قابو ہے",
+   "ar": "القوة الحقيقية ضبط النفس"
+  },
+  "glyph": "shield",
+  "body": {
+   "en": "Anger is a natural feeling, but acting on it without control leads to words and deeds we regret. Allah praises those who restrain anger and pardon people, and the Prophet ﷺ said the truly strong person is the one who controls himself when angry. Sunnah remedies include seeking refuge in Allah, staying quiet, and changing position.",
+   "ur": "غصہ ایک فطری احساس ہے، مگر بے قابو ہو کر اس پر عمل کرنا ایسے الفاظ اور کاموں تک لے جاتا ہے جن پر پچھتاوا ہوتا ہے۔ اللہ تعالیٰ غصہ پی جانے والوں اور لوگوں کو معاف کرنے والوں کی تعریف کرتا ہے، اور نبی کریم ﷺ نے فرمایا کہ اصل طاقتور وہ ہے جو غصے میں خود پر قابو رکھے۔ سنت کے طریقوں میں اعوذ باللہ پڑھنا، خاموش رہنا اور حالت بدلنا شامل ہیں۔",
+   "ar": "الغضب شعور فطري، لكن التصرف به دون ضبط يوقع في أقوال وأفعال نندم عليها. ويمدح الله الكاظمين الغيظ والعافين عن الناس، وقال النبي ﷺ إن الشديد من يملك نفسه عند الغضب. ومن علاجات السنة الاستعاذة بالله والسكوت وتغيير الهيئة."
+  },
+  "quran": {
+   "text": {
+    "en": "Who spend [in the cause of Allāh] during ease and hardship and who restrain anger and who pardon the people - and Allāh loves the doers of good;",
+    "ur": "جو آسودگی اور تنگی میں (اپنا مال خدا کی راہ میں) خرچ کرتےہیں اور غصے کو روکتے اور لوگوں کے قصور معاف کرتے ہیں اور خدا نیکو کاروں کو دوست رکھتا ہے",
+    "ar": "ٱلَّذِينَ يُنفِقُونَ فِى ٱلسَّرَّآءِ وَٱلضَّرَّآءِ وَٱلْكَٰظِمِينَ ٱلْغَيْظَ وَٱلْعَافِينَ عَنِ ٱلنَّاسِ وَٱللَّهُ يُحِبُّ ٱلْمُحْسِنِينَ"
+   },
+   "ref": {
+    "type": "quran",
+    "label": "Al Imran 3:134",
+    "key": "3:134"
+   }
+  },
+  "hadith": {
+   "text": {
+    "en": "Narrated Abu Huraira:Allah's Messenger (ﷺ) said, \"The strong is not the one who overcomes the people by his strength, but the strong is the one who controls himself while in anger.\"",
+    "ur": "…ابوہریرہ رضی اللہ عنہ نے کہ رسول اللہ صلی اللہ علیہ وسلم نے فرمایا ”پہلوان وہ نہیں ہے جو کشتی لڑنے میں غالب ہو جائے بلکہ اصلی پہلوان تو وہ ہے جو غصہ کی حالت میں اپنے آپ پر قابو پائے بے قابو نہ ہو جائے۔“",
+    "ar": "…عَنْ أَبِي هُرَيْرَةَ ـ رضى الله عنه ـ أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ \" لَيْسَ الشَّدِيدُ بِالصُّرَعَةِ، إِنَّمَا الشَّدِيدُ الَّذِي يَمْلِكُ نَفْسَهُ عِنْدَ الْغَضَبِ \""
+   },
+   "ref": {
+    "type": "hadith",
+    "label": "Sahih al-Bukhari 6114",
+    "key": "bukhari:6114",
+    "grade": "Sahih"
+   }
+  },
+  "reflect": [
+   {
+    "en": "What usually triggers your anger, and how do you react?",
+    "ur": "عام طور پر آپ کو کس بات پر غصہ آتا ہے اور آپ کیسا ردعمل دیتے ہیں؟",
+    "ar": "ما الذي يثير غضبك عادة، وكيف تتصرف؟"
+   },
+   {
+    "en": "Have you ever regretted something said in anger?",
+    "ur": "کیا آپ کو کبھی غصے میں کہی کسی بات پر پچھتاوا ہوا؟",
+    "ar": "هل ندمت يومًا على شيء قلته في غضب؟"
+   }
+  ],
+  "practice": [
+   {
+    "en": "Say 'A'udhu billahi minash-shaytanir-rajim' when anger rises.",
+    "ur": "غصہ آئے تو 'اعوذ باللہ من الشیطان الرجیم' پڑھیے۔",
+    "ar": "قل «أعوذ بالله من الشيطان الرجيم» إذا ثار غضبك."
+   },
+   {
+    "en": "Stay silent until you calm down; sit if standing.",
+    "ur": "پرسکون ہونے تک خاموش رہیے؛ کھڑے ہوں تو بیٹھ جائیے۔",
+    "ar": "اسكت حتى تهدأ، واجلس إن كنت قائمًا."
+   },
+   {
+    "en": "Leave the room for a few minutes and make wudu.",
+    "ur": "چند منٹ کے لیے کمرے سے باہر جا کر وضو کیجیے۔",
+    "ar": "اخرج من الغرفة دقائق وتوضأ."
+   }
+  ],
+  "scenario": {
+   "q": {
+    "en": "A player on the other team pushes you during a match.",
+    "ur": "میچ کے دوران مخالف ٹیم کا کھلاڑی آپ کو دھکا دیتا ہے۔",
+    "ar": "دفعك لاعب من الفريق الآخر أثناء المباراة."
+   },
+   "options": [
+    {
+     "en": "Push him back harder",
+     "ur": "اسے اس سے زور سے دھکا دیں",
+     "ar": "أدفعه بقوة أكبر"
+    },
+    {
+     "en": "Take a breath, stay calm and tell the referee",
+     "ur": "گہری سانس لیں، پرسکون رہیں اور ریفری کو بتائیں",
+     "ar": "آخذ نفسًا وأهدأ وأخبر الحكم"
+    },
+    {
+     "en": "Shout insults at him",
+     "ur": "اس پر گالیاں چلائیں",
+     "ar": "أصرخ عليه بالشتائم"
+    }
+   ],
+   "answer": 1,
+   "feedback": {
+    "en": "Controlling yourself in that moment is the real strength the Prophet ﷺ described, and it keeps the game fair and safe.",
+    "ur": "اس لمحے خود پر قابو رکھنا ہی وہ اصل طاقت ہے جس کا نبی کریم ﷺ نے ذکر فرمایا، اور اس سے کھیل منصفانہ اور محفوظ رہتا ہے۔",
+    "ar": "ضبط النفس في تلك اللحظة هو القوة الحقيقية التي وصفها النبي ﷺ، ويبقي اللعب عادلًا وآمنًا."
+   }
+  },
+  "review": true
+ }
+]

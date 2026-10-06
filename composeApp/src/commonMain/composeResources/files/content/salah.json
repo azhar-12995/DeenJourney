@@ -1,0 +1,232 @@
+{
+  "postures": [
+    {
+      "id": "takbir",
+      "pose": "takbir",
+      "title": {
+        "en": "Opening takbir",
+        "ur": "تکبیر تحریمہ",
+        "ar": "تكبيرة الإحرام"
+      },
+      "bullets": [
+        {
+          "en": "Begin with Allahu Akbar while facing the Qibla.",
+          "ur": "قبلہ رخ ہو کر اللہ اکبر سے شروع کریں۔",
+          "ar": "ابدأ بالله أكبر مستقبلًا القبلة."
+        }
+      ]
+    },
+    {
+      "id": "qiyam",
+      "pose": "qiyam",
+      "title": {
+        "en": "Standing and recitation",
+        "ur": "قیام اور قراءت",
+        "ar": "القيام والقراءة"
+      },
+      "bullets": [
+        {
+          "en": "Stand and recite the Quran, beginning with al-Fatihah.",
+          "ur": "کھڑے ہو کر سورۃ الفاتحہ اور قرآن پڑھیں۔",
+          "ar": "قم واقرأ القرآن بدءًا بالفاتحة."
+        }
+      ]
+    },
+    {
+      "id": "ruku",
+      "pose": "ruku",
+      "title": {
+        "en": "Bowing",
+        "ur": "رکوع",
+        "ar": "الركوع"
+      },
+      "bullets": [
+        {
+          "en": "Bow and remain still before rising.",
+          "ur": "رکوع کریں اور اٹھنے سے پہلے اطمینان سے ٹھہریں۔",
+          "ar": "اركع واطمئن قبل الرفع."
+        }
+      ]
+    },
+    {
+      "id": "qawmah",
+      "pose": "qawmah",
+      "title": {
+        "en": "Standing after ruku",
+        "ur": "قومہ",
+        "ar": "الاعتدال"
+      },
+      "bullets": [
+        {
+          "en": "Return to an upright, settled standing position.",
+          "ur": "رکوع سے سیدھے کھڑے ہو کر ٹھہریں۔",
+          "ar": "اعتدل قائمًا مع الطمأنينة."
+        }
+      ]
+    },
+    {
+      "id": "sujood",
+      "pose": "sujood",
+      "title": {
+        "en": "Prostration",
+        "ur": "سجدہ",
+        "ar": "السجود"
+      },
+      "bullets": [
+        {
+          "en": "Prostrate with calmness.",
+          "ur": "اطمینان سے سجدہ کریں۔",
+          "ar": "اسجد مع الطمأنينة."
+        }
+      ]
+    },
+    {
+      "id": "jalsa",
+      "pose": "jalsa",
+      "title": {
+        "en": "Sitting between prostrations",
+        "ur": "جلسہ",
+        "ar": "الجلسة بين السجدتين"
+      },
+      "bullets": [
+        {
+          "en": "Sit calmly before the second prostration.",
+          "ur": "دوسرے سجدے سے پہلے اطمینان سے بیٹھیں۔",
+          "ar": "اجلس مطمئنًا قبل السجدة الثانية."
+        }
+      ]
+    },
+    {
+      "id": "tashahhud",
+      "pose": "tashahhud",
+      "title": {
+        "en": "Tashahhud",
+        "ur": "تشہد",
+        "ar": "التشهد"
+      },
+      "bullets": [
+        {
+          "en": "Sit for tashahhud in its appointed place in the prayer.",
+          "ur": "نماز میں مقرر جگہ پر تشہد کے لیے بیٹھیں۔",
+          "ar": "اجلس للتشهد في موضعه من الصلاة."
+        }
+      ]
+    },
+    {
+      "id": "salam",
+      "pose": "salam",
+      "title": {
+        "en": "Ending the prayer",
+        "ur": "سلام",
+        "ar": "التسليم"
+      },
+      "bullets": [
+        {
+          "en": "Complete the prayer with salam.",
+          "ur": "سلام کے ساتھ نماز مکمل کریں۔",
+          "ar": "اختم الصلاة بالتسليم."
+        }
+      ]
+    }
+  ],
+  "detail": [
+    {
+      "title": {
+        "en": "Why we pray",
+        "ur": "ہم نماز کیوں پڑھتے ہیں",
+        "ar": "لماذا نصلّي"
+      },
+      "body": {
+        "en": "Salah is the second pillar of Islam and the first act of worship a child is taught to practise. Allah says to Musa (AS): I am Allah; there is no god but Me, so worship Me and establish prayer for My remembrance (20:14). Prayer is our appointment with Allah — five times a day we leave everything and stand before Him.\n\nPrayer shapes our character. Allah says: prayer keeps one away from shameful and wrongful deeds, and the remembrance of Allah is greater still (29:45). Someone who stands before Allah five times a day learns to be honest, gentle and disciplined.\n\nThe Prophet ﷺ once asked his companions: if there were a river at someone’s door and he bathed in it five times every day, would any dirt remain on him? They said no. He said: that is the example of the five prayers — through them Allah wipes away sins (Sahih al-Bukhari 528). When asked which deed is most beloved to Allah, he answered: prayer at its proper time (Sahih al-Bukhari 527).\n\nAllah also tells us to guard the prayers carefully (2:238). The five daily prayers were given to the Prophet ﷺ as a special gift during the Night Journey (Sahih al-Bukhari 349).\n\nChildren learn by watching. The Prophet ﷺ instructed that children be taught to pray from the age of seven (Sunan Abi Dawud 494). Pray together as a family when you can, keep it joyful, and praise every small effort.",
+        "ur": "نماز اسلام کا دوسرا رکن ہے اور وہ پہلی عبادت ہے جس کی بچے کو مشق کرائی جاتی ہے۔ اللہ تعالیٰ نے موسیٰ علیہ السلام سے فرمایا: میں ہی اللہ ہوں، میرے سوا کوئی معبود نہیں، پس میری عبادت کرو اور میری یاد کے لیے نماز قائم کرو (20:14)۔ نماز اللہ سے ہماری ملاقات کا وقت ہے — دن میں پانچ بار ہم سب کچھ چھوڑ کر اس کے سامنے کھڑے ہوتے ہیں۔\n\nنماز ہمارے کردار کو سنوارتی ہے۔ اللہ فرماتا ہے: نماز بے حیائی اور برے کاموں سے روکتی ہے، اور اللہ کی یاد سب سے بڑی چیز ہے (29:45)۔ جو دن میں پانچ بار اللہ کے سامنے کھڑا ہوتا ہے وہ سچائی، نرمی اور نظم و ضبط سیکھتا ہے۔\n\nنبی کریم ﷺ نے ایک بار صحابہ سے پوچھا: اگر کسی کے دروازے پر دریا ہو اور وہ اس میں روزانہ پانچ بار نہائے تو کیا اس پر کوئی میل باقی رہے گا؟ انہوں نے کہا: نہیں۔ آپ ﷺ نے فرمایا: یہی پانچ نمازوں کی مثال ہے، اللہ ان کے ذریعے گناہ مٹا دیتا ہے (صحیح بخاری 528)۔ جب پوچھا گیا کہ اللہ کو کون سا عمل سب سے زیادہ محبوب ہے تو آپ ﷺ نے فرمایا: نماز اپنے وقت پر (صحیح بخاری 527)۔\n\nاللہ تعالیٰ نے نمازوں کی حفاظت کا بھی حکم دیا ہے (2:238)۔ پانچ وقت کی نمازیں معراج کی رات نبی کریم ﷺ کو خاص تحفے کے طور پر عطا ہوئیں (صحیح بخاری 349)۔\n\nبچے دیکھ کر سیکھتے ہیں۔ نبی کریم ﷺ نے ہدایت فرمائی کہ سات سال کی عمر سے بچوں کو نماز سکھائی جائے (سنن ابی داؤد 494)۔ جب ممکن ہو گھر والے مل کر نماز پڑھیں، ماحول خوشگوار رکھیں اور ہر چھوٹی کوشش کی تعریف کریں۔",
+        "ar": "الصلاة الركن الثاني من أركان الإسلام، وأول عبادة يتدرّب عليها الطفل. قال الله لموسى عليه السلام: ﴿إِنَّنِىٓ أَنَا ٱللَّهُ لَآ إِلَٰهَ إِلَّآ أَنَا۠ فَٱعْبُدْنِى وَأَقِمِ ٱلصَّلَوٰةَ لِذِكْرِىٓ﴾. فالصلاة موعدنا مع الله؛ نترك كل شيء خمس مرات في اليوم ونقف بين يديه.\n\nوالصلاة تهذّب أخلاقنا، قال تعالى: ﴿إِنَّ ٱلصَّلَوٰةَ تَنْهَىٰ عَنِ ٱلْفَحْشَآءِ وَٱلْمُنكَرِ وَلَذِكْرُ ٱللَّهِ أَكْبَرُ﴾. فمن يقف بين يدي الله خمس مرات كل يوم يتعلّم الصدق واللين والانضباط.\n\nوسأل النبي ﷺ أصحابه: أرأيتم لو أن نهرًا بباب أحدكم يغتسل فيه كل يوم خمسًا، هل يبقى من درنه شيء؟ قالوا: لا. قال: فذلك مثل الصلوات الخمس، يمحو الله بها الخطايا (صحيح البخاري 528). ولما سُئل عن أحب الأعمال إلى الله قال: «الصلاة على وقتها» (صحيح البخاري 527).\n\nوأمرنا الله بالمحافظة على الصلوات (البقرة 238)، وقد فُرضت الصلوات الخمس على النبي ﷺ ليلة الإسراء والمعراج (صحيح البخاري 349).\n\nوالأطفال يتعلّمون بالقدوة، وقد أمر النبي ﷺ بتعليم الصبي الصلاة إذا بلغ سبع سنين (سنن أبي داود 494). فصلّوا معًا أسرةً متى استطعتم، واجعلوا الجوّ مبهجًا، وامدحوا كل محاولة صغيرة."
+      },
+      "refs": [
+        {
+          "type": "quran",
+          "label": "Quran 20:14",
+          "key": "20:14"
+        },
+        {
+          "type": "quran",
+          "label": "Quran 29:45",
+          "key": "29:45"
+        },
+        {
+          "type": "quran",
+          "label": "Quran 2:238",
+          "key": "2:238"
+        },
+        {
+          "type": "hadith",
+          "label": "Sahih al-Bukhari 528",
+          "key": "bukhari:528",
+          "grade": "Sahih"
+        },
+        {
+          "type": "hadith",
+          "label": "Sahih al-Bukhari 527",
+          "key": "bukhari:527",
+          "grade": "Sahih"
+        },
+        {
+          "type": "hadith",
+          "label": "Sahih al-Bukhari 349",
+          "key": "bukhari:349",
+          "grade": "Sahih"
+        },
+        {
+          "type": "hadith",
+          "label": "Sunan Abi Dawud 494",
+          "key": "abudawud:494",
+          "grade": "Hasan Sahih (al-Albani)"
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Learning the complete prayer",
+        "ur": "مکمل نماز سیکھنا",
+        "ar": "تعلم الصلاة كاملة"
+      },
+      "body": {
+        "en": "Use these postures as a visual reminder. Learn recitations, rak‘ah counts and school-specific details from a teacher.",
+        "ur": "یہ تصاویر یاد دہانی ہیں۔ قراءت، رکعتیں اور مسلک کی تفصیلات استاد سے سیکھیں۔",
+        "ar": "هذه الهيئات للتذكير. تعلّم الأذكار وعدد الركعات وتفاصيل مذهبك من معلّم."
+      },
+      "refs": [
+        {
+          "type": "hadith",
+          "key": "bukhari:757",
+          "label": "Sahih al-Bukhari 757"
+        },
+        {
+          "type": "hadith",
+          "key": "bukhari:831",
+          "label": "Sahih al-Bukhari 831"
+        }
+      ]
+    }
+  ],
+  "mistakes": [
+    {
+      "title": {
+        "en": "Do not rush",
+        "ur": "جلدی نہ کریں",
+        "ar": "لا تتعجل"
+      },
+      "body": {
+        "en": "Remain settled in each posture before moving to the next.",
+        "ur": "اگلے رکن سے پہلے ہر رکن میں اطمینان سے ٹھہریں۔",
+        "ar": "اطمئن في كل هيئة قبل الانتقال إلى التالية."
+      },
+      "refs": [
+        {
+          "type": "hadith",
+          "key": "bukhari:757",
+          "label": "Sahih al-Bukhari 757"
+        }
+      ]
+    }
+  ]
+}
