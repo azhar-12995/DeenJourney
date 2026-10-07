@@ -140,6 +140,8 @@ fun PrivacyScreen() {
     val settings = koinInject<SettingsRepo>(); val s by settings.flow.collectAsState(); val users = koinInject<UserRepo>(); val auth = koinInject<AuthRepo>(); val sync = koinInject<SyncRepo>(); val scope = rememberCoroutineScope(); val nav = LocalNavigator.current; val lang = LocalLang.current
     var deleting by remember { mutableStateOf(false) }; var confirm by remember { mutableStateOf(false) }; var password by remember { mutableStateOf("") }; var message by remember { mutableStateOf<String?>(null) }; var signOut by remember { mutableStateOf(false) }
     FeaturePage(t("Privacy & data", "پرائیویسی اور ڈیٹا", "الخصوصية والبيانات")) {
+        TextLink(t("Read privacy policy", "پرائیویسی پالیسی پڑھیں", "اقرأ سياسة الخصوصية"), { Platform.openUrl(Legal.privacyPolicyUrl) })
+        TextLink(t("Request account deletion online", "اکاؤنٹ حذف کرنے کی آن لائن درخواست", "طلب حذف الحساب عبر الإنترنت"), { Platform.openUrl(Legal.deletionRequestUrl) })
         NoteBox(t("Family profiles, notes and progress are stored on this device and synced to your signed-in account when sync is enabled. Location is used locally for prayer times and Qibla.", "فیملی پروفائلز، نوٹس اور پیش رفت فون پر محفوظ ہیں اور سنک آن ہو تو اکاؤنٹ میں محفوظ ہوتے ہیں۔ مقام نماز اور قبلہ کے لیے ہے۔", "تُحفظ الملفات والملاحظات والتقدم على الجهاز وتُزامن مع الحساب عند تفعيل المزامنة. يُستخدم الموقع للصلاة والقبلة."))
         SwitchRow(t("Cloud sync", "کلاؤڈ سنک", "المزامنة السحابية"), s.syncEnabled, { on -> scope.launch { settings.update { it.copy(syncEnabled = on) } } })
         CardRow(t("Location permissions", "مقام کی اجازت", "أذونات الموقع"), icon = "map-pin", onClick = { Platform.openAppSettings() })

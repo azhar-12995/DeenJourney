@@ -37,6 +37,12 @@ testing have not been verified on the Windows development host.
 
 ## Design and implementation notes
 
+Public [Privacy Policy](https://azhar-12995.github.io/DeenJourney/) and
+[account deletion requests](https://azhar-12995.github.io/DeenJourney/delete-account.html)
+use `deenjourney12995@gmail.com`. Their static source is in `site/`, published
+from the `gh-pages` branch. No analytics or advertising scripts are added to
+these pages. The app links to the policy during signup and from Privacy & data.
+
 See [implementation status](docs/IMPLEMENTATION_STATUS.md),
 [screen inventory](docs/SCREENS.md) and [data sources](docs/DATA_SOURCES.md)
 for completed work, content provenance and remaining integrations.

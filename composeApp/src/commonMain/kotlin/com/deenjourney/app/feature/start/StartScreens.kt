@@ -273,7 +273,7 @@ fun SignUpScreen() {
                 DjCheck(agree, { agree = it; fieldErr = null })
                 Column(Modifier.weight(1f)) {
                     Txt(t("I agree to the Terms of Use and Privacy Policy", "میں استعمال کی شرائط اور پرائیویسی پالیسی سے متفق ہوں", "أوافق على شروط الاستخدام وسياسة الخصوصية"), Dj.type.bodyS, Dj.c.text2)
-                    TextLink(t("Read privacy & terms", "پرائیویسی اور شرائط پڑھیں", "اقرأ الخصوصية والشروط"), { nav.go(Privacy) }, style = Dj.type.labelS)
+                    TextLink(t("Read privacy policy", "پرائیویسی پالیسی پڑھیں", "اقرأ سياسة الخصوصية"), { Platform.openUrl(Legal.privacyPolicyUrl) }, style = Dj.type.labelS)
                     if (fieldErr?.first == "agree") Txt(fieldErr!!.second, Dj.type.caption, Dj.c.danger)
                 }
             }
