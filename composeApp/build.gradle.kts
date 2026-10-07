@@ -101,7 +101,7 @@ android {
     }
     buildTypes {
         getByName("debug") {
-            buildConfigField("String", "FIRESTORE_DATABASE_ID", "\"debug\"")
+            buildConfigField("String", "FIRESTORE_DATABASE_ID", "\"(default)\"")
             versionNameSuffix = "-debug"
         }
         getByName("release") {
