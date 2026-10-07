@@ -26,8 +26,7 @@ import com.deenjourney.app.nav.*
 import com.deenjourney.app.nav.R
 import com.deenjourney.app.platform.Scheduler
 import com.deenjourney.app.platform.RecitationPlayer
-import dev.gitlive.firebase.Firebase
-import dev.gitlive.firebase.firestore.firestore
+import com.deenjourney.app.data.sync.accountFirestore
 import io.ktor.client.HttpClient
 import kotlinx.coroutines.flow.first
 import kotlinx.coroutines.launch
@@ -195,7 +194,7 @@ fun CorrectionScreen(initial: String) {
         DjButton(t("Submit report", "رپورٹ بھیجیں", "إرسال البلاغ"), { scope.launch {
             busy = true
             val uid = auth.user.value?.uid
-            val result = runCatching { require(uid != null) { "Please sign in" }; Firebase.firestore.collection("reports").document(newId()).set(mapOf("uid" to uid, "type" to type, "reference" to ref.trim(), "description" to text.trim(), "createdAt" to nowMs().toString())) }
+            val result = runCatching { require(uid != null) { "Please sign in" }; accountFirestore.collection("reports").document(newId()).set(mapOf("uid" to uid, "type" to type, "reference" to ref.trim(), "description" to text.trim(), "createdAt" to nowMs().toString())) }
             message = if (result.isSuccess) lang.pick("Report submitted", "رپورٹ بھیج دی گئی", "تم إرسال البلاغ") else lang.pick("Report could not be sent. You can share it below.", "رپورٹ نہیں بھیجی جا سکی۔ نیچے شیئر کر سکتے ہیں۔", "تعذر إرسال البلاغ. يمكنك مشاركته أدناه.")
             busy = false
         } }, Modifier.fillMaxWidth(), loading = busy, enabled = ref.isNotBlank() && text.trim().length >= 10)

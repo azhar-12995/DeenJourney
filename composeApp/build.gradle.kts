@@ -100,7 +100,12 @@ android {
         resources { excludes += "/META-INF/{AL2.0,LGPL2.1}" }
     }
     buildTypes {
+        getByName("debug") {
+            buildConfigField("String", "FIRESTORE_DATABASE_ID", "\"debug\"")
+            versionNameSuffix = "-debug"
+        }
         getByName("release") {
+            buildConfigField("String", "FIRESTORE_DATABASE_ID", "\"(default)\"")
             isMinifyEnabled = true
             isShrinkResources = true
             proguardFiles(getDefaultProguardFile("proguard-android-optimize.txt"), "proguard-rules.pro")

@@ -7,6 +7,7 @@ import androidx.datastore.preferences.core.edit
 import androidx.datastore.preferences.core.stringPreferencesKey
 import com.deenjourney.app.core.Lang
 import com.deenjourney.app.core.Platform
+import com.deenjourney.app.data.sync.CloudEnvironment
 import com.deenjourney.app.data.prayer.PrayerConfig
 import com.deenjourney.app.data.prayer.PrayerName
 import kotlinx.coroutines.CoroutineScope
@@ -81,7 +82,7 @@ data class AppSettings(
 class SettingsRepo(scope: CoroutineScope) {
     private val json = Json { ignoreUnknownKeys = true; encodeDefaults = true }
     private val key = stringPreferencesKey("settings")
-    private val store: DataStore<Preferences> = PreferenceDataStoreFactory.createWithPath(produceFile = { "${Platform.filesDir()}/settings.preferences_pb".toPath() })
+    private val store: DataStore<Preferences> = PreferenceDataStoreFactory.createWithPath(produceFile = { "${Platform.filesDir()}/settings${CloudEnvironment.storageSuffix}.preferences_pb".toPath() })
 
     val flow: StateFlow<AppSettings> = store.data
         .map { p -> p[key]?.let { runCatching { json.decodeFromString(AppSettings.serializer(), it) }.getOrNull() } ?: AppSettings() }

@@ -12,9 +12,7 @@ import com.deenjourney.app.data.user.SavedE
 import com.deenjourney.app.data.user.UserRepo
 import com.deenjourney.app.data.user.ZakatE
 import com.deenjourney.app.data.user.nowMs
-import dev.gitlive.firebase.Firebase
 import dev.gitlive.firebase.firestore.CollectionReference
-import dev.gitlive.firebase.firestore.firestore
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.FlowPreview
 import kotlinx.coroutines.flow.MutableStateFlow
@@ -46,7 +44,7 @@ class SyncRepo(private val users: UserRepo, private val auth: AuthRepo, private 
         scope.launch { users.changes.debounce(4000).collect { syncNow() } }
     }
 
-    private fun col(uid: String, name: String): CollectionReference = Firebase.firestore.collection("users").document(uid).collection(name)
+    private fun col(uid: String, name: String): CollectionReference = accountFirestore.collection("users").document(uid).collection(name)
 
     suspend fun syncNow(): Boolean = lock.withLock {
         val uid = auth.user.value?.uid ?: return false
@@ -82,7 +80,7 @@ class SyncRepo(private val users: UserRepo, private val auth: AuthRepo, private 
         if (rows.isEmpty()) return
         val c = col(uid, name)
         rows.chunked(400).forEach { chunk ->
-            val b = Firebase.firestore.batch()
+            val b = accountFirestore.batch()
             chunk.forEach { b.set(c.document(id(it).replace('/', '_')), ser, it, merge = false) }
             b.commit()
         }
@@ -99,9 +97,9 @@ class SyncRepo(private val users: UserRepo, private val auth: AuthRepo, private 
         return runCatching {
             for (name in listOf("profile", "saved", "note", "highlight", "progress", "counter", "daily", "zakat")) {
                 val docs = col(uid, name).get().documents
-                docs.chunked(400).forEach { chunk -> val b = Firebase.firestore.batch(); chunk.forEach { b.delete(it.reference) }; b.commit() }
+                docs.chunked(400).forEach { chunk -> val b = accountFirestore.batch(); chunk.forEach { b.delete(it.reference) }; b.commit() }
             }
-            Firebase.firestore.collection("users").document(uid).delete()
+            accountFirestore.collection("users").document(uid).delete()
         }.isSuccess
     }
 }

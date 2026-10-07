@@ -10,7 +10,7 @@ import dev.gitlive.firebase.Firebase
 import dev.gitlive.firebase.FirebaseOptions
 import dev.gitlive.firebase.apps
 import dev.gitlive.firebase.auth.auth
-import dev.gitlive.firebase.firestore.firestore
+import com.deenjourney.app.data.sync.accountFirestore
 import dev.gitlive.firebase.initialize
 import org.koin.android.ext.koin.androidContext
 import org.koin.dsl.module
@@ -37,7 +37,7 @@ class DeenApp : Application() {
         if (BuildConfig.USE_EMULATORS) {
             // 10.0.2.2 = the host machine from the Android emulator
             runCatching { Firebase.auth.useEmulator("10.0.2.2", 9099) }
-            runCatching { Firebase.firestore.useEmulator("10.0.2.2", 8080) }
+            runCatching { accountFirestore.useEmulator("10.0.2.2", 8080) }
         }
     }
 }
