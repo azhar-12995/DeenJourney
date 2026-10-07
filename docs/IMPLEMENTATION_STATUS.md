@@ -44,6 +44,13 @@ and feed the Home completion indicator. Quran notes exclude hadith notes.
 - Additional Quran translation catalogs and an Indo-Pak text source remain;
   the bundled verified text is Uthmani with English and Urdu translations.
 - Privacy export shares a JSON file through the native share sheet.
+- Privacy policy and a web account-deletion request page are published at
+  `https://azhar-12995.github.io/DeenJourney/` and
+  `https://azhar-12995.github.io/DeenJourney/delete-account.html`.
+  Both use `deenjourney12995@gmail.com`; signup and Privacy & data link to them.
+  Email requests must be handled by the developer. The current automatic
+  deletion flow still does not delete correction reports; the policy discloses
+  the separate email request path for those records.
 - The user's Firebase Android configuration is attached at
   `composeApp/google-services.json` and is tracked in Git so fresh clones use
   the same Firebase project. The debug build uses real Firebase

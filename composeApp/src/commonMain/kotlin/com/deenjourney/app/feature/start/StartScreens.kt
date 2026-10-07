@@ -236,7 +236,7 @@ fun SignUpScreen() {
             name.isBlank() -> "name" to t0(lang, "Please enter your name.", "اپنا نام درج کریں۔", "أدخل اسمك.")
             !Validation.email(email) -> "email" to AuthError("email").message(lang)
             !Validation.passwordOk(pass) -> "pass" to AuthError("weak").message(lang)
-            !agree -> "agree" to t0(lang, "Please accept the Terms and Privacy Policy.", "شرائط اور پرائیویسی پالیسی قبول کریں۔", "يرجى قبول الشروط وسياسة الخصوصية.")
+            !agree -> "agree" to t0(lang, "Please read the Privacy Policy and confirm.", "پرائیویسی پالیسی پڑھ کر تصدیق کریں۔", "يرجى قراءة سياسة الخصوصية والتأكيد.")
             else -> null
         }
         if (fieldErr != null) return
@@ -273,7 +273,7 @@ fun SignUpScreen() {
             Row(verticalAlignment = Alignment.Top, horizontalArrangement = Arrangement.spacedBy(10.dp)) {
                 DjCheck(agree, { agree = it; fieldErr = null })
                 Column(Modifier.weight(1f)) {
-                    Txt(t("I agree to the Terms of Use and Privacy Policy", "میں استعمال کی شرائط اور پرائیویسی پالیسی سے متفق ہوں", "أوافق على شروط الاستخدام وسياسة الخصوصية"), Dj.type.bodyS, Dj.c.text2)
+                    Txt(t("I have read the Privacy Policy", "میں نے پرائیویسی پالیسی پڑھ لی ہے", "لقد قرأت سياسة الخصوصية"), Dj.type.bodyS, Dj.c.text2)
                     TextLink(t("Read privacy policy", "پرائیویسی پالیسی پڑھیں", "اقرأ سياسة الخصوصية"), { Platform.openUrl(Legal.privacyPolicyUrl) }, style = Dj.type.labelS)
                     if (fieldErr?.first == "agree") Txt(fieldErr!!.second, Dj.type.caption, Dj.c.danger)
                 }
