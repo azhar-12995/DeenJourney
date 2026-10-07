@@ -17,15 +17,17 @@ Both Android builds use the same application ID, so they replace each other when
 
 ## Server settings
 
-The app is configured for `(default)`. Remote database existence, deployed security rules, and live writes still require verification. Console automation failed with Windows error 1385. The existing Firebase CLI login returned HTTP 403 when listing this project's databases, so login with a project-authorized account is required before deployment. No cloud database or billing settings have been changed.
+On 7 October 2026, the `(default)` database was created with the user's approval in Mumbai (`asia-south1`), using Standard edition and Firestore Native mode. Metadata read-back confirmed `freeTier: true`. Billing settings were not changed. No named database was created.
 
-Open the project's Firestore Console and select `(default)`. Publish the supplied `firestore.rules` on its Rules tab after reviewing any existing rules used by other clients. These rules restrict account records to their signed-in owner and correction report creation to the submitting account. No named database is needed.
+The supplied `firestore.rules` compiled successfully and were released to the default database through Firebase CLI using the project-authorized `deenjourney12995@gmail.com` account. Actual app account sync writes and cross-account denial still require an end-to-end check; database creation and rules deployment alone do not demonstrate that an account's records have been uploaded.
+
+Open the project's Firestore Console and select `(default)` to inspect the deployed rules. They restrict account records to their signed-in owner and correction report creation to the submitting account. No named database is needed.
 
 With an authenticated Firebase CLI, the equivalent deployment is:
 
 ```powershell
-firebase firestore:databases:list --project deenjourney-eec6a
-firebase deploy --only firestore:rules --project deenjourney-eec6a
+firebase firestore:databases:list --project deenjourney-eec6a --account deenjourney12995@gmail.com
+firebase deploy --only firestore:rules --project deenjourney-eec6a --account deenjourney12995@gmail.com
 ```
 
 After deployment, install the new debug APK, sign in, enable Sync & backup, save a bookmark, and tap Sync now. Confirm the document appears under `(default)/users/{uid}/saved`. Then verify a second account cannot access the first account's documents. A release installation signed into the same account should retrieve the shared records.
