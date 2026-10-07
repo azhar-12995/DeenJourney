@@ -18,6 +18,7 @@ data class CloudPreferences(
     val reminderBefore: Int = 0, val jumuahReminder: Boolean = true,
     val lessonReminder: Boolean = true, val lessonReminderTime: String = "20:00",
     val adhkarReminder: Boolean = false,
+    val qaidaAudioEnabled: Boolean = true,
 ) {
     fun applyTo(local: AppSettings): AppSettings = local.copy(
         lang = lang, theme = theme, textScale = textScale, prayer = prayer, methodChosen = methodChosen,
@@ -27,6 +28,7 @@ data class CloudPreferences(
         tasbihHaptic = tasbihHaptic, tasbihSound = tasbihSound, tasbihAutoReset = tasbihAutoReset,
         adhan = adhan, reminderBefore = reminderBefore, jumuahReminder = jumuahReminder,
         lessonReminder = lessonReminder, lessonReminderTime = lessonReminderTime, adhkarReminder = adhkarReminder,
+        qaidaAudioEnabled = qaidaAudioEnabled,
     )
 
     companion object {
@@ -35,6 +37,7 @@ data class CloudPreferences(
             s.quran, s.lastRead, s.activeProfile, s.setupDone, s.familyDone, s.dailyGoal, s.focus,
             s.nisab, s.currency, s.tasbihHaptic, s.tasbihSound, s.tasbihAutoReset,
             s.adhan, s.reminderBefore, s.jumuahReminder, s.lessonReminder, s.lessonReminderTime, s.adhkarReminder,
+            s.qaidaAudioEnabled,
         )
     }
 }

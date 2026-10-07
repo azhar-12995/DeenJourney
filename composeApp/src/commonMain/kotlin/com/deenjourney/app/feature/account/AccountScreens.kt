@@ -89,6 +89,8 @@ fun SettingsScreen() {
         CardRow(t("Location", "مقام", "الموقع"), sub = s.location?.name, icon = "map-pin", onClick = { nav.go(ChooseLocation()) })
         SectionHeader(t("Hijri adjustment", "ہجری تاریخ کی درستگی", "تعديل التاريخ الهجري")); ChipRow { (-2..2).forEach { offset -> DjChip(if (offset > 0) "+$offset" else offset.toString(), s.hijriOffset == offset, { update { it.copy(hijriOffset = offset) } }) } }
         CardRow(t("Learning goals", "سیکھنے کے اہداف", "أهداف التعلم"), glyph = "roadmap", onClick = { nav.go(Goals(false)) })
+        SwitchRow(t("Qaida audio", "قاعدہ آڈیو", "صوت القاعدة"), s.qaidaAudioEnabled, { on -> update { it.copy(qaidaAudioEnabled = on) } },
+            t("Speak letter names when tapped.", "حرف پر ٹیپ کرنے سے اس کا نام سنیں۔", "نطق أسماء الحروف عند الضغط عليها."))
         CardRow(t("Downloads", "ڈاؤن لوڈز", "التنزيلات"), glyph = "download", onClick = { nav.go(Downloads) })
         CardRow(t("About & sources", "تعارف اور ماخذ", "حول التطبيق والمصادر"), icon = "info", onClick = { nav.go(About) })
         CardRow(t("Privacy & data", "پرائیویسی اور ڈیٹا", "الخصوصية والبيانات"), icon = "shield", onClick = { nav.go(Privacy) })

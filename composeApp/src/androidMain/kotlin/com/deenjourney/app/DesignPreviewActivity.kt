@@ -16,6 +16,8 @@ class DesignPreviewActivity : ComponentActivity() {
             "reader" -> Reader(2, 11)
             "player" -> Player
             "qibla" -> Qibla(1)
+            "qaida" -> Qaida
+            "settings" -> SettingsRoute
             else -> ShareAyah(2, intent.getIntExtra("ayah", 153))
         }
         setContent { App(route) }

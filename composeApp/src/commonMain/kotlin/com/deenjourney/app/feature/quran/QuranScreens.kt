@@ -12,6 +12,9 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.unit.dp
+import androidx.lifecycle.Lifecycle
+import androidx.lifecycle.LifecycleEventObserver
+import androidx.lifecycle.compose.LocalLifecycleOwner
 import com.deenjourney.app.core.*
 import com.deenjourney.app.data.net.QuranFoundation
 import com.deenjourney.app.data.net.Reciters as AudioReciters
@@ -283,25 +286,49 @@ fun QuranSearchScreen(initial: String) {
     }
 }
 
-private val letters = listOf("ا", "ب", "ت", "ث", "ج", "ح", "خ", "د", "ذ", "ر", "ز", "س", "ش", "ص", "ض", "ط", "ظ", "ع", "غ", "ف", "ق", "ك", "ل", "م", "ن", "ه", "و", "ي", "ء")
-private val letterNames = listOf("Alif", "Baa", "Taa", "Thaa", "Jeem", "Haa", "Khaa", "Daal", "Dhaal", "Raa", "Zaay", "Seen", "Sheen", "Saad", "Daad", "Taa", "Dhaa", "Ayn", "Ghayn", "Faa", "Qaaf", "Kaaf", "Laam", "Meem", "Noon", "Haa", "Waaw", "Yaa", "Hamzah")
+private val letters = qaidaLetters.map { it.glyph }
+private val letterNames = qaidaLetters.map { it.name }
 
 @Composable
 fun QaidaScreen() {
     val users = koinInject<UserRepo>(); val scope = rememberCoroutineScope(); val done by users.progress("qaida").collectAsState(emptyList())
+    val settings = koinInject<SettingsRepo>(); val s by settings.flow.collectAsState()
+    val player = koinInject<RecitationPlayer>()
+    val speech = remember { LetterSpeech() }; val speechState by speech.state.collectAsState()
+    val lifecycle = LocalLifecycleOwner.current.lifecycle
+    DisposableEffect(speech, lifecycle) {
+        val observer = LifecycleEventObserver { _, event ->
+            if (event == Lifecycle.Event.ON_RESUME) speech.refreshVoice()
+            if (event == Lifecycle.Event.ON_STOP) speech.stop()
+        }
+        lifecycle.addObserver(observer)
+        onDispose { lifecycle.removeObserver(observer); speech.close() }
+    }
+    LaunchedEffect(s.qaidaAudioEnabled) { if (!s.qaidaAudioEnabled) speech.stop() }
     var index by remember { mutableStateOf(0) }; var tab by remember { mutableStateOf(0) }
+    fun pronounce(letter: Int) { if (s.qaidaAudioEnabled && speechState != SpeechState.Unavailable) { player.pause(); speech.speakArabic(qaidaLetters[letter].spokenArabic) } }
+    fun select(letter: Int) { index = letter; pronounce(letter) }
     FeaturePage(t("Noorani Qaida", "نورانی قاعدہ", "القاعدة النورانية")) {
+        SwitchRow(t("Qaida audio", "قاعدہ آڈیو", "صوت القاعدة"), s.qaidaAudioEnabled, { on ->
+            if (!on) speech.stop()
+            scope.launch { settings.update { it.copy(qaidaAudioEnabled = on) } }
+        }, t("Tap a letter to hear its name.", "حرف کا نام سننے کے لیے اس پر ٹیپ کریں۔", "اضغط على حرف لسماع اسمه."))
         UTabs(listOf(t("Letters", "حروف", "الحروف"), t("Practice", "مشق", "التدريب")), tab, { tab = it })
         Art("quran_rehal", Modifier.fillMaxWidth().height(100.dp))
-        DjCard(Modifier.fillMaxWidth()) { ArabicText(letters[index], Dj.type.displayL, center = true, modifier = Modifier.fillMaxWidth()); Txt(letterNames[index], Dj.type.titleL) }
-        Row(Modifier.fillMaxWidth(), horizontalArrangement = Arrangement.SpaceBetween) { DjButton(t("Previous", "پچھلا", "السابق"), { index = (index - 1).coerceAtLeast(0) }, enabled = index > 0, style = BtnStyle.Soft); DjButton(t("Next", "اگلا", "التالي"), { index = (index + 1).coerceAtMost(28) }, enabled = index < 28) }
-        if (tab == 0) letters.chunked(5).forEachIndexed { row, group -> Row(horizontalArrangement = Arrangement.spacedBy(6.dp)) { group.forEachIndexed { col, letter -> DjChip(letter, index == row * 5 + col, { index = row * 5 + col }, Modifier.weight(1f)) } } }
+        DjCard(Modifier.fillMaxWidth(), onClick = { pronounce(index) }) { ArabicText(letters[index], Dj.type.displayL, center = true, modifier = Modifier.fillMaxWidth()); Txt(letterNames[index], Dj.type.titleL) }
+        DjButton(t("Listen", "سنیں", "استمع"), { pronounce(index) }, lead = "volume-2", enabled = s.qaidaAudioEnabled && speechState != SpeechState.Unavailable, style = BtnStyle.Soft)
+        Row(Modifier.fillMaxWidth(), horizontalArrangement = Arrangement.SpaceBetween) { DjButton(t("Previous", "پچھلا", "السابق"), { select((index - 1).coerceAtLeast(0)) }, enabled = index > 0, style = BtnStyle.Soft); DjButton(t("Next", "اگلا", "التالي"), { select((index + 1).coerceAtMost(28)) }, enabled = index < 28) }
+        if (tab == 0) letters.chunked(5).forEachIndexed { row, group -> Row(horizontalArrangement = Arrangement.spacedBy(6.dp)) { group.forEachIndexed { col, letter -> DjChip(letter, index == row * 5 + col, { select(row * 5 + col) }, Modifier.weight(1f)) } } }
         else {
             ArabicText(letters[index] + "َ  " + letters[index] + "ِ  " + letters[index] + "ُ", Dj.type.quranL, center = true)
             DjButton(t("Mark practiced", "مشق مکمل", "تم التدريب"), { val key = index.toString(); scope.launch { users.setProgress("qaida", key, 1) } }, Modifier.fillMaxWidth())
         }
         DjProgress(done.count { it.value > 0 } / 29f)
-        NoteBox(t("Practice pronunciation with a teacher. Licensed letter recordings are not included yet.", "تلفظ کی مشق استاد کے ساتھ کریں۔ حروف کی آڈیو ابھی شامل نہیں۔", "تدرّب على النطق مع معلّم. تسجيلات الحروف غير متاحة بعد."))
+        if (s.qaidaAudioEnabled && (speechState == SpeechState.Unavailable || speechState == SpeechState.Error)) {
+            NoteBox(t("Arabic voice is unavailable. Add or enable an Arabic voice in your phone's speech settings, then try again.", "عربی آواز دستیاب نہیں۔ فون کی آواز کی سیٹنگز میں عربی آواز شامل یا فعال کر کے دوبارہ کوشش کریں۔", "الصوت العربي غير متاح. أضف صوتًا عربيًا أو فعّله في إعدادات النطق ثم حاول مجددًا."))
+            DjButton(t("Set up Arabic voice", "عربی آواز سیٹ کریں", "إعداد الصوت العربي"), { speech.openVoiceSettings() }, style = BtnStyle.Secondary)
+        }
+        NoteBox(t("Letter names use your device's Arabic voice. Practice pronunciation with a teacher.", "حروف کے نام فون کی عربی آواز میں سنیں۔ تلفظ کی مشق استاد کے ساتھ کریں۔", "تُقرأ أسماء الحروف بصوت جهازك العربي. تدرّب على النطق مع معلّم."))
     }
 }
 

@@ -70,6 +70,7 @@ data class AppSettings(
     val tasbihHaptic: Boolean = true,
     val tasbihSound: Boolean = false,
     val tasbihAutoReset: Boolean = false,
+    val qaidaAudioEnabled: Boolean = true,
     val nisab: String = "silver",
     val currency: String = "PKR",
     val wifiOnly: Boolean = true,
