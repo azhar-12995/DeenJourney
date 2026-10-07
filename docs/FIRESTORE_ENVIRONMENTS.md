@@ -19,7 +19,7 @@ Both Android builds use the same application ID, so they replace each other when
 
 On 7 October 2026, the `(default)` database was created with the user's approval in Mumbai (`asia-south1`), using Standard edition and Firestore Native mode. Metadata read-back confirmed `freeTier: true`. Billing settings were not changed. No named database was created.
 
-The supplied `firestore.rules` compiled successfully and were released to the default database through Firebase CLI using the project-authorized `deenjourney12995@gmail.com` account. Actual app account sync writes and cross-account denial still require an end-to-end check; database creation and rules deployment alone do not demonstrate that an account's records have been uploaded.
+The supplied `firestore.rules` compiled successfully and were released to the default database through Firebase CLI using the project-authorized `deenjourney12995@gmail.com` account. Account preferences now use an additional owner-only `preferences` collection. Backup, fresh-storage restore and cross-account denial have been verified with disposable local Android/Firebase emulator fixtures; the user's production account data has not been inspected. See `ACCOUNT_RESTORE.md` for verification details.
 
 Open the project's Firestore Console and select `(default)` to inspect the deployed rules. They restrict account records to their signed-in owner and correction report creation to the submitting account. No named database is needed.
 

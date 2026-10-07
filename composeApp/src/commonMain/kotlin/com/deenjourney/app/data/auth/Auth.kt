@@ -27,6 +27,7 @@ class AuthError(val code: String) : Exception(code) {
         "email" -> lang.pick("Please enter a valid email address.", "درست ای میل درج کریں۔", "أدخل بريدًا إلكترونيًا صحيحًا.")
         "cancelled" -> lang.pick("Sign-in was cancelled.", "سائن اِن منسوخ کر دیا گیا۔", "تم إلغاء تسجيل الدخول.")
         "unavailable" -> lang.pick("This sign-in option isn’t set up yet.", "یہ سائن اِن طریقہ ابھی دستیاب نہیں۔", "طريقة الدخول هذه غير مهيأة بعد.")
+        "restore" -> lang.pick("Signed in, but your backup could not be restored. Check your connection and try again.", "سائن اِن ہو گیا، لیکن بیک اپ بحال نہیں ہو سکا۔ انٹرنیٹ چیک کر کے دوبارہ کوشش کریں۔", "تم تسجيل الدخول، لكن تعذرت استعادة النسخة الاحتياطية. تحقق من الاتصال وحاول مجددًا.")
         else -> lang.pick("Something went wrong. Please try again.", "کچھ غلط ہو گیا۔ دوبارہ کوشش کریں۔", "حدث خطأ ما. حاول مجددًا.")
     }
 
@@ -46,7 +47,7 @@ class AuthError(val code: String) : Exception(code) {
                 "badly formatted" in m || "invalid-email" in m -> "email"
                 else -> "unknown"
             }
-            return AuthError(code)
+            return AuthError(code).also { it.initCause(e) }
         }
     }
 }
@@ -73,7 +74,8 @@ class AuthRepo(scope: CoroutineScope) {
     private suspend fun <T> guard(block: suspend () -> T): Result<T> = runCatching { block() }.recoverCatching { throw AuthError.from(it) }
 
     suspend fun signIn(email: String, password: String): Result<Unit> = guard {
-        auth.signInWithEmailAndPassword(email.trim(), password); Unit
+        auth.signInWithEmailAndPassword(email.trim(), password)
+        _user.value = auth.currentUser?.toUser()
     }
 
     suspend fun signUp(name: String, email: String, password: String): Result<Unit> = guard {
@@ -85,10 +87,11 @@ class AuthRepo(scope: CoroutineScope) {
 
     suspend fun sendReset(email: String): Result<Unit> = guard { auth.sendPasswordResetEmail(email.trim()) }
 
-    suspend fun signInWithGoogle(idToken: String): Result<Unit> = guard { auth.signInWithCredential(GoogleAuthProvider.credential(idToken, null)); Unit }
+    suspend fun signInWithGoogle(idToken: String): Result<Unit> = guard { auth.signInWithCredential(GoogleAuthProvider.credential(idToken, null)); _user.value = auth.currentUser?.toUser() }
 
     suspend fun signInWithApple(idToken: String, rawNonce: String): Result<Unit> = guard {
         auth.signInWithCredential(OAuthProvider.credential(providerId = "apple.com", idToken = idToken, rawNonce = rawNonce)); Unit
+        _user.value = auth.currentUser?.toUser()
     }
 
     suspend fun resendVerification(): Result<Unit> = guard { auth.currentUser?.sendEmailVerification(); Unit }

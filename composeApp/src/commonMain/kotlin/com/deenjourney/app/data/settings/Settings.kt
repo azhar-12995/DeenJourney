@@ -8,6 +8,7 @@ import androidx.datastore.preferences.core.stringPreferencesKey
 import com.deenjourney.app.core.Lang
 import com.deenjourney.app.core.Platform
 import com.deenjourney.app.data.sync.CloudEnvironment
+import com.deenjourney.app.data.user.nowMs
 import com.deenjourney.app.data.prayer.PrayerConfig
 import com.deenjourney.app.data.prayer.PrayerName
 import kotlinx.coroutines.CoroutineScope
@@ -75,6 +76,8 @@ data class AppSettings(
     val dbVersions: Map<String, Int> = emptyMap(),
     val syncEnabled: Boolean = true,
     val lastSyncAt: Long = 0,
+    val syncAccountUid: String? = null,
+    val preferencesUpdatedAt: Long = 0,
 ) {
     val language: Lang get() = Lang.of(lang)
 }
@@ -94,7 +97,18 @@ class SettingsRepo(scope: CoroutineScope) {
     suspend fun update(block: (AppSettings) -> AppSettings) {
         store.edit { p ->
             val cur = p[key]?.let { runCatching { json.decodeFromString(AppSettings.serializer(), it) }.getOrNull() } ?: AppSettings()
-            p[key] = json.encodeToString(AppSettings.serializer(), block(cur))
+            val next = block(cur)
+            val stamped = if (CloudPreferences.from(next) != CloudPreferences.from(cur))
+                next.copy(preferencesUpdatedAt = nowMs()) else next
+            p[key] = json.encodeToString(AppSettings.serializer(), stamped)
+        }
+    }
+
+    suspend fun restorePreferences(backup: PreferencesBackup) {
+        store.edit { p ->
+            val cur = p[key]?.let { json.decodeFromString(AppSettings.serializer(), it) } ?: AppSettings()
+            val restored = backup.preferences.applyTo(cur).copy(preferencesUpdatedAt = backup.updatedAt)
+            p[key] = json.encodeToString(AppSettings.serializer(), restored)
         }
     }
 }

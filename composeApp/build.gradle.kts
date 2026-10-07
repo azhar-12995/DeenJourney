@@ -80,6 +80,10 @@ kotlin {
             implementation(libs.kotlin.test)
             implementation(libs.kotlinx.coroutines.test)
         }
+        androidInstrumentedTest.dependencies {
+            implementation("androidx.test.ext:junit:1.3.0")
+            implementation("androidx.test:runner:1.7.0")
+        }
     }
 }
 
@@ -92,7 +96,10 @@ android {
         targetSdk = 36
         versionCode = 1
         versionName = "1.0.0"
+        testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
         buildConfigField("boolean", "USE_EMULATORS", useEmulators.toString())
+        buildConfigField("int", "AUTH_EMULATOR_PORT", (findProperty("dj.authEmulatorPort") ?: "9099").toString().toInt().toString())
+        buildConfigField("int", "FIRESTORE_EMULATOR_PORT", (findProperty("dj.firestoreEmulatorPort") ?: "8080").toString().toInt().toString())
         buildConfigField("String", "GOOGLE_WEB_CLIENT_ID", "\"${findProperty("dj.googleWebClientId") ?: ""}\"")
     }
     buildFeatures { buildConfig = true }

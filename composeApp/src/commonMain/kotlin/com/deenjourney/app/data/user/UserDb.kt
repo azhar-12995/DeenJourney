@@ -90,20 +90,24 @@ interface UserDao {
     @Query("SELECT * FROM note WHERE profileId = :p AND deleted = 0 ORDER BY updatedAt DESC") fun notes(p: String): Flow<List<NoteE>>
     @Query("SELECT * FROM note WHERE profileId = :p AND ayahKey = :k AND deleted = 0 ORDER BY updatedAt DESC") fun notesFor(p: String, k: String): Flow<List<NoteE>>
     @Upsert suspend fun upsertNote(n: NoteE)
+    @Query("SELECT * FROM note WHERE id = :id") suspend fun noteById(id: String): NoteE?
 
     // highlights
     @Query("SELECT * FROM highlight WHERE profileId = :p AND deleted = 0") fun highlights(p: String): Flow<List<HighlightE>>
     @Upsert suspend fun upsertHighlight(h: HighlightE)
+    @Query("SELECT * FROM highlight WHERE id = :id") suspend fun highlightById(id: String): HighlightE?
 
     // progress
     @Query("SELECT * FROM progress WHERE profileId = :p AND deleted = 0") fun progress(p: String): Flow<List<ProgressE>>
     @Query("SELECT * FROM progress WHERE profileId = :p AND kind = :kind AND deleted = 0") fun progressOf(p: String, kind: String): Flow<List<ProgressE>>
     @Upsert suspend fun upsertProgress(p: ProgressE)
+    @Query("SELECT * FROM progress WHERE id = :id") suspend fun progressById(id: String): ProgressE?
 
     // counters
     @Query("SELECT * FROM counter WHERE profileId = :p AND deleted = 0 ORDER BY sort, updatedAt") fun counters(p: String): Flow<List<CounterE>>
     @Query("SELECT COUNT(*) FROM counter WHERE profileId = :p") suspend fun counterCount(p: String): Int
     @Upsert suspend fun upsertCounter(c: CounterE)
+    @Query("SELECT * FROM counter WHERE id = :id") suspend fun counterById(id: String): CounterE?
 
     // daily logs
     @Query("SELECT * FROM daily WHERE profileId = :p AND kind = :kind AND date >= :from AND deleted = 0 ORDER BY date") fun daily(p: String, kind: String, from: String): Flow<List<DailyE>>
@@ -122,6 +126,7 @@ interface UserDao {
     // zakat
     @Query("SELECT * FROM zakat WHERE deleted = 0 ORDER BY createdAt DESC") fun zakat(): Flow<List<ZakatE>>
     @Upsert suspend fun upsertZakat(z: ZakatE)
+    @Query("SELECT * FROM zakat WHERE id = :id") suspend fun zakatById(id: String): ZakatE?
 
     // sync helpers
     @Query("SELECT * FROM profile WHERE updatedAt > :since") suspend fun profilesSince(since: Long): List<ProfileE>

@@ -18,6 +18,7 @@ import com.deenjourney.app.data.quran.QuranRepo
 import com.deenjourney.app.data.quran.QuranNames
 import com.deenjourney.app.data.settings.SettingsRepo
 import com.deenjourney.app.data.sync.SyncRepo
+import com.deenjourney.app.data.sync.SyncState
 import com.deenjourney.app.data.user.*
 import com.deenjourney.app.design.*
 import com.deenjourney.app.feature.*
@@ -44,6 +45,8 @@ fun ProfileScreen() {
         CardRow(t("Saved items", "محفوظ آئٹمز", "المحفوظات"), glyph = "bookmark", onClick = { nav.go(Saved) })
         SwitchRow(t("Sync & backup", "سنک اور بیک اپ", "المزامنة والنسخ الاحتياطي"), s.syncEnabled, { on -> scope.launch { settings.update { it.copy(syncEnabled = on) }; if (on) sync.syncNow() } }, state.name)
         DjButton(t("Sync now", "ابھی سنک کریں", "مزامنة الآن"), { scope.launch { sync.syncNow() } }, enabled = s.syncEnabled, style = BtnStyle.Soft)
+        if (state == SyncState.Error || state == SyncState.Offline)
+            Txt(t("Backup incomplete. Connect to the internet and tap Sync now before reinstalling or changing devices.", "بیک اپ مکمل نہیں ہوا۔ ایپ دوبارہ انسٹال کرنے یا ڈیوائس بدلنے سے پہلے انٹرنیٹ سے جڑ کر ابھی سنک کریں۔", "النسخ الاحتياطي غير مكتمل. اتصل بالإنترنت واضغط مزامنة الآن قبل إعادة التثبيت أو تغيير الجهاز."), Dj.type.bodyS, Dj.c.text2)
         CardRow(t("Privacy & data", "پرائیویسی اور ڈیٹا", "الخصوصية والبيانات"), icon = "shield", onClick = { nav.go(Privacy) })
         CardRow(t("Help & FAQ", "مدد اور سوالات", "المساعدة والأسئلة"), icon = "help", onClick = { nav.go(Help) })
         CardRow(t("Report a correction", "غلطی کی نشاندہی", "الإبلاغ عن تصحيح"), icon = "flag", onClick = { nav.go(Correction()) })
@@ -142,7 +145,7 @@ fun PrivacyScreen() {
         TextLink(t("Read privacy policy", "پرائیویسی پالیسی پڑھیں", "اقرأ سياسة الخصوصية"), { Platform.openUrl(Legal.privacyPolicyUrl) })
         TextLink(t("Request account deletion online", "اکاؤنٹ حذف کرنے کی آن لائن درخواست", "طلب حذف الحساب عبر الإنترنت"), { Platform.openUrl(Legal.deletionRequestUrl) })
         NoteBox(t("Family profiles, notes and progress are stored on this device and synced to your signed-in account when sync is enabled. Location is used locally for prayer times and Qibla.", "فیملی پروفائلز، نوٹس اور پیش رفت فون پر محفوظ ہیں اور سنک آن ہو تو اکاؤنٹ میں محفوظ ہوتے ہیں۔ مقام نماز اور قبلہ کے لیے ہے۔", "تُحفظ الملفات والملاحظات والتقدم على الجهاز وتُزامن مع الحساب عند تفعيل المزامنة. يُستخدم الموقع للصلاة والقبلة."))
-        SwitchRow(t("Cloud sync", "کلاؤڈ سنک", "المزامنة السحابية"), s.syncEnabled, { on -> scope.launch { settings.update { it.copy(syncEnabled = on) } } })
+        SwitchRow(t("Cloud sync", "کلاؤڈ سنک", "المزامنة السحابية"), s.syncEnabled, { on -> scope.launch { settings.update { it.copy(syncEnabled = on) }; if (on) sync.syncNow() } })
         CardRow(t("Location permissions", "مقام کی اجازت", "أذونات الموقع"), icon = "map-pin", onClick = { Platform.openAppSettings() })
         DjButton(t("Export my data", "میرا ڈیٹا ایکسپورٹ", "تصدير بياناتي"), { scope.launch { val path = "${Platform.cacheDir()}/share/deen-journey-${nowMs()}.json"; Platform.writeFile(path, exportUserData(users).encodeToByteArray()); Platform.shareFile(path, "application/json") } }, Modifier.fillMaxWidth(), lead = "download", style = BtnStyle.Soft)
         if (auth.user.value?.providers?.contains("password") == true) DjField(password, { password = it }, label = t("Password to delete account", "اکاؤنٹ حذف کرنے کا پاس ورڈ", "كلمة المرور لحذف الحساب"), password = true)

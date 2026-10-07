@@ -47,6 +47,8 @@ import com.deenjourney.app.data.prayer.Method
 import com.deenjourney.app.data.prayer.MethodDefaults
 import com.deenjourney.app.data.settings.SavedLocation
 import com.deenjourney.app.data.settings.SettingsRepo
+import com.deenjourney.app.data.sync.SyncRepo
+import kotlinx.coroutines.withTimeoutOrNull
 import com.deenjourney.app.data.user.UserRepo
 import com.deenjourney.app.design.*
 import com.deenjourney.app.nav.*
@@ -65,20 +67,21 @@ fun SplashScreen() {
     val settings = koinInject<SettingsRepo>()
     val auth = koinInject<AuthRepo>()
     val installer = koinInject<DbInstaller>()
-    val users = koinInject<UserRepo>()
+    val users = koinInject<UserRepo>(); val sync = koinInject<SyncRepo>()
     LaunchedEffect(Unit) {
         val start = kotlin.time.TimeSource.Monotonic.markNow()
         runCatching { installer.ensure(BundledDb.QURAN); installer.ensure(BundledDb.CITIES) }
-        val s = settings.get()
-        // wait (≤ 2.5 s) for Firebase to restore the signed-in user
-        repeat(25) { if (auth.ready.value) return@repeat; delay(100) }
+        withTimeoutOrNull(5000) { auth.ready.first { it } }
         val left = 900 - start.elapsedNow().inWholeMilliseconds
         if (left > 0) delay(left)
         val user = auth.user.value
+        if (user != null) sync.syncNow(restore = true)
+        val s = settings.get()
         when {
-            s.lang == null || user == null -> nav.reset(Welcome)
-            !s.setupDone -> { users.ensureOwner(user.name ?: ""); nav.reset(PrayerSetup()) }
-            else -> { users.ensureOwner(user.name ?: ""); nav.reset(Home) }
+            user == null -> nav.reset(Welcome)
+            users.dao.profilesNow().isEmpty() -> nav.reset(SignIn)
+            !s.setupDone -> nav.reset(PrayerSetup())
+            else -> nav.reset(Home)
         }
     }
     val pulse = rememberInfiniteTransition().animateFloat(0.3f, 1f, infiniteRepeatable(tween(700), RepeatMode.Reverse))
@@ -152,12 +155,28 @@ fun WelcomeScreen() {
     }
 }
 
-/** After any successful sign-in: owner profile + next step. */
-private suspend fun afterSignIn(nav: Navigator, settings: SettingsRepo, users: UserRepo, auth: AuthRepo) {
-    users.ensureOwner(auth.user.value?.name ?: "")
+/** Restore the account before deciding whether onboarding is needed. */
+private suspend fun afterSignIn(nav: Navigator, settings: SettingsRepo, sync: SyncRepo) {
+    if (!sync.syncNow(restore = true)) throw AuthError("restore")
+    Scheduler.reschedule()
     if (settings.get().setupDone) nav.reset(Home) else nav.reset(PrayerSetup())
 }
 
+@Composable
+private fun RetryAccountRestore() {
+    val nav = LocalNavigator.current
+    val settings = koinInject<SettingsRepo>()
+    val sync = koinInject<SyncRepo>()
+    val scope = rememberCoroutineScope()
+    var busy by remember { mutableStateOf(false) }
+    DjButton(t("Retry restoring my account", "میرا اکاؤنٹ دوبارہ بحال کریں", "إعادة محاولة استعادة حسابي"), {
+        scope.launch {
+            busy = true
+            runCatching { afterSignIn(nav, settings, sync) }
+            busy = false
+        }
+    }, Modifier.fillMaxWidth(), loading = busy, style = BtnStyle.Secondary)
+}
 @Composable
 private fun SocialButtons(onResult: (SocialResult) -> Unit) {
     val google = rememberGoogleSignIn(onResult)
@@ -174,7 +193,7 @@ private fun SocialButtons(onResult: (SocialResult) -> Unit) {
 @Composable
 fun SignInScreen() {
     val nav = LocalNavigator.current
-    val auth = koinInject<AuthRepo>(); val settings = koinInject<SettingsRepo>(); val users = koinInject<UserRepo>()
+    val auth = koinInject<AuthRepo>(); val settings = koinInject<SettingsRepo>(); val users = koinInject<UserRepo>(); val sync = koinInject<SyncRepo>()
     val lang = LocalLang.current
     val scope = rememberCoroutineScope()
     var email by remember { mutableStateOf("") }
@@ -186,7 +205,7 @@ fun SignInScreen() {
         if (error != null) return
         busy = true
         scope.launch {
-            auth.signIn(email, pass).onSuccess { afterSignIn(nav, settings, users, auth) }.onFailure { error = AuthError.from(it).message(lang) }
+            auth.signIn(email, pass).mapCatching { afterSignIn(nav, settings, sync) }.onFailure { error = AuthError.from(it).message(lang) }
             busy = false
         }
     }
@@ -194,7 +213,7 @@ fun SignInScreen() {
         scope.launch {
             busy = true
             val res = when (r) { is SocialResult.Google -> auth.signInWithGoogle(r.idToken); is SocialResult.Apple -> auth.signInWithApple(r.idToken, r.rawNonce); is SocialResult.Failed -> Result.failure(AuthError(r.code)) }
-            res.onSuccess { afterSignIn(nav, settings, users, auth) }.onFailure { error = AuthError.from(it).message(lang) }
+            res.mapCatching { afterSignIn(nav, settings, sync) }.onFailure { error = AuthError.from(it).message(lang) }
             busy = false
         }
     }
@@ -207,6 +226,7 @@ fun SignInScreen() {
             DjField(pass, { pass = it; error = null }, label = t("Password", "پاس ورڈ", "كلمة المرور"), placeholder = "••••••••", icon = "lock", password = true, ime = ImeAction.Done, onIme = ::submit, error = error)
             Row(Modifier.fillMaxWidth(), horizontalArrangement = Arrangement.End) { TextLink(t("Forgot password?", "پاس ورڈ بھول گئے؟", "نسيت كلمة المرور؟"), { nav.go(Forgot) }) }
             DjButton(t("Sign in", "سائن اِن", "تسجيل الدخول"), ::submit, Modifier.fillMaxWidth(), loading = busy)
+            if (error == AuthError("restore").message(lang)) RetryAccountRestore()
             SocialButtons(social)
             Row(Modifier.fillMaxWidth(), horizontalArrangement = Arrangement.Center, verticalAlignment = Alignment.CenterVertically) {
                 Txt(t("New to Deen Journey?", "نئے ہیں؟", "جديد هنا؟"), Dj.type.bodyM, Dj.c.text2)
@@ -221,7 +241,7 @@ fun SignInScreen() {
 @Composable
 fun SignUpScreen() {
     val nav = LocalNavigator.current
-    val auth = koinInject<AuthRepo>(); val settings = koinInject<SettingsRepo>(); val users = koinInject<UserRepo>()
+    val auth = koinInject<AuthRepo>(); val settings = koinInject<SettingsRepo>(); val users = koinInject<UserRepo>(); val sync = koinInject<SyncRepo>()
     val lang = LocalLang.current
     val scope = rememberCoroutineScope()
     var name by remember { mutableStateOf("") }
@@ -242,10 +262,7 @@ fun SignUpScreen() {
         if (fieldErr != null) return
         busy = true
         scope.launch {
-            auth.signUp(name, email, pass).onSuccess {
-                users.ensureOwner(name)
-                nav.reset(PrayerSetup())
-            }.onFailure { error = AuthError.from(it).message(lang) }
+            auth.signUp(name, email, pass).mapCatching { afterSignIn(nav, settings, sync) }.onFailure { error = AuthError.from(it).message(lang) }
             busy = false
         }
     }
@@ -253,7 +270,7 @@ fun SignUpScreen() {
         scope.launch {
             busy = true
             val res = when (r) { is SocialResult.Google -> auth.signInWithGoogle(r.idToken); is SocialResult.Apple -> auth.signInWithApple(r.idToken, r.rawNonce); is SocialResult.Failed -> Result.failure(AuthError(r.code)) }
-            res.onSuccess { afterSignIn(nav, settings, users, auth) }.onFailure { error = AuthError.from(it).message(lang) }
+            res.mapCatching { afterSignIn(nav, settings, sync) }.onFailure { error = AuthError.from(it).message(lang) }
             busy = false
         }
     }
@@ -279,6 +296,7 @@ fun SignUpScreen() {
                 }
             }
             if (error != null) NoteBox(error!!, icon = "circle-alert", tone = NoteTone.Red)
+            if (error == AuthError("restore").message(lang)) RetryAccountRestore()
             DjButton(t("Create account", "اکاؤنٹ بنائیں", "إنشاء حساب"), ::submit, Modifier.fillMaxWidth(), loading = busy)
             SocialButtons(social)
             Row(Modifier.fillMaxWidth(), horizontalArrangement = Arrangement.Center, verticalAlignment = Alignment.CenterVertically) {

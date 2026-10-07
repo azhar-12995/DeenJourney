@@ -36,8 +36,8 @@ class DeenApp : Application() {
         }
         if (BuildConfig.USE_EMULATORS) {
             // 10.0.2.2 = the host machine from the Android emulator
-            runCatching { Firebase.auth.useEmulator("10.0.2.2", 9099) }
-            runCatching { accountFirestore.useEmulator("10.0.2.2", 8080) }
+            Firebase.auth.useEmulator("10.0.2.2", BuildConfig.AUTH_EMULATOR_PORT)
+            accountFirestore.useEmulator("10.0.2.2", BuildConfig.FIRESTORE_EMULATOR_PORT)
         }
     }
 }

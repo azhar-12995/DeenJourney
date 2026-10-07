@@ -9,7 +9,7 @@ service cloud.firestore {
       allow read, delete: if ownsAccount(uid);
       match /{table}/{rowId} {
         allow read, write: if ownsAccount(uid)
-          && table in ['profile', 'saved', 'note', 'highlight', 'progress', 'counter', 'daily', 'zakat'];
+          && table in ['profile', 'saved', 'note', 'highlight', 'progress', 'counter', 'daily', 'zakat', 'preferences'];
       }
     }
 
