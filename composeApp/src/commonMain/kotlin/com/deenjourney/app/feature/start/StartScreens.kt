@@ -24,6 +24,7 @@ import androidx.compose.ui.text.input.KeyboardType
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import com.deenjourney.app.core.Lang
+import com.deenjourney.app.core.Legal
 import com.deenjourney.app.core.LocalLang
 import com.deenjourney.app.core.Perm
 import com.deenjourney.app.core.Platform
