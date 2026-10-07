@@ -1,0 +1,96 @@
+{
+  "checked_on": "2026-10-07",
+  "text": {
+    "short-description.txt": {
+      "characters": 77,
+      "limit": 80
+    },
+    "full-description.txt": {
+      "characters": 2656,
+      "limit": 4000
+    }
+  },
+  "images": [
+    {
+      "file": "en-US/app-icon-512.png",
+      "width": 512,
+      "height": 512,
+      "mode": "RGBA",
+      "bytes": 45135,
+      "sha256": "c0d1fd20130075b8c53ede94409b0d970a4845fdb68f88a48bafc8e29b3cb2de"
+    },
+    {
+      "file": "en-US/feature-graphic-1024x500.png",
+      "width": 1024,
+      "height": 500,
+      "mode": "RGB",
+      "bytes": 604423,
+      "sha256": "4649bc539e8edb0e766750bc02cc7b754cdfdc28314ebc1d371d12f6f62b713f"
+    },
+    {
+      "file": "en-US/phone-screenshots/01-home.png",
+      "width": 1080,
+      "height": 1920,
+      "mode": "RGB",
+      "bytes": 258512,
+      "sha256": "164ec324a784ee0f886076e31f672608551047865741abe09e7917516c9e3cf6"
+    },
+    {
+      "file": "en-US/phone-screenshots/02-quran-reader.png",
+      "width": 1080,
+      "height": 1920,
+      "mode": "RGB",
+      "bytes": 215470,
+      "sha256": "b9e47a8e646f19c2e74bf6966d46cf0f7ddbc4c716ac43fa73c6884867a1d19f"
+    },
+    {
+      "file": "en-US/phone-screenshots/03-noorani-qaida.png",
+      "width": 1080,
+      "height": 1920,
+      "mode": "RGB",
+      "bytes": 158979,
+      "sha256": "06f2366c9c7d8f5e20fc17ef9e047f0fc294d6626ff7a2e9dffa8d3b4559f5fc"
+    },
+    {
+      "file": "en-US/phone-screenshots/04-prayer-times.png",
+      "width": 1080,
+      "height": 1920,
+      "mode": "RGB",
+      "bytes": 183595,
+      "sha256": "d485cd8ac3322883e800876e6f500d7213f06bb7327e8d7087968d06083fbd27"
+    },
+    {
+      "file": "en-US/phone-screenshots/05-duas.png",
+      "width": 1080,
+      "height": 1920,
+      "mode": "RGB",
+      "bytes": 65703,
+      "sha256": "c4ad68cf11579f9e70a5dad487dff793612c85508f80bb48d8a2599d94cb238f"
+    },
+    {
+      "file": "en-US/phone-screenshots/06-learn.png",
+      "width": 1080,
+      "height": 1920,
+      "mode": "RGB",
+      "bytes": 222478,
+      "sha256": "49e61d472e65a0197e2ecb6de77e545f4ea15486698248686fbe748c909c4edf"
+    },
+    {
+      "file": "en-US/phone-screenshots/07-quran-library.png",
+      "width": 1080,
+      "height": 1920,
+      "mode": "RGB",
+      "bytes": 169969,
+      "sha256": "61e2dbb3f78ad905eab34072bf20ef4aeca03a531f61cfb34d2724e14b3f684f"
+    },
+    {
+      "file": "en-US/phone-screenshots/08-ramadan.png",
+      "width": 1080,
+      "height": 1920,
+      "mode": "RGB",
+      "bytes": 241245,
+      "sha256": "ceaa2464247d1fd13546c165f1637dbbbe710daf8fc6e8d9ba7fe5130c0f5c59"
+    }
+  ],
+  "screenshots_visually_reviewed": true
+}

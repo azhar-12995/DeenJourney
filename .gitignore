@@ -34,3 +34,6 @@ __pycache__/
 
 # Downloaded source datasets; packaged app data stays tracked
 tools/data/src/
+
+# Local downloadable bundle; its source listing assets are tracked
+/store/DeenJourney-GooglePlay-assets.zip

@@ -1,0 +1,34 @@
+Deen Journey brings Quran reading, daily worship, Islamic learning and personal progress into one app for you and your family.
+
+QURAN READING AND RECITATION
+Read the Quran with English and Urdu translations. Browse surahs and juz, search verses, explore tafsir and word meanings, and keep bookmarks, notes and highlights. Listen to recitation with repeat, playback speed and sleep timer controls. Use Hifz practice to repeat passages, hide and reveal text, and mark your progress. Share ayahs as text or image cards.
+
+NOORANI QAIDA WITH REAL AUDIO
+Tap any of the 29 Arabic letters to hear its recorded name. The Qamar Apps recordings, recited by Mufti Mohammed Ghiyas Mohiuddin, are bundled for offline listening. Turn Qaida audio on or off in Settings, practise letter recognition and track completed practice.
+
+PRAYER AND DAILY WORSHIP
+View prayer times for your location or a manually selected city. Adjust calculation methods, Asr settings, prayer offsets and reminders. Find the Qibla direction and explore introductory guides for salah, wudu, ghusl and other acts of worship.
+
+DUAS, ADHKAR AND TASBIH
+Browse duas with Arabic text, transliteration, meanings and references. Follow morning and evening adhkar and use the tasbih counter to keep track of your dhikr.
+
+ISLAMIC LEARNING
+Explore hadith, Seerah, Quran passages about the prophets, Allah's names and akhlaq topics. Follow introductory lessons and quizzes, set learning goals and view your progress.
+
+FAMILY PROFILES
+Create profiles for family members, choose age groups and learning levels, and follow each member's learning progress through the parent dashboard.
+
+RAMADAN AND ISLAMIC TOOLS
+Use Ramadan planning and tracking, Quran reading plans, fasting guides, the Zakat calculator, Hajj and Umrah guides and checklists, and the Hijri calendar.
+
+SAVE AND RESTORE YOUR PROGRESS
+Sign in to back up supported profiles, bookmarks, notes, learning progress, counters, trackers and preferences. Successfully synced data can be restored when you reinstall the app or sign in on another device. Account sync requires an internet connection.
+
+MAKE IT YOURS
+Choose an English, Urdu or Arabic interface, light or dark appearance and a comfortable text size. Manage saved items, available downloads and privacy controls, or contact support to report a correction.
+
+Quran streaming, online tafsir, hadith downloads and other online services require an internet connection. Noorani Qaida letter recordings are available offline.
+
+Support: deenjourney12995@gmail.com
+Privacy policy: https://azhar-12995.github.io/DeenJourney/
+Account deletion: https://azhar-12995.github.io/DeenJourney/delete-account.html

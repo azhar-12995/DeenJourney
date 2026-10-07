@@ -13,6 +13,13 @@ class DesignPreviewActivity : ComponentActivity() {
         if (!BuildConfig.DEBUG) { finish(); return }
         enableEdgeToEdge()
         val route: com.deenjourney.app.nav.R = when (intent.getStringExtra("screen")) {
+            "home" -> Home
+            "quran" -> QuranHome()
+            "prayers" -> PrayerTimes
+            "duas" -> Duas
+            "learn" -> LearnHub
+            "tasbih" -> Tasbih()
+            "ramadan" -> Ramadan
             "reader" -> Reader(2, 11)
             "player" -> Player
             "qibla" -> Qibla(1)
