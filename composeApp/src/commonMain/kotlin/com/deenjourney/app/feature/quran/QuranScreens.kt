@@ -294,29 +294,28 @@ fun QaidaScreen() {
     val users = koinInject<UserRepo>(); val scope = rememberCoroutineScope(); val done by users.progress("qaida").collectAsState(emptyList())
     val settings = koinInject<SettingsRepo>(); val s by settings.flow.collectAsState()
     val player = koinInject<RecitationPlayer>()
-    val speech = remember { LetterSpeech() }; val speechState by speech.state.collectAsState()
+    val audio = remember { QaidaAudio() }; val audioState by audio.state.collectAsState()
     val lifecycle = LocalLifecycleOwner.current.lifecycle
-    DisposableEffect(speech, lifecycle) {
+    DisposableEffect(audio, lifecycle) {
         val observer = LifecycleEventObserver { _, event ->
-            if (event == Lifecycle.Event.ON_RESUME) speech.refreshVoice()
-            if (event == Lifecycle.Event.ON_STOP) speech.stop()
+            if (event == Lifecycle.Event.ON_STOP) audio.stop()
         }
         lifecycle.addObserver(observer)
-        onDispose { lifecycle.removeObserver(observer); speech.close() }
+        onDispose { lifecycle.removeObserver(observer); audio.close() }
     }
-    LaunchedEffect(s.qaidaAudioEnabled) { if (!s.qaidaAudioEnabled) speech.stop() }
+    LaunchedEffect(s.qaidaAudioEnabled) { if (!s.qaidaAudioEnabled) audio.stop() }
     var index by remember { mutableStateOf(0) }; var tab by remember { mutableStateOf(0) }
-    fun pronounce(letter: Int) { if (s.qaidaAudioEnabled && speechState != SpeechState.Unavailable) { player.pause(); speech.speakArabic(qaidaLetters[letter].spokenArabic) } }
+    fun pronounce(letter: Int) { if (s.qaidaAudioEnabled) { player.pause(); audio.play(qaidaLetters[letter].audioFile) } }
     fun select(letter: Int) { index = letter; pronounce(letter) }
     FeaturePage(t("Noorani Qaida", "نورانی قاعدہ", "القاعدة النورانية")) {
         SwitchRow(t("Qaida audio", "قاعدہ آڈیو", "صوت القاعدة"), s.qaidaAudioEnabled, { on ->
-            if (!on) speech.stop()
+            if (!on) audio.stop()
             scope.launch { settings.update { it.copy(qaidaAudioEnabled = on) } }
         }, t("Tap a letter to hear its name.", "حرف کا نام سننے کے لیے اس پر ٹیپ کریں۔", "اضغط على حرف لسماع اسمه."))
         UTabs(listOf(t("Letters", "حروف", "الحروف"), t("Practice", "مشق", "التدريب")), tab, { tab = it })
         Art("quran_rehal", Modifier.fillMaxWidth().height(100.dp))
         DjCard(Modifier.fillMaxWidth(), onClick = { pronounce(index) }) { ArabicText(letters[index], Dj.type.displayL, center = true, modifier = Modifier.fillMaxWidth()); Txt(letterNames[index], Dj.type.titleL) }
-        DjButton(t("Listen", "سنیں", "استمع"), { pronounce(index) }, lead = "volume-2", enabled = s.qaidaAudioEnabled && speechState != SpeechState.Unavailable, style = BtnStyle.Soft)
+        DjButton(t("Listen", "سنیں", "استمع"), { pronounce(index) }, lead = "volume-2", enabled = s.qaidaAudioEnabled, style = BtnStyle.Soft)
         Row(Modifier.fillMaxWidth(), horizontalArrangement = Arrangement.SpaceBetween) { DjButton(t("Previous", "پچھلا", "السابق"), { select((index - 1).coerceAtLeast(0)) }, enabled = index > 0, style = BtnStyle.Soft); DjButton(t("Next", "اگلا", "التالي"), { select((index + 1).coerceAtMost(28)) }, enabled = index < 28) }
         if (tab == 0) letters.chunked(5).forEachIndexed { row, group -> Row(horizontalArrangement = Arrangement.spacedBy(6.dp)) { group.forEachIndexed { col, letter -> DjChip(letter, index == row * 5 + col, { select(row * 5 + col) }, Modifier.weight(1f)) } } }
         else {
@@ -324,11 +323,13 @@ fun QaidaScreen() {
             DjButton(t("Mark practiced", "مشق مکمل", "تم التدريب"), { val key = index.toString(); scope.launch { users.setProgress("qaida", key, 1) } }, Modifier.fillMaxWidth())
         }
         DjProgress(done.count { it.value > 0 } / 29f)
-        if (s.qaidaAudioEnabled && (speechState == SpeechState.Unavailable || speechState == SpeechState.Error)) {
-            NoteBox(t("Arabic voice is unavailable. Add or enable an Arabic voice in your phone's speech settings, then try again.", "عربی آواز دستیاب نہیں۔ فون کی آواز کی سیٹنگز میں عربی آواز شامل یا فعال کر کے دوبارہ کوشش کریں۔", "الصوت العربي غير متاح. أضف صوتًا عربيًا أو فعّله في إعدادات النطق ثم حاول مجددًا."))
-            DjButton(t("Set up Arabic voice", "عربی آواز سیٹ کریں", "إعداد الصوت العربي"), { speech.openVoiceSettings() }, style = BtnStyle.Secondary)
+        if (s.qaidaAudioEnabled && audioState == QaidaAudioState.Error) {
+            NoteBox(t("Recording could not play. Tap Listen to retry.", "ریکارڈنگ نہیں چل سکی۔ دوبارہ سننے کے لیے سنیں دبائیں۔", "تعذّر تشغيل التسجيل. اضغط استمع للمحاولة مجددًا."))
         }
-        NoteBox(t("Letter names use your device's Arabic voice. Practice pronunciation with a teacher.", "حروف کے نام فون کی عربی آواز میں سنیں۔ تلفظ کی مشق استاد کے ساتھ کریں۔", "تُقرأ أسماء الحروف بصوت جهازك العربي. تدرّب على النطق مع معلّم."))
+        NoteBox(t("Recorded voice: Mufti Mohammed Ghiyas Mohiuddin · Qamar Apps. Available offline. Practice with a teacher.", "ریکارڈ شدہ آواز: مفتی محمد غیاث محی الدین · Qamar Apps۔ انٹرنیٹ کے بغیر دستیاب۔ استاد کے ساتھ مشق کریں۔", "تسجيل المفتي محمد غياث محي الدين · Qamar Apps. متاح دون اتصال. تدرّب مع معلّم."))
+        Txt("Noorani Qaida (Pakistani Edition) · CC BY-SA 4.0", Dj.type.bodyS)
+        DjButton(t("Audio source & license", "آڈیو کا ماخذ اور لائسنس", "مصدر الصوت والترخيص"), { Platform.openUrl("https://www.qamarapps.com/license") }, style = BtnStyle.Secondary)
+
     }
 }
 

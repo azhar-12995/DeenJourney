@@ -13,6 +13,12 @@ class QaidaAudioTest {
     @Test fun similarLookingLettersHaveDistinctArabicNames() {
         assertEquals(29, qaidaLetters.size)
         assertEquals(29, qaidaLetters.map { it.glyph }.toSet().size)
+        assertEquals(29, qaidaLetters.map { it.audioFile }.toSet().size)
+        // The publisher orders the last row Waw, Haa, Hamzah, Yaa, Bari Yaa.
+        assertEquals("01029.mp3", qaidaLetters.single { it.glyph == "ه" }.audioFile)
+        assertEquals("01028.mp3", qaidaLetters.single { it.glyph == "و" }.audioFile)
+        assertEquals("01030.mp3", qaidaLetters.single { it.glyph == "ء" }.audioFile)
+        assertEquals("01031.mp3", qaidaLetters.single { it.glyph == "ي" }.audioFile)
         fun voice(glyph: String) = qaidaLetters.single { it.glyph == glyph }.spokenArabic
         assertNotEquals(voice("ح"), voice("ه"))
         assertNotEquals(voice("ت"), voice("ط"))

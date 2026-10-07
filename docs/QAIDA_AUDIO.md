@@ -1,18 +1,25 @@
-# Noorani Qaida audio
+# Noorani Qaida recorded audio
 
-Tap any of the 29 letters, the enlarged letter card, or Listen to hear the letter's vocalized Arabic name using the device speech engine. Previous/Next also pronounce the selected letter. Rapid taps replace the current pronunciation. Existing Quran recitation pauses before letter audio begins.
+Letter taps, Listen, and Previous/Next play unmodified MP3 recordings from Qamar Apps' Noorani Qaida (Pakistani Edition), recited by Mufti Mohammed Ghiyas Mohiuddin of Madrasa Arabia Hifzul Quraan, India. All 29 clips are bundled (approximately 676 KiB) and work offline. Device TextToSpeech has been removed; no voice engine, voice download, or network request is required.
 
-Qaida audio is enabled by default and has the same saved switch in Settings and on the Qaida screen. Muting stops queued/current pronunciation. The setting is included in the account preferences backup so another installation can restore the same choice. Speech stops when the screen goes into the background and the screen-owned engine is released when leaving the route.
+The screen-owned native player replaces the current clip on rapid taps. It stops when audio is muted, the app enters the background, or the route is disposed. Quran recitation pauses before a letter clip starts. The shared Settings/Qaida audio switch remains included in the account preferences backup.
 
-Android uses TextToSpeech with Arabic (Saudi Arabia), preferring an installed Arabic voice. It does not substitute English pronunciation when Arabic is unavailable. If voice data or the engine is unavailable, the screen shows a voice setup action. Device speech engines may require voice downloads or network access depending on the installed voice. Letter names are fixed app content; no microphone or user-entered text is used for this feature. These are synthesized letter names, not recordings of a Qaida teacher or of Quran recitation.
+## Provenance and license
+
+- Source package: `com.qamarapps.nooranipak` version 1.2.2 (22), Qamar Apps.
+- APK signature verified with Android apksigner. Signer: Qamar Apps, Auckland; certificate SHA-1 `db1026d55b92370ca859c0533df0beaf1a6b15ec`.
+- Both publisher website https://www.qamarapps.com/license and APK `assets/www/book/Pages/aboutus.html` explicitly license the publication under Creative Commons Attribution-ShareAlike 4.0 International: https://creativecommons.org/licenses/by-sa/4.0/.
+- Download: https://d.apkpure.net/b/APK/com.qamarapps.nooranipak?version=latest. The mirror was used only to retrieve the signed original package; it was not installed or executed.
+- First-lesson image and original HTML image-map were inspected together. Files 01003 through 01027 map to Alif through Noon; the final row maps Waw=01028, Haa=01029, Hamzah=01030, Yaa=01031. Bari Yaa (01032) is omitted from this app's existing 29-letter grid.
+- The MP3 recordings are unmodified and retain CC BY-SA 4.0. Selection, renaming/mapping and omission are documented; no endorsement is implied. In-app attribution names the reciter and publisher and links the license. Packaged ATTRIBUTION.txt and provenance.json contain source entries and per-file SHA-256 hashes. The original embedded publisher license statement is preserved beside the clips.
 
 ## Verification on 7 October 2026
 
-- Android debug assembly, release compilation and ten unit tests passed.
-- Native Android speech instrumentation passed (status code 0, not an assumption skip): Arabic Baa produced speech start/completion callbacks; stopping the next utterance returned the engine to Ready.
-- Letter-data tests distinguish ح/ه, ت/ط and ذ/ظ and cover all 29 entries.
-- The audio-off choice survived local activity restart and cloud preference serialization. Older backups without the new field still decode.
-- Qaida and Settings UI were inspected on the disposable Android emulator; screenshots are in `verification/qaida-audio.png` and `verification/qaida-settings.png`.
-- iOS speech source was added, but iOS compilation and device playback have not been verified on this Windows host. Pronunciation quality depends on the installed voice and should be checked with a teacher.
+- Android debug APK and test APK assembly, release Kotlin compilation, and all 10 unit tests passed.
+- Native instrumentation passed with Wi-Fi/mobile data disabled on the disposable emulator: all 29 MP3 files started and completed, rapid replacement/stop worked, and an invalid filename reported an error. Runtime 92.581 seconds; no skipped tests.
+- The 29 packaged SHA-256 hashes match the unmodified source clips. Qaida screen and visible source/license attribution were inspected; screenshots are in `verification/qaida-audio.png` and `verification/qaida-recorded-attribution.png`.
 
-Android API reference: https://developer.android.com/reference/android/speech/tts/TextToSpeech
+
+Android instrumentation plays every one of the 29 bundled MP3s, waits for playback completion, checks replacement/stop, and checks missing-file errors. No installed speech voice is needed. Common tests cover distinct letter names, the source's differing final-row order, and mute preference backup compatibility. Android debug assembly, release compilation and tests should be rerun after any audio/mapping change.
+
+iOS uses bundled recordings with AVAudioPlayer; compilation and device playback remain unverified on this Windows host. The existing Practice tab displays vowel drills but its Listen action continues to pronounce the selected letter name; this change adds recorded names, not recordings of all Qaida lessons.

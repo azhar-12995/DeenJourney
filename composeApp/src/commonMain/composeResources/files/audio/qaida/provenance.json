@@ -1,0 +1,189 @@
+{
+  "publication": "Noorani Qaida (Pakistani Edition)",
+  "publisher": "Qamar Apps",
+  "reciter": "Mufti Mohammed Ghiyas Mohiuddin, Madrasa Arabia Hifzul Quraan, India",
+  "package": "com.qamarapps.nooranipak",
+  "version": "1.2.2",
+  "sourceApkSha256": "37535622c570b2f63c1300c797330335e6bd165f546423fbeeb8362dcc037794",
+  "signerSha1": "db1026d55b92370ca859c0533df0beaf1a6b15ec",
+  "download": "https://d.apkpure.net/b/APK/com.qamarapps.nooranipak?version=latest",
+  "license": "CC BY-SA 4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "changes": "29 unmodified MP3 files selected from the first lesson; Bari Yaa omitted. App displays the common Arabic Haa and Yaa glyphs.",
+  "files": [
+    {
+      "file": "01003.mp3",
+      "sourceEntry": "assets/www/book/Audio/default/01003.mp3",
+      "bytes": 19792,
+      "sha256": "d0d554814153b3f3ced891cde6512d4015491341d54bef55dda8717ba61dedeb"
+    },
+    {
+      "file": "01004.mp3",
+      "sourceEntry": "assets/www/book/Audio/default/01004.mp3",
+      "bytes": 18960,
+      "sha256": "9e8fd951288d02769550f88e3d8632f059c305aa367648989f0820a5c9c1f175"
+    },
+    {
+      "file": "01005.mp3",
+      "sourceEntry": "assets/www/book/Audio/default/01005.mp3",
+      "bytes": 20624,
+      "sha256": "faa038a767b0555939be1298b4c5c28e5d38d95614dd03ab77db56663071970f"
+    },
+    {
+      "file": "01006.mp3",
+      "sourceEntry": "assets/www/book/Audio/default/01006.mp3",
+      "bytes": 24576,
+      "sha256": "9c79f93ddcc1b5195e95457f5f10de8a12add5e546228efce10bbede46db72ff"
+    },
+    {
+      "file": "01007.mp3",
+      "sourceEntry": "assets/www/book/Audio/default/01007.mp3",
+      "bytes": 32688,
+      "sha256": "d128ea4daee9eb2b4bb8670c29faaf3ba4a924a432926b39c245faad9ca8a609"
+    },
+    {
+      "file": "01008.mp3",
+      "sourceEntry": "assets/www/book/Audio/default/01008.mp3",
+      "bytes": 18336,
+      "sha256": "3002923b517632ec1ec2c4b83d6b0383cf7a1320fc76f2c1051f7b1f00ca898b"
+    },
+    {
+      "file": "01009.mp3",
+      "sourceEntry": "assets/www/book/Audio/default/01009.mp3",
+      "bytes": 13552,
+      "sha256": "1138251e0d0a61644bbff358eabf5a9a5dea4744ecff0f3f19c478169256bc01"
+    },
+    {
+      "file": "01010.mp3",
+      "sourceEntry": "assets/www/book/Audio/default/01010.mp3",
+      "bytes": 31024,
+      "sha256": "70047a9325681259aa84134a7987ca365d5a8f8d40abc6a0d2957bdf8e3f8cf8"
+    },
+    {
+      "file": "01011.mp3",
+      "sourceEntry": "assets/www/book/Audio/default/01011.mp3",
+      "bytes": 28528,
+      "sha256": "21d8a7d527508a141725d7dd9e7141ac19900822e2f55a68dd51266320a3a897"
+    },
+    {
+      "file": "01012.mp3",
+      "sourceEntry": "assets/www/book/Audio/default/01012.mp3",
+      "bytes": 15840,
+      "sha256": "242df13375c6994c94eae885adf2eb4ab9a84c0343bb6f06e76d5d71b98b19e5"
+    },
+    {
+      "file": "01013.mp3",
+      "sourceEntry": "assets/www/book/Audio/default/01013.mp3",
+      "bytes": 19584,
+      "sha256": "41e2331d50b39cb0916f22f966a52a2eeb8136b944bb62a49daba1c2c6f66909"
+    },
+    {
+      "file": "01014.mp3",
+      "sourceEntry": "assets/www/book/Audio/default/01014.mp3",
+      "bytes": 31856,
+      "sha256": "32f2b4c1b70f6af12de58fcda0a80e3eec942affca23ebddea09cfc567d967b5"
+    },
+    {
+      "file": "01015.mp3",
+      "sourceEntry": "assets/www/book/Audio/default/01015.mp3",
+      "bytes": 35808,
+      "sha256": "7cec960045cf5b28cd6d2f58186a413aa6534e64d175cfba5b37b6080323d799"
+    },
+    {
+      "file": "01016.mp3",
+      "sourceEntry": "assets/www/book/Audio/default/01016.mp3",
+      "bytes": 34976,
+      "sha256": "af08a84d845ffa81c5c432815fb30a06c2ea1a03c5fd12ecfb22e1e2f28c3905"
+    },
+    {
+      "file": "01017.mp3",
+      "sourceEntry": "assets/www/book/Audio/default/01017.mp3",
+      "bytes": 31856,
+      "sha256": "983a941d2787b10a991eb9f5d10ed217e4804da284503edf3eb42d0faa5c2e06"
+    },
+    {
+      "file": "01018.mp3",
+      "sourceEntry": "assets/www/book/Audio/default/01018.mp3",
+      "bytes": 20624,
+      "sha256": "9787236d651885a7ec94cd6cfdf5dfd03bc3d215e649a08287d8a6b2d0c2d6af"
+    },
+    {
+      "file": "01019.mp3",
+      "sourceEntry": "assets/www/book/Audio/default/01019.mp3",
+      "bytes": 17504,
+      "sha256": "ef305d2c0ec432847d8b36d6f8f2e5c8243cdf6a277e108370d631da00989cba"
+    },
+    {
+      "file": "01020.mp3",
+      "sourceEntry": "assets/www/book/Audio/default/01020.mp3",
+      "bytes": 23120,
+      "sha256": "4ef081393088e29437ba7a874b41c959db97d07d49f7ba311f2862754b16e108"
+    },
+    {
+      "file": "01021.mp3",
+      "sourceEntry": "assets/www/book/Audio/default/01021.mp3",
+      "bytes": 19168,
+      "sha256": "9d15559fc9fbe08ba5f4509417a03969f5e6a48af2c542d7b3469e5be531137e"
+    },
+    {
+      "file": "01022.mp3",
+      "sourceEntry": "assets/www/book/Audio/default/01022.mp3",
+      "bytes": 15008,
+      "sha256": "24ab9b7118e72cfb81ea97d4c0b3a9ae0cce1f080842fb095e9f58418c68b159"
+    },
+    {
+      "file": "01023.mp3",
+      "sourceEntry": "assets/www/book/Audio/default/01023.mp3",
+      "bytes": 27072,
+      "sha256": "99fc894fd05a44d8989daab1b66df71d5ca48cd56ea3bc443b0e667b19d6bcda"
+    },
+    {
+      "file": "01024.mp3",
+      "sourceEntry": "assets/www/book/Audio/default/01024.mp3",
+      "bytes": 20624,
+      "sha256": "b07bfb5c6f4b6e3c95968c7acfb06e35cc6e7ca68a8ab7a0a150b3834eda9418"
+    },
+    {
+      "file": "01025.mp3",
+      "sourceEntry": "assets/www/book/Audio/default/01025.mp3",
+      "bytes": 31856,
+      "sha256": "a2b2de570b80c1d23d835867d7e452e894e047c1809fe7e0663ca59cb4485434"
+    },
+    {
+      "file": "01026.mp3",
+      "sourceEntry": "assets/www/book/Audio/default/01026.mp3",
+      "bytes": 30192,
+      "sha256": "9ab8830404b4c404f3aa0d5d7932563f1cda3264c9b64e3185f278b7c1db450c"
+    },
+    {
+      "file": "01027.mp3",
+      "sourceEntry": "assets/www/book/Audio/default/01027.mp3",
+      "bytes": 26240,
+      "sha256": "66c2465c31254adf333f9dd619d01f36fbcb223f4378e91cf67c214a9c5a0bf1"
+    },
+    {
+      "file": "01029.mp3",
+      "sourceEntry": "assets/www/book/Audio/default/01029.mp3",
+      "bytes": 20624,
+      "sha256": "61eaab36e888ad0f950115f43ac11762670411edc32182f1d1e60804ef7cac97"
+    },
+    {
+      "file": "01028.mp3",
+      "sourceEntry": "assets/www/book/Audio/default/01028.mp3",
+      "bytes": 23120,
+      "sha256": "a006f6ba5da266d782ca67849a72991cbfc7bb24e925a8a81c2b0f73f0d1fb9b"
+    },
+    {
+      "file": "01031.mp3",
+      "sourceEntry": "assets/www/book/Audio/default/01031.mp3",
+      "bytes": 19792,
+      "sha256": "68af981aa2f151fa997db7064b0d3530e8480847e4613114a7147ff711061b3a"
+    },
+    {
+      "file": "01030.mp3",
+      "sourceEntry": "assets/www/book/Audio/default/01030.mp3",
+      "bytes": 19168,
+      "sha256": "138417568127632e89eeb7c00b6f51a410f2afcaed8d27eb00981262fb1d2df7"
+    }
+  ]
+}
