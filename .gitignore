@@ -6,8 +6,9 @@
 *.iml
 local.properties
 
-# Local Firebase and signing configuration
+# Android Firebase client config is tracked; private signing material stays local
 google-services.json
+!/composeApp/google-services.json
 GoogleService-Info.plist
 *.jks
 *.keystore

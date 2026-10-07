@@ -9,11 +9,14 @@ duas, adhkar, learning, worship guides and personal progress.
 Open the project in Android Studio with JDK 17 and Android SDK 36 installed.
 Android Studio generates the machine-specific `local.properties` file.
 
-For real Firebase login/signup, download the Android app configuration for
-`com.deenjourney.app` from your Firebase project and place it at
-`composeApp/google-services.json`. Enable Email/Password authentication and
-configure the project's Firestore rules. This local configuration is ignored
-by Git. Without it, the app uses the development Firebase emulator setup.
+The Android Firebase client configuration for `com.deenjourney.app` is included
+at `composeApp/google-services.json`, so a fresh clone uses the same Firebase
+project for login/signup. Enable Email/Password authentication in that project's
+Firebase Console and configure its Firestore rules. After pulling changes,
+sync Gradle, rebuild the APK and reinstall it; pulling alone does not update an
+already installed app. `-Pdj.useEmulators=true` explicitly selects development
+emulators. Removing the client configuration also selects the emulator setup.
+Private service-account keys and signing credentials must stay outside Git.
 
 Build and run checks with:
 
@@ -38,6 +41,6 @@ See [implementation status](docs/IMPLEMENTATION_STATUS.md),
 [screen inventory](docs/SCREENS.md) and [data sources](docs/DATA_SOURCES.md)
 for completed work, content provenance and remaining integrations.
 
-Generated build outputs, signing material, downloaded raw datasets and local
-service configuration are excluded from version control. Packaged application
+Generated build outputs, signing material, downloaded raw datasets and private
+service credentials are excluded from version control. Packaged application
 resources and the data-generation scripts are included.

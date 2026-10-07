@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "928377057133",
+    "project_id": "deenjourney-eec6a",
+    "storage_bucket": "deenjourney-eec6a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928377057133:android:0798e2eda4d66c6c88f464",
+        "android_client_info": {
+          "package_name": "com.deenjourney.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhziohwkfx_b1_cHk9Ixr_vDiT3tIbuss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

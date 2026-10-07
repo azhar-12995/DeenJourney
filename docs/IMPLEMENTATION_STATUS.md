@@ -45,7 +45,8 @@ and feed the Home completion indicator. Quran notes exclude hadith notes.
   the bundled verified text is Uthmani with English and Urdu translations.
 - Privacy export shares a JSON file through the native share sheet.
 - The user's Firebase Android configuration is attached at
-  `composeApp/google-services.json` and the debug build uses real Firebase
+  `composeApp/google-services.json` and is tracked in Git so fresh clones use
+  the same Firebase project. The debug build uses real Firebase
   (`USE_EMULATORS=false`). Email/password authentication still depends on enabling
   that provider in Firebase Console. The supplied file has no Google OAuth client;
   Google sign-in remains unavailable. Cloud rules/provider settings and actual
