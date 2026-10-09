@@ -75,7 +75,9 @@ fun SplashScreen() {
         val left = 900 - start.elapsedNow().inWholeMilliseconds
         if (left > 0) delay(left)
         val user = auth.user.value
-        if (user != null) sync.syncNow(restore = true)
+        // Existing local accounts can open immediately while startup sync runs in the background.
+        if (user != null && (settings.get().syncAccountUid != user.uid || users.dao.profilesNow().isEmpty()))
+            sync.restoreForSignIn()
         val s = settings.get()
         when {
             user == null -> nav.reset(Welcome)
@@ -157,7 +159,7 @@ fun WelcomeScreen() {
 
 /** Restore the account before deciding whether onboarding is needed. */
 private suspend fun afterSignIn(nav: Navigator, settings: SettingsRepo, sync: SyncRepo) {
-    if (!sync.syncNow(restore = true)) throw AuthError("restore")
+    if (!sync.restoreForSignIn()) throw AuthError("restore")
     Scheduler.reschedule()
     if (settings.get().setupDone) nav.reset(Home) else nav.reset(PrayerSetup())
 }
@@ -201,6 +203,7 @@ fun SignInScreen() {
     var error by remember { mutableStateOf<String?>(null) }
     var busy by remember { mutableStateOf(false) }
     fun submit() {
+        if (busy) return
         error = when { !Validation.email(email) -> AuthError("email").message(lang); pass.isEmpty() -> AuthError("invalid").message(lang); else -> null }
         if (error != null) return
         busy = true
@@ -252,6 +255,8 @@ fun SignUpScreen() {
     var fieldErr by remember { mutableStateOf<Pair<String, String>?>(null) }
     var busy by remember { mutableStateOf(false) }
     fun submit() {
+        if (busy) return
+        error = null
         fieldErr = when {
             name.isBlank() -> "name" to t0(lang, "Please enter your name.", "اپنا نام درج کریں۔", "أدخل اسمك.")
             !Validation.email(email) -> "email" to AuthError("email").message(lang)

@@ -32,6 +32,7 @@ class DeviceRestoreTest {
         val settings = koin.get<SettingsRepo>()
         val sync = koin.get<SyncRepo>()
         auth.signUp("Restore fixture", email, password).getOrThrow()
+        assertTrue(sync.restoreForSignIn())
         assertTrue(sync.syncNow(restore = true))
         val owner = users.dao.profilesNow().single()
         users.active.first { it?.id == owner.id }
@@ -60,7 +61,7 @@ class DeviceRestoreTest {
         assertTrue(users.dao.profilesNow().isEmpty())
         assertFalse(settings.get().setupDone)
         auth.signIn(email, password).getOrThrow()
-        assertTrue(koin.get<SyncRepo>().syncNow(restore = true))
+        assertTrue(koin.get<SyncRepo>().restoreForSignIn())
         val owner = users.dao.profilesNow().single()
         assertEquals("Restore fixture", owner.name)
         assertEquals("restore-fixture", users.dao.saved(owner.id).first().single().key)

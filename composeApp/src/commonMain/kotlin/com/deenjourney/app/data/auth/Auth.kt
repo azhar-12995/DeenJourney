@@ -8,9 +8,12 @@ import dev.gitlive.firebase.auth.GoogleAuthProvider
 import dev.gitlive.firebase.auth.OAuthProvider
 import dev.gitlive.firebase.auth.auth
 import kotlinx.coroutines.CoroutineScope
+import kotlinx.coroutines.CancellationException
+import kotlinx.coroutines.TimeoutCancellationException
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.launch
+import kotlinx.coroutines.withTimeout
 
 data class AuthUser(val uid: String, val email: String?, val name: String?, val verified: Boolean, val providers: List<String>)
 
@@ -52,7 +55,7 @@ class AuthError(val code: String) : Exception(code) {
     }
 }
 
-class AuthRepo(scope: CoroutineScope) {
+class AuthRepo(private val scope: CoroutineScope) {
     private val auth get() = Firebase.auth
     private val _user = MutableStateFlow<AuthUser?>(null)
     val user: StateFlow<AuthUser?> = _user
@@ -69,28 +72,45 @@ class AuthRepo(scope: CoroutineScope) {
         _ready.value = _user.value != null || _ready.value
     }
 
-    private fun FirebaseUser.toUser() = AuthUser(uid, email, displayName, isEmailVerified, providerData.map { it.providerId })
+    private fun FirebaseUser.toUser() = AuthUser(uid, email,
+        displayName ?: _user.value?.takeIf { it.uid == uid }?.name,
+        isEmailVerified, providerData.map { it.providerId })
 
-    private suspend fun <T> guard(block: suspend () -> T): Result<T> = runCatching { block() }.recoverCatching { throw AuthError.from(it) }
+    private suspend fun <T> guard(block: suspend () -> T): Result<T> = try {
+        Result.success(block())
+    } catch (e: TimeoutCancellationException) {
+        Result.failure(AuthError("network"))
+    } catch (e: CancellationException) {
+        throw e
+    } catch (e: Exception) {
+        Result.failure(AuthError.from(e))
+    }
 
     suspend fun signIn(email: String, password: String): Result<Unit> = guard {
-        auth.signInWithEmailAndPassword(email.trim(), password)
+        withTimeout(15_000) { auth.signInWithEmailAndPassword(email.trim(), password) }
         _user.value = auth.currentUser?.toUser()
     }
 
     suspend fun signUp(name: String, email: String, password: String): Result<Unit> = guard {
-        val r = auth.createUserWithEmailAndPassword(email.trim(), password)
-        r.user?.updateProfile(displayName = name.trim())
-        runCatching { r.user?.sendEmailVerification() }
-        _user.value = auth.currentUser?.toUser()
+        val r = withTimeout(15_000) { auth.createUserWithEmailAndPassword(email.trim(), password) }
+        val created = r.user ?: throw AuthError("unknown")
+        val displayName = name.trim()
+        _user.value = created.toUser().copy(name = displayName)
+        // Creating the account is enough to continue. Profile/email requests must not hold the form.
+        scope.launch {
+            guard { withTimeout(10_000) { created.updateProfile(displayName = displayName) } }
+            if (auth.currentUser?.uid == created.uid)
+                _user.value = auth.currentUser?.toUser()?.let { it.copy(name = it.name ?: displayName) }
+            guard { withTimeout(10_000) { created.sendEmailVerification() } }
+        }
     }
 
     suspend fun sendReset(email: String): Result<Unit> = guard { auth.sendPasswordResetEmail(email.trim()) }
 
-    suspend fun signInWithGoogle(idToken: String): Result<Unit> = guard { auth.signInWithCredential(GoogleAuthProvider.credential(idToken, null)); _user.value = auth.currentUser?.toUser() }
+    suspend fun signInWithGoogle(idToken: String): Result<Unit> = guard { withTimeout(15_000) { auth.signInWithCredential(GoogleAuthProvider.credential(idToken, null)) }; _user.value = auth.currentUser?.toUser() }
 
     suspend fun signInWithApple(idToken: String, rawNonce: String): Result<Unit> = guard {
-        auth.signInWithCredential(OAuthProvider.credential(providerId = "apple.com", idToken = idToken, rawNonce = rawNonce)); Unit
+        withTimeout(15_000) { auth.signInWithCredential(OAuthProvider.credential(providerId = "apple.com", idToken = idToken, rawNonce = rawNonce)) }; Unit
         _user.value = auth.currentUser?.toUser()
     }
 
